@@ -370,6 +370,8 @@ Travel Award (x9). UNC Department of Philosophy and graduate school.
 
 # Selected Internal Training and Development Courses at Reading
 
+Developing a Sense of Community and Student Engagement in the Online Environment. December 2020.
+
 Using Module Roadmaps & Weekly Plans to Help Students. December 2020.
 
 Teaching Online. March 2020.
