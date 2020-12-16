@@ -1,7 +1,9 @@
-> University of Reading luke.elson\@reading.ac.uk\
-> Philosophy Department www.personal.reading.ac.uk/\~nj907716/\
-> Whiteknights\
-> England RG6 6AA
+% Luke Elson
+
+University of Reading luke.elson\@reading.ac.uk\
+Philosophy Department www.personal.reading.ac.uk/\~nj907716/\
+Whiteknights\
+England RG6 6AA
 
 # Employment and Education
 
@@ -16,20 +18,20 @@ Sinnott-Armstrong.
 
 * 2005 BA Mathematics and Philosophy. Exeter College, Oxford.
 
+
 # Publications
 
 ## Substantive Pieces
 
-
-2.  \(2019\) Probabilistic Promotion and Ability\
+1.  \(2019\) Probabilistic Promotion and Ability\
     *Ergo* 6(34), doi: 10.3998/ergo.12405314.0006.034
 
-3.  \(2019\) Can Streumer simply avoid Supervenience?\
+2.  \(2019\) Can Streumer simply avoid Supervenience?\
     *Journal of Ethics & Social Philosophy* 16(3),
     doi:10.26556/jesp.v16i3.508
 
 
-5.  \(2017\) Incommensurability as Vagueness: a Burden-Shifting
+2.  \(2017\) Incommensurability as Vagueness: a Burden-Shifting
     Argument\
     *Theoria* 83(4), 341--363.
 
@@ -42,7 +44,7 @@ Sinnott-Armstrong.
     *Ethics* 124(3), 557--571.
 
 8.  \(2014\) Borderline Cases and the Collapsing Principle\
-    *Utilitas* 26, 51--60.
+    *Utilitas* 26, 51--60.
 
 ## Reviews, etc.
 
