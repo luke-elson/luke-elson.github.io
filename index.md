@@ -6,17 +6,18 @@ I’m a lecturer in [Philosophy at the University of Reading](https://www.readin
 Before coming to Reading, I finished my PhD in 2014 at the [University of North Carolina at Chapel Hill](https://philosophy.unc.edu/).
 Before *that*, I studied Mathematics and Philosophy at [Exeter College, Oxford](https://www.exeter.ox.ac.uk/).
 
-**Current students: please click [here](https://outlook.office365.com/owa/calendar/LukeElson@livereadingac.onmicrosoft.com/bookings/)
-to book an appointment with me.**
-Use your Reading login details, and you should get an email with a link to a Microsoft Teams meeting. Thanks!
+# Appointment Booking
+
+Current students, please click [here](https://outlook.office365.com/owa/calendar/LukeElson@livereadingac.onmicrosoft.com/bookings/)
+to book an appointment with me.
+Use your Reading login details, and you should get an email with a link to a Microsoft Teams meeting.
 
 # Publications and Research
 
-At the moment I'm focusing on
-two projects. The first concerns evaluative incomparability or incommensurability,
-and whether it is vagueness. The second is a defence of Global
-Normative Nihilism---the theory that we don't have any reasons or justification
-for anything we do or believe. I'm especially concerned with the question of whether this is a depressing view.
+I have broad interests in moral philosophy, but my published work
+has focused on evaluative incomparability or incommensurability,
+and whether it is vagueness. I'm also working on a defence of Global
+Normative Nihilism---the theory that we don't have any reasons or justification for anything we do or believe. I'm especially concerned with the question of whether this is a depressing view.
 
 I aim to publish my work open access, so (where available) these links are to the final, typeset version of the paper:
 
