@@ -1,8 +1,13 @@
 % Luke Elson
 
-University of Reading luke.elson\@reading.ac.uk\
-Philosophy Department www.personal.reading.ac.uk/\~nj907716/\
-Whiteknights\
+May 2021
+
+luke.elson@reading.ac.uk
+www.luke-elson.org
+
+University of Reading 
+Philosophy Department
+Whiteknights
 England RG6 6AA
 
 # Employment and Education
@@ -21,7 +26,11 @@ Sinnott-Armstrong.
 
 # Publications
 
-## Substantive Pieces
+1. Forthcoming Routledge piece
+
+1.  (Forthcoming) Review of 'Companions in Guilt Arguments in
+    Metaethics' by Christopher Cowie and Richard Rowland\
+    *Notre Dame Philosophical Reviews*
 
 1.  \(2019\) Probabilistic Promotion and Ability\
     *Ergo* 6(34), doi: 10.3998/ergo.12405314.0006.034
@@ -31,9 +40,21 @@ Sinnott-Armstrong.
     doi:10.26556/jesp.v16i3.508
 
 
+4.  \(2018\) Review of 'From Valuing to Value: A Defense of
+    Subjectivism' by David Sobel\
+    *Analysis* 78(3), 583--586.
+
+\(2018\) 'How a moral philosopher justifies his carbon footprint': a
+    general audience piece on carbon offsetting for *The Conversation*.
+
+
 2.  \(2017\) Incommensurability as Vagueness: a Burden-Shifting
     Argument\
     *Theoria* 83(4), 341--363.
+
+2.  \(2016\) Edited special edition of *Ratio* (with introduction) on
+    Ethics and Indeterminacy.
+
 
 6.  \(2016\) Tenenbaum and Raffman on Vague Projects, the Self-Torturer,
     and the Sorites\
@@ -46,28 +67,16 @@ Sinnott-Armstrong.
 8.  \(2014\) Borderline Cases and the Collapsing Principle\
     *Utilitas* 26, 51--60.
 
-## Reviews, etc.
-
-1.  (Forthcoming) Review of 'Companions in Guilt Arguments in
-    Metaethics' by Christopher Cowie and Richard Rowland\
-    *Notre Dame Philosophical Reviews*
-
-4.  \(2018\) Review of 'From Valuing to Value: A Defense of
-    Subjectivism' by David Sobel\
-    *Analysis* 78(3), 583--586.
 
 
-\(2018\) 'How a moral philosopher justifies his carbon footprint': a
-    general audience piece on carbon offsetting for *The Conversation*.
 
-2.  \(2016\) Edited special edition of *Ratio* (with introduction) on
-    Ethics and Indeterminacy.
+
 
 # Teaching
 
 ## Undergraduate (at Reading)
 
-Mediaeval philosophy (PP3MED) in Autumn 2018 and 2019.
+Third-year mediaeval philosophy (PP3MED) in Autumn 2018, 2019, 2020.
 
 Moral Philosophy:
 
@@ -75,10 +84,10 @@ Moral Philosophy:
 co-taught with Philip Stratton-Lake.
 
 * Moral Philosophy (PP2MP) in Autumn 2014, Autumn
-2015; Ethical Argument (PP2EA) in Spring 2019 and 2020.
+2015; Ethical Argument (PP2EA) in Spring 2019, 2020, 2021.
 
 * Values and Virtues (PP1VV) in Spring 2015, Spring
-2016; Meaning of Life (PP1ML) in Spring 2019 and 2020.
+2016; Meaning of Life (PP1ML) in Spring 2019, 2020, 2021.
 
  Theory of Knowledge (PP2TK) in Autumn 2015
 (justification half only).
@@ -114,7 +123,12 @@ Teaching Assistant for Philosophy of Science with Marc Lange. Spring
 
 ## Postgraduate (at Reading)
 
-I am co-supervisor of 8 PhD students.
+Completed students:
+
+* Bradley Hillier-Smith on the ethics of responses to refugees, with Brad Hooker. Viva passed January 2021.
+
+I am co-supervisor of 8 PhD students. qz
+
 
 Supervisor for MRes Dissertations. 2015--\
 Topics include: Presentism and Truthmaker Theory, The Justification of
@@ -124,8 +138,10 @@ Supervisor for MRes Essays. 2014--\
 Topics include: Psychological Egoism, Moral Overridingness, Anarchism,
 Nudge, Sceptical Theism, the Problem of Evil.
 
-Convenor, Graduate Class for PhD students. Spring 2016. Topic: Recent
-work on Incommensurability and Reasons.
+Convenor, Graduate Class for PhD students:
+
+* Spring 2016. Topic: Recent work on Incommensurability and Reasons.
+* Summer 2021. Topic: a book manuscript on Unsharp Choices.
 
 Convenor, Graduate Research Seminar for PhD students. Summer 2015, and
 Autumn 2019 onwards.
@@ -135,13 +151,14 @@ Convenor, Staff-Student Reading Group Seminar. Spring 2015 on L.A. Paul,
 
 # Professional Activities and Service
 
-Journal reviewer for: *Analysis*, *Australasian Journal of Philosophy*,
-*Economics and Philosophy*, *Erkenntnis, Ethical Theory and Moral
-Practice*, *Ethics*, *Journal of the American Philosophical
-Association*, *Journal of Ethics, Journal of Ethics & Social Philosophy,
-Journal of Philosophy, Mind,* *Noûs,* *Pacific Philosophical Quarterly,
-Philosophical Quarterly*, *Review of Philosophy and Psychology*,
-*Synthese*, *Theoria*, *Utilitas*.
+Journal reviewer for: *Analysis*, *Australasian Journal of
+Philosophy*, *Economics and Philosophy*, *Erkenntnis, Ethical Theory
+and Moral Practice*, *Ethics*, *Journal of the American Philosophical
+Association*, *Journal of Ethics, Journal of Ethics & Social
+Philosophy, Journal of Philosophy*, Journal of Value Inquiry, *Mind,*
+*Noûs,* *Pacific Philosophical Quarterly, Philosophical Quarterly*,
+*Review of Philosophy and Psychology*, *Synthese*, *Theoria*,
+*Utilitas*.
 
 Reviewer for Horizon 2020 Fellowship proposals for the European Union.
 
@@ -261,9 +278,11 @@ Travel Award (x9). UNC Department of Philosophy and graduate school.
 
 \[\*\] means selected after anonymous review.
 
-1)  'Indeterminacy and Agency' at the 'Incommensurability: Vagueness,
-    Parity and other Non-Conventional Comparative Relations' workshop in
-    Stockholm. December 2019.
+    1) ‘Incommensurability and Counterfactuals’, accepted for presentation in Lund, June 2021. [*]
+    2) ‘Indeterminacy and Agency’:
+        a) Oakland University, USA. January 2021.
+        b) ‘Incommensurability: Vagueness, Parity and other Non-Conventional Comparative Relations’ workshop in Stockholm. December 2019.
+
 
 2)  Comments on Farbod Akhlaghi-Ghaffarokh's *An Argument for the
     Metaphysical Necessity of Moral Principles* at the Second Metaethics
@@ -371,6 +390,8 @@ Travel Award (x9). UNC Department of Philosophy and graduate school.
         Nov. 2012. \[\*\]
 
 # Selected Internal Training and Development Courses at Reading
+
+Qz 2020-21 courses
 
 Developing a Sense of Community and Student Engagement in the Online Environment. December 2020.
 
