@@ -1,20 +1,24 @@
 % Luke Elson
+% May 2021
 
-May 2021
 
-luke.elson@reading.ac.uk
-www.luke-elson.org
++------------------------+-------------------------+
+|University of Reading\  |luke.elson@reading.ac.uk|
+|Philosophy Department\  |www.luke-elson.org      |
+|Whiteknights\           |                        |
+|England RG6 6AA         |                        |
++------------------------+-------------------------+
 
-University of Reading 
-Philosophy Department
-Whiteknights
-England RG6 6AA
+
+
+
 
 # Employment and Education
 
-* 2014-- Lecturer in Philosophy, University of Reading.
+2014--  Lecturer in Philosophy, University of Reading.
 
-* 2014 PhD in Philosophy. University of North Carolina at Chapel Hill.
+2014
+:    PhD in Philosophy. University of North Carolina at Chapel Hill.
 Dissertation: 'Vagueness in Action'. Committee: Geoffrey Sayre-McCord
 (chair), Keith Simmons, Ram Neta, Simon Blackburn, Walter
 Sinnott-Armstrong.
@@ -26,49 +30,50 @@ Sinnott-Armstrong.
 
 # Publications
 
+## Journal Articles and Book Chapters
+
+
+
+
 1. Forthcoming Routledge piece
+
+2. (2019) 'Probabilistic Promotion and Ability', *Ergo* 6(34), doi:
+   10.3998/ergo.12405314.0006.034
+
+3.  (2019) Can Streumer simply avoid Supervenience?\
+    *Journal of Ethics & Social Philosophy* 16(3),
+    doi:10.26556/jesp.v16i3.508
+	
+4.  \(2017\) Incommensurability as Vagueness: a Burden-Shifting
+    Argument\
+    *Theoria* 83(4), 341--363.
+	
+5.  \(2016\) Tenenbaum and Raffman on Vague Projects, the Self-Torturer,
+    and the Sorites\
+    *Ethics* 126(2), 474--488. doi:10.1086/683533
+
+6.  \(2014\) Heaps and Chains: is the Chaining Argument for Parity a
+    Sorites?\
+    *Ethics* 124(3), 557--571.
+
+7.  \(2014\) Borderline Cases and the Collapsing Principle\
+    *Utilitas* 26, 51--60.
+
+## Reviews and Other Pieces
 
 1.  (Forthcoming) Review of 'Companions in Guilt Arguments in
     Metaethics' by Christopher Cowie and Richard Rowland\
     *Notre Dame Philosophical Reviews*
 
-1.  \(2019\) Probabilistic Promotion and Ability\
-    *Ergo* 6(34), doi: 10.3998/ergo.12405314.0006.034
+2.  \(2018\) 'How a moral philosopher justifies his carbon footprint': a
+    general audience piece on carbon offsetting for *The Conversation*.
 
-2.  \(2019\) Can Streumer simply avoid Supervenience?\
-    *Journal of Ethics & Social Philosophy* 16(3),
-    doi:10.26556/jesp.v16i3.508
-
-
-4.  \(2018\) Review of 'From Valuing to Value: A Defense of
+3.  \(2018\) Review of 'From Valuing to Value: A Defense of
     Subjectivism' by David Sobel\
     *Analysis* 78(3), 583--586.
 
-\(2018\) 'How a moral philosopher justifies his carbon footprint': a
-    general audience piece on carbon offsetting for *The Conversation*.
-
-
-2.  \(2017\) Incommensurability as Vagueness: a Burden-Shifting
-    Argument\
-    *Theoria* 83(4), 341--363.
-
-2.  \(2016\) Edited special edition of *Ratio* (with introduction) on
+4.  \(2016\) Edited special edition of *Ratio* (with introduction) on
     Ethics and Indeterminacy.
-
-
-6.  \(2016\) Tenenbaum and Raffman on Vague Projects, the Self-Torturer,
-    and the Sorites\
-    *Ethics* 126(2), 474--488. doi:10.1086/683533
-
-7.  \(2014\) Heaps and Chains: is the Chaining Argument for Parity a
-    Sorites?\
-    *Ethics* 124(3), 557--571.
-
-8.  \(2014\) Borderline Cases and the Collapsing Principle\
-    *Utilitas* 26, 51--60.
-
-
-
 
 
 
@@ -76,20 +81,20 @@ Sinnott-Armstrong.
 
 ## Undergraduate (at Reading)
 
-Third-year mediaeval philosophy (PP3MED) in Autumn 2018, 2019, 2020.
+* Third-year mediaeval philosophy (PP3MED) in Autumn 2018, 2019, 2020.
 
-Moral Philosophy:
+* Moral Philosophy:
 
-* Reason, Value, and Knowledge (PP3RVK) in Autumn 2018,
-co-taught with Philip Stratton-Lake.
+    * Reason, Value, and Knowledge (PP3RVK) in Autumn 2018, co-taught with
+Philip Stratton-Lake.
 
-* Moral Philosophy (PP2MP) in Autumn 2014, Autumn
-2015; Ethical Argument (PP2EA) in Spring 2019, 2020, 2021.
+    * Moral Philosophy (PP2MP) in Autumn 2014, Autumn 2015; Ethical
+Argument (PP2EA) in Spring 2019, 2020, 2021.
 
-* Values and Virtues (PP1VV) in Spring 2015, Spring
+    * Values and Virtues (PP1VV) in Spring 2015, Spring
 2016; Meaning of Life (PP1ML) in Spring 2019, 2020, 2021.
 
- Theory of Knowledge (PP2TK) in Autumn 2015
+* Theory of Knowledge (PP2TK) in Autumn 2015
 (justification half only).
 
 Logic:
@@ -247,44 +252,43 @@ Federation. 2011--12.
 
 # Grants, Awards, and Prizes
 
-Marie Skłodowska-Curie Individual Fellowship, 'Austere Reasons'. Held at
+1.  Marie Skłodowska-Curie Individual Fellowship, 'Austere Reasons'. Held at
 the University of Reading, July 2017 to August 2018. Value: €114,015.30
 
-2020 Research Fellowship (2 terms of teaching relief and £500 travel
+(2) 2020 Research Fellowship (2 terms of teaching relief and £500 travel
 fund), University of Reading. Autumn 2015 and Spring 2016.
 
-Travel Awards from University of Reading:
+(3) Travel Awards from University of Reading:
 
-> £450 for presentation at SWIP-Ireland. April 2019.
->
-> £500 for presentation at the Rocky Mountain Ethics Congress (RoME).
-> August 2015
+    * £450 for presentation at SWIP-Ireland. April 2019.
 
-Mind Association Conference Grant (£500) for Indeterminacy in Ethics
+    * £500 for presentation at the Rocky Mountain Ethics Congress (RoME). August 2015
+
+(4) Mind Association Conference Grant (£500) for Indeterminacy in Ethics
 conference, April 2015.
 
-Prize for best graduate student paper. North Carolina Philosophical
+(5) Prize for best graduate student paper. North Carolina Philosophical
 Society. February 2013.
 
-Non-teaching Fellowships. UNC Philosophy Department. 2007--2008, Fall
+(6) Non-teaching Fellowships UNC Philosophy Department. 2007--2008, Fall
 2012, Spring 2014.
 
-Richard Brooke Scholarship. 2008--2010 and 2011--2012.
+(7) UNC Richard Brooke Scholarship. 2008--2010 and 2011--2012.
 
-Travel Award (x9). UNC Department of Philosophy and graduate school.
+(8) Travel Award (x9). UNC Department of Philosophy and graduate school.
 2012--13.
 
 # Presentations and Commentaries
 
-\[\*\] means selected after anonymous review.
+[*] means selected after anonymous review.
 
-    1) ‘Incommensurability and Counterfactuals’, accepted for presentation in Lund, June 2021. [*]
-    2) ‘Indeterminacy and Agency’:
-        a) Oakland University, USA. January 2021.
-        b) ‘Incommensurability: Vagueness, Parity and other Non-Conventional Comparative Relations’ workshop in Stockholm. December 2019.
+1. 'Incommensurability and Counterfactuals', accepted for presentation in Lund, June 2021. Postponed due to pandemic. [*]
 
+(2) 'Indeterminacy and Agency’:
 
-2)  Comments on Farbod Akhlaghi-Ghaffarokh's *An Argument for the
+    * Oakland University, USA. January 2021.
+    * 'Incommensurability: Vagueness, Parity and other Non-Conventional Comparative Relations' workshop in Stockholm. December 2019.
+(3)  Comments on Farbod Akhlaghi-Ghaffarokh's *An Argument for the
     Metaphysical Necessity of Moral Principles* at the Second Metaethics
     Workshop. University of Groningen. November 2019.
 
