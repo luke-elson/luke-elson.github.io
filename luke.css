@@ -143,10 +143,7 @@ html {
 
 
 
-
-
-
- ul.topnav {
+ ul.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -158,11 +155,11 @@ html {
   top: 0;
 }
 
-ul.topnav li {
+ul.navbar li {
   float: left;
 }
 
-ul.topnav li a {
+ul.navbar li a {
   display: block;
   color: #666;
   text-align: center;
@@ -170,11 +167,11 @@ ul.topnav li a {
   text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {
+ul.navbar li a:hover:not(.active) {
   background-color: #ddd;
 }
 
-ul.topnav li a.active {
+ul.navbar li a.active {
   color: white;
-  background-color: #04AA6D;
+  background-color: black;
 }
