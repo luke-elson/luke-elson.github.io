@@ -1,8 +1,11 @@
 % Research
 
--------------------- --------------------------- ---------------------------
- [home](index.html)   [research](research.html)   [teaching](teaching.html)
--------------------- --------------------------- ---------------------------
+ <ul class="topnav">
+  <li><a href="index.html">Home</a></li>
+  <li><a class="active" href="research.html">Research</a></li>
+  <li><a href="teaching.html">Teaching</a></li>
+  <!--<li><a href="cv.html">CV</a></li>-->
+</ul> 
 
 # Unsharp Choices
 

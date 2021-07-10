@@ -1,8 +1,11 @@
 % Teaching
 
--------------------- --------------------------- ---------------------------
- [home](index.html)   [research](research.html)   [teaching](teaching.html)
--------------------- --------------------------- ---------------------------
+ <ul class="topnav">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="research.html">Research</a></li>
+  <li><a class="active" href="teaching.html">Teaching</a></li>
+  <!--<li><a href="cv.html">CV</a></li>-->
+</ul> 
 
 At the undergraduate level, I mostly teach first- and second-year moral philosophy,
 and a third-year module in mediaeval philosophy. I have also in the past taught

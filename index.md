@@ -1,11 +1,13 @@
 % Luke Elson
 
--------------------- --------------------------- ---------------------------
- [home](index.html)   [research](research.html)   [teaching](teaching.html)
--------------------- --------------------------- ---------------------------
+ <ul class="topnav">
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="research.html">Research</a></li>
+  <li><a href="teaching.html">Teaching</a></li>
+  <!--<li><a href="cv.html">CV</a></li>-->
+</ul> 
 
-[luke.elson@reading.ac.uk](mailto:luke.elson@reading.ac.uk)  
-[PhilPeople profile](https://philpeople.org/profiles/luke-elson)  
+I can be emailed at [luke.elson@reading.ac.uk](mailto:luke.elson@reading.ac.uk).
 
 I’m a philosophy lecturer at the [University of Reading](https://www.reading.ac.uk/philosophy/). I grew up in Llanelli in South Wales, and did my BA in
 maths & philosophy at [Exeter College, Oxford](https://www.exeter.ox.ac.uk/),
@@ -20,3 +22,5 @@ I mostly teach moral philosophy and mediaeval philosophy. I have also in the pas
 
 I run the PhD in philosophy here at Reading, so if you are considering an application to
 study here, please email me.
+
+This website was made using the philosopher John MacFarlane's [pandoc](https://pandoc.org/).
