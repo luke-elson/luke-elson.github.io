@@ -40,12 +40,12 @@ html {
     p {
       margin: 1em 0;
     }
-    a {
+    /* a {
       color: #1a1a1a;
     }
     a:visited {
       color: #1a1a1a;
-    }
+    } */
     img {
       max-width: 100%;
     }
