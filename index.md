@@ -1,11 +1,4 @@
--   [Home](index.html){.active}
--   [Research](research.html)
--   [Teaching](teaching.html)
--   [CV](cv.html)
-
-::: {#title-block-header}
-# Luke Elson {#luke-elson .title}
-:::
+# Luke Elson
 
 Email: <luke.elson@reading.ac.uk>
 
@@ -27,5 +20,3 @@ the past taught advanced ethics, epistemology, and logic.
 
 I run the philosophy PhD at Reading, so if you are considering an
 application to study here, please email me.
-
-This website was initially made using [pandoc](https://pandoc.org/).
