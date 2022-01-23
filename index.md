@@ -94,19 +94,19 @@ mini-dissertations on topics across philosophy.
 If you are at Reading, information and readings for all can be found on
 Blackboard.
 
-<!---
 ## General documents for students
 
 1.  [A guide for my undergraduate dissertation
-    students.](teaching-dissertation-guide.html) Please read if you have
+    students.](teaching/dissertation-guide.html) Please read if you have
     been assigned me as your supervisor.
-2.  [PPE Cheat Sheet.](teaching-ppe-cheat-sheet.html) I am co-ordinator
+2.  [PPE Cheat Sheet.](teaching/ppe-cheat-sheet.html) I am co-ordinator
     for the PPE (philosophy, politics, and economics) degree. A quick
     unofficial guide for students and academic tutors about issues which
     can arise when doing these three subjects.
-3.  [Tips for writing an undergraduate essay.](teaching-essay-tips.html)
+3.  [Tips for writing an undergraduate essay.](teaching/essay-tips.html)
     Pragmatically, worth reading if I will be the one marking your
     essay.
+    <!---
 4.  [Rules and advice for the GRS.](teaching-grs-rules.html) Please read
     this before taking part in the Graduate Research Seminar for PhD and
     MRes students.
