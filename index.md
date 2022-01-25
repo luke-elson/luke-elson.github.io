@@ -4,7 +4,9 @@ title: "Luke Elson"
 
 Email: <luke.elson@reading.ac.uk>
 
-Spring 2022 Office Hours: Friday 10-11am in Edith Morley G65.
+**Spring 2022 Office Hours**: Friday 10-11am in Edith Morley G65.
+Drop in or [book an appointment](https://outlook.office365.com/owa/calendar/LukeElson@livereadingac.onmicrosoft.com/bookings/) (either is fine, but
+booked appointments will have priority).
 
 I'm a philosophy lecturer at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). I grew up in Llanelli
@@ -12,12 +14,11 @@ in South Wales, and did my BA in maths & philosophy at [Exeter College,
 Oxford](https://www.exeter.ox.ac.uk/), then a PhD at [UNC Chapel
 Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
 
-
-I run the philosophy PhD at Reading, so if you are considering an
+I run the [philosophy PhD at Reading](https://www.reading.ac.uk/philosophy/PhD-programmes/phil-phd-programmes.aspx), so if you are considering an
 application to study here, please email me.
 
-# Research
 
+# Research
 
 My research interests are mostly in moral philosophy, and concern
 unsharpness or 'gaps' in our preferences, beliefs, and values. I'm also
@@ -82,12 +83,7 @@ journal)](https://academic.oup.com/analysis/article/78/3/583/5067172?guestAccess
 
 # Teaching
 
-
-
-
-At the undergraduate level, I mostly teach first- and second-year moral
-philosophy, and a third-year module in mediaeval philosophy. I have also
-in the past taught more advanced ethics, epistemology, and logic, and
+I mostly teach first- and second-year moral philosophy, and a third-year module in mediaeval philosophy. I have also in the past taught more advanced ethics, epistemology, and logic, and
 every year I supervise undergraduate dissertations and
 mini-dissertations on topics across philosophy.
 
