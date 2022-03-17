@@ -18,27 +18,46 @@ I run the [philosophy PhD at Reading](https://www.reading.ac.uk/philosophy/PhD-p
 application to study here, please email me.
 
 
-# Research
+My research interests are mostly in moral philosophy.
+My main project focuses on a cluster of issues around incomplete
+preferences, unsharp or imprecise credences, and value
+incommensurability. I am working on a book arguing that these all involve vagueness,
+and that seeing them as such solves a number of puzzles.
 
-My research interests are mostly in moral philosophy, and concern
-unsharpness or 'gaps' in our preferences, beliefs, and values. I'm also
+I'm also
 working on a defence of Global Normative Nihilism---the theory that we
 don't have any reasons or justification for anything we do or believe.
 I'm especially concerned with the question of whether this is a
 depressing view.
 
-## Unsharp Choices
+I mostly teach moral philosophy, and a third-year module in mediaeval philosophy. I have also in the past taught epistemology, metaphysics, and logic, and
+every year I supervise undergraduate dissertations and
+mini-dissertations on topics across philosophy.
 
-Most of my research focuses on a cluster of issues around incomplete
-preferences, unsharp or imprecise credences, and value
-incommensurability. I am working on a book manuscript, tentatively
-titled 'Unsharp Choices', which argues that these all involve vagueness,
-and that seeing them as such solves a number of puzzles.
+# Publications
+
+Add companions in guilt review
 
 (Forthcoming) 'What does incommensurability tell us about agency?' in
 *Value Incommensurability: Ethics, Risk, and Decision-Making*, edited by
 Henrik Andersson and Anders Herlitz.  
 [(preprint)](PDFs/2021-agency-preprint.pdf)
+
+\(2019\) 'Probabilistic Promotion and Ability', *Ergo* vol. 6, no. 34.
+doi:10.3998/ergo.12405314.0006.034  
+[(open-access at
+journal)](https://quod.lib.umich.edu/e/ergo/12405314.0006.034?view=text;rgn=main)
+
+\(2019\) 'Can Streumer simply avoid Supervenience?', *Journal of Ethics
+& Social Philosophy* vol. 16, no. 3 (2019).
+doi:10.26556/jesp.v16i3.508  
+[(open-access at
+journal)](http://www.jesp.org/index.php/jesp/article/view/508)
+
+\(2018\) Review of David Sobel’s *From Valuing to Value*, *Analysis*,
+Volume 78, Issue 3, pp. 583–586. doi:10.1093/analys/any045.  
+[(open-access at
+journal)](https://academic.oup.com/analysis/article/78/3/583/5067172?guestAccessKey=084f2945-dc93-487b-a275-a76deff0fdc4)
 
 \(2017\) 'Incommensurability as Vagueness: a Burden-Shifting Argument',
 *Theoria* 83: 341–363. doi: 10.1111/theo.12129  
@@ -62,30 +81,10 @@ volume 26, issue 01, pp. 51–60. doi:10.1017/S095382081300023X
 [(open-access copy)](./PDFs/CollapsingPrinciple.pdf) [(journal
 page)](https://www.cambridge.org/core/journals/utilitas/article/abs/borderline-cases-and-the-collapsing-principle/C940F584A3DAA897D0CE0FAE3FEE0715)
 
-## Other Publications
-
-\(2019\) 'Probabilistic Promotion and Ability', *Ergo* vol. 6, no. 34.
-doi:10.3998/ergo.12405314.0006.034  
-[(open-access at
-journal)](https://quod.lib.umich.edu/e/ergo/12405314.0006.034?view=text;rgn=main)
-
-\(2019\) 'Can Streumer simply avoid Supervenience?', *Journal of Ethics
-& Social Philosophy* vol. 16, no. 3 (2019).
-doi:10.26556/jesp.v16i3.508  
-[(open-access at
-journal)](http://www.jesp.org/index.php/jesp/article/view/508)
-
-\(2018\) Review of David Sobel’s *From Valuing to Value*, *Analysis*,
-Volume 78, Issue 3, pp. 583–586. doi:10.1093/analys/any045.  
-[(open-access at
-journal)](https://academic.oup.com/analysis/article/78/3/583/5067172?guestAccessKey=084f2945-dc93-487b-a275-a76deff0fdc4)
 
 
 # Teaching
 
-I mostly teach first- and second-year moral philosophy, and a third-year module in mediaeval philosophy. I have also in the past taught more advanced ethics, epistemology, and logic, and
-every year I supervise undergraduate dissertations and
-mini-dissertations on topics across philosophy.
 
 If you are at Reading, information and readings for all can be found on
 Blackboard.
@@ -102,8 +101,6 @@ Blackboard.
 3.  [Tips for writing an undergraduate essay.](teaching/essay-tips.html)
     Pragmatically, worth reading if I will be the one marking your
     essay.
-    <!---
-4.  [Rules and advice for the GRS.](teaching-grs-rules.html) Please read
+4.  [Rules and advice for the GRS.](teaching/grs-rules.html) Please read
     this before taking part in the Graduate Research Seminar for PhD and
     MRes students.
-    --->
