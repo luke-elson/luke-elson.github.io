@@ -4,19 +4,23 @@ title: "Luke Elson"
 
 Email: <luke.elson@reading.ac.uk>
 
-**Spring 2022 Office Hours**: Friday 10-11am in Edith Morley G65.
-Drop in or [book an appointment](https://outlook.office365.com/owa/calendar/LukeElson@livereadingac.onmicrosoft.com/bookings/) (either is fine, but
-booked appointments will have priority).
-
 I'm a philosophy lecturer at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). I grew up in Llanelli
-in South Wales, and did my BA in maths & philosophy at [Exeter College,
-Oxford](https://www.exeter.ox.ac.uk/), then a PhD at [UNC Chapel
-Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
+in South Wales, and did my BA in maths & philosophy at [Exeter
+College, Oxford](https://www.exeter.ox.ac.uk/), then a PhD at [UNC
+Chapel Hill](https://philosophy.unc.edu/), before joining Reading in
+2014.
 
-I run the [philosophy PhD at Reading](https://www.reading.ac.uk/philosophy/PhD-programmes/phil-phd-programmes.aspx), so if you are considering an
-application to study here, please email me.
+You might need to contact me...
 
+* My **Summer 2022 Office Hours** are Thursdays 9-10am in Edith Morley G65
+(except week 2).  Drop in, no appointment needed.
+* I run the [philosophy PhD at
+Reading](https://www.reading.ac.uk/philosophy/PhD-programmes/phil-phd-programmes.aspx),
+so if you are considering an application to study here, please email
+me.
+
+# Research
 
 My research interests are mostly in moral philosophy.
 My main project focuses on a cluster of issues around incomplete
@@ -30,34 +34,31 @@ don't have any reasons or justification for anything we do or believe.
 I'm especially concerned with the question of whether this is a
 depressing view.
 
-I mostly teach moral philosophy, and a third-year module in mediaeval philosophy. I have also in the past taught epistemology, metaphysics, and logic, and
-every year I supervise undergraduate dissertations and
-mini-dissertations on topics across philosophy.
 
-# Publications
+## Publications
 
-Add companions in guilt review
+\(Forthcoming\) 'It Would be Good to be Right', in a special issue of
+*Ratio* dedicated to Brad Hooker.
 
-(Forthcoming) 'What does incommensurability tell us about agency?' in
+\(2022\) 'What does incommensurability tell us about agency?' in
 *Value Incommensurability: Ethics, Risk, and Decision-Making*, edited by
-Henrik Andersson and Anders Herlitz.  
+Henrik Andersson and Anders Herlitz. Routledge.
 [(preprint)](PDFs/2021-agency-preprint.pdf)
 
-\(2019\) 'Probabilistic Promotion and Ability', *Ergo* vol. 6, no. 34.
-doi:10.3998/ergo.12405314.0006.034  
-[(open-access at
-journal)](https://quod.lib.umich.edu/e/ergo/12405314.0006.034?view=text;rgn=main)
+\(2021\) [Review of *Companions in Guilt Arguments in
+Metaethics*](https://ndpr.nd.edu/reviews/companions-in-guilt-arguments-in-metaethics/)
+edited by Christopher Cowie and Richard Rowland, at Notre Dame
+Philosophical Reviews.
 
-\(2019\) 'Can Streumer simply avoid Supervenience?', *Journal of Ethics
+\(2019\) ['Probabilistic Promotion and Ability'](https://quod.lib.umich.edu/e/ergo/12405314.0006.034?view=text;rgn=main), *Ergo* vol. 6, no. 34.
+doi:10.3998/ergo.12405314.0006.034
+
+\(2019\) ['Can Streumer simply avoid Supervenience?'](http://www.jesp.org/index.php/jesp/article/view/508), *Journal of Ethics
 & Social Philosophy* vol. 16, no. 3 (2019).
-doi:10.26556/jesp.v16i3.508  
-[(open-access at
-journal)](http://www.jesp.org/index.php/jesp/article/view/508)
+doi:10.26556/jesp.v16i3.508
 
-\(2018\) Review of David Sobel’s *From Valuing to Value*, *Analysis*,
-Volume 78, Issue 3, pp. 583–586. doi:10.1093/analys/any045.  
-[(open-access at
-journal)](https://academic.oup.com/analysis/article/78/3/583/5067172?guestAccessKey=084f2945-dc93-487b-a275-a76deff0fdc4)
+\(2018\) [Review of David Sobel’s *From Valuing to Value*](https://academic.oup.com/analysis/article/78/3/583/5067172?guestAccessKey=084f2945-dc93-487b-a275-a76deff0fdc4), *Analysis*,
+Volume 78, Issue 3, pp. 583–586. doi:10.1093/analys/any045.
 
 \(2017\) 'Incommensurability as Vagueness: a Burden-Shifting Argument',
 *Theoria* 83: 341–363. doi: 10.1111/theo.12129  
@@ -85,6 +86,10 @@ page)](https://www.cambridge.org/core/journals/utilitas/article/abs/borderline-c
 
 # Teaching
 
+I mostly teach moral philosophy, and a third-year module in mediaeval
+philosophy. I have also in the past taught epistemology, metaphysics,
+and logic, and every year I supervise undergraduate dissertations and
+mini-dissertations on topics across philosophy.
 
 If you are at Reading, information and readings for all can be found on
 Blackboard.
