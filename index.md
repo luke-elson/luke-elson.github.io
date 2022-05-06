@@ -1,8 +1,9 @@
 ---
 title: "Luke Elson"
-date: <luke.elson@reading.ac.uk>
+lang: en-GB
 ---
 
+luke.elson@reading.ac.uk
 
 I'm a philosophy lecturer at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). I grew up in Llanelli
