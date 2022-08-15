@@ -1,7 +1,7 @@
 ---
 title: "Luke Elson"
 lang: en-GB
-date: <luke.elson@reading.ac.uk>
+author: <luke.elson@reading.ac.uk>
 ---
 
 I'm a philosopher at the [University of
