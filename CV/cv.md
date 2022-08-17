@@ -1,57 +1,83 @@
-Philosophy Department, University of Reading, England RG6 6AA
+---
+title: "CV --- Luke Elson"
+author: "[Back to my webpage](www.luke-elson.org)"
+---
 
-www.luke-elson.org  
-luke.elson@reading.ac.uk
+
+Email: <luke.elson@reading.ac.uk>  
+Website: <https://www.luke-elson.org>  
+PhilPeople: <https://philpeople.org/profiles/luke-elson>  
+Philosophy Department, School of Humanities, Reading RG6 6AA, England.
 
 
 # Employment and Education
 
-2014– Lecturer in Philosophy, University of Reading.
+University of Reading:
 
-2014 PhD in Philosophy (MA awarded 2009). University of North Carolina at Chapel Hill.
+  * 2022-- Associate Professor.
+  * 2014--2022 Lecturer in Philosophy.
 
-2005 BA Mathematics and Philosophy. Exeter College, Oxford.
+University of North Carolina at Chapel Hill:
+
+  * 2014 PhD in Philosophy.
+  * 2009 MA Philosophy. 
+
+Exeter College, Oxford:
+
+  * 2005 BA Mathematics and Philosophy.
 
 # Publications
 
 ## Journal Articles and Book Chapters
 
-<p>(Forthcoming) 'What does incommensurability tell us about agency?' in
-<em>Value Incommensurability: Ethics, Risk, and Decision-Making</em>,
-edited by Henrik Andersson and Anders
-Herlitz.</p>
-
-<p>(2019) 'Probabilistic Promotion and Ability', <em>Ergo</em> vol. 6, no. 34.</p>
-
-<p>(2019) 'Can Streumer simply avoid Supervenience?', <em>Journal of Ethics &amp; Social Philosophy</em> vol. 16, no. 3.</p>
+\(2022\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
+*Value Incommensurability: Ethics, Risk, and Decision-Making*, edited by
+Henrik Andersson and Anders Herlitz. Routledge.
 
 
-<p>(2017) 'Incommensurability as Vagueness: a Burden-Shifting Argument', <em>Theoria</em> 83: 341–363.</p>
+\(2019\) [Probabilistic Promotion and Ability](https://quod.lib.umich.edu/e/ergo/12405314.0006.034?view=text;rgn=main), *Ergo* vol. 6, no. 34.
+doi:10.3998/ergo.12405314.0006.034
+
+\(2019\) [Can Streumer simply avoid Supervenience?](http://www.jesp.org/index.php/jesp/article/view/508), *Journal of Ethics
+& Social Philosophy* vol. 16, no. 3 (2019).
+doi:10.26556/jesp.v16i3.508
 
 
-<p>(2016) 'Tenenbaum and Raffaman on Vague Projects, the Self-Torturer, and the Sorites', in <em>Ethics</em> Vol. 126, No. 2, pp. 474–488.</p>
+\(2017\) [Incommensurability as Vagueness: a Burden-Shifting
+Argument](https://onlinelibrary.wiley.com/doi/10.1111/theo.12129),
+*Theoria* 83: 341-363. doi: 10.1111/theo.12129  
+[(preprint)](PDFS/2017-theoria-preprint.pdf)
 
-<p>(2014) 'Heaps and Chains: is the Chaining Argument for Parity a Sorites?', <em>Ethics</em> Vol. 124, No. 3, pp. 557–571.
-</p>
+\(2016\) [Tenenbaum and Raffaman on Vague Projects, the Self-Torturer,
+and the Sorites](./PDFs/TenRaf.pdf), in *Ethics* Vol. 126, No. 2, pp. 474-488.
+doi:10.1086/683533.  
+[(journal page)](https://www.journals.uchicago.edu/doi/10.1086/683533)
 
-<p>(2014) 'Borderline Cases and the Collapsing Principle', <em>Utilitas</em> volume 26, issue 01, pp. 51–60.</p>
+\(2014\) [Heaps and Chains: is the Chaining Argument for Parity a
+Sorites?](./PDFs/HeapsAndChains.pdf), *Ethics* Vol. 124, No. 3, pp. 557-571. doi: 10.1086/674844  
+[(journal page)](https://www.journals.uchicago.edu/doi/10.1086/674844)
 
-
+\(2014\) [Borderline Cases and the Collapsing Principle](./PDFs/CollapsingPrinciple.pdf), *Utilitas*
+volume 26, issue 01, pp. 51-60. doi:10.1017/S095382081300023X  
+[(journal page)](https://www.cambridge.org/core/journals/utilitas/article/abs/borderline-cases-and-the-collapsing-principle/C940F584A3DAA897D0CE0FAE3FEE0715)
 
 
 
 ## Reviews and Other Pieces
 
-(Forthcoming) Review of 'Companions in Guilt Arguments in Metaethics' by
-Christopher Cowie and Richard Rowland. *Notre Dame Philosophical
-Reviews*
+\(2021\) [Review of *Companions in Guilt Arguments in
+Metaethics*](https://ndpr.nd.edu/reviews/companions-in-guilt-arguments-in-metaethics/)
+edited by Christopher Cowie and Richard Rowland, at Notre Dame
+Philosophical Reviews.
 
-(2018) 'How a moral philosopher justifies his carbon footprint': a general
+
+\(2018\) 'How a moral philosopher justifies his carbon footprint': a general
 audience piece on carbon offsetting for *The Conversation*.
 
-(2018) Review of David Sobel’s <em>From Valuing to Value</em>, <em>Analysis</em>, Volume 78, Issue 3, pp. 583–586.
+\(2018\) [Review of David Sobel's *From Valuing to Value*](https://academic.oup.com/analysis/article/78/3/583/5067172?guestAccessKey=084f2945-dc93-487b-a275-a76deff0fdc4), *Analysis*,
+Volume 78, Issue 3, pp. 583-586. doi:10.1093/analys/any045.
 
-(2016) Edited special edition of *Ratio* (with introduction) on Ethics and
+\(2016\) Edited special edition of *Ratio* (with introduction) on Ethics and
 Indeterminacy.
 
 # Teaching
@@ -95,7 +121,9 @@ Supervisor of Undergraduate Research Opportunity Projects:
 
 ## Completed PhD supervision
 
-<!-- Lanell -->
+Lanell Mason, 'Moral Agents in a Moral World: A New Account of
+Moral Realism and Moral Perception', with David Oderberg.
+
 Adam Pearce on the criminalisation of climate change, with Rob Jubb (politics).
 
 Livia Luzzatto on the scope of climate justice, with Rob Jubb (politics).
@@ -118,7 +146,6 @@ War, Psychological Egoism, Moral Overridingness, Anarchism,
 Nudge, Sceptical Theism, the Problem of Evil.
 
 
-
 # Professional Activities and Service
 
 
@@ -137,22 +164,23 @@ Reviewer for Horizon 2020 Fellowship proposals for the European Union.
 
 PhD examining:
 
--   Externally at University College, London. 2019.
--   Internally at Reading, several times since 2015.
+- Externally at University College, London. 2019.
+- Internally at Reading, several times since 2015.
 
 
 ### Conferences and workshops organised
 
-(24 April 2021) Workshop in honour of Brad Hooker, with Charlotte Newey. Reading.
+(April 2021) Workshop in honour of Brad Hooker, with Charlotte Newey. Reading.
 
 (2018 March) Southern Normativity Group annual Conference, Reading. https://philevents.org/event/show/37926
 
-(2017 October) Moral and Rational Uncertainty one-day workshop, with Society for Applied Philosophy funding, Reading (with Patrick Tomlin).
+(2017 October) Moral and Rational Uncertainty one-day workshop, with
+Society for Applied Philosophy funding, Reading (with Patrick Tomlin).
 
 (2015 April) Indeterminacy in Ethics annual *Ratio* conference,
-    Reading.
+Reading.
 
-###Impact and Outreach
+### Impact and Outreach
 
 Panel member, public discussion on carbon offsetting. City Conversations, London. November 2019.
 
@@ -160,22 +188,21 @@ Numerous webinars for Ethical Reading, on topics including moral luck and moral 
 
 Recorded 'A' Level revision videos for Massolit.
 
-## Current administrative roles at Reading
+## Main administrative roles at Reading
 
-Directory of Postgraduate Research Studies. 2019–
-
-Part (year) 3 co-ordinator. 2019–
-
-Website, blog, and social media administrator. 2014–
-
-PPE co-ordinator: July 2021–
+Research Division Leader for Philosophy. 2022--
 
 Philosophy department representative and core group member for School of
 Humanities Athena SWAN application. Implemented diagnostic survey of
 school members and conducted focus group. 2018–
 
+Website, blog, and social media administrator. 2014–
 
-## Past adminstrative roles at Reading
+Director of Postgraduate Research Studies. 2019--2022.
+
+Part (year) 3 co-ordinator. 2019--2022.
+
+PPE co-ordinator: 2021-2022.
 
 Internal panelist for Periodic Review of Department of Computer Science.
 March 2019.
@@ -194,7 +221,6 @@ Queen's College, Oxford and King's College, London. Spring and Summer
 2016.
 
 Member, Interview Panel for Graduate Teaching Assistant. July 2015.
-
 
 
 ## Administrative roles at UNC Chapel Hill
@@ -223,7 +249,7 @@ Marie Skłodowska-Curie Individual Fellowship, 'Austere Reasons.'
 
 
 2020 Research Fellowship (2 terms of teaching relief and £500 travel
-    fund), University of Reading. Autumn 2015 and Spring 2016.
+fund), University of Reading. Autumn 2015 and Spring 2016.
 
 Travel Awards from University of Reading:
 
@@ -247,93 +273,76 @@ Travel Award (x9). UNC Department of Philosophy and graduate school.
 
 # Presentations
 
-\[\*\] means selected after anonymous review.
+'Another Vagueness Solution to Spectrum Arguments' at the Rocky Mountain Ethics Congress. August 2022.
 
-### Incommensurability and Counterfactuals
+'Incommensurability and Counterfactuals' accepted for presentation in Lund, postponed due to pandemic.
 
-- Accepted for presentation in Lund, postponed due to pandemic. \[\*\]
+'Indeterminacy and Agency':
 
-### Indeterminacy and Agency
+- Oakland University, USA. 2021.
+- 'Incommensurability: Vagueness, Parity and other Non-Conventional Comparative Relations' workshop in Stockholm. 2019.
 
-- (2021) Oakland University, USA.
-- (2019) 'Incommensurability: Vagueness, Parity and other Non-Conventional
-Comparative Relations' workshop in Stockholm.
-
-
-### Nihilistic Despair
+'Nihilistic Despair':
 
 - Moral Philosophy Seminar, Oxford. 2019.
 - University of Groningen. 2018.
 - Humboldt-Universität zu Berlin Metaethics Colloquium. 2017.
 - Trinity College, Dublin. 2017.
 
-### A New Maximising Rule for Unsharp Credences and Preferences
+'Choice Under Indeterminacy':
 
-- May 2018: University of York.
-- November 2017: Hard Cases and Rational Choice conference in Bern. \[\*\]
+- University of York. May 2018.
+- Hard Cases and Rational Choice conference in Bern. November 2017.
+- Choice Group, London School of Economics. October 2015.
 
-### Ought implies Can implies Moral Rationalism
+'Ought implies Can implies Moral Rationalism':
 
-- Morality and Rationality Revisited conference, University of Leeds. September 2018. \[\*\]
-- OZSW conference in Groningen. December 2016. \[\*\]
+- Morality and Rationality Revisited conference, University of Leeds. September 2018.
+- OZSW conference in Groningen. December 2016.
 
-### A Pessimistic Note on Climate Rationality
+'A Pessimistic Note on Climate Rationality':
 
+<!-- Swiss workshop qz -->
 - APA Eastern Division Meeting, Savannah, USA. January 2018.
-        \[\*\]
 - Climate Science, Values and Politics workshop, Durham
         University, May 2015.
 
-### Ability and Promotion
-- Lund University. December 2017.
+'Ability and Promotion' at Lund University. December 2017.
 
-### The Size of the Universe and Nihilism
+'The Size of the Universe and Nihilism':
 
-- OZSW conference in Groningen. December 2016. \[\*\]
+- OZSW conference in Groningen. December 2016.
 - Southern Normativity Group meeting at the University of Sussex.
-        September 2016. \[\*\]
+        September 2016.
 
-### How Implausible is Satisficing Utilitarianism?
+'How Implausible is Satisficing Utilitarianism?' at the 14th
+International Society for Utilitarian Studies Conference at Lille
+Catholic University. July 2016.
 
-- 14th International Society for Utilitarian Studies Conference at Lille
-    Catholic University. July 2016. \[\*\]
+'A Satisficing Response to Gratuitous Harm' at the Rocky Mountain
+Ethics Congress (RoME). University of Colorado, Boulder. August 2015.
 
-### Indeterminacy and Permissibility
-- Choice Group, London School of Economics. October 2015.
+'Satisficing, Arbitrariness, and Indeterminacy' at the Rocky Mountain
+Ethics Congress (RoME). University of Colorado, Boulder.
+August 2013. Commenter: Preston Werner.
 
-### A Satisficing Response to Gratuitous Harm
+'Tenenbaum and Raffaman on Vague Projects, the Self-Torturer, and the
+Sorites' at University of York. October 2014.
 
-- Rocky Mountain
-    Ethics Congress (RoME). University of Colorado, Boulder.
-    August 2015. \[\*\]
-
-### Satisficing, Arbitrariness, and Indeterminacy
-
-- Rocky Mountain Ethics Congress (RoME). University of Colorado, Boulder.
-August 2013. Commenter: Preston Werner. \[\*\]
-
-
-### Tenenbaum and Raffaman on Vague Projects, the Self-Torturer, and the Sorites
-
-- University of York. October 2014.
-
-
-### Self-Torture as Practical Sorites
+'Self-Torture as Practical Sorites':
 
 - Harvard-MIT Graduate Conference. Cambridge, MA. April 2013.
-        Commenter: Ryan Doody. (This conference was canceled due to the
-        Boston bombings.) \[\*\]
+  Commenter: Ryan Doody. (This conference was canceled due to the
+  Boston bombings.)
 - North Carolina Philosophical Society. East Carolina University.
-        February 2013. \[\*\]
+  February 2013.
 
-
-
-### Incommensurability as Comparative Borderlineness
+'Incommensurability as Comparative Borderlineness':
 
 - South Carolina Society for Philosophy. College of Charleston.
-        March 2013 \[\*\]
+        March 2013.
 - Fourth Dutch Conference on Practical Philosophy. TU/Eindhoven.
-        Nov. 2012. \[\*\]
+        Nov. 2012.
         
 ### Comments
 
@@ -396,4 +405,5 @@ Engaging with End Users of your Research. October 2014.
 
 Website Management. October 2014.
 
-Freedom of Information and Data Protection. Autumn 2014. -->
+Freedom of Information and Data Protection. Autumn 2014.
+-->
