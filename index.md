@@ -4,6 +4,8 @@ lang: en-GB
 author: <luke.elson@reading.ac.uk>
 ---
 
+[CV](CV/cv.html)
+
 I'm a philosopher at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). I grew up in
 Llanelli and did my PhD in philosophy at [UNC Chapel
