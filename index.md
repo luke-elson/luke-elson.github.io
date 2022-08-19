@@ -17,6 +17,7 @@ Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
 **Autumn 2022 Office Hours:** Weds 10-11am in my office. No appointment needed!
 
 
+![Picture of me -- credit Eva van Herel](./lukeweb.jpg)
 
 
 
