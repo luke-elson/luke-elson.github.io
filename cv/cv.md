@@ -1,6 +1,6 @@
 ---
 title: "CV --- Luke Elson"
-author: "[Back to my webpage](https://www.luke-elson.org)"
+author: "[Back to my webpage](./index.html)"
 lang: en-GB
 ---
 

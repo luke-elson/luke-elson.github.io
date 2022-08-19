@@ -4,15 +4,17 @@ lang: en-GB
 author: <luke.elson@reading.ac.uk>
 ---
 
-[CV](CV/cv.html)
+[Research](#research) &nbsp; &nbsp; &nbsp; &nbsp; 
+[Teaching](#teaching) &nbsp; &nbsp; &nbsp; &nbsp; 
+[CV](cv.html)
 
 I'm a philosopher at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). I grew up in
 Llanelli and did my PhD in philosophy at [UNC Chapel
 Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
 
-**Office address and hours:** Edith Morley G65, University of Reading, England RG6 6AA.
-Autumn 2022: Weds 10-11am in my office. No appointment needed!
+**Office:** Edith Morley G65.
+**Autumn 2022 Office Hours:** Weds 10-11am in my office. No appointment needed!
 
 
 
