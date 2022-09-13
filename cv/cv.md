@@ -272,7 +272,11 @@ UNC Richard Brooke Scholarship. 2008–2010 and 2011–2012.
 Travel Award (x9). UNC Department of Philosophy and graduate school.
     2012–13.
 
+
 # Presentations
+
+'Structural Rationality Avoids Determinate Substantive Irrationality'
+at the German Analytic Philosophy congress (GAP.11), Berlin. September 2022.
 
 'Another Vagueness Solution to Spectrum Arguments' at the Rocky Mountain Ethics Congress. August 2022.
 
