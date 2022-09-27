@@ -1,7 +1,12 @@
 ---
-title: "CV --- Luke Elson"
-author: "[Back to my webpage](./index.html)"
+title: "CV"
+author: "Luke Elson"
 lang: en-GB
+fontsize: 12pt
+papersize: a4
+header-includes: \usepackage{mathpazo}
+geometry: top=1in,bottom=1in
+date: \today
 ---
 
 
@@ -149,7 +154,6 @@ Nudge, Sceptical Theism, the Problem of Evil.
 
 # Professional Activities and Service
 
-
 Reviewer for: *Analysis*, *Australasian Journal of Philosophy*,
 *Economics and Philosophy*, *Erkenntnis, Ethical Theory and Moral
 Practice*, *Ethics*, *Journal of the American Philosophical
@@ -162,6 +166,9 @@ Philosophy and Psychology*, Routledge, *Synthese*, *Theoria*,
 Equalities Officer, British Society for Ethical Theory. 2021--
 
 Reviewer for Horizon 2020 Fellowship proposals for the European Union.
+
+External examiner for taught postgraduate programmes, School of
+Philosophy, Theology & Religion at the University of Birmingham. 2022--
 
 PhD examining:
 
