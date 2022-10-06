@@ -175,6 +175,10 @@ PhD examining:
 - Externally at University College, London. 2019.
 - Internally at Reading, several times since 2015.
 
+Chair of scrutiny panels for new programmes:
+
+- BSc Biovetinerary Sciences, 2022;
+- MSc Climate Change and Artificial Intelligence, 2021-22.
 
 ### Conferences and workshops organised
 
