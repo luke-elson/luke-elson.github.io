@@ -2,16 +2,12 @@
 title: "CV"
 author: "Luke Elson"
 lang: en-GB
-fontsize: 12pt
-papersize: a4
-header-includes: \usepackage{mathpazo}
-geometry: top=1in,bottom=1in
-date: \today
+date: October 2022
 ---
 
+Website: <https://www.luke-elson.org>
 
 Email: <luke.elson@reading.ac.uk>  
-Website: <https://www.luke-elson.org>  
 PhilPeople: <https://philpeople.org/profiles/luke-elson>  
 Philosophy Department, School of Humanities, Reading RG6 6AA, England.
 
