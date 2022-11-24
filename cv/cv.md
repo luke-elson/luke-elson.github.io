@@ -2,7 +2,7 @@
 title: "CV"
 author: "Luke Elson"
 lang: en-GB
-date: October 2022
+date: November 2022
 ---
 
 Website: <https://www.luke-elson.org>
@@ -32,10 +32,9 @@ Exeter College, Oxford:
 
 ## Journal Articles and Book Chapters
 
-\(2022\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
+\(2021\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
 *Value Incommensurability: Ethics, Risk, and Decision-Making*, edited by
 Henrik Andersson and Anders Herlitz. Routledge.
-
 
 \(2019\) [Probabilistic Promotion and Ability](https://quod.lib.umich.edu/e/ergo/12405314.0006.034?view=text;rgn=main), *Ergo* vol. 6, no. 34.
 doi:10.3998/ergo.12405314.0006.034
@@ -44,14 +43,14 @@ doi:10.3998/ergo.12405314.0006.034
 & Social Philosophy* vol. 16, no. 3 (2019).
 doi:10.26556/jesp.v16i3.508
 
-
 \(2017\) [Incommensurability as Vagueness: a Burden-Shifting
 Argument](https://onlinelibrary.wiley.com/doi/10.1111/theo.12129),
 *Theoria* 83: 341-363. doi: 10.1111/theo.12129  
 [(preprint)](PDFS/2017-theoria-preprint.pdf)
 
 \(2016\) [Tenenbaum and Raffaman on Vague Projects, the Self-Torturer,
-and the Sorites](./PDFs/TenRaf.pdf), in *Ethics* Vol. 126, No. 2, pp. 474-488.
+and the Sorites](./PDFs/TenRaf.pdf), in *Ethics* Vol. 126, No. 2,
+pp. 474-488.
 doi:10.1086/683533.  
 [(journal page)](https://www.journals.uchicago.edu/doi/10.1086/683533)
 
@@ -67,11 +66,13 @@ volume 26, issue 01, pp. 51-60. doi:10.1017/S095382081300023X
 
 ## Reviews and Other Pieces
 
+\(Forthcoming\) Edited special edition of *Ratio* in celebration of Brad
+Hooker's work, with Charlotte Newey.
+
 \(2021\) [Review of *Companions in Guilt Arguments in
 Metaethics*](https://ndpr.nd.edu/reviews/companions-in-guilt-arguments-in-metaethics/)
 edited by Christopher Cowie and Richard Rowland, at Notre Dame
 Philosophical Reviews.
-
 
 \(2018\) 'How a moral philosopher justifies his carbon footprint': a general
 audience piece on carbon offsetting for *The Conversation*.
@@ -86,27 +87,40 @@ Indeterminacy.
 
 ## Undergraduate modules/courses
 
-Intermediate (second-year) moral philosophy. Reading: Autumn 2014, Autumn 2015, Spring 2019, Spring 2020, Spring 2021.
+Mediaeval philosophy:
 
-Introduction to ethics. Reading: Spring 2015, 2016, 2019, 2020, 2021. Chapel Hill: Spring 2010.
+* Reading: 2022, 2020, 2019/20, 2018/9.
+* Chapel Hill: Summer 2013.
 
-Mediaeval philosophy. Reading: Autumn 2018, 2019, 2020; Chapel Hill: Summer 2013.
+Intermediate (second-year) moral philosophy at Reading: every year since 2014,
+except 2017 and 2018.
 
-Reason, Value, and Knowledge: Autumn 2018, co-taught with Philip Stratton-Lake.
+Introduction (first-year) to ethics:
 
-Logic. Reading: Spring 2015, Summer 2017; Chapel Hill: Fall 2013. Also as TA for Thomas Hofweber in Spring 2013.
+* Reading: Spring 2015, 2016, 2019, 2020, 2021.
+* Chapel Hill: Spring 2010.
+
+Third-year advanced ethics module on reasons: 2018, co-taught with
+Philip Stratton-Lake.
+
+Logic:
+
+* Elementary Logic (first-year) in Summer 2017.
+* Intermediate Logic (second-year, up to predicate calculus) in Spring
+2015. Also taught a similar module at Chapel Hill in 2013, and as
+Teaching Assistant for Thomas Hofweber in 2013.
 
 Epistemology: Autumn 2015 (justification half only).
 
-Introduction to Philosophy (online). Summer 2014.
+Introduction to Philosophy (online) at Chapel Hill: 2014.
 
-Introduction to metaphysics. Summer 2012.
+Introduction to metaphysics at Chapel Hill: 2012.
 
-A literary introduction to philosophy. Summer 2011, Summer 2009. Also as TA for C.D.C. Reeve in Fall 2008.
+A literary introduction to philosophy at Chapel Hill: 2011, 2009. Also as TA for C.D.C. Reeve in 2008.
 
-Introduction to Bioethics (online). Summer 2010.
+Introduction to Bioethics (online). 2010.
 
-TA for Philosophy of Science with Marc Lange. Spring 2009.
+Teaching Assistant for Philosophy of Science with Marc Lange. 2009.
 
 
 ## Undergraduate supervision
@@ -121,22 +135,23 @@ Supervisor of Undergraduate Research Opportunity Projects:
 - 'Nihilism and the emotions' in Summer 2021.
 
 
-## Completed PhD supervision
+## PhD supervision
 
-Lanell Mason, 'Moral Agents in a Moral World: A New Account of
-Moral Realism and Moral Perception', with David Oderberg.
+Primary supervisor of 
 
-Adam Pearce on the criminalisation of climate change, with Rob Jubb (politics).
+Completed co-supervision:
 
-Livia Luzzatto on the scope of climate justice, with Rob Jubb (politics).
-
-Bradley Hillier-Smith on the ethics of responses to refugees, with Brad Hooker. Viva passed January 2021.
+1. Lanell Mason, 'Moral Agents in a Moral World: A New Account of Moral Realism and Moral Perception', with David Oderberg.
+2. Adam Pearce on the criminalisation of climate change, with Rob Jubb (politics).
+3. Livia Luzzatto on the scope of climate justice, with Rob Jubb (politics).
+4. Bradley Hillier-Smith on the ethics of responses to refugees, with Brad Hooker. Viva passed January 2021.
 
 ## Seminars and classes for graduate students
 
-Graduate Class Summer term 2021: my book manuscript 'unsharp choices'.
+Reading Graduate Class:
 
-Graduate Class Spring 2016: Recent work on Incommensurability and Reasons.
+* Summer term 2021: my book manuscript 'unsharp choices'.
+* Spring 2016: Recent work on Incommensurability and Reasons.
 
 Graduate Research Seminar (workshop). Summer 2015, Autumn 2019 onwards.
 
@@ -161,7 +176,9 @@ Philosophy and Psychology*, Routledge, *Synthese*, *Theoria*,
 
 Equalities Officer, British Society for Ethical Theory. 2021--
 
-Reviewer for Horizon 2020 Fellowship proposals for the European Union.
+Reviewer for Horizon 2020 and Horizon Europe MSCA Fellowship proposals for the European Union. 2019--
+
+the AHRC SWW doctoral training partnership.
 
 External examiner for taught postgraduate programmes, School of
 Philosophy, Theology & Religion at the University of Birmingham. 2022--
@@ -199,6 +216,8 @@ Recorded 'A' Level revision videos for Massolit.
 ## Main administrative roles at Reading
 
 Research Division Leader for Philosophy. 2022--
+
+RRDP presentation you and your supervisor
 
 Philosophy department representative and core group member for School of
 Humanities Athena SWAN application. Implemented diagnostic survey of
@@ -288,6 +307,8 @@ at the German Analytic Philosophy congress (GAP.11), Berlin. September 2022.
 'Another Vagueness Solution to Spectrum Arguments' at the Rocky Mountain Ethics Congress. August 2022.
 
 'Incommensurability and Counterfactuals' accepted for presentation in Lund, postponed due to pandemic.
+
+Kahane’s Wager’ at the Joint Session of the Aristotelian Society and the Mind Association. Summer 2021.
 
 'Indeterminacy and Agency':
 

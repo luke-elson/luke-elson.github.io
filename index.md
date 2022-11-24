@@ -1,7 +1,7 @@
 ---
 title: "Luke Elson"
 lang: en-GB
-date: October 2022
+date: November 2022
 author: <luke.elson@reading.ac.uk>
 ---
 
@@ -18,8 +18,9 @@ Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
 
 Upcoming Presentations:
 
+- A paper on value incommensurability at Lund University, May 2023. 
 - 'Inefficacy and Democracy' at the [Debunking Inefficacy Workshop](https://philevents.org/event/show/101878),
-VU Amsterdam December 2022. 
+VU Amsterdam, December 2022. 
 
 
 ![Picture of me -- credit Eva van Herel](./lukeweb.jpg)
@@ -36,7 +37,7 @@ involve vagueness.
 
 ## Publications
 
-\(2022\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
+\(2021\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
 *Value Incommensurability: Ethics, Risk, and Decision-Making*, edited by
 Henrik Andersson and Anders Herlitz. Routledge.
 
