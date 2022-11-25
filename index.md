@@ -7,7 +7,7 @@ author: <luke.elson@reading.ac.uk>
 
 [Research](#research) &nbsp; &nbsp; &nbsp; &nbsp; 
 [Teaching](#teaching) &nbsp; &nbsp; &nbsp; &nbsp; 
-[CV](cv.html)
+[CV (pdf)](cv/cv.pdf)
 
 I'm a philosopher at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). I grew up in
@@ -58,7 +58,7 @@ Volume 78, Issue 3, pp. 583-586. doi:10.1093/analys/any045.
 
 \(2017\) [Incommensurability as Vagueness: a Burden-Shifting Argument](https://onlinelibrary.wiley.com/doi/10.1111/theo.12129),
 *Theoria* 83: 341-363. doi: 10.1111/theo.12129  
-[(preprint)](PDFS/2017-theoria-preprint.pdf)
+[(preprint)](PDFs/2017-theoria-preprint.pdf)
 
 \(2016\) [Tenenbaum and Raffaman on Vague Projects, the Self-Torturer,
 and the Sorites](./PDFs/TenRaf.pdf), in *Ethics* Vol. 126, No. 2, pp. 474-488.
