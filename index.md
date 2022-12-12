@@ -19,11 +19,9 @@ Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
 Upcoming Presentations:
 
 - A paper on value incommensurability at Lund University, May 2023. 
-- 'Inefficacy and Democracy' at the [Debunking Inefficacy Workshop](https://philevents.org/event/show/101878),
-VU Amsterdam, December 2022. 
 
 
-![Picture of me -- credit Eva van Herel](./lukeweb.jpg)
+![Picture of me -- photo credit Eva van Herel](./lukeweb.jpg)
 
 
 
