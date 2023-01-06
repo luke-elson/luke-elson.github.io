@@ -14,7 +14,8 @@ Reading](https://www.reading.ac.uk/philosophy/). I grew up in
 Llanelli and did my PhD in philosophy at [UNC Chapel
 Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
 
-**Autumn 2022 Office Hours:** Weds 10-11am in my office Edith Morley G65, *except* 11-12 in the final week of term. No appointment needed!
+**Spring 2023 Office Hours:** Friday 3-4pm in my office Edith Morley
+G65. No appointment needed!
 
 Upcoming Presentations:
 
