@@ -8,11 +8,11 @@
   <title>Luke Elson</title>
   <style>
     html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
       line-height: 1.5;
       font-family: Georgia, serif;
       font-size: 20px;
-      color: #1a1a1a;
-      background-color: #fdfdfd;
     }
     body {
       margin: 0 auto;
@@ -29,13 +29,16 @@
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 12px;
       }
       h1 {
         font-size: 1.8em;
       }
     }
     @media print {
+      html {
+        background-color: white;
+      }
       body {
         background-color: transparent;
         color: black;
@@ -85,9 +88,10 @@
       color: #606060;
     }
     code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
+      hyphens: manual;
     }
     pre {
       margin: 1em 0;
@@ -152,8 +156,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -169,7 +176,7 @@
 <h1 class="title">Luke Elson</h1>
 <p class="author"><a href="mailto:luke.elson@reading.ac.uk"
 class="email">luke.elson@reading.ac.uk</a></p>
-<p class="date">December 2022</p>
+<p class="date">June 2023</p>
 </header>
 <p><a href="#research">Research</a>         <a
 href="#teaching">Teaching</a>         <a href="cv/cv.pdf">CV
@@ -179,13 +186,7 @@ href="https://www.reading.ac.uk/philosophy/">University of Reading</a>.
 I grew up in Llanelli and did my PhD in philosophy at <a
 href="https://philosophy.unc.edu/">UNC Chapel Hill</a>, before joining
 Reading in 2014.</p>
-<p><strong>Spring 2023 Office Hours:</strong> Friday 3-4pm in my office
-Edith Morley G65. No appointment needed!</p>
-<p>Upcoming Presentations:</p>
-<ul>
-<li>A paper on value incommensurability at Lund University, May
-2023.</li>
-</ul>
+<!-- Upcoming Presentations: -->
 <figure>
 <img src="./lukeweb.jpg"
 alt="Picture of me – photo credit Eva van Herel" />
@@ -198,6 +199,13 @@ incomplete preferences, unsharp or imprecise credences, and value
 incommensurability. I am working on a book arguing that these all
 involve vagueness.</p>
 <h2 id="publications">Publications</h2>
+<p>(Forthcoming) A paper on healthcare marketisation and the
+introduction of risk into the doctor-patient relationship. Promised to
+<em>Ratio</em>, special issue on risk.</p>
+<p>(Forthcoming) A paper on group responses to climate change given
+indeterminacy. Promised to the <em>Erasmus Journal for Philosophy and
+Economics</em>, special issue on intra- and interpersonal dilemmas in
+ethics and rational choice.</p>
 <p>(2021) <a href="https://dx.doi.org/10.4324/9781003148012-13">What
 does incommensurability tell us about agency?</a> in <em>Value
 Incommensurability: Ethics, Risk, and Decision-Making</em>, edited by

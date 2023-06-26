@@ -1,7 +1,7 @@
 ---
 title: "Luke Elson"
 lang: en-GB
-date: December 2022
+date: June 2023
 author: <luke.elson@reading.ac.uk>
 ---
 
@@ -14,13 +14,7 @@ Reading](https://www.reading.ac.uk/philosophy/). I grew up in
 Llanelli and did my PhD in philosophy at [UNC Chapel
 Hill](https://philosophy.unc.edu/), before joining Reading in 2014.
 
-**Spring 2023 Office Hours:** Friday 3-4pm in my office Edith Morley
-G65. No appointment needed!
-
-Upcoming Presentations:
-
-- A paper on value incommensurability at Lund University, May 2023. 
-
+<!-- Upcoming Presentations: -->
 
 ![Picture of me -- photo credit Eva van Herel](./lukeweb.jpg)
 
@@ -35,6 +29,15 @@ incommensurability. I am working on a book arguing that these all
 involve vagueness.
 
 ## Publications
+
+\(Forthcoming\) A paper on healthcare marketisation and the
+introduction of risk into the doctor-patient relationship. Promised to
+*Ratio*, special issue on risk.
+
+\(Forthcoming\) A paper on group responses to climate change given
+indeterminacy. Promised to the *Erasmus Journal for Philosophy and
+Economics*, special issue on intra- and interpersonal dilemmas in
+ethics and rational choice.
 
 \(2021\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
 *Value Incommensurability: Ethics, Risk, and Decision-Making*, edited by
