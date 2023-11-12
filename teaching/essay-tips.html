@@ -8,145 +8,23 @@
   <meta name="description" content="Tips for writing a philosophy essay" />
   <title>Tips for writing a philosophy essay</title>
   <style>
-    html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      overflow-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 1em;
-      }
-    }
-    @media print {
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
-      font-size: 85%;
-      margin: 0;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      background-color: #1a1a1a;
-      border: none;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -155,63 +33,58 @@
 <header id="title-block-header">
 <h1 class="title">Tips for writing a philosophy essay</h1>
 <p class="author">Luke Elson</p>
-<p class="date">January 2022</p>
 </header>
 <p>(<a href="../index.html">Back to Luke’s homepage</a>)</p>
 <p>There are a million of these guides online, but here’s mine. These
 are specifically targeted at University of Reading students, for whom
-essays are the main means of assessment.</p>
-<p>Much of this is unashamedly tailored to my preferences, but I think
-mine are fairly common.</p>
-<h1 id="the-content-of-your-essay">The content of your essay</h1>
-<p><strong>Get down to business.</strong> The question has been asked,
-so you can just jump in to answer it—no need for a ‘since the dawn of
-time, XX has been very controversial’ type introduction. This just looks
-like padding, and most people hate it.</p>
-<p><strong>Every factual claim needs to be cited or
-supported:</strong></p>
-<ol type="1">
-<li><p>Even vague “common sense” factual claims like ‘society is getting
-more diverse’. These kind of claims rarely add value, so better just to
-remove them.</p></li>
-<li><p>Especially claims that someone thinks or claims something.
-“Singer argues that…” needs a proper citation, including page
-numbers.</p></li>
-<li><p>Many professional papers have a footnote at the end of every
-sentence.</p></li>
-<li><p>Better to start with too many references and remove some later,
-than have the opposite problem.</p></li>
-<li><p>The point of citations is so that the reader can check what you
-are saying is true. So you need to give enough information to let the
-reader do this: at the very least a page number.</p></li>
-</ol>
-<p>Most of the time, you need to present the views of others, and then
-evaluate or criticise some view or argument:</p>
-<ol type="a">
-<li><p>Consider one or two objections or lines of evaluation in depth (a
-couple of pages each)…</p></li>
-<li><p>Rather than three or four shallowly (a couple of paragraphs
-each).</p></li>
-<li><p>A good way to add depth is to anticipate (invent) lines of
-objection or response to what you are saying.</p></li>
-</ol>
-<p>Don’t be afraid of a conclusion:</p>
-<ol type="a">
-<li><p>If you’ve given reasons to think that (for example) the argument
-from relativity doesn’t work, then don’t end with a weak conclusion like
-<em>in conclusion Mackie’s argument is sound but maybe not valid in
-today’s society.</em></p></li>
-<li><p>That kind of writing provokes a “well, which is it?” response in
-the reader. Is the argument sound or not?</p></li>
-</ol>
-<h1 id="how-to-write">How to write</h1>
+essays are the main means of assessment. Much of this is unashamedly
+tailored to my preferences, but I think they are fairly common.</p>
+<p>First, about the choice of question. Don’t be afraid of tackling the
+questions that interest you and taking a strong stance on them. Usually,
+the essay question is asking for <em>your</em> point of view or
+assessment of the issue, and that’s what gets the high (first class)
+marks if done well. Most of us don’t do philosophy to know what
+so-and-so thought about an issue (though that is certainly important),
+but also what reasons they may have had for thinking it, and whether
+those reasons are decisive. Do you agree with so-and-so, and why or why
+not?</p>
+<p>You can be quite direct here. If you’ve given reasons to think that
+(for example) the argument from relativity doesn’t work, then don’t end
+with a weak conclusion like <em>in conclusion Mackie’s argument is sound
+but maybe not valid in today’s society.</em> That kind of writing
+provokes a “well, which is it?” response in the reader, as well as being
+kind of boring to read. Is the argument sound or not? If you think the
+argument fails, don’t be afraid to say so!</p>
+<p>At the start of the essay, get down to business. The question has
+been asked, so you can just jump in to answer it—no need for a ‘since
+the dawn of time, XX has been very controversial’ type introduction.
+This just looks like padding, and most people hate it. Sometimes you may
+need to explain why a certain issue is relevant or important, but
+specific claims are usually better than sweeping vague ones.</p>
+<p>Similarly, avoid vague “common sense” claims like ‘society is getting
+more diverse’. They rarely add anything important to your essay, so
+better just to remove them. (Of course in some essays they will be
+relevant, but in that case you’ll want to add a citation or other
+support for the claims.)</p>
+<p>Most of the time, you need to present the views or arguments of
+others on some issue, and then evaluate or criticise some view or
+argument. It’s much better to consider one or two objections or lines of
+evaluation in depth (a couple of pages each) than three or four
+shallowly (a couple of paragraphs each). A good way to add depth is to
+anticipate (invent) lines of objection or response to what you are
+saying, and this is pretty much essential to getting above a 72.</p>
 <p>Explain everything very clearly – write as if your reader hasn’t read
-the papers etc you are discussing. Explain it all to them, even if it
-sounds patronising.</p>
+the papers etc you are discussing, and doesn’t know anything about the
+topic. <em>Every</em> factual claim needs to be cited or otherwise
+supported (unless you are saying things like ‘England is in the northern
+hemisphere’). Claims that someone thinks or claims something—“Singer
+argues that…”—need a proper citation, including page numbers. The point
+of a citation is so that the reader can go and check what you are
+saying, and without the full information, they can’t easily do that.</p>
 <p>The best way to summarise someone’s views and argument is to quote
 then explain: quote a couple of sentences, then explain what is being
-said in your own words.</p>
-<ol type="a">
+said in your own words:</p>
+<ul>
 <li><p>The quote will keep you honest—it forces you to be accurate, most
 of the time.</p></li>
 <li><p>It also means you read the actual material, rather than
@@ -219,18 +92,19 @@ nonsensical summary websites, Wikipedia, or YouTube videos, which are
 usually seriously wrong.</p></li>
 <li><p>Your explanation shows that you actually understand what the
 author is saying, rather than just copying and pasting.</p></li>
-</ol>
+</ul>
 <p>Be specific. For example, in an introduction, don’t write “I will
 evaluate whether the argument works”. Write “I’ll argue that the
-argument fails because …” (adjust as needed)</p>
-<p>It’s not compulsory to write this way, but don’t be afraid of ‘I’. ‘I
-think…’, ‘I will argue that..’ make everything far easier to read. They
-also make it clear when you are giving your own view, rather than just
-summarising what others say.</p>
+argument fails because …”</p>
+<p>As that example shows, don’t be afraid of ‘I’. ‘I think…’, ‘I will
+argue that..’ make everything far easier to read. They also make it
+clear when you are giving your own view, rather than just summarising
+what others say. It’s not compulsory to write in the first person, but
+in my experience it’s usually the clearest option.</p>
+<p>As a final check, try reading your essay out loud to yourself. If a
+sentence sounds awkward and jarring and like something nobody would say
+out loud, it’s probably not a good written sentence either. But if it
+sounds like something you’d say, then it probably reads nicely too!</p>
 <p>Your paragraphs are almost certainly too long.</p>
-<p>More generally: write as simply as you can. Try reading your essay
-out loud to yourself. If a sentence sounds awkward and jarring and like
-something nobody would say out loud, it’s probably not a good written
-sentence either.</p>
 </body>
 </html>

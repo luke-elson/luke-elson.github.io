@@ -123,3 +123,7 @@ Modules (mini-dissertations) in most areas of phiosophy---please read
 [this guide for my undergraduate dissertation
 students](teaching/dissertation-guide.html) if you've been assigned to
 me.
+
+------
+
+This website was made with [Pandoc](https://pandoc.org/) and the [Water CSS theme](https://watercss.kognise.dev/).
