@@ -5,20 +5,16 @@ date: November 2023
 author: <luke.elson@reading.ac.uk>
 ---
 
-[Research](#research) &nbsp; &nbsp; &nbsp; &nbsp; 
-[Teaching](#teaching) &nbsp; &nbsp; &nbsp; &nbsp; 
-[CV (pdf)](cv/cv.pdf)
-
 I'm a philosopher at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). My research and
-teaching are mostly in (meta-)ethics and some related areas (for more,
-please see below). Before joining Reading in 2014, I finished my PhD
-in Philosophy at [UNC Chapel
-Hill](https://philosophy.unc.edu/). Before *that* I did my BA in Maths
-& Philosophy at Exeter College, Oxford.  I grew up in
+teaching are mostly in metaethics, normative ethics, and some related
+areas. Before joining Reading in 2014, I finished my PhD in Philosophy
+at [UNC Chapel Hill](https://philosophy.unc.edu/). Before *that* I did
+my BA in Maths & Philosophy at Exeter College, Oxford.  I grew up in
 [Llanelli](https://en.wikipedia.org/wiki/Llanelli), a coastal town in
 South Wales.
 
+Please find my CV (as a pdf) [here](cv/cv.pdf).
 
 # Research
 
@@ -32,7 +28,7 @@ equally good. I've written a short introduction to incommensurability
 on its [PhilPapers
 page](https://philpapers.org/browse/incommensurability-of-value).
 
-* In my book 'Mushy Reasons' or 'Vagueness in Action' (I'm unsure
+* In my book 'Mushy Reasons' or 'Vagueness in Action' (I'm undecided
 about the title) which is under publisher review, I argue that these
 phenomena are all vagueness. I then defend a decision rule for vague
 preferences and credences, argue that this avoids some of their nasty
