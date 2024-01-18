@@ -1,7 +1,7 @@
 ---
 title: Luke Elson
 lang: en-GB
-date: November 2023
+date: January 2024
 author: <luke.elson@reading.ac.uk>
 ---
 
@@ -70,6 +70,8 @@ radical conceptual as well as metaphysical simplicity. It *is* a
 depressing (nihilistic!) view, but I argue that it won't lead to a
 complete loss of motivation or subjective concern, as some have
 argued.
+
+* (Forthcoming) [No Point of View Except Ours?](./PDFs/point.pdf), *Topoi* special issue on the legacy of Bernard Williams.
 
 * \(2021\) [Review of *Companions in Guilt Arguments in
 Metaethics*](https://ndpr.nd.edu/reviews/companions-in-guilt-arguments-in-metaethics/)
