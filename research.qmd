@@ -1,24 +1,10 @@
 ---
-title: Luke Elson
-lang: en-GB
-date: January 2024
-author: <luke.elson@reading.ac.uk>
+title: "Research"
 ---
 
-I'm a philosopher at the [University of
-Reading](https://www.reading.ac.uk/philosophy/). My research and
-teaching are mostly in metaethics, normative ethics, and some related
-areas. Before joining Reading in 2014, I finished my PhD in Philosophy
-at [UNC Chapel Hill](https://philosophy.unc.edu/). Before *that* I did
-my BA in Maths & Philosophy at Exeter College, Oxford.  I grew up in
-[Llanelli](https://en.wikipedia.org/wiki/Llanelli), a coastal town in
-South Wales.
 
-Please find my CV (as a pdf) [here](cv/cv.pdf).
 
-# Research
-
-## Incompleteness/Unsharpness
+# Incompleteness/Unsharpness
 
 Most of my published research focuses on a cluster of issues around
 incomplete preferences, unsharp or imprecise credences, and value
@@ -28,13 +14,13 @@ equally good. I've written a short introduction to incommensurability
 on its [PhilPapers
 page](https://philpapers.org/browse/incommensurability-of-value).
 
-* In my book 'Mushy Reasons' or 'Vagueness in Action' (I'm undecided
-about the title) which is under publisher review, I argue that these
+In my book manuscript 'Vagueness in Action', I argue that these
 phenomena are all vagueness. I then defend a decision rule for vague
 preferences and credences, argue that this avoids some of their nasty
 consequences (so-called 'value pumps') and copes with some related
 puzzles, most importantly Warren Quinn's *Puzzle of the Self-Torturer*
-and Spectrum Arguments for the intransitivity of 'better than'.
+and Spectrum Arguments for the intransitivity of 'better than'. I'm happy to share
+drafts--please email me.
 
 
 * \(2021\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
@@ -58,7 +44,7 @@ Sorites?](./PDFs/HeapsAndChains.pdf), *Ethics* Vol. 124, No. 3, pp. 557-571. doi
 volume 26, issue 01, pp. 51-60. doi:10.1017/S095382081300023X  
 [(journal page)](https://www.cambridge.org/core/journals/utilitas/article/abs/borderline-cases-and-the-collapsing-principle/C940F584A3DAA897D0CE0FAE3FEE0715)
 
-## Global Normative Nihilism
+# Global Normative Nihilism
 
 In more straightforwardly metaethical terrain, I have a number of
 unpublished papers defending Global Normative Nihilism, which is moral
@@ -89,7 +75,7 @@ doi:10.26556/jesp.v16i3.508
 Volume 78, Issue 3, pp. 583-586. doi:10.1093/analys/any045.
 
 
-## Normative and Practical Ethics
+# Normative and Practical Ethics
 
 Despite nihilistic tendencies, I have lately also become more
 interested in questions in normative or practical ethics.
@@ -104,24 +90,3 @@ Journal for Philosophy and Economics* special issue on intra- and
 interpersonal dilemmas in ethics and rational choice.
 
 
-# Teaching
-
-In 2023-4 I'm teaching Meaning of Life (first year), Ethical Argument
-(second year), and Happy, Good, and Meaningful Lives (third year). I
-have in the past also taught epistemology, metaphysics, logic, and
-mediaeval philosophy.
-
-Here are some documents for current students:
-
-*  [Tips for writing an undergraduate essay](teaching/essay-tips.html), with
-a focus on the things I look for when marking.
-
-* I'm happy to supervise dissertations and Independent Learning
-Modules (mini-dissertations) in most areas of phiosophy---please read
-[this guide for my undergraduate dissertation
-students](teaching/dissertation-guide.html) if you've been assigned to
-me.
-
-------
-
-This website was made with [Pandoc](https://pandoc.org/) and the [Water CSS theme](https://watercss.kognise.dev/).

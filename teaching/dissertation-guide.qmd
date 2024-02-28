@@ -1,10 +1,9 @@
 ---
 title: "Guide for BA dissertation students"
-date: July 2021
 author: Luke Elson
 ---
 
-([Back to Luke's homepage](../index.html))
+*Suggestions and requests welcome!*
 
 
 I'm glad to be supervising your dissertation! I enjoy supervision, and
