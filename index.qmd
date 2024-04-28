@@ -1,9 +1,15 @@
+---
+about:
+    template: solana
+    image: lukeweb.jpg
+---
+
 I'm a philosopher at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). My research and
 teaching are mostly in metaethics, normative ethics, and some related
 areas. Before joining Reading in 2014, I finished my PhD in Philosophy
 at [UNC Chapel Hill](https://philosophy.unc.edu/). Before *that* I did
-my BA in Maths & Philosophy at Exeter College, Oxford.  I grew up in
+my BA in Maths & Philosophy at Exeter College, Oxford. I grew up in
 [Llanelli](https://en.wikipedia.org/wiki/Llanelli), a coastal town in
 South Wales.
 
@@ -12,3 +18,9 @@ Upcoming talks/presentations:
 * 'Meaning for the Error Theorist' at the [6th International Conference on Philosophy & Meaning in Life](https://www.liverpool.ac.uk/philosophy/events/philosophy-and-meaning-in-life/) in Liverpool, June 17-19.
 
 * 'Voting for Emissions Limits' at the [International Society for Environmental Ethics meeting](https://www.unifr.ch/env/en/info/isee-21st-annual-summer-meeting.html) in Fribourg, June 24-26.
+
+I'm Deputy Treasurer of the [Mind
+Association](https://mindassociation.org/) and 'Cybersmith' (website
+manager) of the [British Society for Ethical Theory](https://www.bset.org.uk/).
+
+I am married to the poet [Katie Meehan](https://www.katherine-meehan.com/).
