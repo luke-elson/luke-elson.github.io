@@ -11,6 +11,8 @@ On Ayca Boylu, ‘Thick Concepts and Intrinsic Goodness Attributions’ at APA P
 
 <!--# Selected Internal Training and Development Courses at Reading
 
+Personal Titles Mentoring. November 2022.
+
 Qz 2020-21 courses
 
 Developing a Sense of Community and Student Engagement in the Online
