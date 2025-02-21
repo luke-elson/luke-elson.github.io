@@ -1,6 +1,6 @@
 ---
 about:
-    template: broadside
+    template: solana
     image: lukeweb.jpg
 ---
 
@@ -12,15 +12,17 @@ Hill](https://philosophy.unc.edu/). Before *that* I did my BA in Maths
 [Llanelli](https://en.wikipedia.org/wiki/Llanelli), a coastal town in
 South Wales.
 
+Upcoming presentations:
+
+- At the [LSE Choice Group](https://www.lse.ac.uk/philosophy/events/choice-group-seminar-luke-elson-2025/) on April 2.
+
+
 I'm Deputy Treasurer of the [Mind
 Association](https://mindassociation.org/) and 'Cybersmith' (website
 manager) of the [British Society for Ethical
 Theory](https://www.bset.org.uk/).
 
-
-# Research
-
-My research (and teaching) are mostly in rational choice, metaethics,
+My research and teaching are mostly in rational choice, metaethics,
 normative ethics, and some related areas.
 
 Most of my published research focuses on a cluster of issues around
