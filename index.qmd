@@ -5,17 +5,17 @@ about:
 ---
 
 I'm a philosopher at the [University of
-Reading](https://www.reading.ac.uk/philosophy/). Before joining
-Reading in 2014, I finished my PhD in Philosophy at [UNC Chapel
-Hill](https://philosophy.unc.edu/). Before *that* I did my BA in Maths
-& Philosophy at Exeter College, Oxford. I grew up in
+Reading](https://www.reading.ac.uk/philosophy/). I'm from
 [Llanelli](https://en.wikipedia.org/wiki/Llanelli), a coastal town in
-South Wales.
+South Wales. <!--Before joining Reading in 2014, I finished my PhD in
+Philosophy at [UNC Chapel Hill](https://philosophy.unc.edu/). Before
+*that* I did my BA in Maths & Philosophy at Exeter College, Oxford.-->
 
 Upcoming presentations:
 
-- At the [LSE Choice Group](https://www.lse.ac.uk/philosophy/events/choice-group-seminar-luke-elson-2025/) on April 2.
-
+- "It's Good to be Right: Hooker on the Benefit of Virtue" at the [LSE
+  Choice Group](https://www.lse.ac.uk/philosophy/events/choice-group-seminar-luke-elson-2025/)
+  on April 2.
 
 I'm Deputy Treasurer of the [Mind
 Association](https://mindassociation.org/) and 'Cybersmith' (website
@@ -45,4 +45,4 @@ as some have argued.
 
 Despite nihilistic tendencies, I have lately also become more
 interested in questions in normative or practical ethics, especially
-environmental ethics.
+about the environment.
