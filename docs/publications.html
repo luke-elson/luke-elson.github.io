@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fb111ea82d72e5bd18f836ed95d90a79.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -138,7 +138,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>(Forthcoming) A paper on healthcare marketisation and the introduction of risk into the doctor-patient relationship. Promised to a <em>Ratio</em> special issue on risk.</p>
+<p>(Forthcoming) ‘The Size of the Universe against Robust Realism’ in <em>Ethics</em>.</p>
+<p>(Forthcoming) ‘Moral Risk in Marketised Medicine’ in a <em>Ratio</em> special issue on risk.</p>
 <p>(2024) <a href="https://doi.org/10.23941/ejpe.v17i1.790">Carbon Offsets and Shifting Harms</a>, <em>Erasmus Journal for Philosophy and Economics</em>, 17(1), 234–255. As part of a special issue on intra- and interpersonal dilemmas in ethics and rational choice, I defend carbon offsets against charges of injustice. With a <a href="https://www.ejpe.org/journal/article/view/870">critical comment by Kian Mintz-Woo</a> and <a href="https://www.ejpe.org/journal/article/view/882">a response from me</a>.<br>
 <a href="PDFs/2024-ejpe-offsets.pdf">(open access pdf copy)</a></p>
 <p>(2024) <a href="https://doi.org/10.1007/s11245-024-10029-8">No Point of View Except Ours?</a>, <em>Topoi</em> 43: 479–489. doi: 10.1007/s11245-024-10029-8<br>
@@ -242,6 +243,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -352,6 +355,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
