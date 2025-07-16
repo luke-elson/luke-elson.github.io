@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: zephyr
+    theme: solar
     css: styles.css
     toc: false
 
