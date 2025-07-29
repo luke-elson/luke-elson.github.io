@@ -1,5 +1,0 @@
----
-title: CV
----
-
-You can find my CV (as a pdf) [here](PDFs/cv.pdf).

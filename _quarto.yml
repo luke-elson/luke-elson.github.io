@@ -8,13 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - publications.qmd
+      - research.qmd
       - teaching/index.qmd
-      - cv.qmd
 
 format:
   html:
-    theme: solar
     css: styles.css
     toc: false
 
