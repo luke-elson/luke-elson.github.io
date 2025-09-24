@@ -3,36 +3,36 @@ title: "Guide for BA dissertation students"
 author: Luke Elson
 ---
 
-*Suggestions and requests welcome!*
-
-
 I'm glad to be supervising your dissertation! I enjoy supervision, and
 I've learnt a lot of philosophy from it.
+
+The dissertation done right can finish off your degree on a high,
+having written and thought about a topic of your choice that
+fascinates you. Done wrong, you are up at 2am a week before the
+deadline, emailing me a first draft and hoping that I can get comments
+to you in time for you to make changes. I hope the tips in this
+document help you avoid the second scenario.
 
 This document sets out some expectations and advice. Nothing here is set
 in stone... it's just how I normally do things, and some advice that
 I've picked up over the years.
 
-The dissertation is far more independent than other philosophy modules.
-I won't chase you up about deadlines or meetings, and it's up to you to
-manage the year-long project. My role is to make comments and
-suggestions, and offer advice. I won't be the main marker at the end of
-the year, and at the end of the day you can choose to ignore my
-advice---it's your work.
+The dissertation is far more independent than other philosophy
+modules.  I won't chase you up about deadlines or meetings, and it's
+up to you to manage the year-long project. My role is to make comments
+and suggestions, and offer advice. I won't be the main marker at the
+end of the year, you can choose to ignore my advice. It's your work.
 
-You should take the dissertation seriously. It is worth 40
-credits---because the third year is worth twice as much as the second
-year, it is worth **four times** as much as a 20-credit second-year
-module.
+But you should take the dissertation seriously. It is worth 40 credits
+and because the third year is worth twice as much as the second year,
+it is worth **four times** as much as a 20-credit second-year module.
 
-If this doesn't appeal to you, why not switch to an Independent Learning
-Module, which counts for less and takes place entirely in the Summer?
-The ILM is a perfectly respectable option, and many of our best students
-(including several who've gone on to further study in philosophy) have
-done it. I'd urge you to consider a change now, whilst you can still
-easily pick up an extra module to cover the credits.
-
-But if not, read on...
+If this doesn't appeal to you, why not switch to an Independent
+Learning Module? The ILM is a perfectly respectable option, and many
+of our best students (including several who've gone on to further
+study in philosophy) have done it. I'd urge you to consider a change
+early in your final year, whilst you can still easily pick up an extra
+module to cover the credits. But if not, read on...
 
 ## The Process
 
@@ -43,14 +43,15 @@ But if not, read on...
     No need to take notes: just get familiar with some of the
     literature.
 
-3.  Around the start of Autumn term, you contact me to discuss your
-    topic (maybe sending me your earlier proposal), and I might ask you
-    what you are reading, and make some suggestions. Probably if you are
-    reading this document, this has already happened.
+3.  Around the start of Semester 1, you contact me to discuss your
+    topic (maybe sending me your earlier proposal), and I might ask
+    you what you are reading, and make some suggestions. Probably if
+    you are reading this document, this has already happened.
 
-4.  The **Autumn assessed proposal** sneaks up surprisingly quickly, so
-    if you haven't done anything over the Summer then now is the time to
-    get reading.
+4.  The **assessed proposal** sneaks up surprisingly quickly, so if
+    you haven't done anything over the Summer then now is the time to
+    get reading. Similarly the **presentation** will be due before you
+    know it!
 
 5.  The usual system is that you email me to arrange a meeting,
     attaching a draft of some work, and I'll comment on the draft and
@@ -60,36 +61,37 @@ But if not, read on...
 6.  I need at least a week to properly read something and make comments.
 
 7.  You can send me a draft of a section, or even your summary of and
-    reactions to something you've read. But please don't send a
-    bullet-point plan---I can only comment effectively on complete
-    sentences/paragraphs.
+    reactions to something you've read. Please don't send a
+    bullet-point plan for written comments -- I can only comment
+    effectively on complete sentences/paragraphs.
 
-8.  Especially when the busy Summer term comes, I can't read multiple
-    drafts of the full dissertation. I will definitely read one full
-    draft, but it'll take me at least a week to do so, and I'll probably
-    have substantial comments (meaning changes for you, if you agree
-    with my comments).
+8.  I will definitely read one full draft of the dissertation, but
+    it'll take me at least a week to do so, and I'll probably have
+    substantial comments (meaning changes for you, if you agree with
+    my comments).
 
 ## Advice
 
-1.  Don't leave it past late Spring term to write a full draft, because
-    you might not have time to make major changes.
+1. Try to write a full draft at least a couple of months before the
+final dissertation is due, so you have time to make major changes if
+needed.
 
-2.  Don't forget the proposal and presentation. They count for a huge
-    chunk of your mark, and are a good chance to get feedback from other
-    people.
+2.  The proposal and presentation count for a huge chunk of your mark
+    and are a good chance to get feedback from other people.
 
 3.  Take ownership of the process. For example, if you've not written
-    something you're happy to discuss, email me saying so and moving the
-    meeting back by a week or two. Meetings without anything written to
-    discuss can often be unstructured and not very helpful.
+    something you're happy to discuss, email me saying so and moving
+    the meeting back by a week or two. Meetings without anything
+    written to discuss (or even just a rough plan) can often be
+    unstructured and not very helpful. Written material gives us
+    something to talk about.
 
 4.  But if you are feeling stuck, email me or arrange a meeting and we
     can talk through the issues. I'd much rather you stay in touch,
     whether or not you have anything written. If we chat frequently,
     then every meeting is low stakes and you don't have to worry too
     much about whether you are on track. Often just talking about it can
-    help with the work. (See 'rubber duck debugging'.)
+    help with the work. (Google 'rubber duck debugging'.)
 
 5.  During the academic year, I think if you do an hour a day of solid
     work (reading or writing) on your dissertation, you'll be in a
@@ -99,9 +101,9 @@ But if not, read on...
     introduction and a conclusion. This will help you to maintain a
     clear structure, and prevent the task from being overwhelming.
 
-7.  Try not to think of the dissertation as a chance to finally lay out
-    your view on everything philosophical! The usual essay advice of
-    covering a small topic in depth applies. The dissertation is about
+7.  Try not to think of the dissertation as a chance to finally lay
+    out your view on everything philosophical! The usual advice to
+    cover a small topic in depth applies. The dissertation is about
     the length of a standard journal article, not a long book: it's an
     opportunity for more depth, not more topics.
 
@@ -136,7 +138,8 @@ But if not, read on...
 
 2.  Right now, get set up with a reference manager that can keep track
     of citations. I like [Zotero](https://www.zotero.org/) -- it's not
-    the easiest to use, but it's free and will manage your PDFs.
+    the easiest to use, but it's free and will manage your PDFs as
+    well as managing proper citations and inserting a bibliography.
 
 3.  Don't spend ages fiddling with the introduction, then rush to do the
     more difficult bits. Do it the other way around! With the
@@ -152,10 +155,4 @@ But if not, read on...
     free-standing document, so follow your interests where they lead
     you.
 
-This list might make the process seem like overwhelming drudgery. But it
-doesn't have to be! The dissertation done right can finish off your
-degree on a high, having written and thought about a topic of your
-choice that fascinates you. Done wrong, you are up at 2am a week before
-the deadline, emailing me a first draft and hoping that I can get
-comments to you in time for you to make changes. I hope the tips in this
-document help you avoid the second scenario.
+

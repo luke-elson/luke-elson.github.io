@@ -12,9 +12,14 @@ equally good. I've written a short introduction to incommensurability
 on its [PhilPapers
 page](https://philpapers.org/browse/incommensurability-of-value).
 
-* \(2021\) [What does incommensurability tell us about agency?](https://dx.doi.org/10.4324/9781003148012-13) in
-*Value Incommensurability: Ethics, Risk, and Decision-Making*, edited by
-Henrik Andersson and Anders Herlitz. Routledge.
+* My unpublished book manuscript 'Vagueness in Action' argues for a
+  vagueness interpretation of incomplete preferences and unsharp
+  credences, and applies this view to several practical puzzles.
+
+* \(2021\) [What does incommensurability tell us about
+  agency?](https://dx.doi.org/10.4324/9781003148012-13) in *Value
+  Incommensurability: Ethics, Risk, and Decision-Making*, edited by
+  Henrik Andersson and Anders Herlitz. Routledge.
 
 * \(2019\) [Probabilistic Promotion and Ability](https://quod.lib.umich.edu/e/ergo/12405314.0006.034?view=text;rgn=main), *Ergo* vol. 6, no. 34.
 doi:10.3998/ergo.12405314.0006.034
@@ -70,10 +75,8 @@ Volume 78, Issue 3, pp. 583-586. doi:10.1093/analys/any045.
 
 ## Practical Ethics
 
-Despite nihilistic tendencies, I have lately also become more
-interested in questions in normative or practical ethics, especially
-about the environment.
-
+Despite nihilistic tendencies, I am also interested in questions in
+normative or practical ethics, especially about the environment.
 
 * \(Early View\) [Moral Risk in Marketised Medicine](./PDFs/2025-ratio-moral-risk.pdf) in a *Ratio*
 special issue on risk.
