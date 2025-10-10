@@ -1,0 +1,14 @@
+---
+title: "Book Manuscript"
+---
+
+Here are (confidential) chapters from my book manuscript *Vagueness in Action*:
+
+1. [Introduction](./ch1.pdf)
+2. [How Could Preferences be Vague?](./ch2.pdf)
+3. [Synchronic Choice and Rationality](./ch3.pdf)
+4. [Diachronic Decisions under Supersharp](./ch4.pdf)
+5. [Self-Torture and other Vague Projects](./ch5.pdf)
+6. [Group Actions and Climate Change](./ch6.pdf)
+7. [Spectrum Arguments](./ch7.pdf)
+8. [Conclusion](./ch8.pdf)
