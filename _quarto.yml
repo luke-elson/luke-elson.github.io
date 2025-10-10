@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Luke Elson"
+  search: false
   navbar:
     left:
       - href: index.qmd

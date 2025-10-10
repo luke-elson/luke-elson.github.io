@@ -4,6 +4,10 @@ about:
   template: marquee
 ---
 
+**This semester, my office/feedback/consultation hours are Tuesday
+10-11 and Thursday 3-4 in Edith Morley G65. Drop in -- no appointment
+needed.**
+
 I'm a philosopher at the [University of
 Reading](https://www.reading.ac.uk/philosophy/). Before joining
 Reading in 2014, I finished my PhD in Philosophy at UNC Chapel
@@ -13,18 +17,15 @@ coastal town in South Wales.
 
 <!--Upcoming presentations:-->
 
-My [research](research.html) and [teaching](./teaching) are mostly in rational choice, metaethics,
-normative ethics, and some related areas.
+My [research](research.html) and [teaching](./teaching) are mostly in
+rational choice, metaethics, and normative ethics, especially as they
+apply to the environment (especially carbon emissions).
 
-I'm Deputy Treasurer of the
-[Mind Association](https://mindassociation.org/) and 'Cybersmith'
-(website manager) of the [British Society for Ethical
-Theory](https://www.bset.org.uk/).
+I'm Deputy Treasurer of the [Mind
+Association](https://mindassociation.org/) and 'Cybersmith' (website
+manager) of the [British Society for Ethical
+Theory](https://www.bset.org.uk/), Local Organiser for the [2026 Joint
+Session of the Mind Association and the Aristotelian
+Society](https://sites.google.com/view/2026-joint-session/).
 
 You can find my CV (as a pdf) [here](PDFs/cv.pdf).
-
-## Semester 1 office/feedback/consultation hours
-
-Tuesday 10-11 and Thursday 3-4 in Edith Morley G65. Drop in -- no
-appointment needed.
-

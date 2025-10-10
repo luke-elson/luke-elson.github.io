@@ -1,6 +1,9 @@
 ---
 title: "Research"
+toc: true
 ---
+
+\toc
 
 ## Incommensurability and Incompleteness
 
@@ -76,7 +79,8 @@ Volume 78, Issue 3, pp. 583-586. doi:10.1093/analys/any045.
 ## Practical Ethics
 
 Despite nihilistic tendencies, I am also interested in questions in
-normative or practical ethics, especially about the environment.
+normative or practical ethics, especially about environmental
+sustainability.
 
 * \(Early View\) [Moral Risk in Marketised Medicine](./PDFs/2025-ratio-moral-risk.pdf) in a *Ratio*
 special issue on risk.
