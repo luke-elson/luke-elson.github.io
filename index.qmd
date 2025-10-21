@@ -1,7 +1,8 @@
 ---
-title: Luke Elson
 about:
-  template: marquee
+   template: trestles
+   image: pictures/jumbly-pic.jpg
+   # image-shape: round
 ---
 
 **This semester, my office/feedback/consultation hours are Tuesday
