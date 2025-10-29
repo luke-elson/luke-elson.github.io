@@ -15,9 +15,11 @@ equally good. I've written a short introduction to incommensurability
 on its [PhilPapers
 page](https://philpapers.org/browse/incommensurability-of-value).
 
-* My unpublished book manuscript 'Vagueness in Action' argues for a
+* \(Forthcoming with Oxford University Press\) *Vagueness in Action:
+  an Indeterminist Account of Preference and Choice*. Argues for a
   vagueness interpretation of incomplete preferences and unsharp
-  credences, and applies this view to several practical puzzles.
+  credences, and applies this view to several practical puzzles. About
+  75,000 words.
 
 * \(2021\) [What does incommensurability tell us about
   agency?](https://dx.doi.org/10.4324/9781003148012-13) in *Value
