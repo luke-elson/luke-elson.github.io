@@ -1,7 +1,7 @@
 ---
 about:
    template: trestles
-   image: pictures/jumbly-pic.jpg
+   image: pictures/jumbly-pic-shrank.jpg
    # image-shape: round
 ---
 
