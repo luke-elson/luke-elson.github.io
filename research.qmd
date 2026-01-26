@@ -59,7 +59,9 @@ simplicity. It *is* a depressing (nihilistic!) view, but I argue that
 it won't lead to a complete loss of motivation or subjective concern,
 as some have argued.
 
-* \(Forthcoming\) 'The Size of the Universe against Robust Realism' in *Ethics*.
+* \(2026\) [The Size of the Universe against Robust
+Realism](https://doi.org/10.1086/738320), *Ethics* Vol. 136, No. 2,
+pp. 246-272.  doi: 10.1086/738320
 
 * \(2024\) [No Point of View Except Ours?](https://doi.org/10.1007/s11245-024-10029-8), *Topoi* 43: 479–489.
 doi: 10.1007/s11245-024-10029-8  
@@ -84,8 +86,9 @@ Despite nihilistic tendencies, I am also interested in questions in
 normative or practical ethics, especially about environmental
 sustainability.
 
-* \(Early View\) [Moral Risk in Marketised Medicine](./PDFs/2025-ratio-moral-risk.pdf) in a *Ratio*
-special issue on risk.
+* \(2025\) [Moral Risk in Marketised Medicine](https://doi.org/10.1111/rati.70003) in a *Ratio*
+special issue on risk. Volume 38, pp. 239-247. doi: 10.1111/rati.70003.
+
 
 * \(2024\) [Carbon Offsets and Shifting
 Harms](https://doi.org/10.23941/ejpe.v17i1.790), *Erasmus Journal for
