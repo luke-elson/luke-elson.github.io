@@ -1,0 +1,8 @@
+---
+title: "Handouts and Slides for Presentations"
+---
+
+## LSE January 2026
+
+* Slides [(HTML)](LSE/luke-slides.html); [(PDF)]
+* Handout [(PDF)](LSE/luke-handout.pdf)
