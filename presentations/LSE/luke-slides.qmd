@@ -3,7 +3,7 @@ author: Luke Elson, luke.elson@reading.ac.uk
 title: The Repeating Puzzle of the Self-Torturer
 lang: en-GB
 format: revealjs
-bibliography: /Users/luke/Documents/zotero.bib
+bibliography: /home/luke/Documents/zotero.bib
 ---
 
 # The Puzzle of the Self-Torturer
