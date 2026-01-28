@@ -9,8 +9,6 @@ format:
 bibliography: ../../../zotero.bib
 ---
 
-# Quinn's Description
-
 > Suppose that there is a medical device that enables doctors to apply
 > electric current to the body in increments so tiny that the patient
 > cannot feel them. The device has 1001 settings: 0 (off) and 1
@@ -25,7 +23,6 @@ bibliography: ../../../zotero.bib
 > retreat. *At each advance he gets $10,000.* [@Quinn1990,
 > p. 79. Emphasis in original.]
 
-# A Moral Version
 
 > With every death she took on a little more pain... an aching tooth
 > here, a stabbing feeling in her gut there, a persistent headache,
@@ -37,7 +34,6 @@ bibliography: ../../../zotero.bib
 > utterly debilitating, but they all nagged, all had their effect,
 > filling her days... [@Banks2011, pp. 471--2]
 
-# Nonsegmentation
 
 Nonsegmentation.
 :    When faced with a certain series of choices, the rational
@@ -45,27 +41,25 @@ Nonsegmentation.
     setting; whereas in any isolated choice, she must (or at least
     may) choose to turn the dial. [@TenenbaumRaffman2012, p. 98]
 
-
 # The Repeating Model
 
-* At stage $n$, you've undergone $\lfloor n/s \rfloor$ life-altering
-  pain increases:
-    - the number of dial-turns $n$ divided by how many $s$ make such
-      an increase;
-    - $s$ is indeterminately 8, 9, or 10.
+Stipulatively, a *life-altering* pain increase is determinately not worth it for $100,000.
 
-* Utility from money is linear in ten thousand dollars:
-    * $u_{m}(n)=n$
+It's indeterminate whether a
+  life-altering pain increase happens after 8, 9, or 10 dial turns.
 
-* Since a life-altering pain increase outweighs $100,000, let's assume
-  it's worth -11 utils:
-    * $u_{p}(n)=-11\lfloor n/s \rfloor$
+At stage $n$, ST has undergone $\lfloor n/s \rfloor$ life-altering
+  pain increases, where $s$ is indeterminately 8, 9, or 10.
 
+Utility from money is linear in ten thousand dollars: $u_{m}(n)=n$
 
-- At many points, it's indeterminate whether ST prefers to turn the dial.
+Since a life-altering pain increase outweighs $100,000, let's assume
+  it's worth -11 utils: $u_{p}(n)=-11\lfloor n/s \rfloor$
 
-- Over every stretch of 10 dial-turns or longer, the lines all decline.
+At many points, it's indeterminate whether ST prefers to turn the dial.
 
-![The final model](./new-utilities.svg)
+Over every stretch of 10 dial-turns the lines all decline. In 10 turns ST gains 10 utils from turning the dial but loses 11 from a life-altering pain increase.
+
+![The final model -- $u(n)=n-11\lfloor n/s \rfloor$ for different values of $s$](./new-utilities.svg)
 
 # References

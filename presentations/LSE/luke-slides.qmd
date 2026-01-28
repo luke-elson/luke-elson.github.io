@@ -3,7 +3,7 @@ author: Luke Elson, luke.elson@reading.ac.uk
 title: The Repeating Puzzle of the Self-Torturer
 lang: en-GB
 format: revealjs
-bibliography: /home/luke/Documents/zotero.bib
+bibliography: ../../../zotero.bib
 ---
 
 # The Puzzle of the Self-Torturer
@@ -14,9 +14,11 @@ bibliography: /home/luke/Documents/zotero.bib
 
 - I will...
 
-	1. Introduce the Puzzle;
+	1. Introduce the puzzle;
 	2. Describe my previous solution and why it failed;
 	3. Present my new solution from @ElsonBookForthcoming.
+
+- <https://www.luke-elson.org/presentations> for the slides.
 
 ## The Core of the Puzzle
 
@@ -27,14 +29,14 @@ bibliography: /home/luke/Documents/zotero.bib
 
 - Foreseeably, if he does this too many times he'll end up in agony.
 
-- It looks like he should stop at some point... but not this point.
+- It looks like he should stop at some stage... but not today.
 
-- The question: how to vindicate stopping?
+- Can we vindicate stopping?
 
 
 ## The Upshot
 
-- Some think Self-Torture involves intransitive or cyclic preferences:
+- Some think self-torture involves intransitive or cyclic preferences:
     - ST prefers each stage to the previous one;
     - ST prefers earlier stages to later.
 
@@ -53,14 +55,13 @@ bibliography: /home/luke/Documents/zotero.bib
 
 - @Aldred2007 claims that vagueness itself engenders intransitive preferences.
 
-- @Tuck2008 considers my favourite example: a shepherd wants to build cairns but
-not move heavy stones.
+- @Tuck2008 considers my favourite example: a shepherd wants to build cairns but not move heavy stones.
 
-- But I don't think anyone has given a convincing picture of how they work.
+- I don't think anyone has given a convincing picture of how they work.
 
 ## The Sustainability Relevance
 
-- Aldred uses the example of an unspoilt common, for example.
+- Aldred uses the example of an unspoilt common.
 
 - Many of us like flights or air-conditioning or
   steak but also prefer not to wreck the atmosphere.
@@ -84,7 +85,7 @@ not move heavy stones.
   - it peaks at the optimum point;
   - then decreases afterwards.
 
-- This picture of the situation fits naturally into orthodox
+- This picture fits naturally into orthodox
   (transitive!) rational choice theory.
 
 - I argued that it's vague *at which* point ST's utility peaks.
@@ -121,7 +122,7 @@ Torturer-Tolerance.
 :    If stage $k$ doesn't maximise utility, then stage $(k+1)$ doesn't
      maximise utility.
 
-- But tolerance principles are psychologically compelling.
+- Such principles are false but psychologically compelling.
 
 - His preferences are indeterminate but transitive.
 
@@ -135,8 +136,7 @@ Torturer-Tolerance.
 
 - Consider some stage determinately *after* the utility peak.
 
-- The slope is now determinately downwards, so turning the dial is
-  determinately and clearly dispreferred.
+- The slope is now determinately downwards, so turning the dial is clearly dispreferred.
 
 - But intuitively, part of the difficulty of self-torture is that
   *even when already in agony* it looks rational to take the money.
@@ -156,23 +156,23 @@ Nonsegmentation.
 
 ## The Core Idea
 
-- Instead of a single utility peak whose location is vague,
-- the curve is indeterminately rising or falling at each point,
-- but determinately falls over longer ranges.
+- Instead of a single utility peak whose location is vague:
+    - the curve is indeterminately rising or falling at each stage,
+    - but determinately falls over longer ranges.
 
 - This explains Nonsegmentation:
-    - Taking the money is indeterminately preferred at each point, but *determinately not* at longer ranges.
+    - Taking the money is indeterminately preferred at each point, but *determinately not* over longer ranges.
   
 
 ## Life-Altering Pain Increases
 
-- A stipulative use: a *life-altering* pain increase is
+- Stipulatively, a *life-altering* pain increase is
   substantial, determinately not worth it for $100,000.
 
 - Here's the vagueness: it's indeterminate whether a
   life-altering pain increase happens after 8, 9, or 10 dial turns.
 
-* At stage $n$, you've undergone $\lfloor n/s \rfloor$ life-altering
+* At stage $n$, ST has undergone $\lfloor n/s \rfloor$ life-altering
   pain increases:
     - the number of dial-turns $n$ divided by how many $s$ make such
       an increase;
@@ -187,6 +187,7 @@ Nonsegmentation.
   it's worth -11 utils:
     * $u_{p}(n)=-11\lfloor n/s \rfloor$
 
+* ST's total utility function is the sum of these.
 
 ## The Upshot
 
@@ -197,14 +198,14 @@ Nonsegmentation.
     - some are up, some are down;
     - it's indeterminate whether ST prefers to turn the dial.
 
-- Over every stretch of 10 dial-turns or longer, they all decline. At
+- Over every stretch of 10 dial-turns, they all decline. At
   every stage, he determinately disprefers the situation 10 dial-turns
   from now.
 
 
 ## Graph of the final model
 
-![The final model](./new-utilities.svg)
+![The final model: $u(n)=n-11\lfloor n/s \rfloor$ for different values of $s$](./new-utilities.svg)
 
 ## Features of the Repeating Model
 
@@ -213,27 +214,25 @@ Nonsegmentation.
 - But we can respect Nonsegmentation *without* having to go for
   intransitive preferences or anything of that sort.
 
-- We simply needed vagueness in how many dial-turns form a life-altering 'clump' of pain that you care about.
+- We simply needed vagueness in how many dial-turns form a life-altering 'clump' of pain that ST cares about.
 
-- This doesn't fall to Tenenbaum's correct criticism of my earlier picture.
+- This doesn't fall to Tenenbaum's (correct) criticism of my earlier picture.
 
 # Conclusion
 
 ## Summary
 
-
-
-- Vagueness together with psychological features of tolerance
-  principles (they are false but extremely plausible) explains the
+- Vagueness -- together with psychological features of tolerance
+  principles -- explains the
   temptation to always turn the dial.
 
-- Self-Torture is a 'repeating' practical sorites -- there's no
+- Self-Torture is a 'repeating' practical sorites: there's no
   threshold (even vague threshold) where once we are past it, the game
   is over.
 
 - I've focused on preferences here, to show that they can have the right structure.
 
-- Thank you!
+## Thank you!
 
 
 ## References
