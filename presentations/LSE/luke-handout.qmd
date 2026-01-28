@@ -60,6 +60,6 @@ At many points, it's indeterminate whether ST prefers to turn the dial.
 
 Over every stretch of 10 dial-turns the lines all decline. In 10 turns ST gains 10 utils from turning the dial but loses 11 from a life-altering pain increase.
 
-![The final model -- $u(n)=n-11\lfloor n/s \rfloor$ for different values of $s$](./new-utilities.svg)
+![$u(n)=n-11\lfloor n/s \rfloor$ for different values of $s$](./new-utilities.svg)
 
 # References
