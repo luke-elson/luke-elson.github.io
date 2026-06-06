@@ -1,1 +1,36 @@
-/* css styles */
+body {
+    font-size: 1.25rem;       /* Comfortably large text size */
+    line-height: 1.6;          /* Clean line spacing */
+    max-width: 36em;           /* Pandoc's readable line lengths */
+    margin: 0 auto;            /* Centers the page column */
+    padding: 2em 1em;          /* Breathing room at top/bottom/sides */
+    font-family: Georgia, serif; /* Clean, professional typography */
+    color: #1a1a1a;            /* Off-black to reduce eye strain */
+}
+
+/* Optional: Make your hyperlinks look sharp */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Reduce the size of the main page title */
+h1.title {
+    font-size: 2rem;
+    margin-bottom: 1em;
+}
+
+/* Reduce the size of section headings (Research, Teaching, etc.) */
+h1 {
+    font-size: 1.6rem;
+    margin-top: 1.5em;
+}
+
+/* Reduce the size of sub-section headings (Monograph, Journal Articles) */
+h2 {
+    font-size: 1.3rem;
+    margin-top: 1.3em;
+}
