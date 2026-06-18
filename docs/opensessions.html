@@ -1,0 +1,2543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-06-18 Thu 08:32 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>2026 Open Sessions Timetable, Round 2</title>
+<meta name="author" content="Luke Elson, luke.elson@reading.ac.uk" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">2026 Open Sessions Timetable, Round 2
+<br />
+<span class="subtitle">18 June 2026</span>
+</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org06ecbb1">1. How to use this document</a></li>
+<li><a href="#org6f194ae">2. Open Sessions Rules and Advice</a>
+<ul>
+<li><a href="#orgefdaa0f">2.1. Finding your room</a></li>
+<li><a href="#org1f8d087">2.2. Within the session</a></li>
+<li><a href="#org16cc625">2.3. Screens? Handouts?</a></li>
+</ul>
+</li>
+<li><a href="#org5fe3e6c">3. Open Session I: Thursday 17.00 – 19.00 <code>[16/16]</code></a>
+<ul>
+<li><a href="#org5554638">3.1. <span class="done DONE">DONE</span> Session I.1 Metaethics</a>
+<ul>
+<li><a href="#orgd675523">3.1.1. Ronan Ó Maonaile, Why Fit-Making Considerations Are Not Normative Reasons</a></li>
+<li><a href="#orgdde3c7d">3.1.2. Samuele Chilovi, Normative Authority, Formal Normativity, and the Question of What to Do</a></li>
+<li><a href="#org86f9aba">3.1.3. Umut Baysan, Reasons as Non-Causal Powers</a></li>
+<li><a href="#org83ea537">3.1.4. Niklas Kurzböck, An Essentialist Explanation for the Normative Status of Future Generations</a></li>
+</ul>
+</li>
+<li><a href="#org6ef116a">3.2. <span class="done DONE">DONE</span> Session I.2 Artificial Intelligence</a>
+<ul>
+<li><a href="#org0d8f658">3.2.1. Ari Deller, 'Can AIs do X': The Wrong Question in AI Scholarship</a></li>
+<li><a href="#org39d9adf">3.2.2. Rory Aird, ChatGPT isn't safe</a></li>
+<li><a href="#org22cc2fc">3.2.3. Rahul Kumar Maurya, Ethics and AI's Challenge to Humanity: A Perspective from Early Buddhism</a></li>
+<li><a href="#org9c8c846">3.2.4. Drew Chambers, When should you trust ChatGPT? Deference, Inquiry, and Epistemic Risk</a></li>
+</ul>
+</li>
+<li><a href="#org285ea0c">3.3. <span class="done DONE">DONE</span> Session I.3 Normative Ethics</a>
+<ul>
+<li><a href="#orgc66f6ef">3.3.1. Rebecca Brione, Requests for permission: an intriguing normative phenomenon hiding in plain sight</a></li>
+<li><a href="#org6674637">3.3.2. Dong An, Moral Bitterness Reconsidered</a></li>
+<li><a href="#org66e3c73">3.3.3. Pilar Lopez-Cantero, Friendship break-ups</a></li>
+<li><a href="#org12481f2">3.3.4. Anna Dvorishchina, Compassion Towards the Culpable</a></li>
+</ul>
+</li>
+<li><a href="#orge568d30">3.4. <span class="done DONE">DONE</span> Session I.4 Political Philosophy</a>
+<ul>
+<li><a href="#orga2e28b4">3.4.1. Kieran Oberman, Nature vs Murder</a></li>
+<li><a href="#org793895a">3.4.2. Gunnar Björnsson, Distributing the State's Agency: A New Framework for Political Justice</a></li>
+<li><a href="#org4b80ded">3.4.3. Marta Giunta Martino, Can Institutions Express Dissent? An Ontological Perspective on Institutional Moral Protest</a></li>
+<li><a href="#orgcc14ade">3.4.4. Qifan Yang, Hierarchical Injustice and Immigration</a></li>
+</ul>
+</li>
+<li><a href="#org84ce42a">3.5. <span class="done DONE">DONE</span> Session I.5 Aesthetics</a>
+<ul>
+<li><a href="#org534560c">3.5.1. Mehmet YILDIZ, Context of Distraction: On the Nature of Silly Questions</a></li>
+<li><a href="#org4150ebf">3.5.2. Leonardo Nanni, An Aesthetic Argument for Supererogatory Actions</a></li>
+<li><a href="#orgad315f8">3.5.3. Tessa Ditner Amorosi, The Epistemic Impact of an Aesthetic Category</a></li>
+<li><a href="#orge46c37c">3.5.4. Colette Olive, Miserable Characters and Unfeeling Artists: Trauma Porn as an Aesthetic Failing</a></li>
+</ul>
+</li>
+<li><a href="#orga86a8ef">3.6. <span class="done DONE">DONE</span> Session I.6 Ancient Philosophy</a>
+<ul>
+<li><a href="#org74c897d">3.6.1. Elena Padoan, Plato's Forms as Neutrals: Neither Universals Nor Particulars</a></li>
+<li><a href="#orgab5eb21">3.6.2. Benjamin Conover, A New Perspective on the Receptacle in Plato's Timaeus</a></li>
+<li><a href="#orge44bf9a">3.6.3. Alba Cercas Curry, Fake it, but never make it: The case for feigned contempt in Early Chinese Philosophy</a></li>
+<li><a href="#orgda3cd34">3.6.4. Sofija Anna Kozlova, Celestial Good in Aristotle</a></li>
+</ul>
+</li>
+<li><a href="#org4017717">3.7. <span class="done DONE">DONE</span> Session I.7 Philosophy of Language</a>
+<ul>
+<li><a href="#orga477c7b">3.7.1. Alex Murphy, A Humanistic Approach to the Two Images</a></li>
+<li><a href="#org5064e7d">3.7.2. Maria Forsberg, Conceptual innovation: what it is and should be</a></li>
+<li><a href="#org26473f6">3.7.3. Sarah Fisher, Shoring up speech norms in an age of artificial language generators</a></li>
+<li><a href="#org780e08b">3.7.4. Uri Brun, Beyond the Implementation Problem: A Cavellian Perspective on Conceptual Engineering</a></li>
+</ul>
+</li>
+<li><a href="#orgdb3279b">3.8. <span class="done DONE">DONE</span> Session I.8 Perception</a>
+<ul>
+<li><a href="#org7b9497b">3.8.1. Pietro Chiericoni, Cross-Cultural Variations in Emotionally Charged Perception</a></li>
+<li><a href="#org1f6d947">3.8.2. Eugen Fischer, Experimental argument analysis: Empirically examining the argument from hallucination</a></li>
+<li><a href="#orgf4fdfce">3.8.3. Niccolò Nanni, When The Senses Don't Match</a></li>
+<li><a href="#org2888403">3.8.4. Roope Ryymin, What We See in the Shadows</a></li>
+</ul>
+</li>
+<li><a href="#org1dfbc7a">3.9. <span class="done DONE">DONE</span> Session I.9 Interpersonal Relationships</a>
+<ul>
+<li><a href="#org028e86b">3.9.1. Hannah Barrios, Relationships Without the Reactive Attitudes</a></li>
+<li><a href="#orgf0192bd">3.9.2. Christina Fritz, Automatic Speech, Unintentional Harm, and Moral Accountability</a></li>
+<li><a href="#org91b9b45">3.9.3. Javier Moreno, Why Is Breaching Trust Morally Wrong?</a></li>
+<li><a href="#org2e0025b">3.9.4. Leah Henderson, Defining 'societal trust'</a></li>
+</ul>
+</li>
+<li><a href="#org61635cc">3.10. <span class="done DONE">DONE</span> Session I.10 Rational Choice, Beliefs, Differences</a>
+<ul>
+<li><a href="#org0ceb1e0">3.10.1. Kangyu Wang, Making Hard Choices for Changing Selves</a></li>
+<li><a href="#org486cce5">3.10.2. Binjie Zou, Ramsey: Measuring partial belief</a></li>
+<li><a href="#org8d53bd9">3.10.3. Nicholas Smith, What are Degrees of Belief?</a></li>
+<li><a href="#org6463e2d">3.10.4. Matthew Rellihan, Difference Making in Action</a></li>
+</ul>
+</li>
+<li><a href="#org29700ed">3.11. <span class="done DONE">DONE</span> Session I.11 Metaphysics</a>
+<ul>
+<li><a href="#org981406b">3.11.1. Karol Polcyn, Conceivability Intuitions and A Posteriori Physicalism</a></li>
+<li><a href="#orgfd0d6ea">3.11.2. Robert Trueman, The functional individuation of properties</a></li>
+<li><a href="#org555e780">3.11.3. Andrei Ionut Marasoiu, Pragmatics and elusive deflationism about extended minds</a></li>
+<li><a href="#org159c335">3.11.4. James Ross, Analogy and Determination</a></li>
+</ul>
+</li>
+<li><a href="#org018b9c8">3.12. <span class="done DONE">DONE</span> Session I.12 Epistemology</a>
+<ul>
+<li><a href="#org86ac3ad">3.12.1. Gabriel de Sousa, Against Conceptual Conformism: Problems from Social Epistemology for Positive Duties to Believe</a></li>
+<li><a href="#orga8d02e6">3.12.2. Kathleen Murphy-Hollies, On Believing What Resonates</a></li>
+<li><a href="#org9d659bb">3.12.3. Aviezer Tucker, Epistemic Generation, Transmission, and Decay</a></li>
+<li><a href="#org79c1ec2">3.12.4. Adham El Shazly, Radical Hope &amp; Moral Imagination</a></li>
+</ul>
+</li>
+<li><a href="#org226923b">3.13. <span class="done DONE">DONE</span> Session I.13 Practical Ethics</a>
+<ul>
+<li><a href="#org29395e3">3.13.1. Rebecca Moore, Ectogenesis- an end to the abortion debate?</a></li>
+<li><a href="#org7006964">3.13.2. Katariina Hynninen, Why The Possibility of Meaning in Captivity Doesn't Justify It</a></li>
+<li><a href="#org7836535">3.13.3. Adam Hudson, What (if anything) is wrong with consumer boycotting?</a></li>
+<li><a href="#orgb221bc9">3.13.4. Gerald Lang, Is There a Defensive Case for Torture?</a></li>
+</ul>
+</li>
+<li><a href="#org2d35aa7">3.14. <span class="done DONE">DONE</span> Session I.14 Philosophy of Mind</a>
+<ul>
+<li><a href="#orgf0e78e7">3.14.1. Elena-Giorgiana Rosu, Agency after the fact: self deception as retrospective explanation</a></li>
+<li><a href="#orgfb58da9">3.14.2. Jonathan Mitchell, Peripersonal Experience: A Sense of Tactile Possibility</a></li>
+<li><a href="#org5ce4b82">3.14.3. Savvas Ioannou, Panmentalism and  the Hard Problem of Consciousness</a></li>
+<li><a href="#orgdd2f34b">3.14.4. Anna Giustina, Moods and the Structure of Consciousness</a></li>
+</ul>
+</li>
+<li><a href="#org49c29bf">3.15. <span class="done DONE">DONE</span> Session I.15 Self, Mind, Competence</a>
+<ul>
+<li><a href="#org137a310">3.15.1. Giovanni Dusi, Against the SkShSi structure of competence</a></li>
+<li><a href="#org180aec3">3.15.2. Krisztian Kos, Exploring Attributions of Affective States: The Affective Picture</a></li>
+<li><a href="#org200ce76">3.15.3. Shunsuke Sasaki, Toward a Unified Account of Survival Criteria through Interventionist Causality</a></li>
+<li><a href="#org7c94f17">3.15.4. Daniel Cristian Stancu, Focusing on Actions to Disperse the Distinction between Minimal Self And Narrative Self</a></li>
+</ul>
+</li>
+<li><a href="#org96a1b91">3.16. <span class="done DONE">DONE</span> Session I.16 Technical Philosophy and its History</a>
+<ul>
+<li><a href="#orgc9dd1e4">3.16.1. Janine Gühler, Pembroke &amp; Worcester Colleges, University of Oxford, Frege on the Objectivity of Numbers and Dependence on Reason</a></li>
+<li><a href="#org4668ea1">3.16.2. Francesco Gandellini, Identity or inseparability? Spinoza meets Wittgenstein</a></li>
+<li><a href="#org729ce8f">3.16.3. Kaj André Zeller, , How to Handle the Problem(s) of Dimensional Poverty</a></li>
+<li><a href="#org94b9ec3">3.16.4. Will Patterson, King's College London, Does 'Why?' objectify agency? A defence of Anscombe's Intention</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgedee3f7">4. Open Session 2: Friday 11.00 – 13.00 <code>[16/17]</code></a>
+<ul>
+<li><a href="#org0454ecf">4.1. <span class="done DONE">DONE</span> Session II.1 Feminist Philosophy</a>
+<ul>
+<li><a href="#org7837ad2">4.1.1. Emily Thomas, Letters of Women Philosophers 1902-1951: Sexism and Shadow Networks</a></li>
+<li><a href="#orgb9ba807">4.1.2. Fiona Woollard, An argument for the unequal distribution of parental duties after birth</a></li>
+<li><a href="#org924a536">4.1.3. Bengü Demirtas, Sexual Consent as a Standing Normative Relation in Enlightenment Philosophy and Marriage Law</a></li>
+<li><a href="#org5461847">4.1.4. Christian Meyer, Freie Universität Berlin, Radical Feminist Conceptions of Sexual Liberation</a></li>
+</ul>
+</li>
+<li><a href="#org7ed1434">4.2. <span class="done DONE">DONE</span> Session II.2 Philosophy of Language</a>
+<ul>
+<li><a href="#orge301e9a">4.2.1. Rhiannon Snook, Ay Up Me Duck! On Written Representations of Linguistic Variation</a></li>
+<li><a href="#org724e882">4.2.2. James Kirkpatrick, A Potentialist Theory of Natural Language</a></li>
+<li><a href="#orgd1398b0">4.2.3. Artur Kosecki, An Austinian Account of Lexicalized Concepts: Responding to Strawson's Challenge in Conceptual Engineering</a></li>
+<li><a href="#orgaaedce0">4.2.4. Hugo Heagren, Divided speech acts</a></li>
+</ul>
+</li>
+<li><a href="#org802d06e">4.3. <span class="done DONE">DONE</span> Session II.3 Sex and Consent</a>
+<ul>
+<li><a href="#org5f91603">4.3.1. Andrés (Andy) Garcia, Love Drunk: Asymmetric Infatuation and the Ethics of Sex</a></li>
+<li><a href="#org8b82bd5">4.3.2. Milena Bartholain, Sexual Paternalism</a></li>
+<li><a href="#org8a36bea">4.3.3. Talita Ferrantelli, Defeating Sexual Consent</a></li>
+<li><a href="#org5b6a63d">4.3.4. Peter Schaber, Legitimate Threats</a></li>
+</ul>
+</li>
+<li><a href="#org7cabdcc">4.4. <span class="done DONE">DONE</span> Session II.4 Philosophy of Science</a>
+<ul>
+<li><a href="#org61736af">4.4.1. Jonny Blamey, Two directions of time and the foundations of science</a></li>
+<li><a href="#org27c9706">4.4.2. Vanessa Seifert, Could AI undermine standard scientific realism?</a></li>
+<li><a href="#orgd4bdb40">4.4.3. Arlene Lo, Fengshui and the Spectre of Scientific Demarcation</a></li>
+<li><a href="#orgc8bd06c">4.4.4. George Webster, From Phenomenology to Quantum Reconstruction: an Argument from Merleau-Ponty</a></li>
+</ul>
+</li>
+<li><a href="#org2ed80e2">4.5. <span class="done DONE">DONE</span> Session II.5 History of Philosophy and Propositions</a>
+<ul>
+<li><a href="#org32747b2">4.5.1. Fridolin Neumann, What is idle talk? Heidegger, untruth, and ontological disguise</a></li>
+<li><a href="#org7959b3e">4.5.2. Quentin Hosch, James Ward's Theory of Presentation</a></li>
+<li><a href="#org16b0b7e">4.5.3. Sean Maroney, Edith Stein's Emotion Ontology</a></li>
+<li><a href="#org3dbcda6">4.5.4. Jacopo Berneri, The Copernican Turn of Structured Properties and Propositions</a></li>
+</ul>
+</li>
+<li><a href="#orga3f6325">4.6. <span class="done DONE">DONE</span> Session II.6 Childhood, Love, Friendship</a>
+<ul>
+<li><a href="#org8ab1c18">4.6.1. Andrea Villalba Cuesta, Shape of a Childhood</a></li>
+<li><a href="#org24f68fd">4.6.2. Matthew Robson, Simone de Beauvoir and the Possibility of Authentic Parental Love</a></li>
+<li><a href="#org0bc7ef5">4.6.3. Ida Miczke, When love met morality: anonymity, irreplaceability, and partial self-effacement</a></li>
+<li><a href="#org710c03d">4.6.4. Ruth Boeker, Mary Astell and Mary Lee Chudleigh on Friendship, Social Relations, and Moral Perfection</a></li>
+</ul>
+</li>
+<li><a href="#orga6e99a4">4.7. <span class="done DONE">DONE</span> Session II.7 Epistemology</a>
+<ul>
+<li><a href="#org9af40c7">4.7.1. Pawel Grad, The debasing effects of higher-order defeat</a></li>
+<li><a href="#org4f03ae6">4.7.2. Thomas Koster, Generative Memorial Knowledge and Knowledge Acquisition Conditions</a></li>
+<li><a href="#org78d1a2d">4.7.3. Bob Lockie, Knowledge, Understanding and Schemata: Lessons for Epistemology from the Psychology of Expertise</a></li>
+<li><a href="#org7e643e2">4.7.4. Vijay Keshav, Why Moore's Proof Works</a></li>
+</ul>
+</li>
+<li><a href="#orgd563cba">4.8. <span class="done DONE">DONE</span> Session II.8 Metaphysics and Logic</a>
+<ul>
+<li><a href="#orgb6f5409">4.8.1. Cansu Yuksel Yildiz, Grounding Modality and Lewisian Amodalism</a></li>
+<li><a href="#orga2ef752">4.8.2. Yongwoo Yi, Fundamental Quantities in Dispositional Essentialism</a></li>
+<li><a href="#org544265f">4.8.3. Emils Zavelis, A New Perspective on Impossible Worlds</a></li>
+<li><a href="#orgf86c9c2">4.8.4. Ziad Eldanaf, When Parthood Breaks: Hylomorphism and the Limits of Classical Mereology</a></li>
+</ul>
+</li>
+<li><a href="#org3035f48">4.9. <span class="done DONE">DONE</span> Session II.9 Subjectivity, Normativity, and Attention</a>
+<ul>
+<li><a href="#orga944dda">4.9.1. Joseph Neisser, Familiarity and self-consciousness</a></li>
+<li><a href="#orgfb0f484">4.9.2. Alon Isac, Pain's Normative Constraints</a></li>
+<li><a href="#org34c1c33">4.9.3. William Gopal, Expertise and Norms of Attention</a></li>
+<li><a href="#org6f9cbc8">4.9.4. Paul Healey, An Indemonstrable Grief</a></li>
+</ul>
+</li>
+<li><a href="#org8dad913">4.10. <span class="done DONE">DONE</span> Session II.10 Justice and Injustice</a>
+<ul>
+<li><a href="#org56e54aa">4.10.1. Karl Landström, The Wrongs and Harms of Epistemic Exploitation</a></li>
+<li><a href="#orgbe68bb3">4.10.2. Dominik Jarczewski, On Epistemic Respect</a></li>
+<li><a href="#org0245b51">4.10.3. Chelsea Guo, Doxastic Injustice, not Wronging</a></li>
+<li><a href="#org2c44f23">4.10.4. Michele Bocchiola, Trusting the Institutional Rule-Breaker. Office Trust Under Dirty Hands</a></li>
+</ul>
+</li>
+<li><a href="#org862d365">4.11. <span class="done DONE">DONE</span> Session II.11 Philosophy of Mind</a>
+<ul>
+<li><a href="#orgd7665a5">4.11.1. Daniel Morgan, The Shallows of the Addicted Mind</a></li>
+<li><a href="#org1ec52d9">4.11.2. Zhengping Zhang, Toward a Relational Picture of Self-Trust</a></li>
+<li><a href="#orgb12b4c0">4.11.3. James Ralph, How Could I Have Known? Undiagnosed ADHD as Hermeneutical Injustice</a></li>
+<li><a href="#orgb7ed308">4.11.4. Sandra Branzaru, To ToM or not ToM: the LLMs question</a></li>
+</ul>
+</li>
+<li><a href="#org79d0bb8">4.12. <span class="done DONE">DONE</span> Session II.12 Mysticism and Mind</a>
+<ul>
+<li><a href="#org821a1e0">4.12.1. Alice Harberd, Closure and Mysticism</a></li>
+<li><a href="#org723504e">4.12.2. Christopher Jay, Interestingly Ineffable Knowledge</a></li>
+<li><a href="#org59baece">4.12.3. Alice Hilder Jarvis, Diagnostic Criteria: Metaphysical, Epistemic, and Ethical Constraints on Psychiatric Classification</a></li>
+<li><a href="#org78d362c">4.12.4. Jiayue Jin, Self-Trust: Saying 'I' Without Knowing</a></li>
+</ul>
+</li>
+<li><a href="#orged4cd86">4.13. <span class="done DONE">DONE</span> Session II.13 Metaethics: Reasons and Fit</a>
+<ul>
+<li><a href="#org1e05198">4.13.1. Alex Gregory, When is it fitting to be happy?</a></li>
+<li><a href="#org23760c7">4.13.2. Bennett Eckert-Kuang, Actions as Reasons for Actions</a></li>
+<li><a href="#org7cf5871">4.13.3. Marie Wegener, Special Reasons, Two Strategies, One Problem: The Limits of Value-Based Theories of Practical Reasons</a></li>
+<li><a href="#orge106afb">4.13.4. Gonzalo Velasco Arias, Institutional Proleptic Blame and the Limits of Fittingness</a></li>
+</ul>
+</li>
+<li><a href="#org62aed5d">4.14. <span class="done DONE">DONE</span> Session II.14 Moral &amp; Political Philosophy</a>
+<ul>
+<li><a href="#orgbb41131">4.14.1. Abida Malik, Is Democracy Doomed? On the Importance of Epistemic Virtues</a></li>
+<li><a href="#orgecc4c77">4.14.2. Conor Clarke, Should we be Externalists about Political Justification?</a></li>
+<li><a href="#org38c8ba5">4.14.3. Moritz Schnorpfeil, Collective Traps: When State-Provided Goods Are Bad For Recipients</a></li>
+<li><a href="#orgc984609">4.14.4. Xinyue Hu, Contributing beyond Duty: Identity-Based Membership in Collective Action</a></li>
+</ul>
+</li>
+<li><a href="#org5a2a2e7">4.15. <span class="done DONE">DONE</span> Session II.15 Philosophy of Maths and Logic</a>
+<ul>
+<li><a href="#org992357c">4.15.1. Karol Wapniarski, Reconsidering Leibniz's influence on Russell through the Russell-Couturat Correspondence</a></li>
+<li><a href="#orgc482cbf">4.15.2. Wouter Cohen, Carnapian pragmatism and neo-logicism</a></li>
+<li><a href="#org44d4178">4.15.3. Samuel Boudreau, An Account of the Infinite Regress of Demonstrations in Aristotle's Posterior Analytics I.3.</a></li>
+<li><a href="#orgd14b853">4.15.4. Boaz Laan, A tension for the interpretational approach to modal potentialism</a></li>
+</ul>
+</li>
+<li><a href="#org5b94d8d">4.16. <span class="done DONE">DONE</span> Session II.16 Reason, Mind, Action</a>
+<ul>
+<li><a href="#org9c8ee1f">4.16.1. Tiago Carneiro da Silva, Experimental Ethics and Self-evidence</a></li>
+<li><a href="#org8e8e683">4.16.2. Eliot Watkins, Normative Reasons and Attitude Intensity</a></li>
+<li><a href="#org41c7a64">4.16.3. Daniel Dearlove, Naïve Realism and Understanding Why</a></li>
+<li><a href="#orgcc74e7d">4.16.4. Paul Thomas Engeland, Helplessly Hoping</a></li>
+</ul>
+</li>
+<li><a href="#orgc0d94fc">4.17. <span class="todo TODO">TODO</span> Session II.17 Relations to Others</a>
+<ul>
+<li><a href="#org1fd409e">4.17.1. Mollie Gerver, King's College London, How To Win Friends and Influence People with Philosophy</a></li>
+<li><a href="#orgcb94dae">4.17.2. Karri Heikkinen, Complaints, Gratitude, and the Procreation Asymmetry</a></li>
+<li><a href="#org2dd51ee">4.17.3. Zeynep Çelik, Collective Authorship in Theatrical Works: A Hierarchical Account</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orge1aa780">5. Open Session 3: Friday 14.00 – 16.00 <code>[15/17]</code></a>
+<ul>
+<li><a href="#orgd6dd455">5.1. <span class="done DONE">DONE</span> Session III.1 Rationality</a>
+<ul>
+<li><a href="#org07f0e8c">5.1.1. Chenwei Nie, University of Warwick, Rational People's Irrational Beliefs</a></li>
+<li><a href="#org87adc1e">5.1.2. Puneh Nejati-Mehr, When Self-Prediction Becomes Temptation: Intention and Self-Governance</a></li>
+<li><a href="#org0158964">5.1.3. Johan Du Plessis, Person-Affecting Views of Population Ethics and Sequential Decisions</a></li>
+<li><a href="#orgd7220b0">5.1.4. David Chandler, The Abilities of the Ambivalent</a></li>
+</ul>
+</li>
+<li><a href="#org74cf323">5.2. <span class="done DONE">DONE</span> Session III.2 Epistemology</a>
+<ul>
+<li><a href="#orgb61a36b">5.2.1. Lisa Bastian, Epistemic Boycott</a></li>
+<li><a href="#orgccd77b1">5.2.2. TANUJ MILIND RAUT, Against normative contextualism about epistemic vices</a></li>
+<li><a href="#org93b01ad">5.2.3. Mikhail Volkov, How Social Media Renders Intellectual Vice Rational</a></li>
+<li><a href="#org9fc34cb">5.2.4. Parris Sammut, Assertion, Rules, and Entitlement</a></li>
+</ul>
+</li>
+<li><a href="#orgc579d4e">5.3. <span class="done DONE">DONE</span> Session III.3 Political philosophy</a>
+<ul>
+<li><a href="#orgf085dbe">5.3.1. Dong-il Kim, The Missing Half of Justice: Distributing Primary Burdens</a></li>
+<li><a href="#org6bab4bf">5.3.2. George Hull, Inequality of Opportunity as a Structural Accessory after the Fact to Past Injustice</a></li>
+<li><a href="#org552f268">5.3.3. Bill Wringe, Cuguano's Reparative Duties of Dissociation</a></li>
+<li><a href="#orgdadb6c5">5.3.4. Mert Atessal, Bilkent University, Why You Cannot Own the Parthenon: Cultural Treasures and the Limits of Property</a></li>
+</ul>
+</li>
+<li><a href="#org3bd19f8">5.4. <span class="done DONE">DONE</span> Session III.4 Computing</a>
+<ul>
+<li><a href="#org754d6cb">5.4.1. Lena Wang, Taxonomically Transformative Technologies: AI Systems as Conceptual Engineers</a></li>
+<li><a href="#org9f8b354">5.4.2. Wu Qiantong, The Possibility of Human-Like Consciousness in Large Language Models</a></li>
+<li><a href="#org021ca07">5.4.3. Bon-Hyuk Koo, Does the Opacity of Deep Learning Undermine Scientific Realism?</a></li>
+<li><a href="#orgff21cca">5.4.4. Gianluigi Viscusi, Linköping University, Freedom By Design: Pluralism Of Values And Determinism In Big Data And Analytics</a></li>
+</ul>
+</li>
+<li><a href="#org3a285ed">5.5. <span class="done DONE">DONE</span> Session III.5 History of Philosophy</a>
+<ul>
+<li><a href="#org5ec6b03">5.5.1. Piotr Szalek, Intentionality and Representationalism</a></li>
+<li><a href="#org83d5929">5.5.2. Antonio Borge, Towards an Objectivist Reading of Spinoza's Panpsychism</a></li>
+<li><a href="#org3eab99b">5.5.3. Juuso Rantanen, Time, Inner Sense and the Falsity of Sensibilism</a></li>
+<li><a href="#org70fd798">5.5.4. Luke Jennings, University of Oxford, How Apt is Aristotle’s Comparison between Craft Production and Reproduction?</a></li>
+</ul>
+</li>
+<li><a href="#org4f4cc22">5.6. <span class="done DONE">DONE</span> Session III.6 Feminist Philosophy and Injustice</a>
+<ul>
+<li><a href="#org10ba590">5.6.1. Nick Clanchy, Second-Order Hermeneutical Breakthroughs</a></li>
+<li><a href="#org12b5cf6">5.6.2. Justina Berskyte, The Carrot, The Stick, and The Oppressive Ideology: Two Sides of Misogyny</a></li>
+<li><a href="#org8184cdc">5.6.3. Sophie Keeling, Standpoint Know-How</a></li>
+<li><a href="#org4a59ea1">5.6.4. Richard Hassall, Hermeneutical Injustice and Damaged Intellectual Self-trust in Psychiatric Service users</a></li>
+</ul>
+</li>
+<li><a href="#org8533e0a">5.7. <span class="done DONE">DONE</span> Session III.7 Moral Philosophy</a>
+<ul>
+<li><a href="#orgb049b4e">5.7.1. Nicola Zetti, Full Excuses Negate Wrongdoing</a></li>
+<li><a href="#org560a793">5.7.2. Ignacio Pena, The significance of intentions for consent and liability to defensive harm</a></li>
+<li><a href="#orga247ced">5.7.3. Rebecca Dreier, The Moral Significance of Episodic-Like Memory</a></li>
+<li><a href="#orga23a486">5.7.4. Lisa McLaughlin, Caring action and intention</a></li>
+</ul>
+</li>
+<li><a href="#org36e02e0">5.8. <span class="todo TODO">TODO</span> Session III.8 Metaphysics</a>
+<ul>
+<li><a href="#orgdad9702">5.8.1. Harry Cleeveley, The A Priori Truth of Modal Rationalism</a></li>
+<li><a href="#orgeef1d58">5.8.2. İbrahim Hansu, A Free Will Argument for DARC (Deliberation Annihilates Reflexive Credences)</a></li>
+<li><a href="#org4f44fd0">5.8.3. Charlie Green, Can the Structure of Primitive Colours be Reductively Explained?</a></li>
+</ul>
+</li>
+<li><a href="#org0a77543">5.9. <span class="done DONE">DONE</span> Session III.9 Philosophy of Science</a>
+<ul>
+<li><a href="#org4c1dfae">5.9.1. Mariona Miyata-Sturm, Aesthetic qualities will not help you gain nonfactive understanding</a></li>
+<li><a href="#orgd1c3bc6">5.9.2. Dragana Bozin, An Argument for Social Reasoning</a></li>
+<li><a href="#orgd63fd4c">5.9.3. Hong Joo Ryoo, Grounding and Causation are the Same (Fundamentally)</a></li>
+<li><a href="#org0632031">5.9.4. Ruodan Que, Interventionism, Agency Theory of Causation, and Impossible Interventions</a></li>
+</ul>
+</li>
+<li><a href="#orgc902956">5.10. <span class="todo TODO">TODO</span> Session III.10 Metaphysics and Mind</a>
+<ul>
+<li><a href="#orgfec0589">5.10.1. Arturo Vazquez-Hernandez, Psychological Language, Machine Behaviour and Intelligence</a></li>
+<li><a href="#orgf707059">5.10.2. Phillip Meadows, Causation By Omission, Norms, and The Problem of Profligacy</a></li>
+</ul>
+</li>
+<li><a href="#org710fefa">5.11. <span class="done DONE">DONE</span> Session III.11 Normative Ethics</a>
+<ul>
+<li><a href="#org157ce38">5.11.1. Thomas Schmidt, Rescue Dilemmas and the Aggregation of Reasons</a></li>
+<li><a href="#org937e9c7">5.11.2. Tommaso Soriani, The Perdurantist Responsibility Gap</a></li>
+<li><a href="#org6ca6c47">5.11.3. Koji Tachibana, Is the frontier spirit a virtue or a vice?</a></li>
+<li><a href="#orge01920c">5.11.4. Thomas Lockhart, The Inevitability of Deontic Conflict</a></li>
+</ul>
+</li>
+<li><a href="#org769fc45">5.12. <span class="done DONE">DONE</span> Session III.12 Moral Worth and Responsibility</a>
+<ul>
+<li><a href="#org4eafee9">5.12.1. Jackson Iszler, Defending Pluralism about Moral Worth: When Belief Fails to Motivate</a></li>
+<li><a href="#orgbf5e109">5.12.2. Daniel Dennis, Strawson's 'Basic Argument', Moral Responsibility, Learning Ethics and Your Foundational Choice</a></li>
+<li><a href="#orgc75f6a6">5.12.3. Emmanuel Campion-Dye, How to reverse the order of explanation in the responsibility debate</a></li>
+<li><a href="#orgdabd2c3">5.12.4. Amy Duong, Kant on 'practice makes virtue'</a></li>
+</ul>
+</li>
+<li><a href="#org0d4fecc">5.13. <span class="done DONE">DONE</span> Session III.13 Philosophy of Language</a>
+<ul>
+<li><a href="#org5f2dd7c">5.13.1. David Nicolas, Partitives, Groups, and Wholes</a></li>
+<li><a href="#orga935886">5.13.2. Andrea Raimondi, University of Vienna, Reference, Conflicting Intentions, and the Madagascar Problem</a></li>
+<li><a href="#org60f5a42">5.13.3. Adam Wingårdh, Why Many Conditionals are Ambiguous</a></li>
+<li><a href="#org91cf670">5.13.4. Paolo Bonardi, Williamson and Salmon on Propositions and Guises</a></li>
+</ul>
+</li>
+<li><a href="#org116442b">5.14. <span class="done DONE">DONE</span> Session III.14 Mind and Perception</a>
+<ul>
+<li><a href="#orgf3914af">5.14.1. Romanos Koutedakis, Meinongian Theories of Perception</a></li>
+<li><a href="#orga0085a7">5.14.2. Daniel Garcia Saavedra, Into the Heart of the Experiences of Total Darkness</a></li>
+<li><a href="#orgdccdfae">5.14.3. Noddy Lam, On the Temporal Viewpointedness of Perceptual Experience</a></li>
+<li><a href="#org505fc28">5.14.4. Alice Roberts, Can Statues Make Values 'Perceptible'?</a></li>
+</ul>
+</li>
+<li><a href="#org6d7c031">5.15. <span class="done DONE">DONE</span> Session III.15 Metaphysics and Action</a>
+<ul>
+<li><a href="#org910b67a">5.15.1. Andres Luco, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required</a></li>
+<li><a href="#orgf704cec">5.15.2. Robyn Waller, Sourcehood compatibilism requires alternatives: New perspectives on Frankfurt cases and the Garden of Forking Paths</a></li>
+<li><a href="#orgf3436f2">5.15.3. Karl Egerton, Gamification: an explication</a></li>
+<li><a href="#orgd9641c6">5.15.4. Jan Westerhoff, Idealism and predictive processing</a></li>
+</ul>
+</li>
+<li><a href="#org0c44de1">5.16. <span class="done DONE">DONE</span> Session III.16 Discourse, Assertion, Memory</a>
+<ul>
+<li><a href="#orgd0fcf50">5.16.1. Ross Patrizio, Assertion without sanctions</a></li>
+<li><a href="#org8c6380a">5.16.2. Johan Chung, How to Stop Talking Past Eachother</a></li>
+<li><a href="#orgd716e38">5.16.3. Ravi Thakral, Socially Centered Discourse</a></li>
+<li><a href="#org28794b5">5.16.4. Jessie Munton What Difference Does Remembering Make?</a></li>
+</ul>
+</li>
+<li><a href="#org6f1e1e3">5.17. <span class="done DONE">DONE</span> Session III.17 Moral and Normative Philosophy</a>
+<ul>
+<li><a href="#org65a4254">5.17.1. Guido Melchior, University of Graz, Epistemic regresses as starting-problems and stopping-problems</a></li>
+<li><a href="#org6260205">5.17.2. Nora Grigore, Romanian Academy, Moral Normative Forces and the Problem of Supererogation</a></li>
+<li><a href="#org1e0347e">5.17.3. Joshua Jarvis-Campbell, Animal Agriculture and the Long-Term Future</a></li>
+<li><a href="#org40d287e">5.17.4. Charlotte Franziska Unruh, University of Southampton, Understanding the Relationship between Meaningfulness and Well-Being</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org06ecbb1" class="outline-2">
+<h2 id="org06ecbb1"><span class="section-number-2">1.</span> How to use this document</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Please check the timetable and that your title (and abstract, if
+present) are correct. My apologies if you submitted a change and I've
+missed it &#x2013; please email me. I'm adding affilitations and abstracts
+as the line-up is finalised.
+</p>
+</div>
+</div>
+<div id="outline-container-org6f194ae" class="outline-2">
+<h2 id="org6f194ae"><span class="section-number-2">2.</span> Open Sessions Rules and Advice</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Each open session takes two hours, split (in nearly every case)
+between four speakers.
+</p>
+
+<p>
+Grouping such a large number of papers into sessions of four means for
+some slightly odd or arbitrary groupings; sorry about that. Sometimes
+this is due to speaker scheduling constraints, but it may often simply
+be strange choices on my part!
+</p>
+</div>
+<div id="outline-container-orgefdaa0f" class="outline-3">
+<h3 id="orgefdaa0f"><span class="section-number-3">2.1.</span> Finding your room</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Because of the large number of parallel sessions, some of the sessions
+will be in the two large lecture theatres. I know this is a bit odd,
+but I thought it better than going for buildings outside Palmer and
+Edith Morley (which are very close together).
+</p>
+
+<p>
+Many people find the Edith Morley building confusing, which I've never
+understood. It's a masterpiece of logical planned architecture.
+</p>
+
+<p>
+The first part of a room number (G/1/2/3/4) is the floor. The second
+part is the room. For the latter, use the numbering signs along the
+corridors, rather than the maps. The maps are genuinely confusing.
+</p>
+</div>
+</div>
+<div id="outline-container-org1f8d087" class="outline-3">
+<h3 id="org1f8d087"><span class="section-number-3">2.2.</span> Within the session</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Traditionally, one of the speakers chairs the session. The order of
+the speakers is arbitrary within each session.
+</p>
+
+<p>
+I'd advise keeping paper plus question and answer to 25 minutes, to
+allow for changeover.
+</p>
+
+<p>
+Chairs should only tolerate follow-up questions if all other askers
+have had a go and there is time left.
+</p>
+</div>
+</div>
+<div id="outline-container-org16cc625" class="outline-3">
+<h3 id="org16cc625"><span class="section-number-3">2.3.</span> Screens? Handouts?</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+It's possible to use the in-room projectors or screens, but it might
+be easier to bring your own laptop and attach it. It might be even
+easier to use a handout (you will need to bring copies).
+</p>
+
+<p>
+Or easiest of all is to use the board. I'll go around a few days
+before the Joint Session to make sure there's at least one working
+marker pen in each room.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org5fe3e6c" class="outline-2">
+<h2 id="org5fe3e6c"><span class="section-number-2">3.</span> Open Session I: Thursday 17.00 – 19.00 <code>[16/16]</code></h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org5554638" class="outline-3">
+<h3 id="org5554638"><span class="section-number-3">3.1.</span> <span class="done DONE">DONE</span> Session I.1 Metaethics</h3>
+<div class="outline-text-3" id="text-3-1">
+</div>
+<div id="outline-container-orgd675523" class="outline-4">
+<h4 id="orgd675523"><span class="section-number-4">3.1.1.</span> Ronan Ó Maonaile, Why Fit-Making Considerations Are Not Normative Reasons</h4>
+</div>
+<div id="outline-container-orgdde3c7d" class="outline-4">
+<h4 id="orgdde3c7d"><span class="section-number-4">3.1.2.</span> Samuele Chilovi, Normative Authority, Formal Normativity, and the Question of What to Do</h4>
+</div>
+<div id="outline-container-org86f9aba" class="outline-4">
+<h4 id="org86f9aba"><span class="section-number-4">3.1.3.</span> Umut Baysan, Reasons as Non-Causal Powers</h4>
+</div>
+<div id="outline-container-org83ea537" class="outline-4">
+<h4 id="org83ea537"><span class="section-number-4">3.1.4.</span> Niklas Kurzböck, An Essentialist Explanation for the Normative Status of Future Generations</h4>
+</div>
+</div>
+<div id="outline-container-org6ef116a" class="outline-3">
+<h3 id="org6ef116a"><span class="section-number-3">3.2.</span> <span class="done DONE">DONE</span> Session I.2 Artificial Intelligence</h3>
+<div class="outline-text-3" id="text-3-2">
+</div>
+<div id="outline-container-org0d8f658" class="outline-4">
+<h4 id="org0d8f658"><span class="section-number-4">3.2.1.</span> Ari Deller, 'Can AIs do X': The Wrong Question in AI Scholarship</h4>
+</div>
+<div id="outline-container-org39d9adf" class="outline-4">
+<h4 id="org39d9adf"><span class="section-number-4">3.2.2.</span> Rory Aird, ChatGPT isn't safe</h4>
+</div>
+<div id="outline-container-org22cc2fc" class="outline-4">
+<h4 id="org22cc2fc"><span class="section-number-4">3.2.3.</span> Rahul Kumar Maurya, Ethics and AI's Challenge to Humanity: A Perspective from Early Buddhism</h4>
+</div>
+<div id="outline-container-org9c8c846" class="outline-4">
+<h4 id="org9c8c846"><span class="section-number-4">3.2.4.</span> Drew Chambers, When should you trust ChatGPT? Deference, Inquiry, and Epistemic Risk</h4>
+</div>
+</div>
+<div id="outline-container-org285ea0c" class="outline-3">
+<h3 id="org285ea0c"><span class="section-number-3">3.3.</span> <span class="done DONE">DONE</span> Session I.3 Normative Ethics</h3>
+<div class="outline-text-3" id="text-3-3">
+</div>
+<div id="outline-container-orgc66f6ef" class="outline-4">
+<h4 id="orgc66f6ef"><span class="section-number-4">3.3.1.</span> Rebecca Brione, Requests for permission: an intriguing normative phenomenon hiding in plain sight</h4>
+<div class="outline-text-4" id="text-3-3-1">
+<p>
+We perform requests for permission all the time. However, little
+attention has been paid to what we do with our words when we request
+permission. In contrast there is plentiful analysis, although
+considerable disagreement, on how we characterise <i>responses</i> to
+requests for permission and what we do when we perform simple requests
+such as ‘pass the salt’. This dichotomy is striking because permission
+requests are equally commonplace in everyday life, playing a rich role
+in ongoing debates about consent, refusal and the conditions for
+autonomy in people’s lives.
+</p>
+
+<p>
+This paper offers a novel characterisation of permission requests. It
+argues that permission requests generate <i>de novo</i>,
+content-independent, discretionary reasons for action. That is, they
+directly generate reasons for the requestee to waive a claim-right,
+simply ‘because I asked’. The paper shows that analysing permission
+requests provides novel reasons to support the claim that all requests
+generate discretionary reasons, rather than obligations, for the
+requestee to act, and that there are valuable autonomy-related reasons
+for this.
+</p>
+
+<p>
+Permission requests have been overlooked as an important normative
+phenomenon in their own right. Analysing these important illocutions
+also supports a more robust characterisation of requests as a whole,
+and provides a springboard for better understanding their
+socially-significant sequelae of consent and refusal.
+</p>
+</div>
+</div>
+<div id="outline-container-org6674637" class="outline-4">
+<h4 id="org6674637"><span class="section-number-4">3.3.2.</span> Dong An, Moral Bitterness Reconsidered</h4>
+</div>
+<div id="outline-container-org66e3c73" class="outline-4">
+<h4 id="org66e3c73"><span class="section-number-4">3.3.3.</span> Pilar Lopez-Cantero, Friendship break-ups</h4>
+</div>
+<div id="outline-container-org12481f2" class="outline-4">
+<h4 id="org12481f2"><span class="section-number-4">3.3.4.</span> Anna Dvorishchina, Compassion Towards the Culpable</h4>
+</div>
+</div>
+<div id="outline-container-orge568d30" class="outline-3">
+<h3 id="orge568d30"><span class="section-number-3">3.4.</span> <span class="done DONE">DONE</span> Session I.4 Political Philosophy</h3>
+<div class="outline-text-3" id="text-3-4">
+</div>
+<div id="outline-container-orga2e28b4" class="outline-4">
+<h4 id="orga2e28b4"><span class="section-number-4">3.4.1.</span> Kieran Oberman, Nature vs Murder</h4>
+</div>
+<div id="outline-container-org793895a" class="outline-4">
+<h4 id="org793895a"><span class="section-number-4">3.4.2.</span> Gunnar Björnsson, Distributing the State's Agency: A New Framework for Political Justice</h4>
+</div>
+<div id="outline-container-org4b80ded" class="outline-4">
+<h4 id="org4b80ded"><span class="section-number-4">3.4.3.</span> Marta Giunta Martino, Can Institutions Express Dissent? An Ontological Perspective on Institutional Moral Protest</h4>
+</div>
+<div id="outline-container-orgcc14ade" class="outline-4">
+<h4 id="orgcc14ade"><span class="section-number-4">3.4.4.</span> Qifan Yang, Hierarchical Injustice and Immigration</h4>
+</div>
+</div>
+<div id="outline-container-org84ce42a" class="outline-3">
+<h3 id="org84ce42a"><span class="section-number-3">3.5.</span> <span class="done DONE">DONE</span> Session I.5 Aesthetics</h3>
+<div class="outline-text-3" id="text-3-5">
+</div>
+<div id="outline-container-org534560c" class="outline-4">
+<h4 id="org534560c"><span class="section-number-4">3.5.1.</span> Mehmet YILDIZ, Context of Distraction: On the Nature of Silly Questions</h4>
+</div>
+<div id="outline-container-org4150ebf" class="outline-4">
+<h4 id="org4150ebf"><span class="section-number-4">3.5.2.</span> Leonardo Nanni, An Aesthetic Argument for Supererogatory Actions</h4>
+</div>
+<div id="outline-container-orgad315f8" class="outline-4">
+<h4 id="orgad315f8"><span class="section-number-4">3.5.3.</span> Tessa Ditner Amorosi, The Epistemic Impact of an Aesthetic Category</h4>
+</div>
+<div id="outline-container-orge46c37c" class="outline-4">
+<h4 id="orge46c37c"><span class="section-number-4">3.5.4.</span> Colette Olive, Miserable Characters and Unfeeling Artists: Trauma Porn as an Aesthetic Failing</h4>
+</div>
+</div>
+<div id="outline-container-orga86a8ef" class="outline-3">
+<h3 id="orga86a8ef"><span class="section-number-3">3.6.</span> <span class="done DONE">DONE</span> Session I.6 Ancient Philosophy</h3>
+<div class="outline-text-3" id="text-3-6">
+</div>
+<div id="outline-container-org74c897d" class="outline-4">
+<h4 id="org74c897d"><span class="section-number-4">3.6.1.</span> Elena Padoan, Plato's Forms as Neutrals: Neither Universals Nor Particulars</h4>
+</div>
+<div id="outline-container-orgab5eb21" class="outline-4">
+<h4 id="orgab5eb21"><span class="section-number-4">3.6.2.</span> Benjamin Conover, A New Perspective on the Receptacle in Plato's Timaeus</h4>
+</div>
+<div id="outline-container-orge44bf9a" class="outline-4">
+<h4 id="orge44bf9a"><span class="section-number-4">3.6.3.</span> Alba Cercas Curry, Fake it, but never make it: The case for feigned contempt in Early Chinese Philosophy</h4>
+</div>
+<div id="outline-container-orgda3cd34" class="outline-4">
+<h4 id="orgda3cd34"><span class="section-number-4">3.6.4.</span> Sofija Anna Kozlova, Celestial Good in Aristotle</h4>
+</div>
+</div>
+<div id="outline-container-org4017717" class="outline-3">
+<h3 id="org4017717"><span class="section-number-3">3.7.</span> <span class="done DONE">DONE</span> Session I.7 Philosophy of Language</h3>
+<div class="outline-text-3" id="text-3-7">
+</div>
+<div id="outline-container-orga477c7b" class="outline-4">
+<h4 id="orga477c7b"><span class="section-number-4">3.7.1.</span> Alex Murphy, A Humanistic Approach to the Two Images</h4>
+</div>
+<div id="outline-container-org5064e7d" class="outline-4">
+<h4 id="org5064e7d"><span class="section-number-4">3.7.2.</span> Maria Forsberg, Conceptual innovation: what it is and should be</h4>
+</div>
+<div id="outline-container-org26473f6" class="outline-4">
+<h4 id="org26473f6"><span class="section-number-4">3.7.3.</span> Sarah Fisher, Shoring up speech norms in an age of artificial language generators</h4>
+</div>
+<div id="outline-container-org780e08b" class="outline-4">
+<h4 id="org780e08b"><span class="section-number-4">3.7.4.</span> Uri Brun, Beyond the Implementation Problem: A Cavellian Perspective on Conceptual Engineering</h4>
+</div>
+</div>
+<div id="outline-container-orgdb3279b" class="outline-3">
+<h3 id="orgdb3279b"><span class="section-number-3">3.8.</span> <span class="done DONE">DONE</span> Session I.8 Perception</h3>
+<div class="outline-text-3" id="text-3-8">
+</div>
+<div id="outline-container-org7b9497b" class="outline-4">
+<h4 id="org7b9497b"><span class="section-number-4">3.8.1.</span> Pietro Chiericoni, Cross-Cultural Variations in Emotionally Charged Perception</h4>
+</div>
+<div id="outline-container-org1f6d947" class="outline-4">
+<h4 id="org1f6d947"><span class="section-number-4">3.8.2.</span> Eugen Fischer, Experimental argument analysis: Empirically examining the argument from hallucination</h4>
+</div>
+<div id="outline-container-orgf4fdfce" class="outline-4">
+<h4 id="orgf4fdfce"><span class="section-number-4">3.8.3.</span> Niccolò Nanni, When The Senses Don't Match</h4>
+</div>
+<div id="outline-container-org2888403" class="outline-4">
+<h4 id="org2888403"><span class="section-number-4">3.8.4.</span> Roope Ryymin, What We See in the Shadows</h4>
+</div>
+</div>
+<div id="outline-container-org1dfbc7a" class="outline-3">
+<h3 id="org1dfbc7a"><span class="section-number-3">3.9.</span> <span class="done DONE">DONE</span> Session I.9 Interpersonal Relationships</h3>
+<div class="outline-text-3" id="text-3-9">
+</div>
+<div id="outline-container-org028e86b" class="outline-4">
+<h4 id="org028e86b"><span class="section-number-4">3.9.1.</span> Hannah Barrios, Relationships Without the Reactive Attitudes</h4>
+</div>
+<div id="outline-container-orgf0192bd" class="outline-4">
+<h4 id="orgf0192bd"><span class="section-number-4">3.9.2.</span> Christina Fritz, Automatic Speech, Unintentional Harm, and Moral Accountability</h4>
+</div>
+<div id="outline-container-org91b9b45" class="outline-4">
+<h4 id="org91b9b45"><span class="section-number-4">3.9.3.</span> Javier Moreno, Why Is Breaching Trust Morally Wrong?</h4>
+</div>
+<div id="outline-container-org2e0025b" class="outline-4">
+<h4 id="org2e0025b"><span class="section-number-4">3.9.4.</span> Leah Henderson, Defining 'societal trust'</h4>
+</div>
+</div>
+<div id="outline-container-org61635cc" class="outline-3">
+<h3 id="org61635cc"><span class="section-number-3">3.10.</span> <span class="done DONE">DONE</span> Session I.10 Rational Choice, Beliefs, Differences</h3>
+<div class="outline-text-3" id="text-3-10">
+</div>
+<div id="outline-container-org0ceb1e0" class="outline-4">
+<h4 id="org0ceb1e0"><span class="section-number-4">3.10.1.</span> Kangyu Wang, Making Hard Choices for Changing Selves</h4>
+</div>
+<div id="outline-container-org486cce5" class="outline-4">
+<h4 id="org486cce5"><span class="section-number-4">3.10.2.</span> Binjie Zou, Ramsey: Measuring partial belief</h4>
+</div>
+<div id="outline-container-org8d53bd9" class="outline-4">
+<h4 id="org8d53bd9"><span class="section-number-4">3.10.3.</span> Nicholas Smith, What are Degrees of Belief?</h4>
+</div>
+<div id="outline-container-org6463e2d" class="outline-4">
+<h4 id="org6463e2d"><span class="section-number-4">3.10.4.</span> Matthew Rellihan, Difference Making in Action</h4>
+</div>
+</div>
+<div id="outline-container-org29700ed" class="outline-3">
+<h3 id="org29700ed"><span class="section-number-3">3.11.</span> <span class="done DONE">DONE</span> Session I.11 Metaphysics</h3>
+<div class="outline-text-3" id="text-3-11">
+</div>
+<div id="outline-container-org981406b" class="outline-4">
+<h4 id="org981406b"><span class="section-number-4">3.11.1.</span> Karol Polcyn, Conceivability Intuitions and A Posteriori Physicalism</h4>
+</div>
+<div id="outline-container-orgfd0d6ea" class="outline-4">
+<h4 id="orgfd0d6ea"><span class="section-number-4">3.11.2.</span> Robert Trueman, The functional individuation of properties</h4>
+</div>
+<div id="outline-container-org555e780" class="outline-4">
+<h4 id="org555e780"><span class="section-number-4">3.11.3.</span> Andrei Ionut Marasoiu, Pragmatics and elusive deflationism about extended minds</h4>
+</div>
+<div id="outline-container-org159c335" class="outline-4">
+<h4 id="org159c335"><span class="section-number-4">3.11.4.</span> James Ross, Analogy and Determination</h4>
+<div class="outline-text-4" id="text-3-11-4">
+<p>
+According to Kris McDaniel, if a property is analogous, there are
+multiple ways of having that property. If, for example, <i>being</i> is
+analogous, it fragments into different modes of <i>being</i>. In this essay I
+discuss a serious concern for proponents of this view: that analogy is
+curiously similar to, or perhaps <i>just is</i>, the determinable–determinate
+relation. Significantly, both are ontological unities that involve
+specification. Notwithstanding their similarities, I argue that
+analogy is a distinct kind of connection. First, I show that analogous
+properties must bear the feature of being disjunctive (e.g., existence
+is <i>absolute being</i> or <i>being-in</i>). In contrast, determinates may form
+continuous ranges, say, as shades of a colour. Second, I demonstrate
+that analogates don’t have to specify a generic property, whereas
+determinates always do (a scarlet object is necessarily red). Given
+these distinctions, among others, my conclusion is that analogy is
+unique and deserves more attention in the contemporary metaphysics
+literature.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org018b9c8" class="outline-3">
+<h3 id="org018b9c8"><span class="section-number-3">3.12.</span> <span class="done DONE">DONE</span> Session I.12 Epistemology</h3>
+<div class="outline-text-3" id="text-3-12">
+</div>
+<div id="outline-container-org86ac3ad" class="outline-4">
+<h4 id="org86ac3ad"><span class="section-number-4">3.12.1.</span> Gabriel de Sousa, Against Conceptual Conformism: Problems from Social Epistemology for Positive Duties to Believe</h4>
+</div>
+<div id="outline-container-orga8d02e6" class="outline-4">
+<h4 id="orga8d02e6"><span class="section-number-4">3.12.2.</span> Kathleen Murphy-Hollies, On Believing What Resonates</h4>
+</div>
+<div id="outline-container-org9d659bb" class="outline-4">
+<h4 id="org9d659bb"><span class="section-number-4">3.12.3.</span> Aviezer Tucker, Epistemic Generation, Transmission, and Decay</h4>
+</div>
+<div id="outline-container-org79c1ec2" class="outline-4">
+<h4 id="org79c1ec2"><span class="section-number-4">3.12.4.</span> Adham El Shazly, Radical Hope &amp; Moral Imagination</h4>
+</div>
+</div>
+<div id="outline-container-org226923b" class="outline-3">
+<h3 id="org226923b"><span class="section-number-3">3.13.</span> <span class="done DONE">DONE</span> Session I.13 Practical Ethics</h3>
+<div class="outline-text-3" id="text-3-13">
+</div>
+<div id="outline-container-org29395e3" class="outline-4">
+<h4 id="org29395e3"><span class="section-number-4">3.13.1.</span> Rebecca Moore, Ectogenesis- an end to the abortion debate?</h4>
+</div>
+<div id="outline-container-org7006964" class="outline-4">
+<h4 id="org7006964"><span class="section-number-4">3.13.2.</span> Katariina Hynninen, Why The Possibility of Meaning in Captivity Doesn't Justify It</h4>
+</div>
+<div id="outline-container-org7836535" class="outline-4">
+<h4 id="org7836535"><span class="section-number-4">3.13.3.</span> Adam Hudson, What (if anything) is wrong with consumer boycotting?</h4>
+</div>
+<div id="outline-container-orgb221bc9" class="outline-4">
+<h4 id="orgb221bc9"><span class="section-number-4">3.13.4.</span> Gerald Lang, Is There a Defensive Case for Torture?</h4>
+</div>
+</div>
+<div id="outline-container-org2d35aa7" class="outline-3">
+<h3 id="org2d35aa7"><span class="section-number-3">3.14.</span> <span class="done DONE">DONE</span> Session I.14 Philosophy of Mind</h3>
+<div class="outline-text-3" id="text-3-14">
+</div>
+<div id="outline-container-orgf0e78e7" class="outline-4">
+<h4 id="orgf0e78e7"><span class="section-number-4">3.14.1.</span> Elena-Giorgiana Rosu, Agency after the fact: self deception as retrospective explanation</h4>
+</div>
+<div id="outline-container-orgfb58da9" class="outline-4">
+<h4 id="orgfb58da9"><span class="section-number-4">3.14.2.</span> Jonathan Mitchell, Peripersonal Experience: A Sense of Tactile Possibility</h4>
+</div>
+<div id="outline-container-org5ce4b82" class="outline-4">
+<h4 id="org5ce4b82"><span class="section-number-4">3.14.3.</span> Savvas Ioannou, Panmentalism and  the Hard Problem of Consciousness</h4>
+</div>
+<div id="outline-container-orgdd2f34b" class="outline-4">
+<h4 id="orgdd2f34b"><span class="section-number-4">3.14.4.</span> Anna Giustina, Moods and the Structure of Consciousness</h4>
+</div>
+</div>
+<div id="outline-container-org49c29bf" class="outline-3">
+<h3 id="org49c29bf"><span class="section-number-3">3.15.</span> <span class="done DONE">DONE</span> Session I.15 Self, Mind, Competence</h3>
+<div class="outline-text-3" id="text-3-15">
+</div>
+<div id="outline-container-org137a310" class="outline-4">
+<h4 id="org137a310"><span class="section-number-4">3.15.1.</span> Giovanni Dusi, Against the SkShSi structure of competence</h4>
+</div>
+<div id="outline-container-org180aec3" class="outline-4">
+<h4 id="org180aec3"><span class="section-number-4">3.15.2.</span> Krisztian Kos, Exploring Attributions of Affective States: The Affective Picture</h4>
+</div>
+<div id="outline-container-org200ce76" class="outline-4">
+<h4 id="org200ce76"><span class="section-number-4">3.15.3.</span> Shunsuke Sasaki, Toward a Unified Account of Survival Criteria through Interventionist Causality</h4>
+</div>
+<div id="outline-container-org7c94f17" class="outline-4">
+<h4 id="org7c94f17"><span class="section-number-4">3.15.4.</span> Daniel Cristian Stancu, Focusing on Actions to Disperse the Distinction between Minimal Self And Narrative Self</h4>
+</div>
+</div>
+<div id="outline-container-org96a1b91" class="outline-3">
+<h3 id="org96a1b91"><span class="section-number-3">3.16.</span> <span class="done DONE">DONE</span> Session I.16 Technical Philosophy and its History</h3>
+<div class="outline-text-3" id="text-3-16">
+</div>
+<div id="outline-container-orgc9dd1e4" class="outline-4">
+<h4 id="orgc9dd1e4"><span class="section-number-4">3.16.1.</span> Janine Gühler, Pembroke &amp; Worcester Colleges, University of Oxford, Frege on the Objectivity of Numbers and Dependence on Reason</h4>
+<div class="outline-text-4" id="text-3-16-1">
+<p>
+In the Grundlagen der Arithmetik Frege claims that numbers are
+self-subsistent objects, i.e. object that exist independently of
+anything else. Frege’s Grundlagen §26 ends with the claim that what is
+objective is independent (unabhängig) of sensation, intuition and
+imagination but not of reason (Vernunft). Those who ascribe Idealism
+to Frege have taken this statement in support of the view that Frege
+believed that the existence of abstract objects such as numbers
+depends on reason. I suggest that this misunderstands Frege’s
+point. The same §26 clarifies earlier that to be grasped or understood
+(Erkanntwerden) is not to be created (Entstehen), which supports a
+Realist interpretation. The objectivity of the Earth axis is not
+fictitious or devised (erdacht) or created (entstanden) but simply
+thought (gedacht). Otherwise, Frege claims, we would not be able to
+assert anything about the Earth axis before it was thought of by
+us. While Frege does not speak explicitly of the independence
+(Unabhängigkeit) from being thought of the Earth axis, I believe his
+talk of not being created clearly denotes ontological independence of
+what is objective. When Frege speaks of the dependence on reason of
+what is objective, I suggest he does not denote ontological dependence
+but rather epistemological or semantic dependence. If what is
+objective were to depend ontologically on reason, it is hard to see
+how Frege can at the same time maintain that thought does not create
+what is objective. Rather, Frege wants to say that while what is
+objective does not depend on individual points of view or different
+ways of perception, any statement or thought that says something about
+number depends on reason since reason is necessary for the formation
+of a thought. I therefore suggest that Frege makes a trivial point at
+the end of §26 rather than an ontologically loaded one.
+</p>
+</div>
+</div>
+<div id="outline-container-org4668ea1" class="outline-4">
+<h4 id="org4668ea1"><span class="section-number-4">3.16.2.</span> Francesco Gandellini, Identity or inseparability? Spinoza meets Wittgenstein</h4>
+<div class="outline-text-4" id="text-3-16-2">
+<p>
+In the Ethics, Spinoza famously claims that ‘[t]he order and
+connection of ideas is the same as the order and connection of things’
+(2p7). Interpreters agree that this proposition asserts the existence
+of a parallelism between thought and being. In the scholium to 2p7’s
+demonstration, the philosopher further adds that ‘a mode of extension
+[i.e., a being in the world] and the idea [i.e. thought] of that mode
+are one and the same thing, but expressed in two ways’ (italics
+mine). In light of these claims, Spinoza is often read as endorsing
+the strong thesis that thought is identical with being, and thus as
+anticipating a view traditionally associated with Hegel.  Scholars
+debate how Spinoza motivates this identity. Michael Della Rocca has
+forcefully argued that the proof for 2p7 is driven by Spinoza’s
+uncompromising commitment to the Principle of Sufficient Reason
+(‘PSR’), according to which every fact must have an explanation. If
+so, no fact can be brute or unexplained.  In this paper, after
+introducing the key ingredients of Spinoza’s proof of 2p7, I examine
+Della Rocca’s reconstruction on the basis of the PSR. I then argue
+that Della Rocca’s argument does not, in fact, establish the identity
+of thought and being that he and others attribute to Spinoza. A
+different claim follows instead, namely one of inseparability between
+thought and being, which I proceed to illustrate. Not only does this
+claim actually results from employing the PSR in the way Della Rocca
+proposes, but is also avoids a further brute bifurcation – ruled out
+by the PSR itself – to which Della Rocca seems committed.  By
+elucidating this claim of inseparability, I finally suggest that
+Spinoza’s position is better understood as anticipating a view about
+the alignment of thought and world akin to that found, for instance,
+in (the later) Wittgenstein.
+</p>
+</div>
+</div>
+<div id="outline-container-org729ce8f" class="outline-4">
+<h4 id="org729ce8f"><span class="section-number-4">3.16.3.</span> Kaj André Zeller, , How to Handle the Problem(s) of Dimensional Poverty</h4>
+<div class="outline-text-4" id="text-3-16-3">
+<p>
+Naive non-cognitivism provides an account of moral psychology that
+deserves to be defended for its simplicity. According to this view,
+the basic evaluative attitude is a simple desire: an intrinsic
+first-order desire, without any further accompanying attitude being
+part of the basic evaluative attitude. However, naive non-cognitivists
+face the <i>Problem of Dimensional Poverty</i>: simple desires appear too
+dimensionally poor to be the basic evaluative attitude. It has been
+overlooked that the Problem of Dimensional Poverty can be
+distinguished into different versions. The formal version is concerned
+with schematic representations of mental attitudes. The substantial
+version is concerned with accounts of particular dimensions of an
+attitude. I propose two ‘moves’ (the ‘adverbialisation move’ and the
+‘deflation move’) that naive non-cognitivists can appeal to when
+replying to what I call the ‘easier’ formal and substantial
+problems. I then develop a ‘harder version’ of both the formal and the
+substantial problem. I suggest that answering the harder formal
+problem requires adopting an attitude-based scholastic account of
+desire, according to which desires are attitudes of
+presenting-as-good. To answer the harder substantial problem, the
+naive non-cognitivist might appeal to a functional or phenomenological
+characterization of the dimensions of the basic evaluative attitude.
+</p>
+</div>
+</div>
+<div id="outline-container-org94b9ec3" class="outline-4">
+<h4 id="org94b9ec3"><span class="section-number-4">3.16.4.</span> Will Patterson, King's College London, Does 'Why?' objectify agency? A defence of Anscombe's Intention</h4>
+<div class="outline-text-4" id="text-3-16-4">
+<p>
+"In Intention (1957/2000), Elizabeth Anscombe defined intentional
+actions as those to which “a certain sense of the question ‘Why?’ is
+given application” (I, 9). Recently, Anton Ford (2017) has challenged
+her proposal to understand intentional actions in terms of the
+question ‘Why?’. Anscombe proposes to define intentional actions in
+terms of how they are explained (ibid., 219). This, Ford contends,
+threatens disastrous consequences for our understanding of human
+action: a focus on action explanation leads us to privilege the
+standpoint of those who observe, and demand explanation for,
+intentional actions; leading us to neglect the standpoint of the agent
+herself as she carries out her action, forcing us to objectify human
+agency (ibid., 228-230). As a corrective, he suggests that we focus on
+the question ‘How?’, rather than ‘Why?’, bringing into view an agent’s
+order of calculation about what to do, and revealing “the structure of
+what one thinks insofar as one is acting.” (ibid., 227)
+</p>
+
+<p>
+I reply to Ford’s worry on Anscombe’s behalf. I draw on some resources
+from Anscombe’s account of practical truth to argue that, for
+Anscombe, we develop practical rationality by aiming to act in a way
+that is practically true; where acting in a way that is practically
+true is acting in a way that satisfies the description ‘doing well’
+(PT, 152). To do that, I suggest, one must grasp why some action
+satisfies the description ‘doing well’, which means that a practically
+rational agent must be interested in why some action should be
+performed, as well as how to perform it. To that extent, the question
+‘Why?’ does reveal the structure of what one thinks insofar as one is
+acting, for Anscombe; so, her focus on the question ‘Why?’ does not
+objectify agency. "
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-orgedee3f7" class="outline-2">
+<h2 id="orgedee3f7"><span class="section-number-2">4.</span> Open Session 2: Friday 11.00 – 13.00 <code>[16/17]</code></h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org0454ecf" class="outline-3">
+<h3 id="org0454ecf"><span class="section-number-3">4.1.</span> <span class="done DONE">DONE</span> Session II.1 Feminist Philosophy</h3>
+<div class="outline-text-3" id="text-4-1">
+</div>
+<div id="outline-container-org7837ad2" class="outline-4">
+<h4 id="org7837ad2"><span class="section-number-4">4.1.1.</span> Emily Thomas, Letters of Women Philosophers 1902-1951: Sexism and Shadow Networks</h4>
+<div class="outline-text-4" id="text-4-1-1">
+<p>
+This talk explores connections between six philosophers:
+E. E. Constance Jones, May Sinclair, Karin Costelloe-Stephen, Hilda
+Oakeley, Susan Stebbing, and Margaret Macdonald. They worked within
+seemingly disparate movements - British idealism, Bergsonism, early
+analytic - yet I’ll use archival letters to show they belonged to
+criss-crossing philosophical networks. These letters are due to be
+published May 2026 (Letters of English Women Philosophers 1902-1951,
+OUP). Having briefly introduced all six figures, this talk will
+explore two issues arising from their correspondence: sexism, and
+shadow networks.
+</p>
+
+<p>
+Challenges. All six figures faced significant challenges - including
+sexism. For example, when Jones writes to Bertrand Russell for
+permission to attend his all-male 1910 logic lectures, she was
+conscious of the need to bring a chaperone. In 1937, Macdonald reports
+she has not applied for a position at Swansea for the university
+council would not ‘contemplate appointing a woman’. In 1939, Gilbert
+Ryle commented on Stebbing’s suitability for a Cambridge chair, ‘Of
+course, everyone thinks you are the right person to succeed Moore,
+except that you are a woman’.
+</p>
+
+<p>
+Shadow networks. Many of our six philosophers knew each other well, yet
+not a single letter has survived between them. This is probably
+because (unlike some of their male peers) their philosophic
+correspondence has not been preserved in a conscious way. Nonetheless,
+what does survive reveals shadowy personal links between them. They
+wrote each other employment reference, attended their talks,
+visited. Going beyond their correspondence, the records of the
+Aristotelian Society show many discussions through which they
+interacted. This talk will detail the personal connections between our
+six women and - going further - sketch the broader women’s networks
+they belonged to. We’ll see that these women philosophers used their
+interpersonal networks to address some of the challenges they faced.
+</p>
+</div>
+</div>
+<div id="outline-container-orgb9ba807" class="outline-4">
+<h4 id="orgb9ba807"><span class="section-number-4">4.1.2.</span> Fiona Woollard, An argument for the unequal distribution of parental duties after birth</h4>
+</div>
+<div id="outline-container-org924a536" class="outline-4">
+<h4 id="org924a536"><span class="section-number-4">4.1.3.</span> Bengü Demirtas, Sexual Consent as a Standing Normative Relation in Enlightenment Philosophy and Marriage Law</h4>
+</div>
+<div id="outline-container-org5461847" class="outline-4">
+<h4 id="org5461847"><span class="section-number-4">4.1.4.</span> Christian Meyer, Freie Universität Berlin, Radical Feminist Conceptions of Sexual Liberation</h4>
+<div class="outline-text-4" id="text-4-1-4">
+<p>
+"This paper offers a philosophical reconstruction of radical feminist
+debates about sexual liberation during the 1970s and 1980s, debates
+sometimes termed the “feminist sex wars”. The emerging picture
+provides an intervention in current feminist debates about sexual
+freedom. A recent wave of feminist work has criticized liberal notions
+of sexual freedom by recovering elements of antipornography feminism,
+an outgrowth of radical feminism. I argue that we should rather turn
+to early radical feminism and sex-radical feminism, another off-shoot
+of radical feminism, to develop a politics of sexuality beyond
+liberalism. Such a politics closely connects sexual liberation with
+the ambition to abolish gender as we know it.
+</p>
+
+<p>
+To start, I show that various opposing parties within radical
+feminism, including both antipornography feminism and sex-radical
+feminism, shared a commitment to politicizing sexuality, rejecting a
+liberal sexual politics that assigned sexuality to the realm of the
+private. Sexuality, they all argued, was closely connected to gender:
+gender-conformity was stabilized by an imperative to sexual
+conformity, and sexual behaviour was policed regarding its
+gender-conformity. This entanglement of sexuality and gender implied
+that the abolition of gender was a condition for sexual
+liberation. Antipornography feminists drew the conclusion that sexual
+liberation would have to wait until ‘after the revolution’, leaving
+them without an effective sexual politics for the present. Sex-radical
+feminists, by contrast, went on to develop prefigurative strategies of
+disentangling gender and sexuality by locally decoupling sexuality
+from real-world power. Importantly, sex-radical gender abolitionist
+politics was emphatically inclusive of sexual minorities, contrasting
+with some antipornography feminism. During the 1980s, both sides
+eventually abandoned an analysis of sexual liberation that was
+connected to the ambition of abolishing gender, leaving this vision of
+sexual politics a path not taken. I argue that this development
+weakens feminist analyses of sexual liberation until today.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org7ed1434" class="outline-3">
+<h3 id="org7ed1434"><span class="section-number-3">4.2.</span> <span class="done DONE">DONE</span> Session II.2 Philosophy of Language</h3>
+<div class="outline-text-3" id="text-4-2">
+</div>
+<div id="outline-container-orge301e9a" class="outline-4">
+<h4 id="orge301e9a"><span class="section-number-4">4.2.1.</span> Rhiannon Snook, Ay Up Me Duck! On Written Representations of Linguistic Variation</h4>
+</div>
+<div id="outline-container-org724e882" class="outline-4">
+<h4 id="org724e882"><span class="section-number-4">4.2.2.</span> James Kirkpatrick, A Potentialist Theory of Natural Language</h4>
+</div>
+<div id="outline-container-orgd1398b0" class="outline-4">
+<h4 id="orgd1398b0"><span class="section-number-4">4.2.3.</span> Artur Kosecki, An Austinian Account of Lexicalized Concepts: Responding to Strawson's Challenge in Conceptual Engineering</h4>
+</div>
+<div id="outline-container-orgaaedce0" class="outline-4">
+<h4 id="orgaaedce0"><span class="section-number-4">4.2.4.</span> Hugo Heagren, Divided speech acts</h4>
+</div>
+</div>
+<div id="outline-container-org802d06e" class="outline-3">
+<h3 id="org802d06e"><span class="section-number-3">4.3.</span> <span class="done DONE">DONE</span> Session II.3 Sex and Consent</h3>
+<div class="outline-text-3" id="text-4-3">
+</div>
+<div id="outline-container-org5f91603" class="outline-4">
+<h4 id="org5f91603"><span class="section-number-4">4.3.1.</span> Andrés (Andy) Garcia, Love Drunk: Asymmetric Infatuation and the Ethics of Sex</h4>
+</div>
+<div id="outline-container-org8b82bd5" class="outline-4">
+<h4 id="org8b82bd5"><span class="section-number-4">4.3.2.</span> Milena Bartholain, Sexual Paternalism</h4>
+</div>
+<div id="outline-container-org8a36bea" class="outline-4">
+<h4 id="org8a36bea"><span class="section-number-4">4.3.3.</span> Talita Ferrantelli, Defeating Sexual Consent</h4>
+</div>
+<div id="outline-container-org5b6a63d" class="outline-4">
+<h4 id="org5b6a63d"><span class="section-number-4">4.3.4.</span> Peter Schaber, Legitimate Threats</h4>
+<div class="outline-text-4" id="text-4-3-4">
+<p>
+Various authors argue that illegitimate threats invalidate consent,
+whereas legitimate threats do not. I will not question this
+view. Instead, I ask what, precisely, distinguishes a legitimate
+threat from an illegitimate one. When is a threat illegitimate? When,
+if ever, is it legitimate?
+</p>
+
+<p>
+Some argue that threats are never legitimate. Others hold that they
+are legitimate whenever the person who threatens has a right to
+perform the threatened act. Still others doubt that this is always the
+case, claiming that legitimacy attaches not to all permissible
+threatened acts but only to some of them. I argue in this paper that a
+threat is legitimate if and only if the threatened act is morally
+permissible, and that the threatened act is morally permissible only
+if it is an appropriate response to the threatened person’s refusal to
+perform the desired act. I further argue that it is an appropriate
+response only if the threatened person has a duty to perform the act
+in question.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org7cabdcc" class="outline-3">
+<h3 id="org7cabdcc"><span class="section-number-3">4.4.</span> <span class="done DONE">DONE</span> Session II.4 Philosophy of Science</h3>
+<div class="outline-text-3" id="text-4-4">
+</div>
+<div id="outline-container-org61736af" class="outline-4">
+<h4 id="org61736af"><span class="section-number-4">4.4.1.</span> Jonny Blamey, Two directions of time and the foundations of science</h4>
+</div>
+<div id="outline-container-org27c9706" class="outline-4">
+<h4 id="org27c9706"><span class="section-number-4">4.4.2.</span> Vanessa Seifert, Could AI undermine standard scientific realism?</h4>
+</div>
+<div id="outline-container-orgd4bdb40" class="outline-4">
+<h4 id="orgd4bdb40"><span class="section-number-4">4.4.3.</span> Arlene Lo, Fengshui and the Spectre of Scientific Demarcation</h4>
+</div>
+<div id="outline-container-orgc8bd06c" class="outline-4">
+<h4 id="orgc8bd06c"><span class="section-number-4">4.4.4.</span> George Webster, From Phenomenology to Quantum Reconstruction: an Argument from Merleau-Ponty</h4>
+</div>
+</div>
+<div id="outline-container-org2ed80e2" class="outline-3">
+<h3 id="org2ed80e2"><span class="section-number-3">4.5.</span> <span class="done DONE">DONE</span> Session II.5 History of Philosophy and Propositions</h3>
+<div class="outline-text-3" id="text-4-5">
+</div>
+<div id="outline-container-org32747b2" class="outline-4">
+<h4 id="org32747b2"><span class="section-number-4">4.5.1.</span> Fridolin Neumann, What is idle talk? Heidegger, untruth, and ontological disguise</h4>
+<div class="outline-text-4" id="text-4-5-1">
+<p>
+This paper proposes a novel reading of Heidegger’s conception of <i>idle
+talk</i> (<i>Gerede</i>) as a form of misguided ontological discourse. Against
+pragmatist readings of Heidegger that construe idle talk in terms of a
+lack of skilful familiarity with entities, I argue that idle talk is
+instead situated at the level of the ontological commitments that
+underlie and structure our experience. Idle talk arises when these
+commitments <i>disguise</i> (<i>verstellen</i>) entities in inappropriate
+ontological terms – for instance, by treating human beings as mental
+substances, or organisms as mere physical entities. The paper proceeds
+in three steps. First, I reconstruct the pragmatist interpretation of
+idle talk and stress its inability to account for Heidegger’s claim
+that idle talk covers-over (<i>verdeckt</i>) entities. Second, I develop a
+conception of ontological disguise based on Heidegger’s account of
+semblance and untruth. Idle talk, I suggest, circulates ontological
+prejudices that have not been grounded in the entities they concern,
+and thereby contributes to a distorted understanding of them. Third, I
+foreground the systematic upshot that Heidegger both stresses the
+inevitability of ontological prejudices and expects epistemically
+responsible agents to continuously ground them in the entities to
+which they pertain.
+</p>
+</div>
+</div>
+<div id="outline-container-org7959b3e" class="outline-4">
+<h4 id="org7959b3e"><span class="section-number-4">4.5.2.</span> Quentin Hosch, James Ward's Theory of Presentation</h4>
+</div>
+<div id="outline-container-org16b0b7e" class="outline-4">
+<h4 id="org16b0b7e"><span class="section-number-4">4.5.3.</span> Sean Maroney, Edith Stein's Emotion Ontology</h4>
+</div>
+<div id="outline-container-org3dbcda6" class="outline-4">
+<h4 id="org3dbcda6"><span class="section-number-4">4.5.4.</span> Jacopo Berneri, The Copernican Turn of Structured Properties and Propositions</h4>
+</div>
+</div>
+<div id="outline-container-orga3f6325" class="outline-3">
+<h3 id="orga3f6325"><span class="section-number-3">4.6.</span> <span class="done DONE">DONE</span> Session II.6 Childhood, Love, Friendship</h3>
+<div class="outline-text-3" id="text-4-6">
+</div>
+<div id="outline-container-org8ab1c18" class="outline-4">
+<h4 id="org8ab1c18"><span class="section-number-4">4.6.1.</span> Andrea Villalba Cuesta, Shape of a Childhood</h4>
+</div>
+<div id="outline-container-org24f68fd" class="outline-4">
+<h4 id="org24f68fd"><span class="section-number-4">4.6.2.</span> Matthew Robson, Simone de Beauvoir and the Possibility of Authentic Parental Love</h4>
+</div>
+<div id="outline-container-org0bc7ef5" class="outline-4">
+<h4 id="org0bc7ef5"><span class="section-number-4">4.6.3.</span> Ida Miczke, When love met morality: anonymity, irreplaceability, and partial self-effacement</h4>
+</div>
+<div id="outline-container-org710c03d" class="outline-4">
+<h4 id="org710c03d"><span class="section-number-4">4.6.4.</span> Ruth Boeker, Mary Astell and Mary Lee Chudleigh on Friendship, Social Relations, and Moral Perfection</h4>
+</div>
+</div>
+<div id="outline-container-orga6e99a4" class="outline-3">
+<h3 id="orga6e99a4"><span class="section-number-3">4.7.</span> <span class="done DONE">DONE</span> Session II.7 Epistemology</h3>
+<div class="outline-text-3" id="text-4-7">
+</div>
+<div id="outline-container-org9af40c7" class="outline-4">
+<h4 id="org9af40c7"><span class="section-number-4">4.7.1.</span> Pawel Grad, The debasing effects of higher-order defeat</h4>
+</div>
+<div id="outline-container-org4f03ae6" class="outline-4">
+<h4 id="org4f03ae6"><span class="section-number-4">4.7.2.</span> Thomas Koster, Generative Memorial Knowledge and Knowledge Acquisition Conditions</h4>
+</div>
+<div id="outline-container-org78d1a2d" class="outline-4">
+<h4 id="org78d1a2d"><span class="section-number-4">4.7.3.</span> Bob Lockie, Knowledge, Understanding and Schemata: Lessons for Epistemology from the Psychology of Expertise</h4>
+</div>
+<div id="outline-container-org7e643e2" class="outline-4">
+<h4 id="org7e643e2"><span class="section-number-4">4.7.4.</span> Vijay Keshav, Why Moore's Proof Works</h4>
+</div>
+</div>
+<div id="outline-container-orgd563cba" class="outline-3">
+<h3 id="orgd563cba"><span class="section-number-3">4.8.</span> <span class="done DONE">DONE</span> Session II.8 Metaphysics and Logic</h3>
+<div class="outline-text-3" id="text-4-8">
+</div>
+<div id="outline-container-orgb6f5409" class="outline-4">
+<h4 id="orgb6f5409"><span class="section-number-4">4.8.1.</span> Cansu Yuksel Yildiz, Grounding Modality and Lewisian Amodalism</h4>
+</div>
+<div id="outline-container-orga2ef752" class="outline-4">
+<h4 id="orga2ef752"><span class="section-number-4">4.8.2.</span> Yongwoo Yi, Fundamental Quantities in Dispositional Essentialism</h4>
+</div>
+<div id="outline-container-org544265f" class="outline-4">
+<h4 id="org544265f"><span class="section-number-4">4.8.3.</span> Emils Zavelis, A New Perspective on Impossible Worlds</h4>
+<div class="outline-text-4" id="text-4-8-3">
+<p>
+Many philosophers believe that some non-classical logic is
+correct. Nevertheless, they often rely on classical logic when arguing
+for their position and defining their (supposedly correct) logic. This
+may be unproblematic, supported by the idea that classical reasoning
+can somehow be recaptured inside the non-classical logic. This idea is
+made formally precise in the so-called classical recapture proofs, and
+we have such proofs for wide classes of non-classical logics. I show
+why attempts to justify using classical logic inside paraconsistent,
+dialetheic theories are bound to be circular – the proofs used to
+establish the recapture result rely on the very rules they try to
+justify. By distinguishing between persuasive and explanatory proofs,
+I argue that this circularity is not a problem in itself. However,
+this creates a dilemma for dialetheists: (1) either accept these
+recapture proofs as defeasible and embrace logical
+anti-exceptionalism, or (2) reject classical recapture
+altogether. This dilemma, to the best of my knowledge, has not been
+noted in the literature before.
+</p>
+</div>
+</div>
+<div id="outline-container-orgf86c9c2" class="outline-4">
+<h4 id="orgf86c9c2"><span class="section-number-4">4.8.4.</span> Ziad Eldanaf, When Parthood Breaks: Hylomorphism and the Limits of Classical Mereology</h4>
+</div>
+</div>
+<div id="outline-container-org3035f48" class="outline-3">
+<h3 id="org3035f48"><span class="section-number-3">4.9.</span> <span class="done DONE">DONE</span> Session II.9 Subjectivity, Normativity, and Attention</h3>
+<div class="outline-text-3" id="text-4-9">
+</div>
+<div id="outline-container-orga944dda" class="outline-4">
+<h4 id="orga944dda"><span class="section-number-4">4.9.1.</span> Joseph Neisser, Familiarity and self-consciousness</h4>
+</div>
+<div id="outline-container-orgfb0f484" class="outline-4">
+<h4 id="orgfb0f484"><span class="section-number-4">4.9.2.</span> Alon Isac, Pain's Normative Constraints</h4>
+<div class="outline-text-4" id="text-4-9-2">
+<p>
+Despite pain’s phenomenal, neuronal and functional idiosyncrasy, there
+have been recent attempts to identify a property or set of properties
+shared by all pains, in virtue of which they are considered pains. In
+this paper, I argue that such attempts should be rejected. Instead, I
+suggest that pain is a family resemblance concept constrained by
+pragmatic and moral considerations. On this view, pains share a range
+of phenomenal, neuronal and functional properties in a crisscrossing
+and overlapping manner, rather than a primal pain property or
+element. However, since many of these properties are also present in
+non-painful experiences, their presence alone cannot determine whether
+an experience is painful. I argue instead that pain categorization is
+guided by practical goals and ethical values. Accordingly,
+categorizing pain involves not only the identification of common
+properties, but also evaluating their importance. Pain research should
+therefore acknowledge that normative judgements are constitutive of
+pain.
+</p>
+</div>
+</div>
+<div id="outline-container-org34c1c33" class="outline-4">
+<h4 id="org34c1c33"><span class="section-number-4">4.9.3.</span> William Gopal, Expertise and Norms of Attention</h4>
+</div>
+<div id="outline-container-org6f9cbc8" class="outline-4">
+<h4 id="org6f9cbc8"><span class="section-number-4">4.9.4.</span> Paul Healey, An Indemonstrable Grief</h4>
+</div>
+</div>
+<div id="outline-container-org8dad913" class="outline-3">
+<h3 id="org8dad913"><span class="section-number-3">4.10.</span> <span class="done DONE">DONE</span> Session II.10 Justice and Injustice</h3>
+<div class="outline-text-3" id="text-4-10">
+</div>
+<div id="outline-container-org56e54aa" class="outline-4">
+<h4 id="org56e54aa"><span class="section-number-4">4.10.1.</span> Karl Landström, The Wrongs and Harms of Epistemic Exploitation</h4>
+</div>
+<div id="outline-container-orgbe68bb3" class="outline-4">
+<h4 id="orgbe68bb3"><span class="section-number-4">4.10.2.</span> Dominik Jarczewski, On Epistemic Respect</h4>
+</div>
+<div id="outline-container-org0245b51" class="outline-4">
+<h4 id="org0245b51"><span class="section-number-4">4.10.3.</span> Chelsea Guo, Doxastic Injustice, not Wronging</h4>
+</div>
+<div id="outline-container-org2c44f23" class="outline-4">
+<h4 id="org2c44f23"><span class="section-number-4">4.10.4.</span> Michele Bocchiola, Trusting the Institutional Rule-Breaker. Office Trust Under Dirty Hands</h4>
+<div class="outline-text-4" id="text-4-10-4">
+<p>
+What happens to trust among officeholders (for short ‘office trust’)
+when one of them deliberately violates institutional rules to secure
+what she regards as a higher value? This paper addresses a neglected
+dimension of Walzer’s dirty hands problem: its implications for
+intra-institutional trust relations. I argue that office trust
+remains warranted despite justified rule violation if and only if the
+officeholder acts from a 'pro officio' attitude—comprising role
+endorsement, norm acceptance, and office accountability. This thesis
+emerges from examining two competing conceptions of office trust. The
+reliable rule compliance view grounds trust in behavioral conformity
+secured by external constraints: monitoring mechanisms, incentive
+structures, and sanctioning practices that render deviation
+irrational. This view fails because it conflates trust with mere
+reliance and presupposes that rules always provide clear
+guidance—precisely what dirty hands scenarios deny.  The judicious
+role fulfillment view offers a superior alternative by grounding trust
+in the officeholder’s internal stance toward her role. I establish
+necessity through three failure cases: removing role endorsement
+leaves motivational commitment detachable from institutional values;
+removing norm acceptance eliminates moral remainder and
+instrumentalizes discretion; removing office accountability renders
+judgment opaque and unevaluable. Sufficiency follows because these
+components jointly provide motivational, normative, and justificatory
+assurance that makes trust rational even under rule violation. An
+officeholder who manifests this attitude demonstrates stable
+commitment to institutional values, appropriate moral seriousness
+about violations, and publicly answerable reasoning that peers can
+recognize as responsive to institutional mandates.  The framework
+handles hard counter-cases—sectarian officials, erosion by
+accumulation, adversarial offices—by specifying boundary conditions
+including minimal openness requirements and publicity tests. The
+analysis reveals a striking paradox: rule violation can sometimes
+strengthen rather than undermine trust, provided it manifests the very
+commitment to institutional values that trust relationships require.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org862d365" class="outline-3">
+<h3 id="org862d365"><span class="section-number-3">4.11.</span> <span class="done DONE">DONE</span> Session II.11 Philosophy of Mind</h3>
+<div class="outline-text-3" id="text-4-11">
+</div>
+<div id="outline-container-orgd7665a5" class="outline-4">
+<h4 id="orgd7665a5"><span class="section-number-4">4.11.1.</span> Daniel Morgan, The Shallows of the Addicted Mind</h4>
+</div>
+<div id="outline-container-org1ec52d9" class="outline-4">
+<h4 id="org1ec52d9"><span class="section-number-4">4.11.2.</span> Zhengping Zhang, Toward a Relational Picture of Self-Trust</h4>
+<div class="outline-text-4" id="text-4-11-2">
+<p>
+Individuals experiencing impostor syndrome raise the puzzle of
+simultaneously possessing and lacking sufficient self-trust in the
+same domain. The three plausible claims below are in tension with one
+another:
+</p>
+
+<p>
+I. Self-trust involves domain-specific confidence in one’s competence.
+</p>
+
+<p>
+II. Individuals experiencing impostor syndrome lack sufficient
+self-trust in domains where neutral observers would expect them to
+possess it.
+</p>
+
+<p>
+III. Individuals experiencing impostor syndrome exhibit sufficient
+confidence in the same domain, manifested through their confident
+negative self-assessment in that domain.
+</p>
+
+<p>
+This paper argues that the best way to solve the puzzle is to move
+from an individualistic characterization of self-trust to a relational
+picture. §1 and §2 explain why the three claims in the puzzle are
+plausible. §3 refutes the strategy of rejecting Claim III to solve the
+puzzle. §4 examines the second type of solution proposed by Nadja El
+Kassar (2019): to describe individuals with impostor syndrome as
+having self-trust in their self-distrust. §5 turns to Katherine
+Dormandy’s (2024) approach to reject Claim I and argue that her
+account fails to explain self-doubt. §6 argues that the better
+solution is to endorse a relational picture of self-trust, where
+self-trust consists of an individual’s perception of their relation
+with their salient community of audience.
+</p>
+</div>
+</div>
+<div id="outline-container-orgb12b4c0" class="outline-4">
+<h4 id="orgb12b4c0"><span class="section-number-4">4.11.3.</span> James Ralph, How Could I Have Known? Undiagnosed ADHD as Hermeneutical Injustice</h4>
+</div>
+<div id="outline-container-orgb7ed308" class="outline-4">
+<h4 id="orgb7ed308"><span class="section-number-4">4.11.4.</span> Sandra Branzaru, To ToM or not ToM: the LLMs question</h4>
+</div>
+</div>
+<div id="outline-container-org79d0bb8" class="outline-3">
+<h3 id="org79d0bb8"><span class="section-number-3">4.12.</span> <span class="done DONE">DONE</span> Session II.12 Mysticism and Mind</h3>
+<div class="outline-text-3" id="text-4-12">
+</div>
+<div id="outline-container-org821a1e0" class="outline-4">
+<h4 id="org821a1e0"><span class="section-number-4">4.12.1.</span> Alice Harberd, Closure and Mysticism</h4>
+</div>
+<div id="outline-container-org723504e" class="outline-4">
+<h4 id="org723504e"><span class="section-number-4">4.12.2.</span> Christopher Jay, Interestingly Ineffable Knowledge</h4>
+<div class="outline-text-4" id="text-4-12-2">
+<p>
+A. W. Moore has long argued that there is an interesting and
+philosophically important kind of mysticism which appeals to the
+existence of ineffable knowledge. (Moore, 1997; 2019) That mysticism
+is not confined to its most familiar religious context: it is the
+mysticism in play in e.g. (some readings of) Wittgenstein's
+<i>Tractatus</i>, too.  According to Moore, the ineffable knowledge central
+to such mysticism is a kind of know-how (or know-how-related
+understanding). Silvia Jonas, who agrees that it is ineffable
+knowledge rather than any other kind of ineffability which is
+philosophically interesting and plausibly exists, demurs from Moore's
+suggest that it amounts to know-how, preferring to characterise it in
+terms of knowledge (of the self) by acquaintance.  (Jonas, 2016)
+</p>
+
+<p>
+But as Moore and Jonas have been quick to point out, things can be
+ineffable in very mundane ways (middle sized dry goods are not
+ineffable in any interesting sense, even though they cannot be
+said). I will suggest that only one characterisation of the
+ineffability of ineffable knowledge renders it really philosophically
+interesting, legitimating talk of ‘mystical insights' worthy of that
+grandiose description. And not only is that characterisation different
+from the ones offered by Moore and by Jonas; it appeals to something
+&#x2013; ineffable truth &#x2013; of which both reject the very
+possibility. Whereas Moore and Jonas believe that we must speak of
+ineffable knowledge instead of ineffable truths or ineffable
+propositions, I think propositional knowledge <i>of</i> ineffable truths
+might be the only kind of non-mundanely ineffable knowledge there
+could be. (cf. Shaw, 2013; Gäb, 2020) And thinking of mystical insight
+as knowledge of ineffable truths also affords us very natural accounts
+of the inferential and broader epistemic roles that mystical insight
+might be expected to (and has been claimed to) play &#x2013; accounts which
+are natural in virtue of appealing to quite familiar general accounts
+of inference and epistemic significance.
+</p>
+</div>
+</div>
+<div id="outline-container-org59baece" class="outline-4">
+<h4 id="org59baece"><span class="section-number-4">4.12.3.</span> Alice Hilder Jarvis, Diagnostic Criteria: Metaphysical, Epistemic, and Ethical Constraints on Psychiatric Classification</h4>
+</div>
+<div id="outline-container-org78d362c" class="outline-4">
+<h4 id="org78d362c"><span class="section-number-4">4.12.4.</span> Jiayue Jin, Self-Trust: Saying 'I' Without Knowing</h4>
+<div class="outline-text-4" id="text-4-12-4">
+<p>
+The self-reference rule (SRR) holds that, in first-person thought, ‘I’
+refers to the subject who produces the thought. It is often held that
+a genuine user of ‘I’ must also self-consciously know that she refers
+to herself. However, mere awareness that one is speaking does not
+explain why first-person thoughts are self-conscious. Traditional
+accounts often end up appealing to self-consciousness itself to
+explain this, which leads to circularity or regress.
+</p>
+
+<p>
+O’Brien’s (2007) agency account aims to avoid circularity or regress
+by grounding self-conscious first-person reference through
+agent-awareness. On this view, a subject refers to herself by knowing,
+as an agent, that she is forming the thought. However, the account
+marginalises passive, non-agential cases, in which subjects still use
+‘I’ in accordance with SRR despite lacking agent-awareness.
+</p>
+
+<p>
+I therefore offer a self-trust account, where the meaningful use of
+‘I’ is secured through Wright’s (2004) idea of default entitlement
+based on self-trust. This account captures both active and passive
+first-personal uses in a unified way, while avoiding circularity or
+regress. I suggest that our capacity for first-person thought rests
+not merely on agency, but on the deeper constitutive principle of
+self-trust that warrants us to take such thoughts as our own.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orged4cd86" class="outline-3">
+<h3 id="orged4cd86"><span class="section-number-3">4.13.</span> <span class="done DONE">DONE</span> Session II.13 Metaethics: Reasons and Fit</h3>
+<div class="outline-text-3" id="text-4-13">
+</div>
+<div id="outline-container-org1e05198" class="outline-4">
+<h4 id="org1e05198"><span class="section-number-4">4.13.1.</span> Alex Gregory, When is it fitting to be happy?</h4>
+</div>
+<div id="outline-container-org23760c7" class="outline-4">
+<h4 id="org23760c7"><span class="section-number-4">4.13.2.</span> Bennett Eckert-Kuang, Actions as Reasons for Actions</h4>
+</div>
+<div id="outline-container-org7cf5871" class="outline-4">
+<h4 id="org7cf5871"><span class="section-number-4">4.13.3.</span> Marie Wegener, Special Reasons, Two Strategies, One Problem: The Limits of Value-Based Theories of Practical Reasons</h4>
+</div>
+<div id="outline-container-orge106afb" class="outline-4">
+<h4 id="orge106afb"><span class="section-number-4">4.13.4.</span> Gonzalo Velasco Arias, Institutional Proleptic Blame and the Limits of Fittingness</h4>
+</div>
+</div>
+<div id="outline-container-org62aed5d" class="outline-3">
+<h3 id="org62aed5d"><span class="section-number-3">4.14.</span> <span class="done DONE">DONE</span> Session II.14 Moral &amp; Political Philosophy</h3>
+<div class="outline-text-3" id="text-4-14">
+</div>
+<div id="outline-container-orgbb41131" class="outline-4">
+<h4 id="orgbb41131"><span class="section-number-4">4.14.1.</span> Abida Malik, Is Democracy Doomed? On the Importance of Epistemic Virtues</h4>
+</div>
+<div id="outline-container-orgecc4c77" class="outline-4">
+<h4 id="orgecc4c77"><span class="section-number-4">4.14.2.</span> Conor Clarke, Should we be Externalists about Political Justification?</h4>
+</div>
+<div id="outline-container-org38c8ba5" class="outline-4">
+<h4 id="org38c8ba5"><span class="section-number-4">4.14.3.</span> Moritz Schnorpfeil, Collective Traps: When State-Provided Goods Are Bad For Recipients</h4>
+</div>
+<div id="outline-container-orgc984609" class="outline-4">
+<h4 id="orgc984609"><span class="section-number-4">4.14.4.</span> Xinyue Hu, Contributing beyond Duty: Identity-Based Membership in Collective Action</h4>
+</div>
+</div>
+<div id="outline-container-org5a2a2e7" class="outline-3">
+<h3 id="org5a2a2e7"><span class="section-number-3">4.15.</span> <span class="done DONE">DONE</span> Session II.15 Philosophy of Maths and Logic</h3>
+<div class="outline-text-3" id="text-4-15">
+</div>
+<div id="outline-container-org992357c" class="outline-4">
+<h4 id="org992357c"><span class="section-number-4">4.15.1.</span> Karol Wapniarski, Reconsidering Leibniz's influence on Russell through the Russell-Couturat Correspondence</h4>
+</div>
+<div id="outline-container-orgc482cbf" class="outline-4">
+<h4 id="orgc482cbf"><span class="section-number-4">4.15.2.</span> Wouter Cohen, Carnapian pragmatism and neo-logicism</h4>
+</div>
+<div id="outline-container-org44d4178" class="outline-4">
+<h4 id="org44d4178"><span class="section-number-4">4.15.3.</span> Samuel Boudreau, An Account of the Infinite Regress of Demonstrations in Aristotle's Posterior Analytics I.3.</h4>
+</div>
+<div id="outline-container-orgd14b853" class="outline-4">
+<h4 id="orgd14b853"><span class="section-number-4">4.15.4.</span> Boaz Laan, A tension for the interpretational approach to modal potentialism</h4>
+</div>
+</div>
+<div id="outline-container-org5b94d8d" class="outline-3">
+<h3 id="org5b94d8d"><span class="section-number-3">4.16.</span> <span class="done DONE">DONE</span> Session II.16 Reason, Mind, Action</h3>
+<div class="outline-text-3" id="text-4-16">
+</div>
+<div id="outline-container-org9c8ee1f" class="outline-4">
+<h4 id="org9c8ee1f"><span class="section-number-4">4.16.1.</span> Tiago Carneiro da Silva, Experimental Ethics and Self-evidence</h4>
+</div>
+<div id="outline-container-org8e8e683" class="outline-4">
+<h4 id="org8e8e683"><span class="section-number-4">4.16.2.</span> Eliot Watkins, Normative Reasons and Attitude Intensity</h4>
+</div>
+<div id="outline-container-org41c7a64" class="outline-4">
+<h4 id="org41c7a64"><span class="section-number-4">4.16.3.</span> Daniel Dearlove, Naïve Realism and Understanding Why</h4>
+</div>
+<div id="outline-container-orgcc74e7d" class="outline-4">
+<h4 id="orgcc74e7d"><span class="section-number-4">4.16.4.</span> Paul Thomas Engeland, Helplessly Hoping</h4>
+</div>
+</div>
+<div id="outline-container-orgc0d94fc" class="outline-3">
+<h3 id="orgc0d94fc"><span class="section-number-3">4.17.</span> <span class="todo TODO">TODO</span> Session II.17 Relations to Others</h3>
+<div class="outline-text-3" id="text-4-17">
+</div>
+<div id="outline-container-org1fd409e" class="outline-4">
+<h4 id="org1fd409e"><span class="section-number-4">4.17.1.</span> Mollie Gerver, King's College London, How To Win Friends and Influence People with Philosophy</h4>
+</div>
+<div id="outline-container-orgcb94dae" class="outline-4">
+<h4 id="orgcb94dae"><span class="section-number-4">4.17.2.</span> Karri Heikkinen, Complaints, Gratitude, and the Procreation Asymmetry</h4>
+<div class="outline-text-4" id="text-4-17-2">
+<p>
+According to the complaint model, morality is about avoiding acts that
+generate complaints. According to total utilitarianism, morality is
+about maximising aggregate welfare. In cases that involve creating new
+people, both of these popular views face at least one significant
+objection: the complaint model fails to get the right result in the
+Non-Identity Problem, whereas total utilitarianism violates the
+Procreation Asymmetry. In this paper, I develop an alternative view,
+which I call the complaint-gratitude model. This view combines the
+traditional complaint model with a novel view I call the gratitude
+model, according to which morality is about acting in ways that
+produce gratitude. Even though the gratitude model initially appears
+to coincide with the complaint model, I show that the view is distinct
+from both the complaint model and total utilitarianism. I then argue
+that combining the gratitude model with the complaint model results in
+a very appealing hybrid view, which gets the Non-Identity Problem
+right, accommodates some of the key judgements motivating the
+Procreation Asymmetry, and secures an intuitive, moderate priority for
+already-existing people over possible future people.
+</p>
+</div>
+</div>
+<div id="outline-container-org2dd51ee" class="outline-4">
+<h4 id="org2dd51ee"><span class="section-number-4">4.17.3.</span> Zeynep Çelik, Collective Authorship in Theatrical Works: A Hierarchical Account</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-orge1aa780" class="outline-2">
+<h2 id="orge1aa780"><span class="section-number-2">5.</span> Open Session 3: Friday 14.00 – 16.00 <code>[15/17]</code></h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-orgd6dd455" class="outline-3">
+<h3 id="orgd6dd455"><span class="section-number-3">5.1.</span> <span class="done DONE">DONE</span> Session III.1 Rationality</h3>
+<div class="outline-text-3" id="text-5-1">
+</div>
+<div id="outline-container-org07f0e8c" class="outline-4">
+<h4 id="org07f0e8c"><span class="section-number-4">5.1.1.</span> Chenwei Nie, University of Warwick, Rational People's Irrational Beliefs</h4>
+<div class="outline-text-4" id="text-5-1-1">
+<p>
+Why does an otherwise ordinary person sometimes stubbornly retain a
+belief in the face of independent counterevidence? Existing accounts
+typically explain this phenomenon by attributing some form of
+irrationality to the person: non-evidential factors are taken either
+to distort how the person gathers and assesses evidence or to function
+as direct, non-evidential reasons for the belief itself (Schleifer
+McCormick, 2020; Glüer &amp; Wikforss, 2022; Simion, 2024; Flores,
+2025). This paper advances an alternative framework that does not rely
+on such assumptions of irrationality. It argues that non-evidential
+factors can instead play a role in shaping and sustaining the person’s
+experiential seemings. In such cases, the person may face an
+epistemically dilemmic situation: she confronts independent evidence
+that tells against the belief, yet simultaneously suffers from a
+powerful seeming that, in various ways, presses her toward accepting
+it. Her persistence in the belief is explained by the fact that this
+compelling seeming outweighs the opposing evidence.
+</p>
+</div>
+</div>
+<div id="outline-container-org87adc1e" class="outline-4">
+<h4 id="org87adc1e"><span class="section-number-4">5.1.2.</span> Puneh Nejati-Mehr, When Self-Prediction Becomes Temptation: Intention and Self-Governance</h4>
+</div>
+<div id="outline-container-org0158964" class="outline-4">
+<h4 id="org0158964"><span class="section-number-4">5.1.3.</span> Johan Du Plessis, Person-Affecting Views of Population Ethics and Sequential Decisions</h4>
+</div>
+<div id="outline-container-orgd7220b0" class="outline-4">
+<h4 id="orgd7220b0"><span class="section-number-4">5.1.4.</span> David Chandler, The Abilities of the Ambivalent</h4>
+</div>
+</div>
+<div id="outline-container-org74cf323" class="outline-3">
+<h3 id="org74cf323"><span class="section-number-3">5.2.</span> <span class="done DONE">DONE</span> Session III.2 Epistemology</h3>
+<div class="outline-text-3" id="text-5-2">
+</div>
+<div id="outline-container-orgb61a36b" class="outline-4">
+<h4 id="orgb61a36b"><span class="section-number-4">5.2.1.</span> Lisa Bastian, Epistemic Boycott</h4>
+</div>
+<div id="outline-container-orgccd77b1" class="outline-4">
+<h4 id="orgccd77b1"><span class="section-number-4">5.2.2.</span> TANUJ MILIND RAUT, Against normative contextualism about epistemic vices</h4>
+</div>
+<div id="outline-container-org93b01ad" class="outline-4">
+<h4 id="org93b01ad"><span class="section-number-4">5.2.3.</span> Mikhail Volkov, How Social Media Renders Intellectual Vice Rational</h4>
+</div>
+<div id="outline-container-org9fc34cb" class="outline-4">
+<h4 id="org9fc34cb"><span class="section-number-4">5.2.4.</span> Parris Sammut, Assertion, Rules, and Entitlement</h4>
+</div>
+</div>
+<div id="outline-container-orgc579d4e" class="outline-3">
+<h3 id="orgc579d4e"><span class="section-number-3">5.3.</span> <span class="done DONE">DONE</span> Session III.3 Political philosophy</h3>
+<div class="outline-text-3" id="text-5-3">
+</div>
+<div id="outline-container-orgf085dbe" class="outline-4">
+<h4 id="orgf085dbe"><span class="section-number-4">5.3.1.</span> Dong-il Kim, The Missing Half of Justice: Distributing Primary Burdens</h4>
+</div>
+<div id="outline-container-org6bab4bf" class="outline-4">
+<h4 id="org6bab4bf"><span class="section-number-4">5.3.2.</span> George Hull, Inequality of Opportunity as a Structural Accessory after the Fact to Past Injustice</h4>
+</div>
+<div id="outline-container-org552f268" class="outline-4">
+<h4 id="org552f268"><span class="section-number-4">5.3.3.</span> Bill Wringe, Cuguano's Reparative Duties of Dissociation</h4>
+</div>
+<div id="outline-container-orgdadb6c5" class="outline-4">
+<h4 id="orgdadb6c5"><span class="section-number-4">5.3.4.</span> Mert Atessal, Bilkent University, Why You Cannot Own the Parthenon: Cultural Treasures and the Limits of Property</h4>
+<div class="outline-text-4" id="text-5-3-4">
+<p>
+Special rights theories dominate debates about the ownership of
+cultural treasures, grounding property claims in particular historical
+actions such as discovery, preservation, or transfer rather than in
+general entitlements. Most discussions of repatriation&#x2014;as well as
+debates over the ownership of archaeological finds and artworks with
+unknown or disputed provenance&#x2014;are framed in these terms. Any
+defensible special rights account of original acquisition must
+incorporate a Lockean proviso, which permits appropriation only if
+enough and as good is left for others, intended to prevent
+appropriation from unjustifiably disadvantaging
+non-appropriators. This paper argues that the proviso must be
+interpreted pluralistically rather than monistically, rejecting the
+assumption that all goods contributing to human flourishing are
+mutually substitutable. It shows that many cultural treasures are
+irreplaceable, such that they cannot be substituted with any other
+good without loss, and that they therefore cannot satisfy a
+pluralistically understood Lockean proviso. The paper concludes that,
+even within a special rights framework, some cultural treasures cannot
+legitimately become property.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org3bd19f8" class="outline-3">
+<h3 id="org3bd19f8"><span class="section-number-3">5.4.</span> <span class="done DONE">DONE</span> Session III.4 Computing</h3>
+<div class="outline-text-3" id="text-5-4">
+</div>
+<div id="outline-container-org754d6cb" class="outline-4">
+<h4 id="org754d6cb"><span class="section-number-4">5.4.1.</span> Lena Wang, Taxonomically Transformative Technologies: AI Systems as Conceptual Engineers</h4>
+</div>
+<div id="outline-container-org9f8b354" class="outline-4">
+<h4 id="org9f8b354"><span class="section-number-4">5.4.2.</span> Wu Qiantong, The Possibility of Human-Like Consciousness in Large Language Models</h4>
+<div class="outline-text-4" id="text-5-4-2">
+<p>
+This paper proposes the necessary conditions for the consciousness to
+emerge from a physical being by stressing the importance of
+body-environment interaction in the physical as well as social
+aspects. Based on the conditions specified, the paper further argues
+against the possibility that there could be consciousness emerging in
+the large language model (LLM) so far; in fact, achieving human-level
+consciousness may not be necessary for building AI consciousness,
+considering that the purpose of developing AI is to facilitate human
+beings instead of creating more human-like beings.
+</p>
+</div>
+</div>
+<div id="outline-container-org021ca07" class="outline-4">
+<h4 id="org021ca07"><span class="section-number-4">5.4.3.</span> Bon-Hyuk Koo, Does the Opacity of Deep Learning Undermine Scientific Realism?</h4>
+</div>
+<div id="outline-container-orgff21cca" class="outline-4">
+<h4 id="orgff21cca"><span class="section-number-4">5.4.4.</span> Gianluigi Viscusi, Linköping University, Freedom By Design: Pluralism Of Values And Determinism In Big Data And Analytics</h4>
+<div class="outline-text-4" id="text-5-4-4">
+<p>
+When Felix Oppenheim posed the question on whether ‘freedom’ can
+become a concept of empirical science as dependent on the question on
+the existence of experiential data to which the concept of freedom can
+be linked, however indirectly (Oppenheim, 1961), he could perhaps not
+imagine how the answers to these questions would have been shaped by
+the subsequent millennium with the digitalization of society,
+businesses, and human interactions. Once undoubtedly considered
+philosophical arguments, today these questions are complex subjects of
+application for analytics applied to what common sense actually
+considers big data (Dumbill, 2013), and their use by artificial
+intelligence (AI) technologies. But what are the consequences of the
+potential and not hypothetical availability of “Big” experiential data
+for the concept of freedom?  What type of knowledge these data ground
+and what are the relations with liberty? As for the knowledge, Big
+data ground and refer to what Russell (1910) argued as knowledge by
+description, connecting, through the intermediary of processes of
+inference, the truths (carried out by Big data, in our case) with
+things with which we have acquaintance through our direct experience
+with the world. As for the relations between this knowledge and
+liberty, the increasing relevance of big data and analytics is framed
+and at the same time enact the idea of determinism questioned by
+Berlin (1999), pointing out that “the growth of knowledge increases
+the range of predictable events, and predictability - inductive or
+intuitive - despite all that has been said against this position, does
+not seem compatible with liberty of choice” (p.182). Particularly
+interesting is the point by Berlin (1999, p. 186) that all determinism
+needs is that x can predict the overall behavior of y and vice versa,
+not disclosing their predictions to one another, and the consequent
+substitution of knowledge and understanding for attribution of
+responsibility, actually radically changing our view of what
+constitutes a person, an act, a choice (Berlin, 1999, p. 186). If to
+be free is to be able to make an unforced choice, and choice entails
+competing possibilities (Berlin 1999), the question is not only what
+choices are enacted or bounded by Big Data and analytics use by AI
+technologies, but also what impact their design has. In this
+discussion, a relevant argument is considering technology as
+representation. As pointed out by Kallinikos (1995), representation is
+technology in terms of “an overall world orientation concerned with
+the objectification of the natural and social worlds in ways which
+render them amenable to calculation and mastery.” Furthermore, the
+representations framing the access to data, such as e.g.,
+classification schemes and their impact on social worlds they are
+supposed to serve, have been subject of studies in fields such as
+social studies of science and technology (see Bowker &amp; Star,
+2000). Yet, the question of what values and freedom are enabled,
+bounded, or enacted “by design” by technology, specifically big data
+and analytics for AI, remains little explored. Thus, in this
+contribution, we aim to analyze the concept of freedom in the
+technology and design of big data and AI analytics. To this end, we
+will start with the analysis of Isaiah Berlin (1969) and the
+subsequent debate on positive and negative freedom, as a theoretical
+background for clarifying the different conceptions of freedom at
+stake in the considered domain. Then determinism and pluralism of
+values in big data and analytics design for AI will be questioned for
+understanding their challenges particularly with regard to
+individual’s sovereignty and dissent as inseparable within a
+democratic society (Urbinati, 2009), and whether they enact
+individualism as solitude or autonomy, isolation, as atomism imposed
+by an external force, severing public relations, or eventually
+loneliness, when both private and public relations are severed (see
+also dimensions Arendt 1958, 1961).
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org3a285ed" class="outline-3">
+<h3 id="org3a285ed"><span class="section-number-3">5.5.</span> <span class="done DONE">DONE</span> Session III.5 History of Philosophy</h3>
+<div class="outline-text-3" id="text-5-5">
+</div>
+<div id="outline-container-org5ec6b03" class="outline-4">
+<h4 id="org5ec6b03"><span class="section-number-4">5.5.1.</span> Piotr Szalek, Intentionality and Representationalism</h4>
+<div class="outline-text-4" id="text-5-5-1">
+<p>
+The paper attempts to trace the historical correlations between
+intentionality and representationalism. The terminology of
+intentionality derives from medieval scholastic philosophy and was
+revived in 1874 by Franz Brentano in “Psychology from an Empirical
+Standpoint”. In this work, Brentano characterised intentionality in
+terms of ‘the mind’s direction towards an object’. He regarded
+intentionality as the distinctive mark of mental phenomena, which
+distinguishes them from physical phenomena. The early modern period is
+widely perceived by philosophers as not adding anything interesting to
+the problem of intentionality between the scholastics and Brentano. In
+the proposed paper, I will argue that Brentano combined both
+terminology (present in the late scholasticism), the concept (proposed
+by Brentano), and the problem of intentionality (elaborated by early
+modern philosophy). Moreover, I will suggest that Brentano’s
+understanding of the concept of intentionality would not be possible
+without the early modern discussion of representationalism in terms of
+the explanatory role of experience — discussion, that is, of how
+perceptual experience gives us cognitive contact with the
+mind-independent, external world.
+</p>
+
+<p>
+In the context of this discussion, we find an explicit reshaping of
+the problem of intentionality in the sense proposed by Brentano,
+though without the terminology of intentionality. Post-Cartesian
+philosophers were gradually aware that there was a need to distinguish
+between acts and contents in the description of ideas as
+representations of things. The distinction was possible only in terms
+of an intentional relation between something on the mind’s side (act)
+and something on the world’s side (content). Brentano labelled the
+modern discussion about the explanatory role of experience in terms of
+intentionality. In the Brentanian proposal, the terminology and the
+problem gained a convergence which had been lost, but at the same
+time, the problem was shaped already by the early modern philosophy
+discussions about representationalism.
+</p>
+</div>
+</div>
+<div id="outline-container-org83d5929" class="outline-4">
+<h4 id="org83d5929"><span class="section-number-4">5.5.2.</span> Antonio Borge, Towards an Objectivist Reading of Spinoza's Panpsychism</h4>
+<div class="outline-text-4" id="text-5-5-2">
+<p>
+Spinoza is a panpsychist: for him, mentality is a fundamental and
+pervasive feature of reality. According to a widespread narrative,
+Spinoza’s commitment to the pervasiveness requirement of panpsychism
+is commonly understood in perspectival terms: each idea and its object
+are merely two ways of conceiving one and the same thing. In this
+paper, I challenge the perspectivist reading and put forward an
+objectivist interpretation of Spinoza’s panpsychism’s pervasiveness
+requirement under which, for Spinoza, an idea and its object are
+numerically distinct things whose sum constitutes a further thing. I
+argue that this proposal is compatible with Spinoza’s sameness claims
+and that it avoids the interaction problem without resorting to their
+numerical identity.
+</p>
+
+<p>
+I begin by reconstructing two influential ways of reading Spinoza’s
+“one and the same thing” claims. On the Mode-Identity reading, if x is
+a mode of one attribute, then there exists, in each of God’s other
+attributes, one and only one mode numerically identical to x. On the
+Ideas–Things Identity reading, if x is an idea whose object is y, then
+x and y must themselves be numerically identical. I contend that both
+interpretations come at a significant cost. Mode-Identity leaves
+unexplained what grounds numerical identity across attributes, while
+Ideas–Things Identity appears to violate Leibniz’s Law. I then argue
+that Spinoza’s texts support a less radical account of the mind–body
+relation. Drawing on Karolina Hübner’s representational
+interpretation, I account for mind–body unity in terms of the union
+between an idea and its object. However, I depart from Hübner by
+denying that this union entails numerical identity. Instead, I argue
+that an idea and its object jointly constitute a third entity,
+numerically identical to their mereological sum and that Spinoza’s
+parallelism is structurally akin to the accounts of mind-body
+co-variation employed by Malebranche and Leibniz.
+</p>
+</div>
+</div>
+<div id="outline-container-org3eab99b" class="outline-4">
+<h4 id="org3eab99b"><span class="section-number-4">5.5.3.</span> Juuso Rantanen, Time, Inner Sense and the Falsity of Sensibilism</h4>
+<div class="outline-text-4" id="text-5-5-3">
+<p>
+One of the major debates in Kant scholarship in the past two decades
+has concerned the relation between the understanding and
+intuitions. Roughly speaking, the disagreement is about the question:
+are acts of the understanding necessary to generate intuitions?
+Intellectualists claim that the answer is yes, whereas sensibilists
+claim that the answer is no.
+</p>
+
+<p>
+The intellectualist-sensibilist debate has become intertwined with the
+question of where to locate the threshold of ‘phenomenal
+consciousness’ among these representations – e.g., are intuitions
+conscious? There is plenty textual evidence that suggests that Kant
+views empirical consciousness and self-consciousness as being
+dependent on acts of the intellect (e.g, A120, B160).
+</p>
+
+<p>
+I argue here that i) outer intuitions are generated independently of
+acts of intellect, but that acts of intellect are constitutive of our
+state consciousness. In other words, I suggest that unsynthesized
+intuitions, though independent of the intellect, are not conscious
+states for the subject.
+</p>
+
+<p>
+I argue that being related to inner sense is necessary for the
+conscious presentation of appearances. Here my argument relies on
+Kant’s claim that time is the form of inner sense (A34/B50) and on the
+phenomenological observation that all conscious outer representations
+that a subject like us can have are given in time. I argue that these
+jointly entail that an intuition cannot be temporal without being
+related to inner sense.
+</p>
+
+<p>
+I then argue that only acts of understanding can relate
+representations given by outer sense to inner sense. Kant argues in
+both the Transcendental Aesthetic and the Analytic (B67-9, B154), that
+it is the active subject who affects itself with representations. I
+argue that we should understand part of this self-affection to consist
+in relating spatial manifolds given by outer sense to inner
+sense. Hence, I conclude that though not constitutive of intuitions,
+the intellect is constitutive of our consciousness.
+</p>
+</div>
+</div>
+<div id="outline-container-org70fd798" class="outline-4">
+<h4 id="org70fd798"><span class="section-number-4">5.5.4.</span> Luke Jennings, University of Oxford, How Apt is Aristotle’s Comparison between Craft Production and Reproduction?</h4>
+<div class="outline-text-4" id="text-5-5-4">
+<p>
+In Book I.21-22 of Generation of Animals, Aristotle develops an
+analogy between craft and the coming-to-be of animals according to
+which nature utilizes male semen in acting on the female menses to
+produce progeny as a housebuilder acts upon bricks to produce a
+house. On this model, the more fully concocted male seed conveys the
+form of the offspring onto the comparatively less-concocted female
+seed, with what remains of the male semen’s matter subsequently
+putrefying. On a coarse reading of the view, male semen contributes
+all formal attributes when it is used to act upon the female menses,
+whose sole contribution is the sympathetic matter from which the
+progeny will be generated. Knowing this much, an incredulous response
+seems warranted: are we really to believe that the female makes no
+formal contribution to the offspring? In recent years, Sophia Connell
+has proposed that the reason for Aristotle’s misstep is the analogy to
+craft itself, which (she argues) we have no textual reason to
+privilege above several alternative models put forward within the
+GA. In what follows, I offer one competing reading of the craft
+analogy that ultimately fails but argue that we still have reason to
+take the craft analogy seriously in virtue of several strengths that
+the model gets right that other GA examples miss.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org4f4cc22" class="outline-3">
+<h3 id="org4f4cc22"><span class="section-number-3">5.6.</span> <span class="done DONE">DONE</span> Session III.6 Feminist Philosophy and Injustice</h3>
+<div class="outline-text-3" id="text-5-6">
+</div>
+<div id="outline-container-org10ba590" class="outline-4">
+<h4 id="org10ba590"><span class="section-number-4">5.6.1.</span> Nick Clanchy, Second-Order Hermeneutical Breakthroughs</h4>
+</div>
+<div id="outline-container-org12b5cf6" class="outline-4">
+<h4 id="org12b5cf6"><span class="section-number-4">5.6.2.</span> Justina Berskyte, The Carrot, The Stick, and The Oppressive Ideology: Two Sides of Misogyny</h4>
+</div>
+<div id="outline-container-org8184cdc" class="outline-4">
+<h4 id="org8184cdc"><span class="section-number-4">5.6.3.</span> Sophie Keeling, Standpoint Know-How</h4>
+</div>
+<div id="outline-container-org4a59ea1" class="outline-4">
+<h4 id="org4a59ea1"><span class="section-number-4">5.6.4.</span> Richard Hassall, Hermeneutical Injustice and Damaged Intellectual Self-trust in Psychiatric Service users</h4>
+</div>
+</div>
+<div id="outline-container-org8533e0a" class="outline-3">
+<h3 id="org8533e0a"><span class="section-number-3">5.7.</span> <span class="done DONE">DONE</span> Session III.7 Moral Philosophy</h3>
+<div class="outline-text-3" id="text-5-7">
+</div>
+<div id="outline-container-orgb049b4e" class="outline-4">
+<h4 id="orgb049b4e"><span class="section-number-4">5.7.1.</span> Nicola Zetti, Full Excuses Negate Wrongdoing</h4>
+</div>
+<div id="outline-container-org560a793" class="outline-4">
+<h4 id="org560a793"><span class="section-number-4">5.7.2.</span> Ignacio Pena, The significance of intentions for consent and liability to defensive harm</h4>
+</div>
+<div id="outline-container-orga247ced" class="outline-4">
+<h4 id="orga247ced"><span class="section-number-4">5.7.3.</span> Rebecca Dreier, The Moral Significance of Episodic-Like Memory</h4>
+</div>
+<div id="outline-container-orga23a486" class="outline-4">
+<h4 id="orga23a486"><span class="section-number-4">5.7.4.</span> Lisa McLaughlin, Caring action and intention</h4>
+</div>
+</div>
+<div id="outline-container-org36e02e0" class="outline-3">
+<h3 id="org36e02e0"><span class="section-number-3">5.8.</span> <span class="todo TODO">TODO</span> Session III.8 Metaphysics</h3>
+<div class="outline-text-3" id="text-5-8">
+</div>
+<div id="outline-container-orgdad9702" class="outline-4">
+<h4 id="orgdad9702"><span class="section-number-4">5.8.1.</span> Harry Cleeveley, The A Priori Truth of Modal Rationalism</h4>
+</div>
+<div id="outline-container-orgeef1d58" class="outline-4">
+<h4 id="orgeef1d58"><span class="section-number-4">5.8.2.</span> İbrahim Hansu, A Free Will Argument for DARC (Deliberation Annihilates Reflexive Credences)</h4>
+</div>
+<div id="outline-container-org4f44fd0" class="outline-4">
+<h4 id="org4f44fd0"><span class="section-number-4">5.8.3.</span> Charlie Green, Can the Structure of Primitive Colours be Reductively Explained?</h4>
+<div class="outline-text-4" id="text-5-8-3">
+<p>
+This paper presents and defends a novel objectivist position in the
+metaphysics of colour debate. Colour objectivism holds that colours
+are mind-independent properties which continue to exist
+unperceived. Two objectivist accounts of colour are colour physicalism
+and colour primitivism, which are typically taken to be inconsistent
+and hence in direct competition (e.g., Logue, 2016a, 2016b). Byrne and
+Hilbert (1997, 2003) defend a colour physicalism which maintains that
+colours are type-identical to (disjunctions of) surface spectral
+reflectances (SSRs). Primitivist accounts of colour such as Campbell’s
+(1993, 2006) explicitly reject type-identity relations between colours
+and their lower-level physical correlates, maintaining rather that our
+colour experiences are revelatory of the essences of colours, and that
+colours are sui generis properties ‘over and above’ their lower-level
+physical correlates such as SSRs. In this paper I reject this
+dichotomy by offering a middle-way objectivist position which endorses
+a primitivist account of colour that is explicitly consistent with an
+unorthodox kind of reductive physicalism. I appeal to recent
+structuralist definitions of theoretical reduction to show how the
+type-identity between primitive colours and SSRs can be denied, whilst
+maintaining that primitive colours are nevertheless higher-level
+physical properties amenable to reductive explanation. Influenced by
+Dennett (1991) on ‘real patterns’, Wallace (2022, 2026) defines
+theoretical reduction as a formal relation of instantiation between
+higher-level and lower-level mathematical models. I develop a
+structural account of primitive colour space inspired by Broackes
+(1992) to apply to Wallace’s (2022, 2026) structuralist definition of
+reduction. This results in a view I call 'colour structuralism', under
+which there exists a model of SSR structure which mathematically
+instantiates a model of primitive colour structure, and hence colour
+may be reductively explained whilst denying type-identity.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org0a77543" class="outline-3">
+<h3 id="org0a77543"><span class="section-number-3">5.9.</span> <span class="done DONE">DONE</span> Session III.9 Philosophy of Science</h3>
+<div class="outline-text-3" id="text-5-9">
+</div>
+<div id="outline-container-org4c1dfae" class="outline-4">
+<h4 id="org4c1dfae"><span class="section-number-4">5.9.1.</span> Mariona Miyata-Sturm, Aesthetic qualities will not help you gain nonfactive understanding</h4>
+</div>
+<div id="outline-container-orgd1c3bc6" class="outline-4">
+<h4 id="orgd1c3bc6"><span class="section-number-4">5.9.2.</span> Dragana Bozin, An Argument for Social Reasoning</h4>
+</div>
+<div id="outline-container-orgd63fd4c" class="outline-4">
+<h4 id="orgd63fd4c"><span class="section-number-4">5.9.3.</span> Hong Joo Ryoo, Grounding and Causation are the Same (Fundamentally)</h4>
+</div>
+<div id="outline-container-org0632031" class="outline-4">
+<h4 id="org0632031"><span class="section-number-4">5.9.4.</span> Ruodan Que, Interventionism, Agency Theory of Causation, and Impossible Interventions</h4>
+</div>
+</div>
+<div id="outline-container-orgc902956" class="outline-3">
+<h3 id="orgc902956"><span class="section-number-3">5.10.</span> <span class="todo TODO">TODO</span> Session III.10 Metaphysics and Mind</h3>
+<div class="outline-text-3" id="text-5-10">
+</div>
+<div id="outline-container-orgfec0589" class="outline-4">
+<h4 id="orgfec0589"><span class="section-number-4">5.10.1.</span> Arturo Vazquez-Hernandez, Psychological Language, Machine Behaviour and Intelligence</h4>
+</div>
+<div id="outline-container-orgf707059" class="outline-4">
+<h4 id="orgf707059"><span class="section-number-4">5.10.2.</span> Phillip Meadows, Causation By Omission, Norms, and The Problem of Profligacy</h4>
+</div>
+</div>
+<div id="outline-container-org710fefa" class="outline-3">
+<h3 id="org710fefa"><span class="section-number-3">5.11.</span> <span class="done DONE">DONE</span> Session III.11 Normative Ethics</h3>
+<div class="outline-text-3" id="text-5-11">
+</div>
+<div id="outline-container-org157ce38" class="outline-4">
+<h4 id="org157ce38"><span class="section-number-4">5.11.1.</span> Thomas Schmidt, Rescue Dilemmas and the Aggregation of Reasons</h4>
+</div>
+<div id="outline-container-org937e9c7" class="outline-4">
+<h4 id="org937e9c7"><span class="section-number-4">5.11.2.</span> Tommaso Soriani, The Perdurantist Responsibility Gap</h4>
+</div>
+<div id="outline-container-org6ca6c47" class="outline-4">
+<h4 id="org6ca6c47"><span class="section-number-4">5.11.3.</span> Koji Tachibana, Is the frontier spirit a virtue or a vice?</h4>
+</div>
+<div id="outline-container-orge01920c" class="outline-4">
+<h4 id="orge01920c"><span class="section-number-4">5.11.4.</span> Thomas Lockhart, The Inevitability of Deontic Conflict</h4>
+</div>
+</div>
+<div id="outline-container-org769fc45" class="outline-3">
+<h3 id="org769fc45"><span class="section-number-3">5.12.</span> <span class="done DONE">DONE</span> Session III.12 Moral Worth and Responsibility</h3>
+<div class="outline-text-3" id="text-5-12">
+</div>
+<div id="outline-container-org4eafee9" class="outline-4">
+<h4 id="org4eafee9"><span class="section-number-4">5.12.1.</span> Jackson Iszler, Defending Pluralism about Moral Worth: When Belief Fails to Motivate</h4>
+<div class="outline-text-4" id="text-5-12-1">
+<p>
+Right action motivated by the wrong reasons is not praiseworthy. While
+this much is uncontroversial, there remains significant debate over
+which motive grants moral worth. The plausibility of each candidate
+prompts some to adopt a pluralist position, holding that multiple
+motives grant right action moral worth. Nomy Arpaly recently objected
+to this view, claiming it entails a contradiction. I argue Arpaly’s
+objection fails for two reasons.
+</p>
+
+<p>
+First, the objection conflates motivating concern for morality with
+mere belief about morality. These come apart, as when one believes
+their action is right but is motivated entirely by other
+considerations. Moreover, removing this conflation to secure validity
+makes the objection obviously false.
+</p>
+
+<p>
+Considering the relationship between moral belief and motivation
+reveals the second and broader issue. Even if honest moral ignorance
+excuses, the belief that one’s action is right is insufficient to
+excuse wrong actions from blame. Instead, this belief must motivate
+the action. This takeaway undermines a crucial premise in Arpaly’s
+objection and has significant implications for the moral worth debate.
+</p>
+
+<p>
+If I am right, pluralism about moral worth is unscathed by Arpaly’s
+substantial objection and better equipped to explain why one may be
+praiseworthy for an action one’s own beliefs condemn.
+</p>
+</div>
+</div>
+<div id="outline-container-orgbf5e109" class="outline-4">
+<h4 id="orgbf5e109"><span class="section-number-4">5.12.2.</span> Daniel Dennis, Strawson's 'Basic Argument', Moral Responsibility, Learning Ethics and Your Foundational Choice</h4>
+</div>
+<div id="outline-container-orgc75f6a6" class="outline-4">
+<h4 id="orgc75f6a6"><span class="section-number-4">5.12.3.</span> Emmanuel Campion-Dye, How to reverse the order of explanation in the responsibility debate</h4>
+</div>
+<div id="outline-container-orgdabd2c3" class="outline-4">
+<h4 id="orgdabd2c3"><span class="section-number-4">5.12.4.</span> Amy Duong, Kant on 'practice makes virtue'</h4>
+</div>
+</div>
+<div id="outline-container-org0d4fecc" class="outline-3">
+<h3 id="org0d4fecc"><span class="section-number-3">5.13.</span> <span class="done DONE">DONE</span> Session III.13 Philosophy of Language</h3>
+<div class="outline-text-3" id="text-5-13">
+</div>
+<div id="outline-container-org5f2dd7c" class="outline-4">
+<h4 id="org5f2dd7c"><span class="section-number-4">5.13.1.</span> David Nicolas, Partitives, Groups, and Wholes</h4>
+</div>
+<div id="outline-container-orga935886" class="outline-4">
+<h4 id="orga935886"><span class="section-number-4">5.13.2.</span> Andrea Raimondi, University of Vienna, Reference, Conflicting Intentions, and the Madagascar Problem</h4>
+</div>
+<div id="outline-container-org60f5a42" class="outline-4">
+<h4 id="org60f5a42"><span class="section-number-4">5.13.3.</span> Adam Wingårdh, Why Many Conditionals are Ambiguous</h4>
+</div>
+<div id="outline-container-org91cf670" class="outline-4">
+<h4 id="org91cf670"><span class="section-number-4">5.13.4.</span> Paolo Bonardi, Williamson and Salmon on Propositions and Guises</h4>
+</div>
+</div>
+<div id="outline-container-org116442b" class="outline-3">
+<h3 id="org116442b"><span class="section-number-3">5.14.</span> <span class="done DONE">DONE</span> Session III.14 Mind and Perception</h3>
+<div class="outline-text-3" id="text-5-14">
+</div>
+<div id="outline-container-orgf3914af" class="outline-4">
+<h4 id="orgf3914af"><span class="section-number-4">5.14.1.</span> Romanos Koutedakis, Meinongian Theories of Perception</h4>
+</div>
+<div id="outline-container-orga0085a7" class="outline-4">
+<h4 id="orga0085a7"><span class="section-number-4">5.14.2.</span> Daniel Garcia Saavedra, Into the Heart of the Experiences of Total Darkness</h4>
+<div class="outline-text-4" id="text-5-14-2">
+<p>
+Are visual experiences of total darkness illusory/hallucinatory or
+cases of veridical perception?  I argue that they are neither. First,
+I argue that these experiences are not veridical because they do not
+fulfil the matching condition for veridically, i.e., that our
+experience matches what is there in the environment. Secondly, I argue
+that visual experiences of total darkness are neither illusory nor
+hallucinatory. I claim that they are not illusions because they do not
+misrepresent any property in the environment, and that they are not
+hallucinatory because they exhibit a strong dependency between the
+scene before our eyes and what we seem to see, something missing in
+all cases of hallucination. Instead, I argue that visual experiences
+of total darkness are indetermined visual experiences. This view, I
+claim, vindicates the intuitive idea that in seeing total darkness we
+seem to see something while failing to see anything.
+</p>
+</div>
+</div>
+<div id="outline-container-orgdccdfae" class="outline-4">
+<h4 id="orgdccdfae"><span class="section-number-4">5.14.3.</span> Noddy Lam, On the Temporal Viewpointedness of Perceptual Experience</h4>
+</div>
+<div id="outline-container-org505fc28" class="outline-4">
+<h4 id="org505fc28"><span class="section-number-4">5.14.4.</span> Alice Roberts, Can Statues Make Values 'Perceptible'?</h4>
+</div>
+</div>
+<div id="outline-container-org6d7c031" class="outline-3">
+<h3 id="org6d7c031"><span class="section-number-3">5.15.</span> <span class="done DONE">DONE</span> Session III.15 Metaphysics and Action</h3>
+<div class="outline-text-3" id="text-5-15">
+</div>
+<div id="outline-container-org910b67a" class="outline-4">
+<h4 id="org910b67a"><span class="section-number-4">5.15.1.</span> Andres Luco, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required</h4>
+</div>
+<div id="outline-container-orgf704cec" class="outline-4">
+<h4 id="orgf704cec"><span class="section-number-4">5.15.2.</span> Robyn Waller, Sourcehood compatibilism requires alternatives: New perspectives on Frankfurt cases and the Garden of Forking Paths</h4>
+</div>
+<div id="outline-container-orgf3436f2" class="outline-4">
+<h4 id="orgf3436f2"><span class="section-number-4">5.15.3.</span> Karl Egerton, Gamification: an explication</h4>
+</div>
+<div id="outline-container-orgd9641c6" class="outline-4">
+<h4 id="orgd9641c6"><span class="section-number-4">5.15.4.</span> Jan Westerhoff, Idealism and predictive processing</h4>
+</div>
+</div>
+<div id="outline-container-org0c44de1" class="outline-3">
+<h3 id="org0c44de1"><span class="section-number-3">5.16.</span> <span class="done DONE">DONE</span> Session III.16 Discourse, Assertion, Memory</h3>
+<div class="outline-text-3" id="text-5-16">
+</div>
+<div id="outline-container-orgd0fcf50" class="outline-4">
+<h4 id="orgd0fcf50"><span class="section-number-4">5.16.1.</span> Ross Patrizio, Assertion without sanctions</h4>
+</div>
+<div id="outline-container-org8c6380a" class="outline-4">
+<h4 id="org8c6380a"><span class="section-number-4">5.16.2.</span> Johan Chung, How to Stop Talking Past Eachother</h4>
+</div>
+<div id="outline-container-orgd716e38" class="outline-4">
+<h4 id="orgd716e38"><span class="section-number-4">5.16.3.</span> Ravi Thakral, Socially Centered Discourse</h4>
+</div>
+<div id="outline-container-org28794b5" class="outline-4">
+<h4 id="org28794b5"><span class="section-number-4">5.16.4.</span> Jessie Munton What Difference Does Remembering Make?</h4>
+</div>
+</div>
+<div id="outline-container-org6f1e1e3" class="outline-3">
+<h3 id="org6f1e1e3"><span class="section-number-3">5.17.</span> <span class="done DONE">DONE</span> Session III.17 Moral and Normative Philosophy</h3>
+<div class="outline-text-3" id="text-5-17">
+</div>
+<div id="outline-container-org65a4254" class="outline-4">
+<h4 id="org65a4254"><span class="section-number-4">5.17.1.</span> Guido Melchior, University of Graz, Epistemic regresses as starting-problems and stopping-problems</h4>
+<div class="outline-text-4" id="text-5-17-1">
+<p>
+In this paper, I will take a fresh look at a number of persistent
+epistemic regress problems, including Agrippa’s trilemma and problems
+of meta-justification, meta-awareness, and metaphysical
+explanation. Regress-problems must be divided into two groups,
+starting-problems that initiate a regress, and stopping-problems that
+attempt to end them. I will use this distinction to explore regress
+problems of justification, explanation, understanding, reasoning,
+argumentation, and belief. However, I will proceed by systematically
+investigating regresses of potential carriers of these epistemic
+phenomena &#x2013; propositions, assertions, and beliefs &#x2013; and the causal
+relations between them. I will argue that the metaphysical constraints
+on these regresses are substantially different. Proceeding in this
+way, we acquire a promising new classification of traditional
+epistemic regress problems and potential solutions. We can detect
+analogies between regresses of different epistemic phenomena with the
+same type of carriers but also distinguish between different regress
+problems for the same type of epistemic phenomena with different
+carriers. Moreover, asymmetries between regress problems of arguing
+and making someone believe and between explaining and making someone
+understand will be revealed.
+</p>
+</div>
+</div>
+<div id="outline-container-org6260205" class="outline-4">
+<h4 id="org6260205"><span class="section-number-4">5.17.2.</span> Nora Grigore, Romanian Academy, Moral Normative Forces and the Problem of Supererogation</h4>
+<div class="outline-text-4" id="text-5-17-2">
+<p>
+Intuitively, it seems that no justification can be required from the
+moral agent who does not give one's life to save others. Omissions of
+supererogatory actions do not seem to require justification or
+guilt. Then why does the problem of supererogation demand a
+justification for omitting morally good deeds?
+</p>
+
+<p>
+I argue that thinking about the problem of supererogation (i.e. asking
+how can we explain that excellent moral deeds are not obligatory) may
+lead to distinguishing between two ways of seeing morality and its
+normative force. The concept of supererogation often departs from the
+usual way of seeing the moral domain: it makes use of obligation and
+duty only to state that there is a moral realm beyond duty and the
+usual moral obligation. It strongly suggests, therefore, a different
+core of morality, one that is not moral obligation.
+</p>
+
+<p>
+C. Korsgaard, J. Dancy and M.O. Little already walk along these lines
+when they speak about a normative force that is ”attractive” rather
+than ”compulsive”, or about ”non-deontic reasons” and ”enticing
+reasons”, respectively. My aim is to clarify the distinction and to
+show that a non- deontic normative force amounts to a different way of
+seeing morality altogether.
+</p>
+</div>
+</div>
+<div id="outline-container-org1e0347e" class="outline-4">
+<h4 id="org1e0347e"><span class="section-number-4">5.17.3.</span> Joshua Jarvis-Campbell, Animal Agriculture and the Long-Term Future</h4>
+<div class="outline-text-4" id="text-5-17-3">
+<p>
+If developments in artificial intelligence continue, we may end up
+living in a post-scarcity society. Among the many questions that could
+be asked about what should be done in such a society is the following:
+How should we treat nonhuman animals? This paper focuses in particular
+on animal agriculture, asking whether we have any obligation to stop
+farming animals in a post-scarcity society. I argue that farming
+animals in a post-scarcity society could be plausibly done in a way
+that is morally permissible, even if the practice involves killing
+animals and consuming their flesh. To do this, I examine five types of
+objections to farming animals: welfare-based objections,
+wrongness-of-killing objections, respect-based objections,
+anthropocentric objections, and virtue ethics-based objections. I
+argue that these objections target contingent, rather than necessary,
+features of animal agriculture, suggesting that animal agriculture
+could be done in a way that avoids these objections. I conclude that
+while certain forms of animal agriculture in the future may be
+permissible, there are some significant associated risks that need to
+be addressed.
+</p>
+</div>
+</div>
+<div id="outline-container-org40d287e" class="outline-4">
+<h4 id="org40d287e"><span class="section-number-4">5.17.4.</span> Charlotte Franziska Unruh, University of Southampton, Understanding the Relationship between Meaningfulness and Well-Being</h4>
+<div class="outline-text-4" id="text-5-17-4">
+<p>
+Many people hold that meaningfulness and well-being are distinct
+dimensions of the good life. But how do these dimensions of the good
+life relate? In this paper, I develop a novel account, according to
+which the meaningfulness of our lives depends on our attitudes to
+things that make our lives go better. More precisely, φ is meaningful
+for an agent A if and only if (i) φ contributes to A’s well-being, and
+(ii) A has an appropriate attitude to φ, where “appropriate attitude”
+can be spelled out as an attitude of care (Frankfurt 1998, 2004). The
+novel feature of this account is that meaningfulness depends on
+well-being: something that does not contribute to our well-being
+cannot be meaningful for us. I defend this view by addressing two
+objections. First, I claim that cases of self-sacrifice are not
+counterexamples to my view, arguing that cases of self-sacrifice are
+most plausibly understood as cases in which agents forego an
+opportunity to maximize their well-being (often in favour of increased
+meaningfulness). Second, I defend the idea that what is meaningful for
+an agent depends on the agent’s subjective attitudes by showing that
+my account, when coupled with an objectivist account of well-being,
+can accommodate a range of objectivist intuitions about
+meaningfulness. Finally, I argue that my view is superior to
+alternative views on the relationship between meaningfulness and
+well-being that have been proposed in the literature by Metz (2007,
+2012, 2013), Woodard (2017), and Hammerton (2022). I argue that my
+view is not vulnerable to the challenge that meaning is merely a
+subset of well-being, rather than a distinct category; that it
+maintains the powerful intuition that meaningfulness possesses final
+(not merely instrumental) value; and is compatible with a variety of
+views on the nature of well-being.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Luke Elson, luke.elson@reading.ac.uk</p>
+<p class="date">Created: 2026-06-18 Thu 08:32</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,1122 @@
+#+TITLE: 2026 Open Sessions Timetable, Round 2
+#+SUBTITLE: 18 June 2026
+#+AUTHOR: Luke Elson, luke.elson@reading.ac.uk
+
+* How to use this document
+
+Please check the timetable and that your title (and abstract, if
+present) are correct. My apologies if you submitted a change and I've
+missed it -- please email me. I'm adding affilitations and abstracts
+as the line-up is finalised.
+
+* Open Sessions Rules and Advice
+Each open session takes two hours, split (in nearly every case)
+between four speakers.
+
+Grouping such a large number of papers into sessions of four means for
+some slightly odd or arbitrary groupings; sorry about that. Sometimes
+this is due to speaker scheduling constraints, but it may often simply
+be strange choices on my part!
+
+** Finding your room
+
+Because of the large number of parallel sessions, some of the sessions
+will be in the two large lecture theatres. I know this is a bit odd,
+but I thought it better than going for buildings outside Palmer and
+Edith Morley (which are very close together).
+
+Many people find the Edith Morley building confusing, which I've never
+understood. It's a masterpiece of logical planned architecture.
+
+The first part of a room number (G/1/2/3/4) is the floor. The second
+part is the room. For the latter, use the numbering signs along the
+corridors, rather than the maps. The maps are genuinely confusing.
+
+** Within the session
+
+Traditionally, one of the speakers chairs the session. The order of
+the speakers is arbitrary within each session.
+
+I'd advise keeping paper plus question and answer to 25 minutes, to
+allow for changeover.
+
+Chairs should only tolerate follow-up questions if all other askers
+have had a go and there is time left.
+
+** Screens? Handouts?
+
+It's possible to use the in-room projectors or screens, but it might
+be easier to bring your own laptop and attach it. It might be even
+easier to use a handout (you will need to bring copies).
+
+Or easiest of all is to use the board. I'll go around a few days
+before the Joint Session to make sure there's at least one working
+marker pen in each room.
+
+* Open Session I: Thursday 17.00 – 19.00 [16/16]
+** DONE Session I.1 Metaethics
+*** Ronan Ó Maonaile, Why Fit-Making Considerations Are Not Normative Reasons
+*** Samuele Chilovi, Normative Authority, Formal Normativity, and the Question of What to Do
+*** Umut Baysan, Reasons as Non-Causal Powers
+*** Niklas Kurzböck, An Essentialist Explanation for the Normative Status of Future Generations
+** DONE Session I.2 Artificial Intelligence
+*** Ari Deller, 'Can AIs do X': The Wrong Question in AI Scholarship
+*** Rory Aird, ChatGPT isn't safe
+*** Rahul Kumar Maurya, Ethics and AI's Challenge to Humanity: A Perspective from Early Buddhism
+*** Drew Chambers, When should you trust ChatGPT? Deference, Inquiry, and Epistemic Risk
+** DONE Session I.3 Normative Ethics
+*** Rebecca Brione, Requests for permission: an intriguing normative phenomenon hiding in plain sight
+We perform requests for permission all the time. However, little
+attention has been paid to what we do with our words when we request
+permission. In contrast there is plentiful analysis, although
+considerable disagreement, on how we characterise /responses/ to
+requests for permission and what we do when we perform simple requests
+such as ‘pass the salt’. This dichotomy is striking because permission
+requests are equally commonplace in everyday life, playing a rich role
+in ongoing debates about consent, refusal and the conditions for
+autonomy in people’s lives.
+
+This paper offers a novel characterisation of permission requests. It
+argues that permission requests generate /de novo/,
+content-independent, discretionary reasons for action. That is, they
+directly generate reasons for the requestee to waive a claim-right,
+simply ‘because I asked’. The paper shows that analysing permission
+requests provides novel reasons to support the claim that all requests
+generate discretionary reasons, rather than obligations, for the
+requestee to act, and that there are valuable autonomy-related reasons
+for this.
+
+Permission requests have been overlooked as an important normative
+phenomenon in their own right. Analysing these important illocutions
+also supports a more robust characterisation of requests as a whole,
+and provides a springboard for better understanding their
+socially-significant sequelae of consent and refusal.
+**** Thursday                                                      :noexport:
+*** Dong An, Moral Bitterness Reconsidered
+*** Pilar Lopez-Cantero, Friendship break-ups
+*** Anna Dvorishchina, Compassion Towards the Culpable 
+** DONE Session I.4 Political Philosophy
+*** Kieran Oberman, Nature vs Murder
+*** Gunnar Björnsson, Distributing the State's Agency: A New Framework for Political Justice
+*** Marta Giunta Martino, Can Institutions Express Dissent? An Ontological Perspective on Institutional Moral Protest
+*** Qifan Yang, Hierarchical Injustice and Immigration
+** DONE Session I.5 Aesthetics
+*** Mehmet YILDIZ, Context of Distraction: On the Nature of Silly Questions
+*** Leonardo Nanni, An Aesthetic Argument for Supererogatory Actions
+*** Tessa Ditner Amorosi, The Epistemic Impact of an Aesthetic Category
+*** Colette Olive, Miserable Characters and Unfeeling Artists: Trauma Porn as an Aesthetic Failing
+** DONE Session I.6 Ancient Philosophy
+*** Elena Padoan, Plato's Forms as Neutrals: Neither Universals Nor Particulars
+*** Benjamin Conover, A New Perspective on the Receptacle in Plato's Timaeus
+*** Alba Cercas Curry, Fake it, but never make it: The case for feigned contempt in Early Chinese Philosophy
+*** Sofija Anna Kozlova, Celestial Good in Aristotle
+** DONE Session I.7 Philosophy of Language
+*** Alex Murphy, A Humanistic Approach to the Two Images
+*** Maria Forsberg, Conceptual innovation: what it is and should be
+*** Sarah Fisher, Shoring up speech norms in an age of artificial language generators
+*** Uri Brun, Beyond the Implementation Problem: A Cavellian Perspective on Conceptual Engineering
+** DONE Session I.8 Perception
+*** Pietro Chiericoni, Cross-Cultural Variations in Emotionally Charged Perception
+*** Eugen Fischer, Experimental argument analysis: Empirically examining the argument from hallucination
+**** THURSDAY :noexport:
+*** Niccolò Nanni, When The Senses Don't Match
+*** Roope Ryymin, What We See in the Shadows
+** DONE Session I.9 Interpersonal Relationships
+*** Hannah Barrios, Relationships Without the Reactive Attitudes
+*** Christina Fritz, Automatic Speech, Unintentional Harm, and Moral Accountability
+*** Javier Moreno, Why Is Breaching Trust Morally Wrong?
+*** Leah Henderson, Defining 'societal trust'
+** DONE Session I.10 Rational Choice, Beliefs, Differences
+*** Kangyu Wang, Making Hard Choices for Changing Selves
+*** Binjie Zou, Ramsey: Measuring partial belief 
+*** Nicholas Smith, What are Degrees of Belief?
+*** Matthew Rellihan, Difference Making in Action
+** DONE Session I.11 Metaphysics
+*** Karol Polcyn, Conceivability Intuitions and A Posteriori Physicalism
+*** Robert Trueman, The functional individuation of properties
+*** Andrei Ionut Marasoiu, Pragmatics and elusive deflationism about extended minds
+*** James Ross, Analogy and Determination
+According to Kris McDaniel, if a property is analogous, there are
+multiple ways of having that property. If, for example, /being/ is
+analogous, it fragments into different modes of /being/. In this essay I
+discuss a serious concern for proponents of this view: that analogy is
+curiously similar to, or perhaps /just is/, the determinable–determinate
+relation. Significantly, both are ontological unities that involve
+specification. Notwithstanding their similarities, I argue that
+analogy is a distinct kind of connection. First, I show that analogous
+properties must bear the feature of being disjunctive (e.g., existence
+is /absolute being/ or /being-in/). In contrast, determinates may form
+continuous ranges, say, as shades of a colour. Second, I demonstrate
+that analogates don’t have to specify a generic property, whereas
+determinates always do (a scarlet object is necessarily red). Given
+these distinctions, among others, my conclusion is that analogy is
+unique and deserves more attention in the contemporary metaphysics
+literature.
+** DONE Session I.12 Epistemology
+*** Gabriel de Sousa, Against Conceptual Conformism: Problems from Social Epistemology for Positive Duties to Believe 
+*** Kathleen Murphy-Hollies, On Believing What Resonates
+*** Aviezer Tucker, Epistemic Generation, Transmission, and Decay
+*** Adham El Shazly, Radical Hope & Moral Imagination
+** DONE Session I.13 Practical Ethics
+*** Rebecca Moore, Ectogenesis- an end to the abortion debate?
+*** Katariina Hynninen, Why The Possibility of Meaning in Captivity Doesn't Justify It
+*** Adam Hudson, What (if anything) is wrong with consumer boycotting?
+*** Gerald Lang, Is There a Defensive Case for Torture?
+** DONE Session I.14 Philosophy of Mind
+*** Elena-Giorgiana Rosu, Agency after the fact: self deception as retrospective explanation
+*** Jonathan Mitchell, Peripersonal Experience: A Sense of Tactile Possibility
+*** Savvas Ioannou, Panmentalism and  the Hard Problem of Consciousness
+*** Anna Giustina, Moods and the Structure of Consciousness
+** DONE Session I.15 Self, Mind, Competence
+*** Giovanni Dusi, Against the SkShSi structure of competence
+*** Krisztian Kos, Exploring Attributions of Affective States: The Affective Picture
+*** Shunsuke Sasaki, Toward a Unified Account of Survival Criteria through Interventionist Causality
+*** Daniel Cristian Stancu, Focusing on Actions to Disperse the Distinction between Minimal Self And Narrative Self
+** DONE Session I.16 Technical Philosophy and its History
+*** Janine Gühler, Pembroke & Worcester Colleges, University of Oxford, Frege on the Objectivity of Numbers and Dependence on Reason
+In the Grundlagen der Arithmetik Frege claims that numbers are
+self-subsistent objects, i.e. object that exist independently of
+anything else. Frege’s Grundlagen §26 ends with the claim that what is
+objective is independent (unabhängig) of sensation, intuition and
+imagination but not of reason (Vernunft). Those who ascribe Idealism
+to Frege have taken this statement in support of the view that Frege
+believed that the existence of abstract objects such as numbers
+depends on reason. I suggest that this misunderstands Frege’s
+point. The same §26 clarifies earlier that to be grasped or understood
+(Erkanntwerden) is not to be created (Entstehen), which supports a
+Realist interpretation. The objectivity of the Earth axis is not
+fictitious or devised (erdacht) or created (entstanden) but simply
+thought (gedacht). Otherwise, Frege claims, we would not be able to
+assert anything about the Earth axis before it was thought of by
+us. While Frege does not speak explicitly of the independence
+(Unabhängigkeit) from being thought of the Earth axis, I believe his
+talk of not being created clearly denotes ontological independence of
+what is objective. When Frege speaks of the dependence on reason of
+what is objective, I suggest he does not denote ontological dependence
+but rather epistemological or semantic dependence. If what is
+objective were to depend ontologically on reason, it is hard to see
+how Frege can at the same time maintain that thought does not create
+what is objective. Rather, Frege wants to say that while what is
+objective does not depend on individual points of view or different
+ways of perception, any statement or thought that says something about
+number depends on reason since reason is necessary for the formation
+of a thought. I therefore suggest that Frege makes a trivial point at
+the end of §26 rather than an ontologically loaded one.
+**** Thursday :noexport:
+*** Francesco Gandellini, Identity or inseparability? Spinoza meets Wittgenstein
+In the Ethics, Spinoza famously claims that ‘[t]he order and
+connection of ideas is the same as the order and connection of things’
+(2p7). Interpreters agree that this proposition asserts the existence
+of a parallelism between thought and being. In the scholium to 2p7’s
+demonstration, the philosopher further adds that ‘a mode of extension
+[i.e., a being in the world] and the idea [i.e. thought] of that mode
+are one and the same thing, but expressed in two ways’ (italics
+mine). In light of these claims, Spinoza is often read as endorsing
+the strong thesis that thought is identical with being, and thus as
+anticipating a view traditionally associated with Hegel.  Scholars
+debate how Spinoza motivates this identity. Michael Della Rocca has
+forcefully argued that the proof for 2p7 is driven by Spinoza’s
+uncompromising commitment to the Principle of Sufficient Reason
+(‘PSR’), according to which every fact must have an explanation. If
+so, no fact can be brute or unexplained.  In this paper, after
+introducing the key ingredients of Spinoza’s proof of 2p7, I examine
+Della Rocca’s reconstruction on the basis of the PSR. I then argue
+that Della Rocca’s argument does not, in fact, establish the identity
+of thought and being that he and others attribute to Spinoza. A
+different claim follows instead, namely one of inseparability between
+thought and being, which I proceed to illustrate. Not only does this
+claim actually results from employing the PSR in the way Della Rocca
+proposes, but is also avoids a further brute bifurcation – ruled out
+by the PSR itself – to which Della Rocca seems committed.  By
+elucidating this claim of inseparability, I finally suggest that
+Spinoza’s position is better understood as anticipating a view about
+the alignment of thought and world akin to that found, for instance,
+in (the later) Wittgenstein.
+**** not Friday afternoon :noexport:
+*** Kaj André Zeller, , How to Handle the Problem(s) of Dimensional Poverty
+Naive non-cognitivism provides an account of moral psychology that
+deserves to be defended for its simplicity. According to this view,
+the basic evaluative attitude is a simple desire: an intrinsic
+first-order desire, without any further accompanying attitude being
+part of the basic evaluative attitude. However, naive non-cognitivists
+face the /Problem of Dimensional Poverty/: simple desires appear too
+dimensionally poor to be the basic evaluative attitude. It has been
+overlooked that the Problem of Dimensional Poverty can be
+distinguished into different versions. The formal version is concerned
+with schematic representations of mental attitudes. The substantial
+version is concerned with accounts of particular dimensions of an
+attitude. I propose two ‘moves’ (the ‘adverbialisation move’ and the
+‘deflation move’) that naive non-cognitivists can appeal to when
+replying to what I call the ‘easier’ formal and substantial
+problems. I then develop a ‘harder version’ of both the formal and the
+substantial problem. I suggest that answering the harder formal
+problem requires adopting an attitude-based scholastic account of
+desire, according to which desires are attitudes of
+presenting-as-good. To answer the harder substantial problem, the
+naive non-cognitivist might appeal to a functional or phenomenological
+characterization of the dimensions of the basic evaluative attitude.
+*** Will Patterson, King's College London, Does 'Why?' objectify agency? A defence of Anscombe's Intention
+"In Intention (1957/2000), Elizabeth Anscombe defined intentional
+actions as those to which “a certain sense of the question ‘Why?’ is
+given application” (I, 9). Recently, Anton Ford (2017) has challenged
+her proposal to understand intentional actions in terms of the
+question ‘Why?’. Anscombe proposes to define intentional actions in
+terms of how they are explained (ibid., 219). This, Ford contends,
+threatens disastrous consequences for our understanding of human
+action: a focus on action explanation leads us to privilege the
+standpoint of those who observe, and demand explanation for,
+intentional actions; leading us to neglect the standpoint of the agent
+herself as she carries out her action, forcing us to objectify human
+agency (ibid., 228-230). As a corrective, he suggests that we focus on
+the question ‘How?’, rather than ‘Why?’, bringing into view an agent’s
+order of calculation about what to do, and revealing “the structure of
+what one thinks insofar as one is acting.” (ibid., 227)
+
+I reply to Ford’s worry on Anscombe’s behalf. I draw on some resources
+from Anscombe’s account of practical truth to argue that, for
+Anscombe, we develop practical rationality by aiming to act in a way
+that is practically true; where acting in a way that is practically
+true is acting in a way that satisfies the description ‘doing well’
+(PT, 152). To do that, I suggest, one must grasp why some action
+satisfies the description ‘doing well’, which means that a practically
+rational agent must be interested in why some action should be
+performed, as well as how to perform it. To that extent, the question
+‘Why?’ does reveal the structure of what one thinks insofar as one is
+acting, for Anscombe; so, her focus on the question ‘Why?’ does not
+objectify agency. "
+* Open Session 2: Friday 11.00 – 13.00 [16/17]
+** DONE Session II.1 Feminist Philosophy
+*** Emily Thomas, Letters of Women Philosophers 1902-1951: Sexism and Shadow Networks
+This talk explores connections between six philosophers:
+E. E. Constance Jones, May Sinclair, Karin Costelloe-Stephen, Hilda
+Oakeley, Susan Stebbing, and Margaret Macdonald. They worked within
+seemingly disparate movements - British idealism, Bergsonism, early
+analytic - yet I’ll use archival letters to show they belonged to
+criss-crossing philosophical networks. These letters are due to be
+published May 2026 (Letters of English Women Philosophers 1902-1951,
+OUP). Having briefly introduced all six figures, this talk will
+explore two issues arising from their correspondence: sexism, and
+shadow networks.
+
+Challenges. All six figures faced significant challenges - including
+sexism. For example, when Jones writes to Bertrand Russell for
+permission to attend his all-male 1910 logic lectures, she was
+conscious of the need to bring a chaperone. In 1937, Macdonald reports
+she has not applied for a position at Swansea for the university
+council would not ‘contemplate appointing a woman’. In 1939, Gilbert
+Ryle commented on Stebbing’s suitability for a Cambridge chair, ‘Of
+course, everyone thinks you are the right person to succeed Moore,
+except that you are a woman’.
+
+Shadow networks. Many of our six philosophers knew each other well, yet
+not a single letter has survived between them. This is probably
+because (unlike some of their male peers) their philosophic
+correspondence has not been preserved in a conscious way. Nonetheless,
+what does survive reveals shadowy personal links between them. They
+wrote each other employment reference, attended their talks,
+visited. Going beyond their correspondence, the records of the
+Aristotelian Society show many discussions through which they
+interacted. This talk will detail the personal connections between our
+six women and - going further - sketch the broader women’s networks
+they belonged to. We’ll see that these women philosophers used their
+interpersonal networks to address some of the challenges they faced.
+*** Fiona Woollard, An argument for the unequal distribution of parental duties after birth
+*** Bengü Demirtas, Sexual Consent as a Standing Normative Relation in Enlightenment Philosophy and Marriage Law
+*** Christian Meyer, Freie Universität Berlin, Radical Feminist Conceptions of Sexual Liberation
+"This paper offers a philosophical reconstruction of radical feminist
+debates about sexual liberation during the 1970s and 1980s, debates
+sometimes termed the “feminist sex wars”. The emerging picture
+provides an intervention in current feminist debates about sexual
+freedom. A recent wave of feminist work has criticized liberal notions
+of sexual freedom by recovering elements of antipornography feminism,
+an outgrowth of radical feminism. I argue that we should rather turn
+to early radical feminism and sex-radical feminism, another off-shoot
+of radical feminism, to develop a politics of sexuality beyond
+liberalism. Such a politics closely connects sexual liberation with
+the ambition to abolish gender as we know it.
+
+To start, I show that various opposing parties within radical
+feminism, including both antipornography feminism and sex-radical
+feminism, shared a commitment to politicizing sexuality, rejecting a
+liberal sexual politics that assigned sexuality to the realm of the
+private. Sexuality, they all argued, was closely connected to gender:
+gender-conformity was stabilized by an imperative to sexual
+conformity, and sexual behaviour was policed regarding its
+gender-conformity. This entanglement of sexuality and gender implied
+that the abolition of gender was a condition for sexual
+liberation. Antipornography feminists drew the conclusion that sexual
+liberation would have to wait until ‘after the revolution’, leaving
+them without an effective sexual politics for the present. Sex-radical
+feminists, by contrast, went on to develop prefigurative strategies of
+disentangling gender and sexuality by locally decoupling sexuality
+from real-world power. Importantly, sex-radical gender abolitionist
+politics was emphatically inclusive of sexual minorities, contrasting
+with some antipornography feminism. During the 1980s, both sides
+eventually abandoned an analysis of sexual liberation that was
+connected to the ambition of abolishing gender, leaving this vision of
+sexual politics a path not taken. I argue that this development
+weakens feminist analyses of sexual liberation until today.
+** DONE Session II.2 Philosophy of Language
+*** Rhiannon Snook, Ay Up Me Duck! On Written Representations of Linguistic Variation
+*** James Kirkpatrick, A Potentialist Theory of Natural Language
+*** Artur Kosecki, An Austinian Account of Lexicalized Concepts: Responding to Strawson's Challenge in Conceptual Engineering
+*** Hugo Heagren, Divided speech acts
+** DONE Session II.3 Sex and Consent
+*** Andrés (Andy) Garcia, Love Drunk: Asymmetric Infatuation and the Ethics of Sex
+*** Milena Bartholain, Sexual Paternalism
+*** Talita Ferrantelli, Defeating Sexual Consent
+*** Peter Schaber, Legitimate Threats
+Various authors argue that illegitimate threats invalidate consent,
+whereas legitimate threats do not. I will not question this
+view. Instead, I ask what, precisely, distinguishes a legitimate
+threat from an illegitimate one. When is a threat illegitimate? When,
+if ever, is it legitimate?
+
+Some argue that threats are never legitimate. Others hold that they
+are legitimate whenever the person who threatens has a right to
+perform the threatened act. Still others doubt that this is always the
+case, claiming that legitimacy attaches not to all permissible
+threatened acts but only to some of them. I argue in this paper that a
+threat is legitimate if and only if the threatened act is morally
+permissible, and that the threatened act is morally permissible only
+if it is an appropriate response to the threatened person’s refusal to
+perform the desired act. I further argue that it is an appropriate
+response only if the threatened person has a duty to perform the act
+in question.
+** DONE Session II.4 Philosophy of Science
+*** Jonny Blamey, Two directions of time and the foundations of science
+*** Vanessa Seifert, Could AI undermine standard scientific realism?
+*** Arlene Lo, Fengshui and the Spectre of Scientific Demarcation
+*** George Webster, From Phenomenology to Quantum Reconstruction: an Argument from Merleau-Ponty
+** DONE Session II.5 History of Philosophy and Propositions
+*** Fridolin Neumann, What is idle talk? Heidegger, untruth, and ontological disguise
+This paper proposes a novel reading of Heidegger’s conception of /idle
+talk/ (/Gerede/) as a form of misguided ontological discourse. Against
+pragmatist readings of Heidegger that construe idle talk in terms of a
+lack of skilful familiarity with entities, I argue that idle talk is
+instead situated at the level of the ontological commitments that
+underlie and structure our experience. Idle talk arises when these
+commitments /disguise/ (/verstellen/) entities in inappropriate
+ontological terms – for instance, by treating human beings as mental
+substances, or organisms as mere physical entities. The paper proceeds
+in three steps. First, I reconstruct the pragmatist interpretation of
+idle talk and stress its inability to account for Heidegger’s claim
+that idle talk covers-over (/verdeckt/) entities. Second, I develop a
+conception of ontological disguise based on Heidegger’s account of
+semblance and untruth. Idle talk, I suggest, circulates ontological
+prejudices that have not been grounded in the entities they concern,
+and thereby contributes to a distorted understanding of them. Third, I
+foreground the systematic upshot that Heidegger both stresses the
+inevitability of ontological prejudices and expects epistemically
+responsible agents to continuously ground them in the entities to
+which they pertain.
+*** Quentin Hosch, James Ward's Theory of Presentation
+*** Sean Maroney, Edith Stein's Emotion Ontology
+*** Jacopo Berneri, The Copernican Turn of Structured Properties and Propositions
+** DONE Session II.6 Childhood, Love, Friendship
+*** Andrea Villalba Cuesta, Shape of a Childhood
+*** Matthew Robson, Simone de Beauvoir and the Possibility of Authentic Parental Love
+*** Ida Miczke, When love met morality: anonymity, irreplaceability, and partial self-effacement
+*** Ruth Boeker, Mary Astell and Mary Lee Chudleigh on Friendship, Social Relations, and Moral Perfection
+** DONE Session II.7 Epistemology
+*** Pawel Grad, The debasing effects of higher-order defeat
+**** SESSION I or II :noexport:
+*** Thomas Koster, Generative Memorial Knowledge and Knowledge Acquisition Conditions
+*** Bob Lockie, Knowledge, Understanding and Schemata: Lessons for Epistemology from the Psychology of Expertise
+*** Vijay Keshav, Why Moore's Proof Works
+** DONE Session II.8 Metaphysics and Logic
+*** Cansu Yuksel Yildiz, Grounding Modality and Lewisian Amodalism
+**** FRIDAY MORNING :noexport:
+*** Yongwoo Yi, Fundamental Quantities in Dispositional Essentialism
+*** Emils Zavelis, A New Perspective on Impossible Worlds
+Many philosophers believe that some non-classical logic is
+correct. Nevertheless, they often rely on classical logic when arguing
+for their position and defining their (supposedly correct) logic. This
+may be unproblematic, supported by the idea that classical reasoning
+can somehow be recaptured inside the non-classical logic. This idea is
+made formally precise in the so-called classical recapture proofs, and
+we have such proofs for wide classes of non-classical logics. I show
+why attempts to justify using classical logic inside paraconsistent,
+dialetheic theories are bound to be circular – the proofs used to
+establish the recapture result rely on the very rules they try to
+justify. By distinguishing between persuasive and explanatory proofs,
+I argue that this circularity is not a problem in itself. However,
+this creates a dilemma for dialetheists: (1) either accept these
+recapture proofs as defeasible and embrace logical
+anti-exceptionalism, or (2) reject classical recapture
+altogether. This dilemma, to the best of my knowledge, has not been
+noted in the literature before.
+*** Ziad Eldanaf, When Parthood Breaks: Hylomorphism and the Limits of Classical Mereology
+** DONE Session II.9 Subjectivity, Normativity, and Attention
+*** Joseph Neisser, Familiarity and self-consciousness
+**** FRIDAY MORNING :noexport:
+*** Alon Isac, Pain's Normative Constraints
+Despite pain’s phenomenal, neuronal and functional idiosyncrasy, there
+have been recent attempts to identify a property or set of properties
+shared by all pains, in virtue of which they are considered pains. In
+this paper, I argue that such attempts should be rejected. Instead, I
+suggest that pain is a family resemblance concept constrained by
+pragmatic and moral considerations. On this view, pains share a range
+of phenomenal, neuronal and functional properties in a crisscrossing
+and overlapping manner, rather than a primal pain property or
+element. However, since many of these properties are also present in
+non-painful experiences, their presence alone cannot determine whether
+an experience is painful. I argue instead that pain categorization is
+guided by practical goals and ethical values. Accordingly,
+categorizing pain involves not only the identification of common
+properties, but also evaluating their importance. Pain research should
+therefore acknowledge that normative judgements are constitutive of
+pain.
+*** William Gopal, Expertise and Norms of Attention
+*** Paul Healey, An Indemonstrable Grief
+** DONE Session II.10 Justice and Injustice
+*** Karl Landström, The Wrongs and Harms of Epistemic Exploitation
+*** Dominik Jarczewski, On Epistemic Respect
+*** Chelsea Guo, Doxastic Injustice, not Wronging
+**** FRIDAY :noexport:
+*** Michele Bocchiola, Trusting the Institutional Rule-Breaker. Office Trust Under Dirty Hands
+What happens to trust among officeholders (for short ‘office trust’)
+when one of them deliberately violates institutional rules to secure
+what she regards as a higher value? This paper addresses a neglected
+dimension of Walzer’s dirty hands problem: its implications for
+intra-institutional trust relations. I argue that office trust
+remains warranted despite justified rule violation if and only if the
+officeholder acts from a 'pro officio' attitude—comprising role
+endorsement, norm acceptance, and office accountability. This thesis
+emerges from examining two competing conceptions of office trust. The
+reliable rule compliance view grounds trust in behavioral conformity
+secured by external constraints: monitoring mechanisms, incentive
+structures, and sanctioning practices that render deviation
+irrational. This view fails because it conflates trust with mere
+reliance and presupposes that rules always provide clear
+guidance—precisely what dirty hands scenarios deny.  The judicious
+role fulfillment view offers a superior alternative by grounding trust
+in the officeholder’s internal stance toward her role. I establish
+necessity through three failure cases: removing role endorsement
+leaves motivational commitment detachable from institutional values;
+removing norm acceptance eliminates moral remainder and
+instrumentalizes discretion; removing office accountability renders
+judgment opaque and unevaluable. Sufficiency follows because these
+components jointly provide motivational, normative, and justificatory
+assurance that makes trust rational even under rule violation. An
+officeholder who manifests this attitude demonstrates stable
+commitment to institutional values, appropriate moral seriousness
+about violations, and publicly answerable reasoning that peers can
+recognize as responsive to institutional mandates.  The framework
+handles hard counter-cases—sectarian officials, erosion by
+accumulation, adversarial offices—by specifying boundary conditions
+including minimal openness requirements and publicity tests. The
+analysis reveals a striking paradox: rule violation can sometimes
+strengthen rather than undermine trust, provided it manifests the very
+commitment to institutional values that trust relationships require.
+**** FRIDAY Morning :noexport:
+** DONE Session II.11 Philosophy of Mind 
+*** Daniel Morgan, The Shallows of the Addicted Mind
+**** FRIDAY MORNING :noexport:
+*** Zhengping Zhang, Toward a Relational Picture of Self-Trust
+Individuals experiencing impostor syndrome raise the puzzle of
+simultaneously possessing and lacking sufficient self-trust in the
+same domain. The three plausible claims below are in tension with one
+another:
+
+I. Self-trust involves domain-specific confidence in one’s competence.
+
+II. Individuals experiencing impostor syndrome lack sufficient
+self-trust in domains where neutral observers would expect them to
+possess it.
+
+III. Individuals experiencing impostor syndrome exhibit sufficient
+confidence in the same domain, manifested through their confident
+negative self-assessment in that domain.
+
+This paper argues that the best way to solve the puzzle is to move
+from an individualistic characterization of self-trust to a relational
+picture. §1 and §2 explain why the three claims in the puzzle are
+plausible. §3 refutes the strategy of rejecting Claim III to solve the
+puzzle. §4 examines the second type of solution proposed by Nadja El
+Kassar (2019): to describe individuals with impostor syndrome as
+having self-trust in their self-distrust. §5 turns to Katherine
+Dormandy’s (2024) approach to reject Claim I and argue that her
+account fails to explain self-doubt. §6 argues that the better
+solution is to endorse a relational picture of self-trust, where
+self-trust consists of an individual’s perception of their relation
+with their salient community of audience.
+*** James Ralph, How Could I Have Known? Undiagnosed ADHD as Hermeneutical Injustice
+*** Sandra Branzaru, To ToM or not ToM: the LLMs question 
+** DONE Session II.12 Mysticism and Mind
+*** Alice Harberd, Closure and Mysticism
+*** Christopher Jay, Interestingly Ineffable Knowledge
+A. W. Moore has long argued that there is an interesting and
+philosophically important kind of mysticism which appeals to the
+existence of ineffable knowledge. (Moore, 1997; 2019) That mysticism
+is not confined to its most familiar religious context: it is the
+mysticism in play in e.g. (some readings of) Wittgenstein's
+/Tractatus/, too.  According to Moore, the ineffable knowledge central
+to such mysticism is a kind of know-how (or know-how-related
+understanding). Silvia Jonas, who agrees that it is ineffable
+knowledge rather than any other kind of ineffability which is
+philosophically interesting and plausibly exists, demurs from Moore's
+suggest that it amounts to know-how, preferring to characterise it in
+terms of knowledge (of the self) by acquaintance.  (Jonas, 2016)
+
+But as Moore and Jonas have been quick to point out, things can be
+ineffable in very mundane ways (middle sized dry goods are not
+ineffable in any interesting sense, even though they cannot be
+said). I will suggest that only one characterisation of the
+ineffability of ineffable knowledge renders it really philosophically
+interesting, legitimating talk of ‘mystical insights' worthy of that
+grandiose description. And not only is that characterisation different
+from the ones offered by Moore and by Jonas; it appeals to something
+-- ineffable truth -- of which both reject the very
+possibility. Whereas Moore and Jonas believe that we must speak of
+ineffable knowledge instead of ineffable truths or ineffable
+propositions, I think propositional knowledge /of/ ineffable truths
+might be the only kind of non-mundanely ineffable knowledge there
+could be. (cf. Shaw, 2013; Gäb, 2020) And thinking of mystical insight
+as knowledge of ineffable truths also affords us very natural accounts
+of the inferential and broader epistemic roles that mystical insight
+might be expected to (and has been claimed to) play -- accounts which
+are natural in virtue of appealing to quite familiar general accounts
+of inference and epistemic significance.
+*** Alice Hilder Jarvis, Diagnostic Criteria: Metaphysical, Epistemic, and Ethical Constraints on Psychiatric Classification
+*** Jiayue Jin, Self-Trust: Saying 'I' Without Knowing
+The self-reference rule (SRR) holds that, in first-person thought, ‘I’
+refers to the subject who produces the thought. It is often held that
+a genuine user of ‘I’ must also self-consciously know that she refers
+to herself. However, mere awareness that one is speaking does not
+explain why first-person thoughts are self-conscious. Traditional
+accounts often end up appealing to self-consciousness itself to
+explain this, which leads to circularity or regress.
+
+O’Brien’s (2007) agency account aims to avoid circularity or regress
+by grounding self-conscious first-person reference through
+agent-awareness. On this view, a subject refers to herself by knowing,
+as an agent, that she is forming the thought. However, the account
+marginalises passive, non-agential cases, in which subjects still use
+‘I’ in accordance with SRR despite lacking agent-awareness.
+
+I therefore offer a self-trust account, where the meaningful use of
+‘I’ is secured through Wright’s (2004) idea of default entitlement
+based on self-trust. This account captures both active and passive
+first-personal uses in a unified way, while avoiding circularity or
+regress. I suggest that our capacity for first-person thought rests
+not merely on agency, but on the deeper constitutive principle of
+self-trust that warrants us to take such thoughts as our own.
+** DONE Session II.13 Metaethics: Reasons and Fit
+*** Alex Gregory, When is it fitting to be happy?
+*** Bennett Eckert-Kuang, Actions as Reasons for Actions
+*** Marie Wegener, Special Reasons, Two Strategies, One Problem: The Limits of Value-Based Theories of Practical Reasons
+*** Gonzalo Velasco Arias, Institutional Proleptic Blame and the Limits of Fittingness
+** DONE Session II.14 Moral & Political Philosophy
+*** Abida Malik, Is Democracy Doomed? On the Importance of Epistemic Virtues
+*** Conor Clarke, Should we be Externalists about Political Justification?
+*** Moritz Schnorpfeil, Collective Traps: When State-Provided Goods Are Bad For Recipients
+*** Xinyue Hu, Contributing beyond Duty: Identity-Based Membership in Collective Action
+** DONE Session II.15 Philosophy of Maths and Logic
+*** Karol Wapniarski, Reconsidering Leibniz's influence on Russell through the Russell-Couturat Correspondence
+*** Wouter Cohen, Carnapian pragmatism and neo-logicism
+*** Samuel Boudreau, An Account of the Infinite Regress of Demonstrations in Aristotle's Posterior Analytics I.3.
+*** Boaz Laan, A tension for the interpretational approach to modal potentialism
+** DONE Session II.16 Reason, Mind, Action
+*** Tiago Carneiro da Silva, Experimental Ethics and Self-evidence
+**** FRIDAY :noexport:
+*** Eliot Watkins, Normative Reasons and Attitude Intensity
+*** Daniel Dearlove, Naïve Realism and Understanding Why
+*** Paul Thomas Engeland, Helplessly Hoping
+** TODO Session II.17 Relations to Others
+*** Mollie Gerver, King's College London, How To Win Friends and Influence People with Philosophy
+*** Karri Heikkinen, Complaints, Gratitude, and the Procreation Asymmetry
+According to the complaint model, morality is about avoiding acts that
+generate complaints. According to total utilitarianism, morality is
+about maximising aggregate welfare. In cases that involve creating new
+people, both of these popular views face at least one significant
+objection: the complaint model fails to get the right result in the
+Non-Identity Problem, whereas total utilitarianism violates the
+Procreation Asymmetry. In this paper, I develop an alternative view,
+which I call the complaint-gratitude model. This view combines the
+traditional complaint model with a novel view I call the gratitude
+model, according to which morality is about acting in ways that
+produce gratitude. Even though the gratitude model initially appears
+to coincide with the complaint model, I show that the view is distinct
+from both the complaint model and total utilitarianism. I then argue
+that combining the gratitude model with the complaint model results in
+a very appealing hybrid view, which gets the Non-Identity Problem
+right, accommodates some of the key judgements motivating the
+Procreation Asymmetry, and secures an intuitive, moderate priority for
+already-existing people over possible future people.
+****  not session III :noexport:
+*** Zeynep Çelik, Collective Authorship in Theatrical Works: A Hierarchical Account
+* Open Session 3: Friday 14.00 – 16.00 [15/17]
+** DONE Session III.1 Rationality
+*** Chenwei Nie, University of Warwick, Rational People's Irrational Beliefs
+Why does an otherwise ordinary person sometimes stubbornly retain a
+belief in the face of independent counterevidence? Existing accounts
+typically explain this phenomenon by attributing some form of
+irrationality to the person: non-evidential factors are taken either
+to distort how the person gathers and assesses evidence or to function
+as direct, non-evidential reasons for the belief itself (Schleifer
+McCormick, 2020; Glüer & Wikforss, 2022; Simion, 2024; Flores,
+2025). This paper advances an alternative framework that does not rely
+on such assumptions of irrationality. It argues that non-evidential
+factors can instead play a role in shaping and sustaining the person’s
+experiential seemings. In such cases, the person may face an
+epistemically dilemmic situation: she confronts independent evidence
+that tells against the belief, yet simultaneously suffers from a
+powerful seeming that, in various ways, presses her toward accepting
+it. Her persistence in the belief is explained by the fact that this
+compelling seeming outweighs the opposing evidence.
+*** Puneh Nejati-Mehr, When Self-Prediction Becomes Temptation: Intention and Self-Governance
+*** Johan Du Plessis, Person-Affecting Views of Population Ethics and Sequential Decisions
+*** David Chandler, The Abilities of the Ambivalent
+**** FRIDAY :noexport:
+** DONE Session III.2 Epistemology
+*** Lisa Bastian, Epistemic Boycott
+*** TANUJ MILIND RAUT, Against normative contextualism about epistemic vices
+*** Mikhail Volkov, How Social Media Renders Intellectual Vice Rational
+*** Parris Sammut, Assertion, Rules, and Entitlement
+** DONE Session III.3 Political philosophy
+*** Dong-il Kim, The Missing Half of Justice: Distributing Primary Burdens
+*** George Hull, Inequality of Opportunity as a Structural Accessory after the Fact to Past Injustice
+*** Bill Wringe, Cuguano's Reparative Duties of Dissociation
+*** Mert Atessal, Bilkent University, Why You Cannot Own the Parthenon: Cultural Treasures and the Limits of Property
+Special rights theories dominate debates about the ownership of
+cultural treasures, grounding property claims in particular historical
+actions such as discovery, preservation, or transfer rather than in
+general entitlements. Most discussions of repatriation---as well as
+debates over the ownership of archaeological finds and artworks with
+unknown or disputed provenance---are framed in these terms. Any
+defensible special rights account of original acquisition must
+incorporate a Lockean proviso, which permits appropriation only if
+enough and as good is left for others, intended to prevent
+appropriation from unjustifiably disadvantaging
+non-appropriators. This paper argues that the proviso must be
+interpreted pluralistically rather than monistically, rejecting the
+assumption that all goods contributing to human flourishing are
+mutually substitutable. It shows that many cultural treasures are
+irreplaceable, such that they cannot be substituted with any other
+good without loss, and that they therefore cannot satisfy a
+pluralistically understood Lockean proviso. The paper concludes that,
+even within a special rights framework, some cultural treasures cannot
+legitimately become property.
+** DONE Session III.4 Computing
+*** Lena Wang, Taxonomically Transformative Technologies: AI Systems as Conceptual Engineers
+*** Wu Qiantong, The Possibility of Human-Like Consciousness in Large Language Models
+This paper proposes the necessary conditions for the consciousness to
+emerge from a physical being by stressing the importance of
+body-environment interaction in the physical as well as social
+aspects. Based on the conditions specified, the paper further argues
+against the possibility that there could be consciousness emerging in
+the large language model (LLM) so far; in fact, achieving human-level
+consciousness may not be necessary for building AI consciousness,
+considering that the purpose of developing AI is to facilitate human
+beings instead of creating more human-like beings.
+*** Bon-Hyuk Koo, Does the Opacity of Deep Learning Undermine Scientific Realism?
+*** Gianluigi Viscusi, Linköping University, Freedom By Design: Pluralism Of Values And Determinism In Big Data And Analytics
+When Felix Oppenheim posed the question on whether ‘freedom’ can
+become a concept of empirical science as dependent on the question on
+the existence of experiential data to which the concept of freedom can
+be linked, however indirectly (Oppenheim, 1961), he could perhaps not
+imagine how the answers to these questions would have been shaped by
+the subsequent millennium with the digitalization of society,
+businesses, and human interactions. Once undoubtedly considered
+philosophical arguments, today these questions are complex subjects of
+application for analytics applied to what common sense actually
+considers big data (Dumbill, 2013), and their use by artificial
+intelligence (AI) technologies. But what are the consequences of the
+potential and not hypothetical availability of “Big” experiential data
+for the concept of freedom?  What type of knowledge these data ground
+and what are the relations with liberty? As for the knowledge, Big
+data ground and refer to what Russell (1910) argued as knowledge by
+description, connecting, through the intermediary of processes of
+inference, the truths (carried out by Big data, in our case) with
+things with which we have acquaintance through our direct experience
+with the world. As for the relations between this knowledge and
+liberty, the increasing relevance of big data and analytics is framed
+and at the same time enact the idea of determinism questioned by
+Berlin (1999), pointing out that “the growth of knowledge increases
+the range of predictable events, and predictability - inductive or
+intuitive - despite all that has been said against this position, does
+not seem compatible with liberty of choice” (p.182). Particularly
+interesting is the point by Berlin (1999, p. 186) that all determinism
+needs is that x can predict the overall behavior of y and vice versa,
+not disclosing their predictions to one another, and the consequent
+substitution of knowledge and understanding for attribution of
+responsibility, actually radically changing our view of what
+constitutes a person, an act, a choice (Berlin, 1999, p. 186). If to
+be free is to be able to make an unforced choice, and choice entails
+competing possibilities (Berlin 1999), the question is not only what
+choices are enacted or bounded by Big Data and analytics use by AI
+technologies, but also what impact their design has. In this
+discussion, a relevant argument is considering technology as
+representation. As pointed out by Kallinikos (1995), representation is
+technology in terms of “an overall world orientation concerned with
+the objectification of the natural and social worlds in ways which
+render them amenable to calculation and mastery.” Furthermore, the
+representations framing the access to data, such as e.g.,
+classification schemes and their impact on social worlds they are
+supposed to serve, have been subject of studies in fields such as
+social studies of science and technology (see Bowker & Star,
+2000). Yet, the question of what values and freedom are enabled,
+bounded, or enacted “by design” by technology, specifically big data
+and analytics for AI, remains little explored. Thus, in this
+contribution, we aim to analyze the concept of freedom in the
+technology and design of big data and AI analytics. To this end, we
+will start with the analysis of Isaiah Berlin (1969) and the
+subsequent debate on positive and negative freedom, as a theoretical
+background for clarifying the different conceptions of freedom at
+stake in the considered domain. Then determinism and pluralism of
+values in big data and analytics design for AI will be questioned for
+understanding their challenges particularly with regard to
+individual’s sovereignty and dissent as inseparable within a
+democratic society (Urbinati, 2009), and whether they enact
+individualism as solitude or autonomy, isolation, as atomism imposed
+by an external force, severing public relations, or eventually
+loneliness, when both private and public relations are severed (see
+also dimensions Arendt 1958, 1961).
+** DONE Session III.5 History of Philosophy
+*** Piotr Szalek, Intentionality and Representationalism
+The paper attempts to trace the historical correlations between
+intentionality and representationalism. The terminology of
+intentionality derives from medieval scholastic philosophy and was
+revived in 1874 by Franz Brentano in “Psychology from an Empirical
+Standpoint”. In this work, Brentano characterised intentionality in
+terms of ‘the mind’s direction towards an object’. He regarded
+intentionality as the distinctive mark of mental phenomena, which
+distinguishes them from physical phenomena. The early modern period is
+widely perceived by philosophers as not adding anything interesting to
+the problem of intentionality between the scholastics and Brentano. In
+the proposed paper, I will argue that Brentano combined both
+terminology (present in the late scholasticism), the concept (proposed
+by Brentano), and the problem of intentionality (elaborated by early
+modern philosophy). Moreover, I will suggest that Brentano’s
+understanding of the concept of intentionality would not be possible
+without the early modern discussion of representationalism in terms of
+the explanatory role of experience — discussion, that is, of how
+perceptual experience gives us cognitive contact with the
+mind-independent, external world.
+
+In the context of this discussion, we find an explicit reshaping of
+the problem of intentionality in the sense proposed by Brentano,
+though without the terminology of intentionality. Post-Cartesian
+philosophers were gradually aware that there was a need to distinguish
+between acts and contents in the description of ideas as
+representations of things. The distinction was possible only in terms
+of an intentional relation between something on the mind’s side (act)
+and something on the world’s side (content). Brentano labelled the
+modern discussion about the explanatory role of experience in terms of
+intentionality. In the Brentanian proposal, the terminology and the
+problem gained a convergence which had been lost, but at the same
+time, the problem was shaped already by the early modern philosophy
+discussions about representationalism.
+*** Antonio Borge, Towards an Objectivist Reading of Spinoza's Panpsychism
+Spinoza is a panpsychist: for him, mentality is a fundamental and
+pervasive feature of reality. According to a widespread narrative,
+Spinoza’s commitment to the pervasiveness requirement of panpsychism
+is commonly understood in perspectival terms: each idea and its object
+are merely two ways of conceiving one and the same thing. In this
+paper, I challenge the perspectivist reading and put forward an
+objectivist interpretation of Spinoza’s panpsychism’s pervasiveness
+requirement under which, for Spinoza, an idea and its object are
+numerically distinct things whose sum constitutes a further thing. I
+argue that this proposal is compatible with Spinoza’s sameness claims
+and that it avoids the interaction problem without resorting to their
+numerical identity.
+
+I begin by reconstructing two influential ways of reading Spinoza’s
+“one and the same thing” claims. On the Mode-Identity reading, if x is
+a mode of one attribute, then there exists, in each of God’s other
+attributes, one and only one mode numerically identical to x. On the
+Ideas–Things Identity reading, if x is an idea whose object is y, then
+x and y must themselves be numerically identical. I contend that both
+interpretations come at a significant cost. Mode-Identity leaves
+unexplained what grounds numerical identity across attributes, while
+Ideas–Things Identity appears to violate Leibniz’s Law. I then argue
+that Spinoza’s texts support a less radical account of the mind–body
+relation. Drawing on Karolina Hübner’s representational
+interpretation, I account for mind–body unity in terms of the union
+between an idea and its object. However, I depart from Hübner by
+denying that this union entails numerical identity. Instead, I argue
+that an idea and its object jointly constitute a third entity,
+numerically identical to their mereological sum and that Spinoza’s
+parallelism is structurally akin to the accounts of mind-body
+co-variation employed by Malebranche and Leibniz.
+*** Juuso Rantanen, Time, Inner Sense and the Falsity of Sensibilism
+One of the major debates in Kant scholarship in the past two decades
+has concerned the relation between the understanding and
+intuitions. Roughly speaking, the disagreement is about the question:
+are acts of the understanding necessary to generate intuitions?
+Intellectualists claim that the answer is yes, whereas sensibilists
+claim that the answer is no.
+
+The intellectualist-sensibilist debate has become intertwined with the
+question of where to locate the threshold of ‘phenomenal
+consciousness’ among these representations – e.g., are intuitions
+conscious? There is plenty textual evidence that suggests that Kant
+views empirical consciousness and self-consciousness as being
+dependent on acts of the intellect (e.g, A120, B160).
+
+I argue here that i) outer intuitions are generated independently of
+acts of intellect, but that acts of intellect are constitutive of our
+state consciousness. In other words, I suggest that unsynthesized
+intuitions, though independent of the intellect, are not conscious
+states for the subject.
+
+I argue that being related to inner sense is necessary for the
+conscious presentation of appearances. Here my argument relies on
+Kant’s claim that time is the form of inner sense (A34/B50) and on the
+phenomenological observation that all conscious outer representations
+that a subject like us can have are given in time. I argue that these
+jointly entail that an intuition cannot be temporal without being
+related to inner sense.
+
+I then argue that only acts of understanding can relate
+representations given by outer sense to inner sense. Kant argues in
+both the Transcendental Aesthetic and the Analytic (B67-9, B154), that
+it is the active subject who affects itself with representations. I
+argue that we should understand part of this self-affection to consist
+in relating spatial manifolds given by outer sense to inner
+sense. Hence, I conclude that though not constitutive of intuitions,
+the intellect is constitutive of our consciousness.
+*** Luke Jennings, University of Oxford, How Apt is Aristotle’s Comparison between Craft Production and Reproduction?
+In Book I.21-22 of Generation of Animals, Aristotle develops an
+analogy between craft and the coming-to-be of animals according to
+which nature utilizes male semen in acting on the female menses to
+produce progeny as a housebuilder acts upon bricks to produce a
+house. On this model, the more fully concocted male seed conveys the
+form of the offspring onto the comparatively less-concocted female
+seed, with what remains of the male semen’s matter subsequently
+putrefying. On a coarse reading of the view, male semen contributes
+all formal attributes when it is used to act upon the female menses,
+whose sole contribution is the sympathetic matter from which the
+progeny will be generated. Knowing this much, an incredulous response
+seems warranted: are we really to believe that the female makes no
+formal contribution to the offspring? In recent years, Sophia Connell
+has proposed that the reason for Aristotle’s misstep is the analogy to
+craft itself, which (she argues) we have no textual reason to
+privilege above several alternative models put forward within the
+GA. In what follows, I offer one competing reading of the craft
+analogy that ultimately fails but argue that we still have reason to
+take the craft analogy seriously in virtue of several strengths that
+the model gets right that other GA examples miss.
+** DONE Session III.6 Feminist Philosophy and Injustice
+*** Nick Clanchy, Second-Order Hermeneutical Breakthroughs
+**** FRIDAY :noexport:
+*** Justina Berskyte, The Carrot, The Stick, and The Oppressive Ideology: Two Sides of Misogyny 
+*** Sophie Keeling, Standpoint Know-How
+*** Richard Hassall, Hermeneutical Injustice and Damaged Intellectual Self-trust in Psychiatric Service users
+** DONE Session III.7 Moral Philosophy
+*** Nicola Zetti, Full Excuses Negate Wrongdoing
+*** Ignacio Pena, The significance of intentions for consent and liability to defensive harm
+*** Rebecca Dreier, The Moral Significance of Episodic-Like Memory
+*** Lisa McLaughlin, Caring action and intention
+** TODO Session III.8 Metaphysics
+*** Harry Cleeveley, The A Priori Truth of Modal Rationalism
+*** İbrahim Hansu, A Free Will Argument for DARC (Deliberation Annihilates Reflexive Credences)
+*** Charlie Green, Can the Structure of Primitive Colours be Reductively Explained?
+This paper presents and defends a novel objectivist position in the
+metaphysics of colour debate. Colour objectivism holds that colours
+are mind-independent properties which continue to exist
+unperceived. Two objectivist accounts of colour are colour physicalism
+and colour primitivism, which are typically taken to be inconsistent
+and hence in direct competition (e.g., Logue, 2016a, 2016b). Byrne and
+Hilbert (1997, 2003) defend a colour physicalism which maintains that
+colours are type-identical to (disjunctions of) surface spectral
+reflectances (SSRs). Primitivist accounts of colour such as Campbell’s
+(1993, 2006) explicitly reject type-identity relations between colours
+and their lower-level physical correlates, maintaining rather that our
+colour experiences are revelatory of the essences of colours, and that
+colours are sui generis properties ‘over and above’ their lower-level
+physical correlates such as SSRs. In this paper I reject this
+dichotomy by offering a middle-way objectivist position which endorses
+a primitivist account of colour that is explicitly consistent with an
+unorthodox kind of reductive physicalism. I appeal to recent
+structuralist definitions of theoretical reduction to show how the
+type-identity between primitive colours and SSRs can be denied, whilst
+maintaining that primitive colours are nevertheless higher-level
+physical properties amenable to reductive explanation. Influenced by
+Dennett (1991) on ‘real patterns’, Wallace (2022, 2026) defines
+theoretical reduction as a formal relation of instantiation between
+higher-level and lower-level mathematical models. I develop a
+structural account of primitive colour space inspired by Broackes
+(1992) to apply to Wallace’s (2022, 2026) structuralist definition of
+reduction. This results in a view I call 'colour structuralism', under
+which there exists a model of SSR structure which mathematically
+instantiates a model of primitive colour structure, and hence colour
+may be reductively explained whilst denying type-identity.
+** DONE Session III.9 Philosophy of Science
+*** Mariona Miyata-Sturm, Aesthetic qualities will not help you gain nonfactive understanding
+*** Dragana Bozin, An Argument for Social Reasoning
+*** Hong Joo Ryoo, Grounding and Causation are the Same (Fundamentally)
+*** Ruodan Que, Interventionism, Agency Theory of Causation, and Impossible Interventions
+** TODO Session III.10 Metaphysics and Mind
+*** Arturo Vazquez-Hernandez, Psychological Language, Machine Behaviour and Intelligence
+*** Phillip Meadows, Causation By Omission, Norms, and The Problem of Profligacy
+** DONE Session III.11 Normative Ethics
+*** Thomas Schmidt, Rescue Dilemmas and the Aggregation of Reasons
+*** Tommaso Soriani, The Perdurantist Responsibility Gap
+*** Koji Tachibana, Is the frontier spirit a virtue or a vice?
+*** Thomas Lockhart, The Inevitability of Deontic Conflict
+** DONE Session III.12 Moral Worth and Responsibility
+*** Jackson Iszler, Defending Pluralism about Moral Worth: When Belief Fails to Motivate
+Right action motivated by the wrong reasons is not praiseworthy. While
+this much is uncontroversial, there remains significant debate over
+which motive grants moral worth. The plausibility of each candidate
+prompts some to adopt a pluralist position, holding that multiple
+motives grant right action moral worth. Nomy Arpaly recently objected
+to this view, claiming it entails a contradiction. I argue Arpaly’s
+objection fails for two reasons.
+
+First, the objection conflates motivating concern for morality with
+mere belief about morality. These come apart, as when one believes
+their action is right but is motivated entirely by other
+considerations. Moreover, removing this conflation to secure validity
+makes the objection obviously false.
+
+Considering the relationship between moral belief and motivation
+reveals the second and broader issue. Even if honest moral ignorance
+excuses, the belief that one’s action is right is insufficient to
+excuse wrong actions from blame. Instead, this belief must motivate
+the action. This takeaway undermines a crucial premise in Arpaly’s
+objection and has significant implications for the moral worth debate.
+
+If I am right, pluralism about moral worth is unscathed by Arpaly’s
+substantial objection and better equipped to explain why one may be
+praiseworthy for an action one’s own beliefs condemn.
+*** Daniel Dennis, Strawson's 'Basic Argument', Moral Responsibility, Learning Ethics and Your Foundational Choice
+*** Emmanuel Campion-Dye, How to reverse the order of explanation in the responsibility debate
+*** Amy Duong, Kant on 'practice makes virtue'
+** DONE Session III.13 Philosophy of Language
+*** David Nicolas, Partitives, Groups, and Wholes
+*** Andrea Raimondi, University of Vienna, Reference, Conflicting Intentions, and the Madagascar Problem
+*** Adam Wingårdh, Why Many Conditionals are Ambiguous
+*** Paolo Bonardi, Williamson and Salmon on Propositions and Guises
+** DONE Session III.14 Mind and Perception
+*** Romanos Koutedakis, Meinongian Theories of Perception
+*** Daniel Garcia Saavedra, Into the Heart of the Experiences of Total Darkness
+Are visual experiences of total darkness illusory/hallucinatory or
+cases of veridical perception?  I argue that they are neither. First,
+I argue that these experiences are not veridical because they do not
+fulfil the matching condition for veridically, i.e., that our
+experience matches what is there in the environment. Secondly, I argue
+that visual experiences of total darkness are neither illusory nor
+hallucinatory. I claim that they are not illusions because they do not
+misrepresent any property in the environment, and that they are not
+hallucinatory because they exhibit a strong dependency between the
+scene before our eyes and what we seem to see, something missing in
+all cases of hallucination. Instead, I argue that visual experiences
+of total darkness are indetermined visual experiences. This view, I
+claim, vindicates the intuitive idea that in seeing total darkness we
+seem to see something while failing to see anything.
+*** Noddy Lam, On the Temporal Viewpointedness of Perceptual Experience
+*** Alice Roberts, Can Statues Make Values 'Perceptible'?
+** DONE Session III.15 Metaphysics and Action
+*** Andres Luco, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required
+*** Robyn Waller, Sourcehood compatibilism requires alternatives: New perspectives on Frankfurt cases and the Garden of Forking Paths
+*** Karl Egerton, Gamification: an explication
+*** Jan Westerhoff, Idealism and predictive processing
+** DONE Session III.16 Discourse, Assertion, Memory
+*** Ross Patrizio, Assertion without sanctions
+*** Johan Chung, How to Stop Talking Past Eachother
+*** Ravi Thakral, Socially Centered Discourse
+*** Jessie Munton What Difference Does Remembering Make?
+** DONE Session III.17 Moral and Normative Philosophy
+*** Guido Melchior, University of Graz, Epistemic regresses as starting-problems and stopping-problems
+In this paper, I will take a fresh look at a number of persistent
+epistemic regress problems, including Agrippa’s trilemma and problems
+of meta-justification, meta-awareness, and metaphysical
+explanation. Regress-problems must be divided into two groups,
+starting-problems that initiate a regress, and stopping-problems that
+attempt to end them. I will use this distinction to explore regress
+problems of justification, explanation, understanding, reasoning,
+argumentation, and belief. However, I will proceed by systematically
+investigating regresses of potential carriers of these epistemic
+phenomena -- propositions, assertions, and beliefs -- and the causal
+relations between them. I will argue that the metaphysical constraints
+on these regresses are substantially different. Proceeding in this
+way, we acquire a promising new classification of traditional
+epistemic regress problems and potential solutions. We can detect
+analogies between regresses of different epistemic phenomena with the
+same type of carriers but also distinguish between different regress
+problems for the same type of epistemic phenomena with different
+carriers. Moreover, asymmetries between regress problems of arguing
+and making someone believe and between explaining and making someone
+understand will be revealed.
+*** Nora Grigore, Romanian Academy, Moral Normative Forces and the Problem of Supererogation
+Intuitively, it seems that no justification can be required from the
+moral agent who does not give one's life to save others. Omissions of
+supererogatory actions do not seem to require justification or
+guilt. Then why does the problem of supererogation demand a
+justification for omitting morally good deeds?
+
+I argue that thinking about the problem of supererogation (i.e. asking
+how can we explain that excellent moral deeds are not obligatory) may
+lead to distinguishing between two ways of seeing morality and its
+normative force. The concept of supererogation often departs from the
+usual way of seeing the moral domain: it makes use of obligation and
+duty only to state that there is a moral realm beyond duty and the
+usual moral obligation. It strongly suggests, therefore, a different
+core of morality, one that is not moral obligation.
+
+C. Korsgaard, J. Dancy and M.O. Little already walk along these lines
+when they speak about a normative force that is ”attractive” rather
+than ”compulsive”, or about ”non-deontic reasons” and ”enticing
+reasons”, respectively. My aim is to clarify the distinction and to
+show that a non- deontic normative force amounts to a different way of
+seeing morality altogether.
+
+*** Joshua Jarvis-Campbell, Animal Agriculture and the Long-Term Future
+If developments in artificial intelligence continue, we may end up
+living in a post-scarcity society. Among the many questions that could
+be asked about what should be done in such a society is the following:
+How should we treat nonhuman animals? This paper focuses in particular
+on animal agriculture, asking whether we have any obligation to stop
+farming animals in a post-scarcity society. I argue that farming
+animals in a post-scarcity society could be plausibly done in a way
+that is morally permissible, even if the practice involves killing
+animals and consuming their flesh. To do this, I examine five types of
+objections to farming animals: welfare-based objections,
+wrongness-of-killing objections, respect-based objections,
+anthropocentric objections, and virtue ethics-based objections. I
+argue that these objections target contingent, rather than necessary,
+features of animal agriculture, suggesting that animal agriculture
+could be done in a way that avoids these objections. I conclude that
+while certain forms of animal agriculture in the future may be
+permissible, there are some significant associated risks that need to
+be addressed.
+*** Charlotte Franziska Unruh, University of Southampton, Understanding the Relationship between Meaningfulness and Well-Being
+Many people hold that meaningfulness and well-being are distinct
+dimensions of the good life. But how do these dimensions of the good
+life relate? In this paper, I develop a novel account, according to
+which the meaningfulness of our lives depends on our attitudes to
+things that make our lives go better. More precisely, φ is meaningful
+for an agent A if and only if (i) φ contributes to A’s well-being, and
+(ii) A has an appropriate attitude to φ, where “appropriate attitude”
+can be spelled out as an attitude of care (Frankfurt 1998, 2004). The
+novel feature of this account is that meaningfulness depends on
+well-being: something that does not contribute to our well-being
+cannot be meaningful for us. I defend this view by addressing two
+objections. First, I claim that cases of self-sacrifice are not
+counterexamples to my view, arguing that cases of self-sacrifice are
+most plausibly understood as cases in which agents forego an
+opportunity to maximize their well-being (often in favour of increased
+meaningfulness). Second, I defend the idea that what is meaningful for
+an agent depends on the agent’s subjective attitudes by showing that
+my account, when coupled with an objectivist account of well-being,
+can accommodate a range of objectivist intuitions about
+meaningfulness. Finally, I argue that my view is superior to
+alternative views on the relationship between meaningfulness and
+well-being that have been proposed in the literature by Metz (2007,
+2012, 2013), Woodard (2017), and Hammerton (2022). I argue that my
+view is not vulnerable to the challenge that meaning is merely a
+subset of well-being, rather than a distinct category; that it
+maintains the powerful intuition that meaningfulness possesses final
+(not merely instrumental) value; and is compatible with a variety of
+views on the nature of well-being.
+
+* Notes :noexport:
+** TODO to fit [0/0]
+** Cancellations
+*** Frances Darling, Testimonial Injustice, Competence, and Intellectual Disability will cancel
+*** Howard Simmons, No Fact about whether a Being is Conscious
+*** Will Moorfoot, Against Indeterministic Ground Physicalism
+*** TODO Daniel Gregory, What is inner speech? And what does it represent?
