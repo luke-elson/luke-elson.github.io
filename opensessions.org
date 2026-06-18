@@ -667,6 +667,15 @@ it. Her persistence in the belief is explained by the fact that this
 compelling seeming outweighs the opposing evidence.
 *** Puneh Nejati-Mehr, When Self-Prediction Becomes Temptation: Intention and Self-Governance
 *** Johan Du Plessis, Person-Affecting Views of Population Ethics and Sequential Decisions
+It has been argued that so-called wide person affecting views of
+population ethics cannot coherently account for sequential
+decision-making in certain kinds of non-identity cases. I show that
+one diagnosis of this problem is not unique to person-affecting views
+and also occurs with totalist views. The actual root of the problem is
+the possibility of making suboptimal permissible sequential
+decisions. I argue that this is a feature of the reasonable principle
+of avoiding sunk cost fallacies in situations where there is
+incomparability. Thus, there is, in fact, no problem to be overcome.
 *** David Chandler, The Abilities of the Ambivalent
 **** FRIDAY :noexport:
 ** DONE Session III.2 Epistemology
