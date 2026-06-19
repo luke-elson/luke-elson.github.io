@@ -34,14 +34,32 @@ corridors, rather than the maps. The maps are genuinely confusing.
 
 ** Within the session
 
-Traditionally, one of the speakers chairs the session. The order of
-the speakers is arbitrary within each session.
+Traditionally, one of the speakers chairs the session.
+
+The order of speakers below is the default (which allows people to
+move between papers), but by agreement you may wish to depart from it
+for one reason or another.
 
 I'd advise keeping paper plus question and answer to 25 minutes, to
 allow for changeover.
 
 Chairs should only tolerate follow-up questions if all other askers
 have had a go and there is time left.
+
+Or a blunter version of this advice from previous programmes:
+
+#+BEGIN_QUOTE
+
+*Rules for Open Sessions and the Chairing thereof*
+
+1. Each half-hour slot in the open sessions starts at its allotted time whether or not anyone has started speaking and lasts for precisely 29 minutes 
+2. Experience shows that the 29 minutes is exhausted entirely by 20 minutes speaking and 5 minutes questions. 
+3. Previous chairs have observed that it doesn’t matter if speakers start speaking late; if they want any questions they stop by the 23rd minute. 
+4. There are no follow-up (or ‘finger’) questions.
+5. There is never time for just one more question.
+6. Chairs are instructed to interrupt speakers at the 28th minute.
+
+#+END_QUOTE
 
 ** Screens? Handouts?
 
@@ -52,6 +70,8 @@ easier to use a handout (you will need to bring copies).
 Or easiest of all is to use the board. I'll go around a few days
 before the Joint Session to make sure there's at least one working
 marker pen in each room.
+
+**** TODO handout information goes here...
 
 * Open Session I: Thursday 17.00 – 19.00 [16/16]
 ** DONE Session I.1 Metaethics
@@ -284,7 +304,7 @@ performed, as well as how to perform it. To that extent, the question
 ‘Why?’ does reveal the structure of what one thinks insofar as one is
 acting, for Anscombe; so, her focus on the question ‘Why?’ does not
 objectify agency. "
-* Open Session 2: Friday 11.00 – 13.00 [16/17]
+* Open Session 2: Friday 11.00 – 13.00 [17/17]
 ** DONE Session II.1 Feminist Philosophy
 *** Emily Thomas, Letters of Women Philosophers 1902-1951: Sexism and Shadow Networks
 This talk explores connections between six philosophers:
@@ -360,7 +380,29 @@ weakens feminist analyses of sexual liberation until today.
 *** Rhiannon Snook, Ay Up Me Duck! On Written Representations of Linguistic Variation
 *** James Kirkpatrick, A Potentialist Theory of Natural Language
 *** Artur Kosecki, An Austinian Account of Lexicalized Concepts: Responding to Strawson's Challenge in Conceptual Engineering
-*** Hugo Heagren, Divided speech acts
+*** Hugo Heagren, King's College London, Divided speech acts
+Suppose you write a book, which takes you two years, and later someone
+asks when you wrote it. You might say 'from 2011 to 2012'. And indeed,
+at some points in 2011 and in 2012, you were writing. At other times
+you were researching, making notes, editing, and negotiating with the
+publisher. But at some times in this interval you were eating,
+sleeping, driving, and doing all the other mundane things one must
+do. Writing the book took two years, but you didn't spend all of two
+years writing the book. Writing the book is what I call a 'divided'
+act. It is an act made up of multiple constituent acts (an hour of
+research, ten minutes of writing, etc.), each of which is disjoint
+from the others. Writing the book takes two years, even though no one
+of these constituent acts takes more than a few hours. Divided acts
+are very common: writing a book, getting a degree, learning a
+language, building a house, etc. are all divided acts. I claim that
+some speech acts are divided acts, and that considering them as such
+is more philosophically enlightening than as merely speech acts. In
+particular, taking certain speech acts to be divided explains how acts
+which can only happen over a long period of time, or with many agents'
+joint effort can still count as speech acts, though paradigm speech
+acts are signal utterances by single agents. I describe divided speech
+acts in more detail, and show that hinting is an example of speech
+which is best analysed as divided.
 ** DONE Session II.3 Sex and Consent
 *** Andrés (Andy) Garcia, Love Drunk: Asymmetric Infatuation and the Ethics of Sex
 *** Milena Bartholain, Sexual Paternalism
@@ -618,12 +660,12 @@ self-trust that warrants us to take such thoughts as our own.
 *** Samuel Boudreau, An Account of the Infinite Regress of Demonstrations in Aristotle's Posterior Analytics I.3.
 *** Boaz Laan, A tension for the interpretational approach to modal potentialism
 ** DONE Session II.16 Reason, Mind, Action
-*** Tiago Carneiro da Silva, Experimental Ethics and Self-evidence
+*** Tiago Carneiro da Silva, University of Leeds, Experimental Ethics and Self-evidence
 **** FRIDAY :noexport:
 *** Eliot Watkins, Normative Reasons and Attitude Intensity
 *** Daniel Dearlove, Naïve Realism and Understanding Why
 *** Paul Thomas Engeland, Helplessly Hoping
-** TODO Session II.17 Relations to Others
+** DONE Session II.17 Relations to Others
 *** Mollie Gerver, King's College London, How To Win Friends and Influence People with Philosophy
 *** Karri Heikkinen, Complaints, Gratitude, and the Procreation Asymmetry
 According to the complaint model, morality is about avoiding acts that
@@ -646,6 +688,34 @@ Procreation Asymmetry, and secures an intuitive, moderate priority for
 already-existing people over possible future people.
 ****  not session III :noexport:
 *** Zeynep Çelik, Collective Authorship in Theatrical Works: A Hierarchical Account
+*** Caterina Mazziotti, University of Vienna, External Freedom and Social Welfare in Kant: Beyond Material Redistribution
+In this talk, I will argue that Kant’s concept of external freedom
+includes a notion of independence from the arbitrary will of others
+that can justify not only material forms of social welfare, but also
+broader measures aimed at preventing social, cultural, and economic
+conditions that undermine individuals’ independence. Interpretations
+of Kant’s political philosophy often oscillate between a negative
+conception of freedom as non-interference (LeBar 1999) and a broader
+account that includes the capacity of individuals to set and pursue
+their own ends (Ripstein 2009). Recent literature has also highlighted
+affinities with the neo-republican ideal of non-domination,
+particularly in the work of Philip Pettit (Kleingeld 2020; Love
+2025). However, the implications of this conception for social welfare
+have largely been confined to material redistribution, such as
+taxation to alleviate poverty. Less attention has been paid to whether
+Kant’s framework can justify non-material measures, including
+education or policies aimed at preventing structural forms of
+dependence. I argue that if material deprivation counts as a form of
+dependence because it prevents individuals from choosing independently
+of others, then other conditions that similarly constrain this
+capacity, such as lack of education or restrictive cultural
+environments, must also be regarded as incompatible with right. Since
+coercion is legitimate when it prevents restrictions on freedom,
+measures aimed at securing these conditions can therefore be
+justified. I conclude that Kant’s conception of external freedom
+supports a broader account of social welfare than is usually
+acknowledged, extending beyond redistribution to include measures that
+secure the conditions for independent choice.
 * Open Session 3: Friday 14.00 – 16.00 [15/17]
 ** DONE Session III.1 Rationality
 *** Chenwei Nie, University of Warwick, Rational People's Irrational Beliefs
@@ -953,7 +1023,38 @@ which there exists a model of SSR structure which mathematically
 instantiates a model of primitive colour structure, and hence colour
 may be reductively explained whilst denying type-identity.
 ** DONE Session III.9 Philosophy of Science
-*** Mariona Miyata-Sturm, Aesthetic qualities will not help you gain nonfactive understanding
+*** Mariona Miyata-Sturm, University of Glasgow, Aesthetic qualities will not help you gain nonfactive understanding
+Some scientific representations – theories, diagrams, pictures – aid
+understanding better than others. I argue that a representation’s
+aesthetic qualities make a difference to how easily one can see how
+features of the target phenomenon are related and thus how
+successfully it can be used to understand a phenomenon. In other
+words, there is an aesthetic component to scientific representation
+and understanding. For example, the symmetry, simplicity, and
+figure-ground contrast of the magnetic anomaly map nicknamed The Zebra
+Pattern contributed to the breakthrough that led to the formulation of
+the theory of plate tectonics. Both the map and the theory are often
+described as beautiful and elegant (Oreskes (2003), Miyata-Sturm
+(2024)). In contrast, another of Mason and Raff’s (1961a) maps, where
+the positive and negative magnetisation was displayed with less visual
+clarity, did not capture the scientists’ imagination (Schindler
+(2007)).
+
+Recently, a number of philosophers of science have argued that the
+aesthetic qualities of scientific theories and other representations
+can be conducive to non-factive understanding (Elgin (2020), Ivanova
+(2020), Kosso (2007)). I argue that this view cannot make sense of the
+epistemic value of aesthetics in science. In particular, it cannot
+explain how the aesthetic qualities of the Zebra Pattern could
+contribute to either the formulation or confirmation of plate
+tectonics. Non-factivists correctly claim that divergence from truth
+can make it easier to see patterns and causal dependencies that a more
+complete representation would drown in detail (Elgin (2020), Potochnik
+(2017)), but it is precisely the accurate representation of real-world
+patterns – not the way in which they diverge from the truth – which
+makes these ‘felicitous falsehoods’ epistemically valuable. Simply
+put, epistemic success comes from what science gets right, and
+aesthetic qualities can contribute to getting things right.
 *** Dragana Bozin, An Argument for Social Reasoning
 *** Hong Joo Ryoo, Grounding and Causation are the Same (Fundamentally)
 *** Ruodan Que, Interventionism, Agency Theory of Causation, and Impossible Interventions
@@ -962,7 +1063,20 @@ may be reductively explained whilst denying type-identity.
 *** Phillip Meadows, Causation By Omission, Norms, and The Problem of Profligacy
 ** DONE Session III.11 Normative Ethics
 *** Thomas Schmidt, Rescue Dilemmas and the Aggregation of Reasons
-*** Tommaso Soriani, The Perdurantist Responsibility Gap
+*** Tommaso Soriani, University of Reading, The Perdurantist Responsibility Gap
+Perdurantism posits that persons persist as four-dimensional
+mereological fusions of psychologically continuous temporal parts,
+viewing extended actions as sequences of shorter acts executed by
+distinct temporal parts. This conceptualization parallels collectives,
+where individual members contribute to collective actions. However,
+assigning moral responsibility becomes complex for perduring persons,
+as it does for collectives, because many temporal parts do not
+directly participate in extended actions, potentially leading to
+unfair outcomes when it comes to blame (and praise). This paper
+explores the Perdurantist Responsibility Gap (PRG), juxtaposing it
+with collective responsibility gaps. The goal is to bridge the PRG and
+provide a nuanced understanding of moral responsibility within
+Perdurantism.
 *** Koji Tachibana, Is the frontier spirit a virtue or a vice?
 *** Thomas Lockhart, The Inevitability of Deontic Conflict
 ** DONE Session III.12 Moral Worth and Responsibility
