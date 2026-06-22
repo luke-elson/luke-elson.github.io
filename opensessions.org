@@ -1805,7 +1805,31 @@ quantification and universal properties, offering a promising
 environment for theoretical inquiry in metaphysics and formal
 semantics.
 ** DONE Childhood, Love, Friendship
-*** TODO Andrea Villalba Cuesta, Shape of a Childhood
+*** Andrea Villalba Cuesta, Lafayette College, Shape of a Childhood
+Some philosophers, such as David Velleman, Frances Kamm, and Joshua
+Glasgow, claim that the overall prudential value of a life is affected
+by its shape; in other words, the sequence of good and bad times, or a
+life’s ups and downs, matters. I refer to this claim as the shape of a
+life hypothesis. Proponents often illustrate it by contrasting two
+lives: one that starts with hardship - perhaps a tough childhood - but
+later turns around, ending with happiness in old age, and another that
+begins well but ends in tragedy. Most people, they argue, would prefer
+a life that improves over time, even if total momentary well-being is
+the same in both cases.
+
+In this paper, I challenge the shape of a life hypothesis by drawing
+on recent work on the value of childhood. On the predicament view,
+whose advocates include Aristotle and, more recently, Sarah Hannan and
+Tamar Schapiro, childhood is a state of lack. Nearly any adulthood,
+therefore, promises the kind of prudential improvement that
+shape-of-a-life theorists take to be valuable. On an alternative view,
+defended most notably by Anca Gheaus and Patrick Tomlin, childhood has
+its own distinctive goods. A good adulthood cannot straightforwardly
+compensate for a bad childhood, I argue, for different accounts of
+well-being apply to adults and children. Whether one adopts the first
+or the second view, the very idea of a life's shape is in jeopardy,
+and we may need to speak instead about both the shape of a childhood
+and the shape of an adulthood.
 *** Matthew Robson, Durham University, Simone de Beauvoir and the Possibility of Authentic Parental Love
 Parental relations loom large in Simone de Beauvoir’s writing. The
 relationships between children and their parents (especially between
@@ -2991,7 +3015,7 @@ ethically considered as having episodic memory. Instead, I argue that
 a more precautionary conlusion is justified when considering animals
 that show various features of human episodic memory and are said to be
 conscious.
-** TODO Metaphysics [0/0]
+** TODO Metaphysics
 *** Harry Cleeveley, Independent Scholar, The A Priori Truth of Modal Rationalism
 Modal rationalism is the claim that for all p, if it is ideally
 conceivable that p, then there is a metaphysically possible world, W,
@@ -3027,24 +3051,6 @@ knowledge of the world. Given that we do have some modal knowledge of
 the world, it follows that strong necessities are not ideally
 conceivable, and therefore that modal rationalism itself is an a
 priori truth.
-*** İbrahim Hansu, LMU Munich, A Free Will Argument for DARC (Deliberation Annihilates Reflexive Credences)
-Can I predict, or assign credences to, what my choice will be, while
-deliberating about what to choose? Some, including Alan Hájek (2016),
-argue yes—"deliberation welcomes prediction"—contending that the
-opposing thesis (DARC: Deliberation Annihilates Reflexive Credences)
-imposes heavy costs on Bayesian epistemology, and dismissing free
-will-based defenses of DARC as "wishy-washy." I offer a free will
-argument for DARC, formulated as a dilemma. If an agent's possible
-actions have determinate non-trivial probabilities, then chance-based
-arguments against free will (i.e. Luck objections) apply, undermining
-the free will that deliberation presupposes. If actions are
-undetermined but non-chancy—as some agent-causal theories suggest—then
-they have no objective probabilities (constituting objective
-probability gaps) to guide credences. Freedom thus introduces
-unpredictability, and deliberation welcomes prediction only insofar as
-free will is exposed to the Luck objections. I conclude by addressing
-purported counterexamples to DARC, including the cases of future
-choices, group agents, and the predictions of onlookers.
 *** Charlie Green, King's College London, Can the Structure of Primitive Colours be Reductively Explained?
 This paper presents and defends a novel objectivist position in the
 metaphysics of colour debate. Colour objectivism holds that colours
@@ -3076,6 +3082,7 @@ reduction. This results in a view I call 'colour structuralism', under
 which there exists a model of SSR structure which mathematically
 instantiates a model of primitive colour structure, and hence colour
 may be reductively explained whilst denying type-identity.
+*** TODO Phillip Meadows, Causation By Omission, Norms, and The Problem of Profligacy
 ** DONE Philosophy of Science
 *** Mariona Miyata-Sturm, University of Glasgow, Aesthetic qualities will not help you gain nonfactive understanding
 Some scientific representations – theories, diagrams, pictures – aid
@@ -3141,9 +3148,137 @@ provide avenues for social engagement of science, and science
 communication.
 *** TODO Hong Joo Ryoo, Grounding and Causation are the Same (Fundamentally)
 *** TODO Ruodan Que, Interventionism, Agency Theory of Causation, and Impossible Interventions
-** TODO Metaphysics and Mind [0/2]
-*** TODO Arturo Vazquez-Hernandez, Psychological Language, Machine Behaviour and Intelligence
-*** TODO Phillip Meadows, Causation By Omission, Norms, and The Problem of Profligacy
+** TODO Agency and Action
+*** Andrés Luco, Auburn University, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required
+I argue that agency does not require genuine alternative
+possibilities or ultimate control over action. While many philosophers
+maintain that agency exists only if agents can choose among multiple
+physically possible courses of action—choices that are “up to” the
+agent—I defend a compatibilist account on which agency is fully
+consistent with determinism. On my view, agency consists in flexible
+self-causation: an entity is an agent insofar as it can flexibly cause
+itself to pursue goals through internal macro-states. These
+macro-states may include mental states such as beliefs, desires, and
+intentions, but consciousness is not required for agency; even simple
+biological systems can qualify as agents.
+
+I contrast this view with Helen Steward’s agency incompatibilism,
+which ties agency to an “open future” and to agents’ being ultimate
+causes of their own actions. I argue that neither everyday observation
+nor evidence from neuroscience supports the claim that agents
+ultimately settle among alternative possibilities. While organisms
+exhibit “two-way powers” in the sense that they can act or refrain
+from acting, empirical evidence strongly suggests that choices are
+produced by neural processes that precede conscious awareness and are
+themselves shaped by prior causes.
+
+I also assess Kevin J. Mitchell’s appeal to quantum indeterminacy as a
+source of genuine alternatives that agents might harness. Even if
+indeterminacy introduces causal slack at the microphysical level, it
+does not follow that agents ultimately select among alternatives. The
+macro-states that constrain and guide action are themselves products
+of genetic, developmental, environmental, and social influences beyond
+agents’ control, as emphasized by work in the behavioral sciences.
+
+I conclude that agents can be genuine causes of their actions without
+being ultimate causes or facing open futures. Agency, properly
+understood, is compatible with determinism, even if libertarian free
+will is not.
+*** Arturo Vazquez-Hernandez, Psychological Language, Machine Behaviour and Intelligence
+In everyday circumstances, we use, understand, and reply to sentences
+such as ‘The machine didn’t follow the instruction’, ‘… answered the
+questions’, and ‘… checkmated the chess player’.
+
+These expressions have two distinctive features. They involve
+terminology of mental capacities, such as ‘understanding meaning’ and
+‘following rules’. They also seem to be descriptive propositions in
+the form of true (or false) statements.
+
+The puzzle is the following. We sometimes describe machine behaviour
+in psychological terms. And yet, we do not talk of machines in the
+same sense in which we ordinarily talk of human beings, i.e. subjects
+with mental capacities.
+
+What do we then mean by sentences which involve psychological verbs
+and allegedly describe machine behaviour? What, e.g. is the meaning of
+the expression ‘the machine understands the command’?
+
+I argue that the Wittgensteinian concepts of ‘secondary use’ and
+‘aspect perception’ help answer these questions and account for the
+puzzle-sentences.
+
+Sections one and two challenge views that have it that
+puzzle-sentences are literal and metaphorical uses of words,
+respectively. ‘Literal’ views do not account for this puzzling use of
+language, as they presuppose that a ‘state’ brings about the
+connection between understanding a word and using it correctly. Whilst
+‘metaphor’ views fail to explain the type of paraphraseability found
+in puzzle-sentences.
+
+Section three articulates the paper’s argument. Namely,
+puzzle-sentences involve ‘seeing a similarity’ to and against the
+backdrop of human action. Such a similarity, pace received views,
+reflects a ‘secondary’ use of psychological verbs. Namely, we employ
+them (i) with their ordinary – and not metaphorical – meaning (ii) in
+a non-ordinary context spontaneously.
+
+Studying puzzle-sentences provides a valuable insight into machine
+behaviour and intelligence. E.g. using psychological verbs in a
+non-ordinary context does not amount to sameness of capacities but a
+change in the way we see mechanistic behaviour.
+*** Tyler Colby Re, University of Groningen, What is Honest Work?
+Within the philosophy of work, the concept of meaningful work
+dominates discussion about what makes a job good for the person who
+holds it. But meaning is not the only normative standard we could –
+and do – use to evaluate the goodness of jobs. In this paper, I argue
+that philosophers should care about another colloquial term that
+jobholders use to evaluate their jobs: honesty. Honest work, I argue,
+is work that makes a contribution to needs we recognize as being
+critically important, and does so in a way that is simple and clear
+for the person contributing. Prototypically, honest work is work that
+directly sustains one's community or family: farming, teaching,
+building, cleaning up around a community center, and caring for your
+children and your neighbors' children, among many other jobs. A
+consequence of this first feature is that honest work is never
+dishonest – it does not take advantage of others' needs, and always
+operates in full transparency. Second, honest work has a clarity of
+purpose and outcome that makes it easy to understand how one's labor
+contributes to others. This rules out work without clear success
+conditions, as well as work that is aimlessly bureaucratic or
+""bullshit."" Finally, honest work is work that deserves fair
+compensation: ""an honest day's pay for an honest day's work.""
+
+The paper has three sections. In the first section, I introduce the
+concept of honest work. I argue that honest work has the three
+features I outlined above, and talk about what kinds of jobs count as
+honest. In the second section of the paper, I distinguish honest work
+from other standards of good work such as meaningful work. In the
+final section of the paper, I argue that honest work may have a unique
+place in a just system of labor.
+*** TODO Karl Egerton, Gamification: an explication
+Gamification – broadly speaking, the practice of making an activity
+more game-like – has proven to be a matter of ongoing interest in the
+early 21st century. The practice has its boosters and its critics, but
+neither stance can be easily maintained without a clear understanding
+of what gamification is. However typical definitions of gamification
+in the literature rely heavily on gesturing at a vague intuitive
+picture of the phenomenon like that given above, and thus are not
+especially illuminating. This paper remedies by this by offering an
+explication of gamification, drawing from core examples to identify
+what makes the concept of gamification helpful for making sense of our
+practices. Doing so requires us to clarify what it means to transform
+an activity without changing the basic kind of activity that it is.
+
+Section 1 introduces the concept of gamification and gives the history
+of the term. Section 2 examines the literature on gamification,
+indicating the range of definitions on offer and identifying their
+failings. Section 3 uses the aforementioned failings as the starting
+point for a successful definition which is based on the transformation
+of agents’ intention without the transformation of the activity
+itself. Section 4 addresses possible objections and settles boundary
+questions, defending the choices made about what to exclude or include
+from the concept.
+
 ** DONE Normative Ethics
 *** Thomas Schmidt, Humboldt University, Berlin, Rescue Dilemmas and the Aggregation of Reasons
 Most non-consequentialists reject the unrestricted interpersonal
@@ -3448,45 +3583,80 @@ perception and its content. I conclude by outlining an account of the
 overall, conscious temporal perspective that we occupy, within which
 perception is embedded.
 *** TODO Alice Roberts, Can Statues Make Values 'Perceptible'?
-** DONE Metaphysics and Action
-*** Andrés Luco, Auburn University, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required
-I argue that agency does not require genuine alternative
-possibilities or ultimate control over action. While many philosophers
-maintain that agency exists only if agents can choose among multiple
-physically possible courses of action—choices that are “up to” the
-agent—I defend a compatibilist account on which agency is fully
-consistent with determinism. On my view, agency consists in flexible
-self-causation: an entity is an agent insofar as it can flexibly cause
-itself to pursue goals through internal macro-states. These
-macro-states may include mental states such as beliefs, desires, and
-intentions, but consciousness is not required for agency; even simple
-biological systems can qualify as agents.
-
-I contrast this view with Helen Steward’s agency incompatibilism,
-which ties agency to an “open future” and to agents’ being ultimate
-causes of their own actions. I argue that neither everyday observation
-nor evidence from neuroscience supports the claim that agents
-ultimately settle among alternative possibilities. While organisms
-exhibit “two-way powers” in the sense that they can act or refrain
-from acting, empirical evidence strongly suggests that choices are
-produced by neural processes that precede conscious awareness and are
-themselves shaped by prior causes.
-
-I also assess Kevin J. Mitchell’s appeal to quantum indeterminacy as a
-source of genuine alternatives that agents might harness. Even if
-indeterminacy introduces causal slack at the microphysical level, it
-does not follow that agents ultimately select among alternatives. The
-macro-states that constrain and guide action are themselves products
-of genetic, developmental, environmental, and social influences beyond
-agents’ control, as emphasized by work in the behavioral sciences.
-
-I conclude that agents can be genuine causes of their actions without
-being ultimate causes or facing open futures. Agency, properly
-understood, is compatible with determinism, even if libertarian free
-will is not.
+** DONE Metaphysics and Free Will
 *** TODO Robyn Waller, Sourcehood compatibilism requires alternatives: New perspectives on Frankfurt cases and the Garden of Forking Paths
-*** TODO Karl Egerton, Gamification: an explication
+Free will is often understood as the control an agent exercises over
+her actions that is required for the agent to be held morally
+responsible. This necessary control has been classified in the
+literature as of two varieties, sourcehood and leeway
+control. According to accounts of sourcehood, an agent must be a
+significant source of her actions for her to act freely. The action is
+‘up to her’ or her own. She is the author of that action. According to
+leeway accounts, an agent must have the right kind of alternatives to
+her actual course of action in order for her to act freely. This is
+often times discussed as the ability to do otherwise. This question of
+kind of control relevant for moral responsibility is related to, but
+distinct from, whether free will is compatible with determinism, the
+compatibility question. Prominent contemporary sourcehood
+compatibilists (ala Fischer), for dialectical reasons, have often left
+open whether leeway control may be incompatible with determinism.
+
+My aim in this talk is to argue for an enhanced sourcehood
+compatibilist view, one that takes leeway control to be required for
+significant sourcehood and so for significant moral responsibility,
+consistent with determinism. This Kane-style compatibilism view takes
+seriously that the exercise of free will is inextricably linked to
+self-expression and self-formation. To put it in terms of the garden
+of forking paths, our actual actions are the taken paths of
+self-expression, but the paths not walked signify our freedom of
+alternative expression, possibilities that ground our significant
+moral agency. To do so, I will introduce a new perspective on an old
+debate, the perspective of (would be) manipulators and agents
+themselves in Frankfurt-style cases, to establish that such cases
+support, not undermine, that moral responsibility requires the ability
+to do otherwise.
 *** TODO Jan Westerhoff, Idealism and predictive processing
+A plausible case can be made that the predictive processing approach
+to cognition incorporates central idealist positions relating to the
+nature of representation, the role our minds play in structuring our
+experience of the world, and the properties of the world behind our
+representations. These include the representationalist claim that we
+do not encounter the world in a direct manner, but only through a veil
+of representations, that the way the world appears to us is
+extensively and essentially shaped by structural features of the human
+mind, and the rejection of the position that there is a world of
+mind-independent represented objects behind our representations that
+corresponds, at least in broad structural outlines, to the entities
+featuring in contemporary physical and mathematical theories.
+
+This paper first describes what these positions are, and how
+predictive processing introduces them in terms of precisely formulated
+scientific analogues. I will then consider the recent debate (by
+authors such as Schlicht and Hohwy) about whether this entails that
+“predictive processing harbours an inconsistent set of commitments and
+aspirations” and discuss how the predicitive processing approach can
+help us to pursue new ways of developing key idealist questions in a
+way that is integrated with a naturalistically supported endeavour to
+understand central features of reality.
+*** İbrahim Hansu, LMU Munich, A Free Will Argument for DARC (Deliberation Annihilates Reflexive Credences)
+Can I predict, or assign credences to, what my choice will be, while
+deliberating about what to choose? Some, including Alan Hájek (2016),
+argue yes—"deliberation welcomes prediction"—contending that the
+opposing thesis (DARC: Deliberation Annihilates Reflexive Credences)
+imposes heavy costs on Bayesian epistemology, and dismissing free
+will-based defenses of DARC as "wishy-washy." I offer a free will
+argument for DARC, formulated as a dilemma. If an agent's possible
+actions have determinate non-trivial probabilities, then chance-based
+arguments against free will (i.e. Luck objections) apply, undermining
+the free will that deliberation presupposes. If actions are
+undetermined but non-chancy—as some agent-causal theories suggest—then
+they have no objective probabilities (constituting objective
+probability gaps) to guide credences. Freedom thus introduces
+unpredictability, and deliberation welcomes prediction only insofar as
+free will is exposed to the Luck objections. I conclude by addressing
+purported counterexamples to DARC, including the cases of future
+choices, group agents, and the predictions of onlookers.
+
 ** DONE Discourse, Assertion, Memory
 *** Ross Patrizio, University of Glasgow, Assertion without sanctions
 Assertion requires accountability. But what exactly does such
