@@ -401,9 +401,27 @@ understanding interrelatedness and coordination is crucial for
 assessing which ethically and politically significant acts, such as
 expressions of dissent, can be attributed to institutions, and in
 which circumstances.
-*** TODO Qifan Yang, Hierarchical Injustice and Immigration
+*** TODO Qifan Yang, University College London and University of California, Santa Barbara, Hierarchical Injustice and Immigration
 ** DONE Aesthetics
-*** TODO Mehmet YILDIZ, Context of Distraction: On the Nature of Silly Questions
+*** Mehmet Yıldız, Bilkent University, Context of Distraction: On the Nature of Silly Questions
+It often seems as if certain questions about a work of fiction are
+mere distractions. This paper challenges the view that such an order
+of questions that are called ‘silly questions’ by Kendall Walton are
+irrelevant to appreciation and criticism. The aim is (i) to refine the
+definition of such questions and (ii) to demonstrate the relevance of
+such questions to appreciation and criticism as the essential markers
+of comparative proximity, which denotes a reflective attachment to a
+certain set of presuppositions about a given work of fiction. The
+paper thereby inherits a variety of questions which have already been
+deemed distractive by scholars and attempts to clarify the exact
+reasoning behind such a classification, arguing that a given question
+constitutes a distractive question if and only if an affirmative
+answer to each and every one of its constituent positive polar
+questions gives rise to a conflict with the implications sustained by
+the context through which a work of fiction is interpreted. Following
+this definition, the paper presents such a distraction as a
+prerequisite for attaining an aesthetically enriching awareness of the
+context through which a work of fiction is interpreted.
 *** TODO Leonardo Nanni, An Aesthetic Argument for Supererogatory Actions
 *** Tessa Ditner Amorosi, Central Saint Martins, UAL, The Epistemic Impact of an Aesthetic Category
 Research on aesthetic categories has long moved beyond the ‘beautiful’
@@ -512,40 +530,60 @@ References
 
 - Tweedale, M. (1984). “Alexander of Aphrodisias' Views on Universals”.
   In: Phronesis 29, pp. 279-303.
-*** Benjamin Conover, Saint Louis University, A New Perspective on the Receptacle in Plato's Timaeus
-Plato’s enigmatic cosmology in the Timaeus includes three kinds
+*** Benjamin Conover, Saint Louis University, A New Perspective on the Receptacle in Plato's /Timaeus/
+Plato’s enigmatic cosmology in the /Timaeus/ includes three kinds
 (52d-e): Being, Becoming, and a novel, third kind known through
-“bastard reasoning” (52b): the Receptacle. This third kind is a
+“bastard reasoning” (52b): the /Receptacle/. This third kind is a
 “characterless sort of thing” (51b) “in which” the elements undergo
 various transformations and are particularized (49b-50a). Contemporary
-philosophers frequently debate whether the Receptacle is best
+philosophers frequently debate whether the /Receptacle/ is best
 understood as space, matter, prime matter, or a hybrid. However,
 rarely do they establish clear criteria for evaluating whether it
 fulfills any of the categories. A notable exception is Barbara
 Sattler, who utilizes a standard (minimal) topological space and shows
-that only the Receptacle (with its elements) meets the minimal
+that only the /Receptacle/ (with its elements) meets the minimal
 criteria. She argues that it indeed fulfills the stronger criteria of
 a physically-interpretable, Euclidean geometric space (2012,
 192-193). However, I argue that Sattler’s rigorous analysis misses one
-key feature: the Receptacle itself moves.
+key feature: the /Receptacle/ itself moves.
 
-I offer a novel interpretation of the Receptacle which (1) extends
-Sattler’s analysis, identifying the Receptacle as a dynamical,
+I offer a novel interpretation of the /Receptacle/ which (1) extends
+Sattler’s analysis, identifying the /Receptacle/ as a dynamical,
 physically-interpretable, Euclidean geometric space; and (2) offers a
-novel interpretation of what, exactly, the Receptacle receives and how
+novel interpretation of what, exactly, the /Receptacle/ receives and how
 it produces the perceptible, physical world. Addressing (1), I
-identify key features of the Receptacle with the elements which meet
+identify key features of the /Receptacle/ with the elements which meet
 Sattler’s topological criteria, add its own dynamism to those
 features, and compare the updated set with three well-understood
 dynamical spaces: Newton-Cartan, emergent, and general relativistic
 space. While not identical to any of them, I show how the comparisons
 allow for a better understanding of the puzzling entity. Addressing
-(2). I argue that the Receptacle properly receives ‘shapes’ (μορφη) of
+(2). I argue that the /Receptacle/ properly receives ‘shapes’ (μορφη) of
 the ‘imitations’ or ‘schematics’ (μιμήματα) of the Forms, resulting in
 the empirical aspects (‘sufferings’; πάθη) of the relevant Form
 (52d-e). This provides new clarity on two difficult passages: the
 “such-es” and “this-es” passage (49b-50a) and the puzzle of the
-Receptacle’s characterlessness while appearing, e.g., “fiery” (52d-e).
+/Receptacle/’s characterlessness while appearing, e.g., “fiery” (52d-e).
+
+In what follows, I present an interpretation of the (ordered)
+Receptacle which identifies it as a /dynamic/, geometric Euclidean space
+which properly receives ‘shapes’ (μορφη) of the ‘imitations’ or, as I
+prefer, ‘schematics’ (μιμήματα) of the Forms, resulting in the
+production of the ‘sufferings’ (πάθη) (i.e., visible/empirical
+aspects) associated with the Form. My interpretation breaks new ground
+in two ways: (1) it extends Sattler (2012)’s spatial interpretation of
+the Receptacle in accounting for its own dynamism and (2) presents a
+new, dual geometric/empirical role of the Receptacle’s via its
+reception of the ‘schematics’ (μιμήματα) of the Forms. These insights
+afford new clarity on difficult passages in the /Timaeus/ like the
+‘such-es’ and ‘this-es’ passage (49b-50a) and the puzzle of the
+Receptacle’s appearing ‘fiery’ and ‘watery’ while remaining
+characterless (52d-e). Further, formalizing the Receptacle as a
+dynamic, Euclidean space allows for intriguing comparisons with other
+dynamical spaces such as those in emergent and general relativistic
+spacetimes. Although it should not be said that Plato meaningfully
+anticipated our best contemporary physics, I use the comparison to
+better understand his own, puzzling third kind of space.
 *** Alba Cercas Curry, University of Leeds, Fake it, but never make it: The case for feigned contempt in Early Chinese Philosophy
 Contemporary debates about contempt typically proceed by asking
 whether it is fitting or virtuous to feel contempt. Defenders of
@@ -613,7 +651,48 @@ maintain that the third case must be read along the same lines. A
 parallel passage in GC II.10 336b26-337a7 supports this reading.
 ** DONE Philosophy of Language
 *** TODO Alex Murphy, A Humanistic Approach to the Two Images
-*** TODO Maria Forsberg, Conceptual innovation: what it is and should be
+*** Maria Forsberg, Department of Philosophy, Stockholm University, Conceptual innovation: what it is and should be
+Many hold that conceptual engineering (CE) aims at conceptual novelty,
+that is, the creation of new concepts (see e.g. Nado 2021; Pollock
+2020). The motivation is that the concepts we have constitute only a
+small subset of all possible concepts and are unlikely to be optimally
+suited for all relevant purposes. By engaging in CE, we may develop
+concepts that allow us to better achieve those purposes (cf. Eklund
+2020, 2024a).
+
+Recently, Eklund has argued that insofar as CE aims at the creation of
+new concepts, it is “a grand failure so far” (2024a: 5). He
+distinguishes between (i) merely introducing new labels as
+abbreviations for longer descriptions, (ii) making latent concepts
+available, and (iii) increasing expressive power. According to Eklund,
+while CE is often motivated by the idea of creating new concepts, CE
+as practiced involves only (ii) - pace Koch and Tolhurst (2024).
+
+In this paper, I argue that (ii) does not adequately characterise CE
+as practiced. The claim that CE merely makes latent concepts available
+implies that the engineered concepts can be deployed in cognitive
+processes “without much effort” (Beck 2017: 113). I present
+counterexamples in the form of products of engineering efforts that
+fail to meet this condition. I then propose that CE should be
+understood as aiming at conceptual novelty in a sense not captured by
+Eklund’s distinction: namely, being the first user of a complex
+concept. This account has two main advantages. First, it is
+descriptively adequate. Second, it supports the claim that CE ought to
+aim at conceptual novelty, given the purposes that theorist have and
+ought to have (cf. Queloz 2022, Köhler and Veluwenkamp 2024,
+cf. Eklund 2024b)
+
+References
+
+- Beck, J. (2017). Can bootstrapping explain concept learning? Cognition, 158, 110–121.
+- Eklund, M. (2020). Conceptual engineering in philosophy. In J. Khoo & R. Sterken (eds.), The Routledge Handbook of Social and Political Philosophy of Language (pp. 15–30). Routledge.
+- Eklund, M. (2024a). Conceptual engineering and conceptual innovation. Inquiry, 1–24.
+- Eklund, M. (2024b). Alien Structure: Language and Reality. Oxford: Oxford University Press.
+- Koch, S., & Ohlhorst, J. (2024). Heavy-duty conceptual engineering. Noûs.
+- Köhler, S., & Veluwenkamp, H. (2024). Conceptual engineering: For what matters. Mind, 133(530), 400–427.
+- Nado, J. (2021). Conceptual engineering, truth, and efficacy. Synthese, 198(Suppl 7), 1507–1527.
+- Pollock, J. (2020). Content internalism and conceptual engineering. Synthese, 198(12), 11587–11605.
+- Queloz, M. (2022). Function-based conceptual engineering and the authority problem. Mind, 131(524), 1247–1278.
 *** Sarah Fisher, Cardiff University, Shoring up speech norms in an age of artificial language generators
 Norms shore up our ability to do things with words. As Austin showed,
 linguistic conventions mesh with wider social institutions to enable
@@ -799,7 +878,52 @@ of philosophical analysis of the concept of degree of belief is
 important and then goes on to propose a new elucidation of the notion.
 *** TODO Matthew Rellihan, Difference Making in Action
 ** DONE Metaphysics
-*** TODO Karol Polcyn, Conceivability Intuitions and A Posteriori Physicalism
+*** Karol Polcyn, University of Szczecin, Conceivability Intuitions and A Posteriori Physicalism
+There is no consensus on how to explain our intuitive resistance to a
+posteriori physicalism. While physicalists argue that this resistance
+is due to a cognitive error of some sort (cf. Papineau 2002, 2020;
+Sundström 2018), I offer a different diagnosis. A posteriori
+physicalism is intuitively unintelligible, even if it is true, and
+this unintelligibility is not the result of an error. The source of
+the problem lies in an epistemic gap between phenomenal truths and
+physical truths, namely, the conceivability of zombies. As I argue,
+there are two ways in which the conceivability of zombies renders a
+posteriori physicalism an unintelligible view.
+
+First, physicalists are not able to explain why zombies are
+conceivable, consistently with their commitment to the impossibility
+of zombies. According to physicalists, it is consistent to hold that
+zombies are impossible, because it is consistent to hold that
+phenomenal concepts refer to physical properties despite being very
+different from physical concepts (cf. Papineau 2002, 2020). But if it
+is consistent to hold that consciousness is physical, how could one
+conceive of a scenario in which our physical duplicates are not
+conscious? It seems that one would have to conceive that consciousness
+is not itself, which is absurd.
+
+Second, while a posteriori identities are in general deducible from
+the complete description of the world which does not involve
+identities (Chalmers and Jackson 2001), a consequence of the
+conceivability of zombies is that psychophysical identities are not
+deducible from the complete physical description of the world. One can
+therefore assume, consistently with our complete physical knowledge,
+that the relation between conscious states and physical states is mere
+correlation rather than identity. And for this reason, it is arbitrary
+to assume that conscious states are identical with physical states as
+opposed to being merely correlated with them.
+
+References:
+
+- Chalmers D., Jackson F. (2001), “Conceptual Analysis and Reductive
+  Explanation”, Philosophical Review 110(3): 315-361.
+- Papineau, D. (2002), Thinking about Consciousness. New York: Oxford
+  University Press.
+- Papineau, D. (2020), “The problem of consciousness”, in The Oxford
+  Handbook of the Philosophy of Consciousness, U. Kriegel (red.),
+  Oxford University Press: 14-35.
+- Sundström, P. (2018). How physicalists can – and cannot – explain
+  the seeming “absurdity” of physicalism? Philosophy and
+  Phenomenological Research, XCVII (3), 681-703.
 *** TODO Robert Trueman, The functional individuation of properties
 *** TODO Andrei Ionut Marasoiu, Pragmatics and elusive deflationism about extended minds
 *** TODO James Ross, Analogy and Determination
@@ -1852,7 +1976,22 @@ offers an interesting and possible successful anti-sceptical argument:
 that the external world sceptic turns out to be committed to a more
 radical form of epistemological nihilism.
 ** DONE Metaphysics and Logic
-*** TODO Cansu Yuksel Yildiz, Grounding Modality and Lewisian Amodalism
+*** Cansu Yüksel, Bilkent University, Grounding Modality and Lewisian Amodalism
+This paper argues that the Lewisian modal realist is not a
+necessitist. Williamson (2013), following Divers (1999), argues that
+under an unrestricted reading of the quantifiers the necessitist
+thesis reduces (via the redundancy analysis) to the logical truth that
+everything is something, making the Lewisian trivially committed to
+necessitism. I argue that this misfires because modal truths in the
+Lewisian framework are grounded in facts about possible worlds and
+truths that are not so grounded fall outside modal evaluation
+entirely. These truths that are not grounded in any possible world are
+fundamental and amodal, i.e., they are neither necessary nor
+contingent, but true or false simpliciter(Cowling 2011, Skow
+2018). The unrestricted reading of the necessitist formula is
+accordingly neither true nor false in the framework. Crucially,
+amodalism about fundamental truths is a necessary consequence of the
+reductionist commitments of Lewisian modal realism.
 **** FRIDAY MORNING :noexport:
 *** TODO Yongwoo Yi, Fundamental Quantities in Dispositional Essentialism
 *** TODO Emils Zavelis, A New Perspective on Impossible Worlds
@@ -2123,29 +2262,7 @@ himself had an answer to this question: (HP) elucidates the way in
 which numbers and arithmetic more generally find application in
 describing the empirical world, thereby resolving a traditional
 philosophical puzzle.
-*** Samuel Boudreau, University of Toronto, An Account of the Infinite Regress of Demonstrations in Aristotle's Posterior Analytics I.3.
-This paper examines Aristotle’s discussion of the possibility of
-knowledge (epistêmê) in Posterior Analytics I.3. Here, Aristotle
-presents a school of skeptics who hold that since knowledge can only
-be obtained through a demonstration, knowledge is impossible. This is
-because were some proposition known, it would entail a vicious
-infinite regress of demonstrations. I provide a new interpretation of
-the argument with a focus on its logical form. There are two key moves
-in the argument: an infinite regress is derived from a set of
-premises, and the infinite regress is shown to be vicious. I argue
-that Aristotle presents these moves in light of his own logical
-theory. The argument works on the condition that demonstrations are
-properly distinguished from syllogisms. When Aristotle claims that “it
-is impossible to traverse the infinite” (72b 10-11), he means that an
-infinite demonstration cannot be syllogized. The upshot is that the
-infinite regress argument withstands two common objections. The first
-states that the argument is circular, for it must assume that there
-exists knowledge without demonstration in order to show that the
-infinite regress is vicious. The second objection states that an
-infinite regress of demonstrations is in fact benign, as is an
-infinite regress of integers. Insofar as Aristotle’s logical theory
-has the means to overcome these objection, it provides us a model for
-formulating successful infinite regress arguments.
+
 *** TODO Boaz Laan, A tension for the interpretational approach to modal potentialism
 ** DONE Reason, Mind, Action
 *** TODO Tiago Carneiro da Silva, University of Leeds, Experimental Ethics and Self-evidence
@@ -2225,7 +2342,7 @@ justified. I conclude that Kant’s conception of external freedom
 supports a broader account of social welfare than is usually
 acknowledged, extending beyond redistribution to include measures that
 secure the conditions for independent choice.
-* Open Session III: Friday 14.00 – 16.00 [14/17]
+* Open Session III: Friday 14.00 – 16.00 [15/17]
 ** DONE Rationality
 *** Chenwei Nie, University of Warwick, Rational People's Irrational Beliefs
 Why does an otherwise ordinary person sometimes stubbornly retain a
@@ -2445,7 +2562,7 @@ individualism as solitude or autonomy, isolation, as atomism imposed
 by an external force, severing public relations, or eventually
 loneliness, when both private and public relations are severed (see
 also dimensions Arendt 1958, 1961).
-** TODO History of Philosophy
+** DONE History of Philosophy
 *** Piotr Szalek, Catholic University of Lublin, Intentionality and Representationalism
 The paper attempts to trace the historical correlations between
 intentionality and representationalism. The terminology of
@@ -2549,6 +2666,29 @@ argue that we should understand part of this self-affection to consist
 in relating spatial manifolds given by outer sense to inner
 sense. Hence, I conclude that though not constitutive of intuitions,
 the intellect is constitutive of our consciousness.
+*** Samuel Boudreau, University of Toronto, An Account of the Infinite Regress of Demonstrations in Aristotle's Posterior Analytics I.3.
+This paper examines Aristotle’s discussion of the possibility of
+knowledge (epistêmê) in Posterior Analytics I.3. Here, Aristotle
+presents a school of skeptics who hold that since knowledge can only
+be obtained through a demonstration, knowledge is impossible. This is
+because were some proposition known, it would entail a vicious
+infinite regress of demonstrations. I provide a new interpretation of
+the argument with a focus on its logical form. There are two key moves
+in the argument: an infinite regress is derived from a set of
+premises, and the infinite regress is shown to be vicious. I argue
+that Aristotle presents these moves in light of his own logical
+theory. The argument works on the condition that demonstrations are
+properly distinguished from syllogisms. When Aristotle claims that “it
+is impossible to traverse the infinite” (72b 10-11), he means that an
+infinite demonstration cannot be syllogized. The upshot is that the
+infinite regress argument withstands two common objections. The first
+states that the argument is circular, for it must assume that there
+exists knowledge without demonstration in order to show that the
+infinite regress is vicious. The second objection states that an
+infinite regress of demonstrations is in fact benign, as is an
+infinite regress of integers. Insofar as Aristotle’s logical theory
+has the means to overcome these objection, it provides us a model for
+formulating successful infinite regress arguments.
 ** DONE Feminist Philosophy and Injustice
 *** Nick Clanchy, University of Oxford, Second-Order Hermeneutical Breakthroughs
 In her recent book The Dynamics of Epistemic Injustice Amandine Catala
@@ -3152,7 +3292,36 @@ a clearer picture of what norm-governance and accountability does and
 does not require of asserters.
 *** TODO Johan Chung, How to Stop Talking Past Eachother
 *** TODO Ravi Thakral, Socially Centered Discourse
-*** TODO Jessie Munton What Difference Does Remembering Make?
+*** Jessie Munton, University of Cambridge, What Difference Does Remembering Make?
+This paper argues for two claims. The first is that epistemic value
+comes in two forms: potential, and actual. The second is that
+attention is the gateway which mediates between them. The paper’s
+argument starts from the phenomenon, widely studied in psychology and
+neuroscience, of retrieval induced forgetting (RIF). RIF occurs when,
+in the course of remembering a piece of information x (a phone number
+for instance), the subject must suppress competing, related pieces of
+information, y and z, which are consequently transiently
+forgotten. The phenomenon of RIF reveals to us that remembering comes
+at a price. But we struggle to articulate what that price is with
+standard measures of epistemic value. I argue that we need to
+distinguish between potential epistemic value—the value which attaches
+to states we are poised to use —and actual epistemic value—the value
+which attaches to states we are occurrently accessing and using. In
+cases of RIF we trade potential epistemic value for actualised value.
+
+This distinction has implications for another significant question at
+the intersection of philosophy of mind and epistemology: what is the
+epistemic role of attention? I argue that attention is the gateway
+that mediates between these forms of epistemic value. RIF is an
+unusually clear instance of the trade-off we face between these two
+sorts of epistemic value, but it is just one manifestation among many
+of the attentional mechanisms that govern the interface between memory
+and forgetting, retrieval and suppression. To understand epistemic
+value, the forms it takes and the cognitive achievements in which it
+vests, we need to pay attention to the way the mind moves through
+information, to the variegated nature of belief, and the
+transformations wrought by the mind’s engagement with information that
+is in some weak sense already known to it.
 ** DONE Moral and Normative Philosophy
 *** Guido Melchior, University of Graz, Epistemic regresses as starting-problems and stopping-problems
 In this paper, I will take a fresh look at a number of persistent
