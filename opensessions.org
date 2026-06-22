@@ -73,6 +73,13 @@ Or a blunter version of this advice from previous programmes:
 Please see the advice at https://sites.google.com/view/2026-joint-session/logistics
 
 * Open Session I: Thursday 17.00 – 19.00 [16/16]
+
+** DONE Society for Women in Philosophy (SWIP) session
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+This is not part of the Open Sessions, but it runs parallel to Open
+Session I. For more information see the [[https://sites.google.com/view/2026-joint-session/programme/swip-session][SWIP session programme here.]]
 ** DONE Metaethics
 *** Ronan Ó Maonaile, University of Reading, Why Fit-Making Considerations Are Not Normative Reasons
 This paper offers a new argument for the claim that fit-making
@@ -238,7 +245,7 @@ in order to eliminate the risk inherent in an LLM’s answer to your
 question, you need further evidence. The only evidence that can play
 that role, I submit, is already knowing the answer to the very
 question you ask it.
-*** Rahul Kumar Maurya, University of Oxford, UK, Ethics and AI's Challenge to Humanity: A Perspective from Early Buddhism
+*** Rahul Kumar Maurya, Banaras Hindu University, India, Ethics and AI's Challenge to Humanity: A Perspective from Early Buddhism
 The conception of ethics has always been central to philosophical
 deliberations. Philosophy has grown voluminous in response to the
 age-old question, “How should we live?” This question leads to another
@@ -422,7 +429,36 @@ the context through which a work of fiction is interpreted. Following
 this definition, the paper presents such a distraction as a
 prerequisite for attaining an aesthetically enriching awareness of the
 context through which a work of fiction is interpreted.
-*** TODO Leonardo Nanni, An Aesthetic Argument for Supererogatory Actions
+*** Leonardo Nanni, University of Bergamo, An Aesthetic Argument for Supererogatory Actions
+Supererogatory actions are those actions that are morally good,
+although not strictly required. Common moral intuitions suggest that
+such actions exist: for instance, bringing chocolates to one’s
+coworkers seems morally good, though it would hardly seem that one is
+morally required to do it. Despite this, some moral theories argue
+that supererogatory actions do not actually exist. According to these
+theories, there are only two types of actions: those that are morally
+required, and those that are morally wrong, leaving no room for
+morally good but not required actions. In this presentation, I develop
+a novel argument for the existence of supererogatory actions. More
+specifically, I argue that supererogation is needed to explain why
+some actions possess the aesthetic properties they possess. The
+argument proceeds in three stages. First, I argue that actions
+themselves can bear aesthetic properties. For example, the movements
+of dancers in a classical ballet can be graceful or harmonious when
+expertly performed, and clumsy or unbalanced when performed
+poorly. Second, I argue that the aesthetic properties of actions
+depend on their non-aesthetic properties, and that the latter can
+include their moral properties. To illustrate, consider a surgeon
+skillfully removing a patient’s organs: the action may be graceful
+when performed to save a life, but grotesque if performed to kill the
+patient for amusement. Finally, I argue that among the moral
+properties on which the aesthetic properties of actions can depend is
+the property of being supererogatory. I suggest that the beauty of
+certain actions-such as extraordinary acts of generosity or
+self-sacrifice-cannot be adequately explained except on the basis of
+their being supererogatory. Moral theories that deny the existence of
+supererogatory actions therefore lack the resources to account for the
+aesthetic features of some actions, providing reason to reject them.
 *** Tessa Ditner Amorosi, Central Saint Martins, UAL, The Epistemic Impact of an Aesthetic Category
 Research on aesthetic categories has long moved beyond the ‘beautiful’
 and the ‘sublime’ to consider what has been called ‘minor categories’
@@ -878,52 +914,32 @@ of philosophical analysis of the concept of degree of belief is
 important and then goes on to propose a new elucidation of the notion.
 *** TODO Matthew Rellihan, Difference Making in Action
 ** DONE Metaphysics
-*** Karol Polcyn, University of Szczecin, Conceivability Intuitions and A Posteriori Physicalism
-There is no consensus on how to explain our intuitive resistance to a
-posteriori physicalism. While physicalists argue that this resistance
-is due to a cognitive error of some sort (cf. Papineau 2002, 2020;
-Sundström 2018), I offer a different diagnosis. A posteriori
-physicalism is intuitively unintelligible, even if it is true, and
-this unintelligibility is not the result of an error. The source of
-the problem lies in an epistemic gap between phenomenal truths and
-physical truths, namely, the conceivability of zombies. As I argue,
-there are two ways in which the conceivability of zombies renders a
-posteriori physicalism an unintelligible view.
+*** Vanessa Seifert, University of Athens, Could AI undermine standard scientific realism?
+Atoms and molecules have constituted a paradigmatic case in defending
+the reality of unobservable entities. However, the way AI models are
+developed to predict novel chemical substances and compounds
+undermines the idea that the predictive success of science empirically
+supports the truth of its theories. This is because there are at least
+some AI models whose predictive success is not based on incorporating
+or following an underlying theory. To spell this out, I present two AI
+models that are developed in order to predict chemical substances and
+identify two ways by which AI models are trained to make
+predictions. These two ways of training AI models illustrate that the
+predictive success of our models cannot always be accounted for by the
+truth of an underlying theory. This is particularly problematic for
+the defence of scientific realism in terms of the No Miracles Argument
+which takes novel predictions in science to be best explained by the
+truth of our underlying theories.
 
-First, physicalists are not able to explain why zombies are
-conceivable, consistently with their commitment to the impossibility
-of zombies. According to physicalists, it is consistent to hold that
-zombies are impossible, because it is consistent to hold that
-phenomenal concepts refer to physical properties despite being very
-different from physical concepts (cf. Papineau 2002, 2020). But if it
-is consistent to hold that consciousness is physical, how could one
-conceive of a scenario in which our physical duplicates are not
-conscious? It seems that one would have to conceive that consciousness
-is not itself, which is absurd.
+Gerrard, W., Bratholm, L. A., Packer, M. J., Mulholland, A. J.,
+Glowacki, D. R., & Butts, C. P. (2020). IMPRESSION–prediction of NMR
+parameters for 3-dimensional chemical structures using machine
+learning with near quantum chemical accuracy. Chemical science, 11(2),
+508-515.
 
-Second, while a posteriori identities are in general deducible from
-the complete description of the world which does not involve
-identities (Chalmers and Jackson 2001), a consequence of the
-conceivability of zombies is that psychophysical identities are not
-deducible from the complete physical description of the world. One can
-therefore assume, consistently with our complete physical knowledge,
-that the relation between conscious states and physical states is mere
-correlation rather than identity. And for this reason, it is arbitrary
-to assume that conscious states are identical with physical states as
-opposed to being merely correlated with them.
-
-References:
-
-- Chalmers D., Jackson F. (2001), “Conceptual Analysis and Reductive
-  Explanation”, Philosophical Review 110(3): 315-361.
-- Papineau, D. (2002), Thinking about Consciousness. New York: Oxford
-  University Press.
-- Papineau, D. (2020), “The problem of consciousness”, in The Oxford
-  Handbook of the Philosophy of Consciousness, U. Kriegel (red.),
-  Oxford University Press: 14-35.
-- Sundström, P. (2018). How physicalists can – and cannot – explain
-  the seeming “absurdity” of physicalism? Philosophy and
-  Phenomenological Research, XCVII (3), 681-703.
+Krishnan, A., Valeri, J. A., Jin, W., Donghia, N. M., Sieben, L.,
+Luttens, A., ... & Collins, J. J. (2025). A generative deep learning
+approach to de novo antibiotic design. Cell, 188(21), 5962-5979.
 *** TODO Robert Trueman, The functional individuation of properties
 *** TODO Andrei Ionut Marasoiu, Pragmatics and elusive deflationism about extended minds
 *** TODO James Ross, Analogy and Determination
@@ -1606,7 +1622,54 @@ if it is an appropriate response to the threatened person’s refusal to
 perform the desired act. I further argue that it is an appropriate
 response only if the threatened person has a duty to perform the act
 in question.
-** DONE Philosophy of Science
+** DONE Metaphysics and Science
+*** Karol Polcyn, University of Szczecin, Conceivability Intuitions and A Posteriori Physicalism
+There is no consensus on how to explain our intuitive resistance to a
+posteriori physicalism. While physicalists argue that this resistance
+is due to a cognitive error of some sort (cf. Papineau 2002, 2020;
+Sundström 2018), I offer a different diagnosis. A posteriori
+physicalism is intuitively unintelligible, even if it is true, and
+this unintelligibility is not the result of an error. The source of
+the problem lies in an epistemic gap between phenomenal truths and
+physical truths, namely, the conceivability of zombies. As I argue,
+there are two ways in which the conceivability of zombies renders a
+posteriori physicalism an unintelligible view.
+
+First, physicalists are not able to explain why zombies are
+conceivable, consistently with their commitment to the impossibility
+of zombies. According to physicalists, it is consistent to hold that
+zombies are impossible, because it is consistent to hold that
+phenomenal concepts refer to physical properties despite being very
+different from physical concepts (cf. Papineau 2002, 2020). But if it
+is consistent to hold that consciousness is physical, how could one
+conceive of a scenario in which our physical duplicates are not
+conscious? It seems that one would have to conceive that consciousness
+is not itself, which is absurd.
+
+Second, while a posteriori identities are in general deducible from
+the complete description of the world which does not involve
+identities (Chalmers and Jackson 2001), a consequence of the
+conceivability of zombies is that psychophysical identities are not
+deducible from the complete physical description of the world. One can
+therefore assume, consistently with our complete physical knowledge,
+that the relation between conscious states and physical states is mere
+correlation rather than identity. And for this reason, it is arbitrary
+to assume that conscious states are identical with physical states as
+opposed to being merely correlated with them.
+
+References:
+
+- Chalmers D., Jackson F. (2001), “Conceptual Analysis and Reductive
+  Explanation”, Philosophical Review 110(3): 315-361.
+- Papineau, D. (2002), Thinking about Consciousness. New York: Oxford
+  University Press.
+- Papineau, D. (2020), “The problem of consciousness”, in The Oxford
+  Handbook of the Philosophy of Consciousness, U. Kriegel (red.),
+  Oxford University Press: 14-35.
+- Sundström, P. (2018). How physicalists can – and cannot – explain
+  the seeming “absurdity” of physicalism? Philosophy and
+  Phenomenological Research, XCVII (3), 681-703.
+
 *** Jonny Blamey, Sixth Form College Farnborough, Two directions of time and the foundations of science
 Time seems to flow from the past to the future. We as conscious
 agents, persist through time; remember the past and make choices that
@@ -1635,7 +1698,6 @@ observation. However, it would avoid Grandfather paradoxes,
 (Adlam, 2024) by dropping the assumption of a fixed past. We will use
 this model to shed light on some famous riddles in Quantum mechanics,
 such as quantum uncertainty and action at a distance.
-*** TODO Vanessa Seifert, Could AI undermine standard scientific realism?
 *** TODO Arlene Lo, Fengshui and the Spectre of Scientific Demarcation
 *** George Webster, University of Oxford, From Phenomenology to Quantum Reconstruction: an Argument from Merleau-Ponty
 There has been a surge of recent interest in phenomenological
@@ -1993,7 +2055,48 @@ accordingly neither true nor false in the framework. Crucially,
 amodalism about fundamental truths is a necessary consequence of the
 reductionist commitments of Lewisian modal realism.
 **** FRIDAY MORNING :noexport:
-*** TODO Yongwoo Yi, Fundamental Quantities in Dispositional Essentialism
+*** Yongwoo Yi, LMU Munich, Fundamental Quantities in Dispositional Essentialism
+Dispositional essentialism holds that fundamental properties are
+powers, that is, properties with dispositional essences. Like other
+anti-Humean frameworks, it has the virtue of explaining regularities
+in nature without appealing to brute “cosmic coincidences.” In this
+paper, however, I argue that this explanatory advantage is
+significantly undermined by an influential account of multi-track
+powers, most notably defended by Bird (2007).
+
+Multi-track powers are properties whose dispositional essences involve
+multiple stimulus conditions or multiple manifestations. Electric
+charge, for example, is commonly regarded as a multi-track power
+because it gives rise to different magnitudes of electrostatic force
+depending on the charge of interacting objects and their
+distance. Bird argues that multi-track dispositions should be analyzed
+as conjunctions of single-track dispositions, each corresponding to a
+specific stimulus–manifestation pair. Since he maintains that the
+individual conjuncts are metaphysically more fundamental than the
+conjunction itself, he concludes that there are no fundamental
+multi-track powers.
+
+I contend that this reductive strategy gives rise to cosmic
+coincidences, which neutralize the explanatory advantage of
+dispositional essentialism. All charged objects are disposed to exert
+every particular magnitude of electrostatic force under every relevant
+circumstance. If the dispositions to exert specific magnitudes of
+electrostatic force are more fundamental than charge itself, then
+these distinct, fundamental dispositions are always co-instantiated in
+our world. In this picture, dispositional essentialists cannot explain
+this systematic co-instantiation but must instead accept it as a brute
+cosmic coincidence. This poses a serious threat to the view’s
+explanatory advantage.
+
+I argue that a satisfactory solution requires rethinking the
+metaphysical status of certain multi-track powers within dispositional
+essentialism, especially fundamental quantities. In particular, I
+propose that fundamental quantities should be understood as
+determinable powers, whose stimulus conditions and manifestations are
+themselves determinable properties. I show that this account avoids
+Vetter’s (2013) objection to treating multi-track powers as
+determinables, while also securing further advantages that strengthen
+the overall dispositionalist project.
 *** TODO Emils Zavelis, A New Perspective on Impossible Worlds
 Many philosophers believe that some non-classical logic is
 correct. Nevertheless, they often rely on classical logic when arguing
@@ -2033,7 +2136,36 @@ categorizing pain involves not only the identification of common
 properties, but also evaluating their importance. Pain research should
 therefore acknowledge that normative judgements are constitutive of
 pain.
-*** TODO William Gopal, Expertise and Norms of Attention
+*** William Gopal, University of Glasgow, Expertise and Norms of Attention
+Being able to offer a precise line of criticism of professional
+experts (e.g., scientists, doctors, lawyers, engineers, etc.) who
+present true but distorting information to non-experts is pressing. In
+this paper, I identify some of the normative demands generated if we
+assume professional experts perform a function for non-experts;
+namely, that professional experts perform the role of a sentinel
+insofar as they make possible threats emerging from their domain of
+expertise salient to non-experts. At first glance, a promising line to
+cash out the normative demands of professional experts is to suggest
+that beholden to more demanding epistemic responsibilities when
+interacting with non-experts in this way. For example, that when
+playing the role of a sentinel, professional experts ought to testify
+*qua* expert only within their field of expertise; or act with
+humility by, for example, admitting to inaccuracies or sincerely
+responding to competing views whether presented by another expert or a
+non-expert ( Gerken, 2018; Ballantyne, 2019; Zagzebski, 2024). On this
+picture, what a professional expert ought to do when acting as a
+sentinel is, at least partially, set by alethic concerns. However,
+depending on what is made salient – and what one attends to –
+information can be true yet distorting (Gardiner, 2022). If that’s the
+case, then it’s possible that, while functioning as a sentinel,
+professional experts can satisfy their more demanding epistemic
+responsibilities by, for example, presenting only true claims, yet
+nonetheless mislead non-experts in a way that warrants criticism. The
+upshot of this paper, is a view that professional experts are beholden
+to specific norms of attention, which in turn, offers a line of
+criticism against those who present true – but distorting –
+information to non-experts, unavailable with the current conceptual
+apparatus in social epistemology.
 *** TODO Paul Healey, An Indemonstrable Grief
 ** DONE Justice and Injustice
 *** TODO Karl Landström, The Wrongs and Harms of Epistemic Exploitation
@@ -2269,7 +2401,40 @@ philosophical puzzle.
 **** FRIDAY :noexport:
 *** TODO Eliot Watkins, Normative Reasons and Attitude Intensity
 *** TODO Daniel Dearlove, Naïve Realism and Understanding Why
-*** TODO Paul Thomas Engeland, Helplessly Hoping
+*** Paul Thomas Engeland, University of Leipzig, Helplessly Hoping
+Against Bobier (2017) I argue that hope that p will happen is not
+necessary for practical deliberation about p and that indeed it is not
+compatible with deliberation. Affirming Bobber’s doctrine brings about
+many counterintuitive examples. Why is this so? Hope is an attitude
+directed at possible events beyond one’s power. Deliberation, on the
+contrary, is a process of deciding what to do and is directed at
+something which one can do.
+
+Bobier wants to show is that ‚[i]f S does not hope for x, then S
+cannot deliberate about x’ and that ’to deliberate over x requires
+that we hope for x’ (Bobier 2017, 496).
+
+What underwrites Bobier’s claim that hope that x is necessary for
+practical deliberation about x is, the belief that this is true of a
+list of criteria whose obtaining is held to collectively be sufficient
+for hope that x. These are the following:
+
+S believes the attainment of x is possible or is at least uncertain
+about it; (b) S desires x; and (c) x is future to S (Bobier 2017, 495)
+
+Though one may be sceptical about this account of hope, I want to
+argue that precisely because the criteria (a) and (b) are at least
+good approximations of hope, though perhaps indeed not sufficient, as
+Mueller (2019) claims, hope that x cannot accompany practical
+deliberation about x.
+
+For one thing, (b) is in obvious conflict with the openness of
+deliberation to arrive at different results. More importantly though,
+deciding to do something that is within one’s powers but then behaving
+as though it is not shows a failure of practical reason to fulfil its
+office: determining how one will act. One looks at oneself from the
+outside, as though to say: „God willing, I will stop smoking next
+year.“
 ** DONE Relations to Others
 *** TODO Mollie Gerver, King's College London, How To Win Friends and Influence People with Philosophy
 *** TODO Karri Heikkinen, Complaints, Gratitude, and the Procreation Asymmetry
@@ -2826,7 +2991,7 @@ ethically considered as having episodic memory. Instead, I argue that
 a more precautionary conlusion is justified when considering animals
 that show various features of human episodic memory and are said to be
 conscious.
-** TODO Metaphysics
+** TODO Metaphysics [0/0]
 *** Harry Cleeveley, Independent Scholar, The A Priori Truth of Modal Rationalism
 Modal rationalism is the claim that for all p, if it is ideally
 conceivable that p, then there is a metaphysically possible world, W,
@@ -2944,10 +3109,39 @@ patterns – not the way in which they diverge from the truth – which
 makes these ‘felicitous falsehoods’ epistemically valuable. Simply
 put, epistemic success comes from what science gets right, and
 aesthetic qualities can contribute to getting things right.
-*** TODO Dragana Bozin, An Argument for Social Reasoning
+*** Dragana Bozin, University of Oslo, An Argument for Social Reasoning
+To be well-informed on issues affecting our daily lives is essential,
+whether we want to make an important personal decision or take a
+stance in a debate. To be well-informed often requires knowledge
+beyond our expertise or at least the capacity to navigate through and
+process large amounts of information. Complying with expert opinions
+is not a simple task either, as it often requires some assessment and
+reflection if we are not to accept expert opinions blindly. And then
+experts disagree. If we choose to engage in reflection and assessment,
+we do it on our own. Reasoning is a solitary activity. Solitary
+reasoning, however, can and does go wrong in multiple ways: it is
+subject to biases (cognitive and those related to our beliefs and
+values) many of which are unconscious, it is context dependent, often
+plagued with formal and informal fallacies.
+
+I argue that the practice of social reasoning could somewhat
+compensate for many of these flaws, and that it could help us achieve
+together what we cannot achieve on our own.
+
+Social reasoning is reasoning in groups with some restrictions
+regarding group composition and the interactive process. Members join
+the groups when they need to come to an (informed) decision or take a
+stance on an issue. They contribute with the information they have,
+the information is merged, processed and amended through social
+interaction. During the process members are exposed to different
+perspectives, often lacking in solitary reasoning. In this way social
+reasoning could provide a better foundation for our decisions/views.
+As one of the group members is always an expert, the practice could
+provide avenues for social engagement of science, and science
+communication.
 *** TODO Hong Joo Ryoo, Grounding and Causation are the Same (Fundamentally)
 *** TODO Ruodan Que, Interventionism, Agency Theory of Causation, and Impossible Interventions
-** TODO Metaphysics and Mind
+** TODO Metaphysics and Mind [0/2]
 *** TODO Arturo Vazquez-Hernandez, Psychological Language, Machine Behaviour and Intelligence
 *** TODO Phillip Meadows, Causation By Omission, Norms, and The Problem of Profligacy
 ** DONE Normative Ethics
@@ -3232,7 +3426,27 @@ all cases of hallucination. Instead, I argue that visual experiences
 of total darkness are indetermined visual experiences. This view, I
 claim, vindicates the intuitive idea that in seeing total darkness we
 seem to see something while failing to see anything.
-*** TODO Noddy Lam, On the Temporal Viewpointedness of Perceptual Experience
+*** Noddy Lam, University of Pittsburgh, On the Temporal Viewpointedness of Perceptual Experience
+Hoerl (2018) recently argued that our perceptual experience lacks
+temporal viewpointedness. Having reconstructed his argument, I will
+show how his conclusion only follows if an implicit assumption is
+true, namely that any putative temporal perspective one occupies must
+be a purely perceptual perspective. I argue that we should not accept
+this assumption. By illustrating how our bodily awareness and
+psychological orientations towards different directions in space
+contribute to the way the perspective we occupy in visual experience
+is structured, I show that the latter is not a purely visual
+perspective, but is embedded within our overall spatial
+perspective. This puts pressure on Hoerl’s assumption insofar as it is
+an example of how features of /non-visual/ consciousness – something
+more general – contribute to our /visual/ phenomenology – something
+more specific. Perhaps sometimes getting right some specific
+phenomenon might require understanding some more general
+phenomenon. This opens up the possibility that, in order to get right
+the temporal view pointedness of perception, we need to look /beyond/
+perception and its content. I conclude by outlining an account of the
+overall, conscious temporal perspective that we occupy, within which
+perception is embedded.
 *** TODO Alice Roberts, Can Statues Make Values 'Perceptible'?
 ** DONE Metaphysics and Action
 *** Andrés Luco, Auburn University, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required
