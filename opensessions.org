@@ -30,7 +30,8 @@ be strange choices on my part!
 Because of the large number of parallel sessions, some of the sessions
 will be in the two large lecture theatres. I know this is a bit odd,
 but I thought it better than going for buildings outside Palmer and
-Edith Morley (which are very close together).
+Edith Morley (which are very close together). And the lecture theatres
+are air-conditioned!
 
 Many people find the Edith Morley building confusing, which I've never
 understood. It's a masterpiece of logical planned architecture.
@@ -1488,7 +1489,26 @@ interacted. This talk will detail the personal connections between our
 six women and - going further - sketch the broader women’s networks
 they belonged to. We’ll see that these women philosophers used their
 interpersonal networks to address some of the challenges they faced.
-*** TODO Fiona Woollard, University of Southampton, An argument for the unequal distribution of parental duties after birth
+*** Fiona Woollard, University of Southampton, An argument for the unequal distribution of parental duties after birth
+It is normally assumed that those concerned with justice within the
+family should fight for equal parenting roles and equal parental
+duties. We should reject these assumptions: in many cases, justice
+demands unequal distribution of parental duties after birth.
+Gestational parents face distinctive burdens during pregnancy and
+birth. Non-gestational parents owe compensation to gestational parents
+for these distinctive burdens. By default, this results in a
+redistribution of parental duties amongst parents: non-gestational
+co-parents acquire a duty to the gestational parent to take on a
+greater share of the post-pregnancy burdens. I also discuss two cases
+which, like pregnancy and birth, involve a kind of body-sharing:
+lactation and bodily tissue/organ donation. I argue that
+non-gestational parents have additional reasons, but not duties, to
+induce lactation where possible. On my view, parents have defeasible
+duties to donate bodily tissues and organs if needed by their
+child. If so, then compensation for the burdens of pregnancy puts
+non-gestational parents first in line for such duties. If parents do
+not have defeasible duties to donate, then non-gestational parents
+have additional reasons to take on this task.
 *** TODO Bengü Demirtas, Bilkent University, Sexual Consent as a Standing Normative Relation in Enlightenment Philosophy and Marriage Law
 *** Christian Meyer, Freie Universität Berlin, Radical Feminist Conceptions of Sexual Liberation
 "This paper offers a philosophical reconstruction of radical feminist
@@ -2266,7 +2286,23 @@ with their salient community of audience.
 *** TODO James Ralph, How Could I Have Known? Undiagnosed ADHD as Hermeneutical Injustice
 *** TODO Sandra Branzaru, To ToM or not ToM: the LLMs question 
 ** DONE Mysticism and Mind
-*** TODO Alice Harberd, Closure and Mysticism
+*** Alice Harberd, University College London, Closure and Mysticism
+There has been widespread philosophical interest in the idea of a
+/narrative self-conception/ (NSC) – a basic view of what one is like and
+the events of one’s life which is narrative in form. Goldie has argued
+that NSCs can mislead us not only about ourselves, but about the wider
+world. He thinks our desire for narrative closure means that NSCs can
+lead us to believe false, mystical explanations of why events in our
+lives have happened.
+
+I argue that Goldie’s concern relies on an inadequate theory of
+narrative closure. This theory holds that closure is provided by the
+answers to narratively salient questions (Carroll, 2007). I show that
+narrative closure can also be elicited by structural features of
+narrative, and argue our NSCs are likely to have structures conducive
+to partial narrative closure. The result is that that there is no need
+to believe mystical explanations to satisfy our desires for narrative
+closure.
 *** Christopher Jay, University of York, Interestingly Ineffable Knowledge
 A. W. Moore has long argued that there is an interesting and
 philosophically important kind of mysticism which appeals to the
@@ -3184,10 +3220,10 @@ I conclude that agents can be genuine causes of their actions without
 being ultimate causes or facing open futures. Agency, properly
 understood, is compatible with determinism, even if libertarian free
 will is not.
-*** Arturo Vazquez-Hernandez, Psychological Language, Machine Behaviour and Intelligence
+*** Arturo Vazquez-Hernandez, University of Southampton, Psychological Language, Machine Behaviour and Intelligence
 In everyday circumstances, we use, understand, and reply to sentences
-such as ‘The machine didn’t follow the instruction’, ‘… answered the
-questions’, and ‘… checkmated the chess player’.
+such as ‘The machine didn’t follow the instruction’, ‘... answered the
+questions’, and ‘... checkmated the chess player’.
 
 These expressions have two distinctive features. They involve
 terminology of mental capacities, such as ‘understanding meaning’ and
@@ -3203,24 +3239,17 @@ What do we then mean by sentences which involve psychological verbs
 and allegedly describe machine behaviour? What, e.g. is the meaning of
 the expression ‘the machine understands the command’?
 
-I argue that the Wittgensteinian concepts of ‘secondary use’ and
-‘aspect perception’ help answer these questions and account for the
-puzzle-sentences.
+This paper is a critical discussion of what I call ‘Literal views’ on
+puzzle-sentences. The argument is that the idea that puzzle-sentences
+amount to literal uses of psychological language fails to account for
+the alleged description of machine behaviour in terms of understanding
+and rule-following capacities.
 
-Sections one and two challenge views that have it that
-puzzle-sentences are literal and metaphorical uses of words,
-respectively. ‘Literal’ views do not account for this puzzling use of
-language, as they presuppose that a ‘state’ brings about the
-connection between understanding a word and using it correctly. Whilst
-‘metaphor’ views fail to explain the type of paraphraseability found
-in puzzle-sentences.
-
-Section three articulates the paper’s argument. Namely,
-puzzle-sentences involve ‘seeing a similarity’ to and against the
-backdrop of human action. Such a similarity, pace received views,
-reflects a ‘secondary’ use of psychological verbs. Namely, we employ
-them (i) with their ordinary – and not metaphorical – meaning (ii) in
-a non-ordinary context spontaneously.
+Literal views do not meet this challenge as they presuppose a
+problematic assumption about the notions of understanding and
+rule-following. Namely, the connection between understanding a word or
+rule and using it correctly, i.e. according to its meaning is brought
+about by a ‘state’, e.g. of the brain.
 
 Studying puzzle-sentences provides a valuable insight into machine
 behaviour and intelligence. E.g. using psychological verbs in a
