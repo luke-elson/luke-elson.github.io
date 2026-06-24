@@ -1,0 +1,166 @@
+* Master todo list
+** DONE Get info from Laura about costings.
+** DONE Cake for dinner.
+** DONE Approach suggested people for funding.
+** DONE Email research groups back.
+** DONE Agree sponsorship for REAPP and Mind&Language.
+** DONE Printing info.
+** DONE Registration site.
+** TODO Check about roundtable.
+** DONE Change room bookings with new timetable.
+** DONE BPA move to 2pm-3pm, get confirmation from Kirchin that this is OK.
+** TODO Liberto symposium content warning sexual violence
+** DONE Info out to SWIP people and programme chairs
+** DONE Check with Laura about event notification form
+No event form needed because we just doing classroom activities.
+** TODO Get current booking form from Laura
+** DONE get back to Fiona about parking
+Parking will be included in delegate pack.
+** DONE Refund those people email 13 April
+   DEADLINE: <2026-04-28 Tue>
+** TODO Respond to Laura and print the paperwork she sent
+   DEADLINE: <2026-04-29 Wed>
+** DONE Pass BPA store link
+   DEADLINE: <2026-05-27 Wed>
+Store link for BPA table is https://www.store.reading.ac.uk/product-catalogue/school-of-philosophy-politics-and-economics/philosophy/display-table-at-the-joint-session
+** TODO people to cancel or move [0/4]
+*** TODO Luke Jennings complete refund
+*** TODO Ari Deller dinner refund
+*** TODO Alice Harberd dinner refund
+*** TODO Jonny Blamey dinner addon
+*** TODO possibly complete refund GONZALO VELASCO ARIAS
+*** TODO possibly that michael baldwin guy
+** TODO add sponsorships to programme
+* Accommodation
+** Accommodation link is at https://registration.venuereading.com/AristotelianSocietyandtheMindAssociation2026
+** Cheaper rooms (without bedding!) at https://www.reading.ac.uk/ready-to-study/accommodation/stay
+** Cheaper rooms available at the Sure Hotel Best Western https://www.bestwestern.co.uk/hotels/sure-hotel-by-best-western-reading-84271
+** University pdf with discounted hotels https://www.hospitalityuor.co.uk/wp-content/uploads/sites/45/Venue-Reading-Hotels-near-the-University-of-Reading.pdf
+* Open Session reviewing
+** DONE send submitted verdicts
+** DONE contact 60 incoming from postgrad
+** DONE fix Emailed submissions
+Lukas Lewerentz
+** DONE chase up 10 papers received from SWIP
+"ager.perezcasanovas@gmail.com" <ager.perezcasanovas@gmail.com>;
+"madeleine.kenyon@uwaterloo.ca" <madeleine.kenyon@uwaterloo.ca>;
+"Fiona Woollard" <f.woollard@soton.ac.uk>;
+"assiminagal@yahoo.com" <assiminagal@yahoo.com>;
+"jralph@uwaterloo.ca" <jralph@uwaterloo.ca>;
+"sofia.weiss.25@ucl.ac.uk" <sofia.weiss.25@ucl.ac.uk>;
+"iuh3@scarletmail.rutgers.edu" <iuh3@scarletmail.rutgers.edu>;
+"mollie.gerver@kcl.ac.uk" <mollie.gerver@kcl.ac.uk>;
+"rose.brugger@oriel.ox.ac.uk" <rose.brugger@oriel.ox.ac.uk>;
+"bengu.demirtas@bilkent.edu.tr" <bengu.demirtas@bilkent.edu.tr>;
+"Emilia Wilson" <wilsone15@cardiff.ac.uk>
+* Open Sessions
+** Tasks
+*** TODO Check markers in all the classrooms
+    DEADLINE: <2026-07-07 Tue>
+** Scheduling Requests
+*** DONE Rebecca Brione on Thursday
+*** DONE Frank Yang provisionally 5-7pm on Thursday. Goes by Qifan and may want to pick title?
+*** DONE Nick Clanchy 10th July Friday
+*** DONE João Silva on 10th.
+*** DONE David Chandler 10th
+*** DONE Kangyu Wang 9th
+*** DONE Chelsea Guo 10th
+*** DONE Alex Murphy Thursday 9th
+*** DONE Hannah Barrios 9th
+*** DONE Kieran Oberman Thursday 9th
+*** DONE Eugen Fischer Thurs
+*** DONE Pawel Grad session I or II
+*** DONE Christina Fritz Thursday
+*** DONE Mehmet Yıldız and Cansu Yüksel separate presentations both Thursday.
+*** DONE Talita Ferrantelli on Friday.
+*** DONE Daniel Morgan not Friday afternoon.
+*** DONE Joe Neisser not Friday afternoon.
+*** DONE Elena Padoan Thursday
+* SWIP speakers
+** TODO choose room
+** DONE email them advising registration
+** TODO double-check mollie gerver on open or not
+* Student helpers
+Info from Chris Kelp: sent an email around to ask if anyone wanted to
+help (giving priority to students who were scheduled to present at the
+event). I then assigned some tasks around being at the registration
+desk, carrying out AV checks before open sessions, and Mic duties
+during Q&A for symposia.
+* Registration/reading store
+** DONE update end time on Reading store
+** TODO double-check dates of categories:
+- Open session bookings end on June 5
+** TODO Update Venue Reading with numbers, and especially if open sessions goes above 150
+<2026-04-10 Fri +1w>
+** TODO Final open session numbers and rooms to Venue Reading
+<2026-06-06 Sat>
+* Advertising/publishers/printing
+** Reading store set up link sent to Abbie
+https://www.store.reading.ac.uk/product-catalogue/school-of-philosophy-politics-and-economics/philosophy/printed-advertising-in-the-joint-session-programme
+** TODO send link to other publishers
+   DEADLINE: <2026-05-26 Tue>
+** DONE set up store for £50 association table, get back to BPA
+   DEADLINE: <2026-04-28 Tue>
+** Publishers and BPA
+*** OUP: Katie Frobisher (katie.frobisher@oup.com)
+Wants to be kept in the loop. Clarke will be attendee but she wants in on info too.
+Adam Blow has emailed about journals, I've advised him to book as regular delegate unless
+wants table. Also sent secret link for dinner.
+*** Routledge: Anthony Bruce tony.bruce@tandf.co.uk
+Has booked.
+*** Palgrave: Brendan George (brendan.george@palgrave.com)
+Registered as regular delegate, said he would just come with some
+things in his bag, no table no advertising.
+
+** Advertising
+*** DONE thank Abbie and pass on to CPS
+    DEADLINE: <2026-05-26 Tue>
+* Creative/print studio deadlines
+** TODO <2026-06-02 Tue> send tote bag deadlines to CPS
+** Tote Bags
+*** TODO Copy date <2026-05-25 Mon>
+*** TODO Production date <2026-06-05 Fri>
+** Name Tags, Programme, Adverts, Poster/Banner
+*** TODO Copy date <2026-06-17 Wed>
+*** TODO Production date <2026-07-01 Wed>
+
+* Invited speakers
+** DONE send registration info and reminders
+* Postgrad speakers
+** Final point. Luke, in case you're not aware, I chair the theoretical session and Michael chairs the practical session.
+** TODO get abstracts
+*** Title: The Global Collective Agent
+Realists hold that global justice is permanently unreachable
+because a global sovereign is impossible to establish. In this paper,
+I contest this modal claim by providing an account of how to
+constitute a global sovereign, which I call the Global Collective
+Agent (GCA). To do so, I adopt Philip Pettit’s theory of collective
+agency. His theory is particularly well suited to explaining
+collective agents that pursue specific ends. It can be condensed into
+three conditions that any group must satisfy to constitute a
+collective agent: purposive flexibility, individual acquiescence, and
+a guiding voice. Given the immense scale of a global group and the
+conflicting interests of its constituents, these conditions cannot be
+straightforwardly satisfied. Therefore, I develop three scalar
+desiderata tailored to constituting collective agency on a global
+scale. First, ‘operative states’ function as the authorised agents
+whose decisions and actions constitute those of the GCA. Second, a
+‘global ethos’ comprises collectively accepted goals, values, and
+norms that provide operative states with motivating reasons for
+action. Third, ‘global institutions’ are established de novo with the
+legislative, executive, and judicial capacities through which
+operative states bind themselves. I argue that these desiderata, when
+progressively satisfied, can constitute the Global Collective Agent
+capable of enabling global justice.
+
+* Round table
+** <2026-04-02 Thu> Emailed Anna asking her to deal with round-table people.
+* Room bookings
+** Final date for adding or removing classrooms is 4 weeks before conference, according to Laura Robb.
+** Promised Laura I'd get back to her if open sessions bookings cross 150.
+* Dietary requests etc
+- Ari Deller Kosher: "I'd be okay with vegetarian food (and indeed
+  most fishes which aren't shellfish - e.g. salmon, tuna)."
+* Dinner addons
+- Eugen?
+- Hidden payment link is https://www.store.reading.ac.uk/product-catalogue/school-of-philosophy-politics-and-economics/philosophy/100th-joint-session-of-the-mind-association-and-aristotelian-society-conference-dinner

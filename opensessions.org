@@ -1453,7 +1453,7 @@ performed, as well as how to perform it. To that extent, the question
 ‘Why?’ does reveal the structure of what one thinks insofar as one is
 acting, for Anscombe; so, her focus on the question ‘Why?’ does not
 objectify agency. "
-* Open Session II: Friday 11.00 – 13.00 [17/17]
+* Open Session II: Friday 11.00 – 13.00 [16/17]
 ** DONE Feminist Philosophy
 *** Emily Thomas, Durham, Letters of Women Philosophers 1902-1951: Sexism and Shadow Networks
 This talk explores connections between six philosophers:
@@ -1545,8 +1545,46 @@ connected to the ambition of abolishing gender, leaving this vision of
 sexual politics a path not taken. I argue that this development
 weakens feminist analyses of sexual liberation until today.
 ** DONE Philosophy of Language
-*** TODO Rhiannon Snook, Ay Up Me Duck! On Written Representations of Linguistic Variation
-*** TODO James Kirkpatrick, A Potentialist Theory of Natural Language
+*** Rhiannon Snook, University of Reading, Ay Up Me Duck! On Written Representations of Linguistic Variation
+Linguistic variation has long been investigated by sociolinguists, and
+more recently, a topic of interest for philosophers of language, with
+regards to how differences in the meaningful form of an utterance
+alters the information relayed, and the agency and performative
+abilities of the speaker (Camp, Nowak, 2025). There is more than one
+way of saying the same thing, different conversational contexts have
+different linguistic expectations, and linguistically varying
+utterances carry differing social significances even if their
+essential content is the same. We navigate these differences all the
+time, often without realising, and rely on our knowledge of how
+certain differences in speech (e.g. accent, register, colloquialisms)
+are perceived socially to understand their significance. In this
+paper, I will argue that when it comes to written representations of
+linguistic variation, whilst there is a lack of richness to the
+information relayed in “written speech” that is gained from a
+conversational context, the written “speakers” are still held to the
+same scrutiny, and oftentimes criticised more than their vocal
+counterparts when depicting variation. These criticisms, in turn,
+influence the perceptions of the speakers within a social context,
+reinforce often negative, sometimes inappropriate, stereotypes, and
+limit the linguistic abilities of these speakers.
+*** James Kirkpatrick, University of Oxford and Magdalen College, Oxford, A Potentialist Theory of Natural Language
+Philosophy of language and generative linguistics traditionally
+assumes that natural languages are countably infinite sets of
+well-formed sentences. However, it is not obvious that modelling
+languages as completed infinite sets is required to explain our
+finite, yet unbounded linguistic competence, and underappreciated
+mathematical results suggest that the collection of well-formed
+sentences vastly exceeds merely countable infinity. In this paper, I
+develop a novel theory — the potentialist theory of natural language —
+according to which a natural language is never a completed infinity,
+but an indefinitely extensible structure. New sentences can always be
+formed, yet there is no final stage in which all possible sentences
+are present. I formalize this thesis in a modal framework, using
+Kripke models to represent stages of linguistic development, and
+reinterpret formal grammars within this potentialist semantics. The
+resulting framework reframes the size debate as a question of unending
+linguistic growth, thus offering a new perspective on recursion,
+generative capacity, and the metaphysics of language.
 *** Artur Kosecki, Uniwerystet Szczecinski, An Austinian Account of Lexicalized Concepts: Responding to Strawson's Challenge in Conceptual Engineering
 Strawson’s Challenge (Strawson 1963; Cappelen 2018) draws attention to
 one of the methodological issues in conceptual engineering: how to
@@ -2360,7 +2398,7 @@ first-personal uses in a unified way, while avoiding circularity or
 regress. I suggest that our capacity for first-person thought rests
 not merely on agency, but on the deeper constitutive principle of
 self-trust that warrants us to take such thoughts as our own.
-** DONE Metaethics: Reasons and Fit
+** TODO Metaethics: Reasons and Fit
 *** Alex Gregory, University of Southampton, When is it fitting to be happy?
 "Happy" has many meanings, but can sometimes be used to refer to a
 certain positive emotion: the one we express with a smile. In general,
@@ -2377,9 +2415,56 @@ whether you should be happy with your lunch, the weather, or your love
 life, might depend on what you compare actuality with. I defend a view
 on which fitting happiness depends on how things are going in nearby
 possible worlds. The resulting view is edifying, in various respects.
-*** TODO Bennett Eckert-Kuang, Actions as Reasons for Actions
-*** TODO Marie Wegener, Special Reasons, Two Strategies, One Problem: The Limits of Value-Based Theories of Practical Reasons
-*** TODO Gonzalo Velasco Arias, Institutional Proleptic Blame and the Limits of Fittingness
+*** Bennett Eckert-Kuang, Harvard University, Actions as Reasons for Actions
+What are reasons for action? The dominant positions hold that
+‘motivating’ reasons (i.e., reasons on the basis of which an agent
+acts) are facts, propositions, and/or mental states; and ‘normative’
+reasons (i.e., reasons that count in favor of acting) are facts. I
+argue that these positions construe the ontology of reasons too
+narrowly. Actions themselves, I argue, can be both motivating and
+normative reasons. To buy groceries, for instance, can be both my
+motivating reason for going to the store and a normative reason for me
+to do so. My argument is as follows. Motivating reasons are answers to
+Anscombe’s ‘Why?’ question, which takes the form ‘Why are you
+phi-ing?’ ‘I am going to the store in order to buy groceries’ is a
+good answer to the question ‘Why are you going to the store?’ Further,
+I contend that it is not reducible to any answer that cites a
+proposition (e.g., ‘going to the store is a way to buy
+groceries’). Thus, ‘to buy groceries’ can be a motivating reason for
+going to the store. More generally, the end for the sake of which an
+agent is acting can itself be her reason for taking the means. We
+might say of someone: ‘her reason for going to the store is to buy
+groceries.’ So actions can be motivating reasons. What about normative
+reasons? A popular, plausible view says that normative reasons just
+are good motivating reasons. So if I should go to the store in order
+to buy groceries, then to buy groceries is a normative reason to go to
+the store. We might say: ‘the reason she should go to the store is to
+buy groceries.’ The upshot is that the dominant views about the
+ontology of motivating and normative reasons are false because they
+are too restrictive.
+*** Marie Wegener, Bielefeld University, Special Reasons, Two Strategies, One Problem: The Limits of Value-Based Theories of Practical Reasons
+Proponents of value-based theories of practical reasons can explain
+different kinds of practical reasons in terms of values in various
+ways. Some practical reasons seem to be perfectly explained by
+appealing to the value of their favoured action. However, some reasons
+(DR) originate from a different source and are not (solely) dependent
+on the value of the favoured action (e.g. promissory reasons, reasons
+to obey legitimate authority and commitment-based
+reasons). Nevertheless, these reasons can be captured by value-based
+theories that provide a value-based explanation for their origin
+(e.g. value-based views of normative powers or a value-based
+explanation of legitimacy of authority). In my paper, I assess whether
+these two approaches to explaining reasons can be incorporated into
+one theory. To do so, I will evaluate two recent attempts (Heuer 2025;
+Lovett & Riedener 2024). My hypothesis is that both accounts suffer
+from extensional inadequacy, as they fail to capture all aspects of
+the unique nature of DRs by appealing to value: (1) On both accounts,
+the value of the favoured action is taken to be a necessary condition
+for the existence of an SR – this stands in conflict with plausible
+accounts of promissory reasons (for example). (2) Other necessary
+conditions for the existence of DRs remain unexplained – which
+conflicts with reasons that result from the exercise of normative
+power (for example).
 ** DONE Moral & Political Philosophy
 *** Abida Malik, Johannes Kepler University Linz, Is Democracy Doomed? On the Importance of Epistemic Virtues
 Democracy can only work with a consensus on the basic facts. However,
@@ -2690,8 +2775,72 @@ exposure, and responsibility as positional rather than
 choice-based. It proposes three criteria for evaluating burden
 allocation under non-ideal conditions: unavoidability,
 substitutability, and asymmetry of exposure.
-*** TODO George Hull, Inequality of Opportunity as a Structural Accessory after the Fact to Past Injustice
-*** TODO Bill Wringe, Cuguano's Reparative Duties of Dissociation
+*** George Hull, University of Cape Town, Inequality of Opportunity as a Structural Accessory after the Fact to Past Injustice
+When a societal group’s position of relative disadvantage is a
+consequence of past unjust discrimination, its disadvantaged position
+is not only a failure of social justice today, but also a wrongful
+harm which calls for redress. I argue that transposing a moral concept
+from the common law, accessory after the fact, from the plane of
+individual acts to that of the basic structure of society can
+illuminate how these distinct moral failings interact.
+
+On the plane of individual acts, when – intentionally but without
+prior co-ordination – you act in such a way as to make the wrong I
+have performed more wrongful, more harmful, or a wrong which stands
+unannulled for longer, you make yourself my accomplice, by changing –
+worsening – what I have done
+
+On the societal plane, a society whose basic structure fails to
+equalise opportunity fairly is not only unjust with regard to the
+present, but also, I argue, becomes an accomplice to unjust
+discrimination from the past, because it foreseeably increases the
+extent of wrongful harm which results from that past injustice. This
+is why unequal opportunities are (other things equal) more morally
+objectionable – aggravated – when they exist along the faultlines of
+past discrimination; and this provides further justification for
+prioritising opportunity equalisation along those faultlines.
+
+The concept accessory after the fact illuminates how culpability for
+past injustice can seep into the present, altering the moral character
+of present actions and states of affairs in a society, even were it to
+be the case that no discriminatory motive informed society-members’
+actions today.
+*** Bill Wringe, University of York, Cuguano's Reparative Duties of Dissociation
+Consider two attractive thoughts about reparations for historic
+injustice - that is, reparations for injustices committed in the past,
+whose primary victims can no longer be materially compensated. First,
+these duties are duties to make amends for those injustices and are
+owed to their primary victims. Second, they are duties to compensate
+currently existing individuals. These thoughts are in tension. Felix
+Lambrecht (2025) has argued persuasively that it is best resolved by a
+two-tier theory of duties to repair historic injustice.
+
+This view overlooks the possibility that one way of making symbolic
+reparation for past wrongdoing is, precisely, to make material
+compensation to those who are appropriately related to victims of past
+injustice. I substantiate this possibility by considering Ottobah
+Cugoano's (1787) views about the reparative duties owed by the people
+of England. Cugoano holds that by upholding laws permitting slavery
+the people of England have become responsible for wrongs done to the
+enslaved. As a result each individual owes reparative duties,
+including duties of dissociation from the legal order which permits
+slavery.
+
+I argue that the kind of responsibility Cugoano has in mind here is
+best understood as individual participatory responsibility; that this
+responsibility and the dissociative duties which arise from it can -
+and plausibly do - extend to individuals born after the British Empire
+ceased to permit slavery including present day individuals; that these
+duties are owed to past enslaved individuals; and that material
+compensation to identifiable descendants of these enslaved individuals
+is an appropriate way of discharging them.
+
+Cugoano, O. (1999/1787) Thoughts and Sentiments on the Evil and Wicked
+Traffic of the Slavery and Commerce of the Human Species.
+
+Lambrecht, Felix (2025). On the necessity of a pluralist theory of
+reparations for historical injustice. Philosophical Quarterly 75
+(3):978-998.
 *** Mert Atessal, Bilkent University, Why You Cannot Own the Parthenon: Cultural Treasures and the Limits of Property
 Special rights theories dominate debates about the ownership of
 cultural treasures, grounding property claims in particular historical
@@ -2713,7 +2862,40 @@ pluralistically understood Lockean proviso. The paper concludes that,
 even within a special rights framework, some cultural treasures cannot
 legitimately become property.
 ** DONE Computing
-*** TODO Lena Wang, Taxonomically Transformative Technologies: AI Systems as Conceptual Engineers
+*** Lena Wang, The University of Cambridge, Taxonomically Transformative Technologies: AI Systems as Conceptual Engineers
+Critics rightfully identify that AI models are biased against
+marginalised groups. These biases deteriorate our shared hermeneutical
+resources—the narratives, frameworks, and concepts that structure how
+we understand the world and ourselves—by reflecting and exacerbating
+existing oppressive narratives. However, this is not the only way that
+AI models are sources of hermeneutical impoverishment. I propose that
+AI models warp our hermeneutical resources, not only by reinforcing
+existing problematic representations of identity groups, but by
+changing how these groups are represented. That is, AI models are
+conceptual engineers. They are capable of revising our social
+concepts: the representational devices we use to categorise and make
+sense of our social world.
+
+I argue that when certain deep machine learning models perform
+predictions, they construct social concepts. These models include
+systems that explicitly categorise social groups (e.g. gender
+prediction systems), systems that represent them through proxy traits
+(e.g. recidivism algorithms), and large language models. Crucially,
+these algorithmic concepts differ from their human-constructed
+counterparts due to unavoidable trade-offs in model development. I
+posit that in constructing revised algorithmic concepts, AI models are
+conceptual engineers.
+
+Once introduced, algorithmic concepts can take the place of our own
+concepts. Through these hermeneutical changes, AI models can also make
+a difference to our underlying social ontology: in redefining how we
+think of ourselves, they can redefine who we are. There are two
+mechanisms through which this occurs: causal change (where predictions
+influence behaviours, creating looping effects) and constitutive
+change (where predictions directly constitute reality). Finally, I
+offer upshots of attending to AI models as novel sources of epistemic
+and ontological harm. If I am right, AI systems possess the ability to
+carve society at its joints.
 *** TODO Wu Qiantong, The Possibility of Human-Like Consciousness in Large Language Models
 This paper proposes the necessary conditions for the consciousness to
 emerge from a physical being by stressing the importance of
@@ -2724,7 +2906,36 @@ the large language model (LLM) so far; in fact, achieving human-level
 consciousness may not be necessary for building AI consciousness,
 considering that the purpose of developing AI is to facilitate human
 beings instead of creating more human-like beings.
-*** TODO Bon-Hyuk Koo, Does the Opacity of Deep Learning Undermine Scientific Realism?
+*** Bon-Hyuk Koo, Korea Science Academy of KAIST, Does the Opacity of Deep Learning Undermine Scientific Realism?
+The advances of artificial intelligence in scientific research,
+particularly deep learning, offer a methodology where predictive
+success is achieved without semantic intelligibility. Hooker and
+Hooker (2018) raise this worry for scientific realism: if algorithms
+function as effective “black boxes” without deploying interpretable
+concepts, the traditional realist inference from success to truth is
+disrupted. After examining AlphaFold 2 as a paradigmatic case of
+predictive success despite AI opacity, this paper proposes three
+responses to preserve a realist stance.
+
+First, the threat of opacity is mitigated through AI-independent
+verifiability. Much like early telescopic observations were accepted
+prior to a full optical theory, AlphaFold’s outputs are justified
+through external validation methods. Second, the paper argues that by
+shifting justification from internal interpretability to external
+"reliability indicators" (Durán 2026), such as robust benchmarking and
+the integration of domain-specific constraints, realists can be
+justified in believing ML outputs without penetrating the black
+box. Finally, structural realism is offered as the most defensible
+form of scientific realism by reconceiving ML systems not as causal
+representations, but as abstract mathematical objects (Buijsman
+2026). Under this view, the "truth" captured by AI is the mathematical
+structure of the target phenomenon, allowing realists to retain a
+commitment to the reality of the predicted structures even in the face
+of algorithmic opacity. This structuralist perspective is further
+strengthened by Ladyman (2025), who argues that treating such systems
+as reliable information channels requires a commitment to a minimal
+metaphysics of modality, thereby validating the algorithm's
+distributed representations as capturing genuine modal structure.
 *** Gianluigi Viscusi, Linköping University, Freedom By Design: Pluralism Of Values And Determinism In Big Data And Analytics
 When Felix Oppenheim posed the question on whether ‘freedom’ can
 become a concept of empirical science as dependent on the question on
@@ -3858,3 +4069,4 @@ GA. In what follows, I offer one competing reading of the craft
 analogy that ultimately fails but argue that we still have reason to
 take the craft analogy seriously in virtue of several strengths that
 the model gets right that other GA examples miss.
+*** TODO Gonzalo Velasco Arias, Institutional Proleptic Blame and the Limits of Fittingness
