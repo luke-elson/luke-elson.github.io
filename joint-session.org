@@ -13,7 +13,6 @@
 ** DONE Info out to SWIP people and programme chairs
 ** DONE Check with Laura about event notification form
 No event form needed because we just doing classroom activities.
-** TODO Get current booking form from Laura
 ** DONE get back to Fiona about parking
 Parking will be included in delegate pack.
 ** DONE Refund those people email 13 April
@@ -23,13 +22,15 @@ Parking will be included in delegate pack.
 ** DONE Pass BPA store link
    DEADLINE: <2026-05-27 Wed>
 Store link for BPA table is https://www.store.reading.ac.uk/product-catalogue/school-of-philosophy-politics-and-economics/philosophy/display-table-at-the-joint-session
-** TODO people to cancel or move [0/4]
-*** TODO Luke Jennings complete refund
-*** TODO Ari Deller dinner refund
-*** TODO Alice Harberd dinner refund
-*** TODO Jonny Blamey dinner addon
-*** TODO possibly complete refund GONZALO VELASCO ARIAS
-*** TODO possibly that michael baldwin guy
+** people to cancel or move [8/8]
+*** DONE Luke Jennings complete refund - he just had reg
+*** DONE Ari Deller complete refund - reg and dinner. remove from open session.
+*** DONE Jennifer Minjarez has replaced Deller dinner
+*** DONE Alice Harberd dinner refund 
+*** DONE Jonny Blamey dinner addon (replacing harberd dinner)
+*** DONE omplete refund GONZALO VELASCO ARIAS (no dinner), remove from open session
+*** DONE add that michael baldwin guy (replacing arias)
+*** DONE add benedict rumbold complete (replacing ari deller registration)
 ** TODO add sponsorships to programme
 * Accommodation
 ** Accommodation link is at https://registration.venuereading.com/AristotelianSocietyandtheMindAssociation2026

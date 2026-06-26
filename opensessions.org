@@ -200,37 +200,8 @@ also true of /x/ at /t_{1}/. Therefore, if it is the case at /t_{2}/
 that a future person (/x/) that is /F/ (e.g., has flourishing
 conditions) is also essentially N (due to /NP/), then it must be the
 case that /x/ is /N/ at /t_{1}/ (e.g., right now) too.
-** DONE Artificial Intelligence
-*** Ari Deller, University of Cambridge, 'Can AIs do X': The Wrong Question in AI Scholarship
-A widespread project in AI scholarship asks whether AIs can, or do,
-partake in normativised human practices and virtues – whether they can
-testify, be trustworthy, be creative, and so on.
+** TODO Artificial Intelligence
 
-I argue that for a certain subset of such practices, this project is
-misguided. Drawing on Bernard Williams' Truth and Truthfulness, I
-focus on practices that are presented as intrinsically valuable but
-whose normativity is actually grounded in some external end. On
-Williams' account, truth-telling exemplifies this pattern: treating
-sincerity and accuracy as ends in themselves is a culturally evolved
-strategy for motivating reliable participation in practices that serve
-broader epistemic goods. The intrinsic framing is adaptive, not
-metaphysically fundamental.
-
-With this distinction in hand, I offer two related criticisms of
-asking whether AIs can engage in such practices. First, these
-normative frameworks are designed as workarounds for distinctively
-human limitations – our limited cognitive memory, practical resources
-and so on. Asking whether AI can instantiate virtues tailored to human
-psychology misunderstands their function: they are solutions to
-problems AI may not share.
-
-Second, because the normativity of these practices is grounded
-externally, the question of whether AI can perform them is the wrong
-one. What matters is whether AI can effectively serve the ends these
-practices were designed to promote. Rather than asking ""Can AI be
-creative?"", we should ask ""How can AI best produce new and valuable
-ideas?"" – a question that may have answers quite alien to human
-virtue.
 *** Rory Aird, American University of Armenia, ChatGPT isn't safe
 Drawing on resources from the analysis of knowledge, in this paper, I
 argue that ChatGPT is not safe—in the Pritchardian, modal sense. More
@@ -409,7 +380,28 @@ understanding interrelatedness and coordination is crucial for
 assessing which ethically and politically significant acts, such as
 expressions of dissent, can be attributed to institutions, and in
 which circumstances.
-*** TODO Qifan Yang, University College London and University of California, Santa Barbara, Hierarchical Injustice and Immigration
+*** Qifan Yang, University College London and University of California, Santa Barbara, Hierarchical Injustice and Immigration
+Democratic states usually condemn domestic mobility controls. Yet at
+borders, the same states require prospective immigrants to petition for
+admission. This article explains why the immigration hierarchy between
+citizens and prospective immigrants remains morally troubling even when
+certain exclusions are permissible. My answer develops a notion of
+/Hierarchical Injustice/, grounded in a distinction between two
+justifications. A /vindicatory justification/ shows that an asymmetry in
+standing is the vehicle through which a genuine good is realised for the
+relationally inferior, giving them reason to affirm it from their own
+standpoint. An /excusing justification/ shows only that the hierarchy is
+a permissible means to a good realised for someone else. The immigration
+hierarchy, I argue, may be excused yet never vindicated. This
+effectively exposes a binary justificatory assumption widespread in
+migration ethics, on which permissibility exhausts moral assessment. The
+distinction further resolves an ambiguity in Niko Kolodny's account of
+objectionable hierarchy and tracks a residual wrong that Iris Marion
+Young's structural injustice leaves untouched. Citizens accordingly bear
+an /expressive responsibility/ to acknowledge that wrong. My notion can
+be extended to other hierarchies sustained by excusing justifications
+alone, such as the workplace, the family and other domestic civic
+institutions.
 ** DONE Aesthetics
 *** Mehmet Yıldız, Bilkent University, Context of Distraction: On the Nature of Silly Questions
 It often seems as if certain questions about a work of fiction are
@@ -913,7 +905,33 @@ rational agents should be structured and how they should be formally
 modelled -- is relatively small. This paper first argues that the task
 of philosophical analysis of the concept of degree of belief is
 important and then goes on to propose a new elucidation of the notion.
-*** TODO Matthew Rellihan, Difference Making in Action
+*** Matthew Rellihan, Seattle University, Difference Making in Action
+Co-authored with Daniel Coren.
+
+For many human beings, there is a deep-seated desire to make a
+difference. This is so in many senses, including one we may put
+roughly as follows: I make a difference only and to the extent that
+had I not performed such-and-such an action with
+so-and-so-consequences, no one and nothing else would have performed
+this action or brought about these consequences. Call this Difference
+Making in Action (DMA). We do four things in this paper concerning
+DMA. First, we give an analysis of DMA, relating it to but also
+distinguishing it from other agency-related phenomena like freedom,
+fatalism, and moral responsibility.  Second, we motivate DMA’s
+importance. Though difference-making does have implications for other
+agency-related phenomena, we argue that it is important to us
+independently of these implications.  We would still want our actions
+to make a difference even if we were already assured that we are
+morally responsible and that we possess free will, of whatever
+variety.  Third, we distinguish DMA from other kinds of
+difference-making, such as those discussed by Yamima Ben-Menahem, John
+Martin Fischer, and Carolina Sartorio.  Finally, we briefly consider
+prospects for DMA’s realization in the actual world. We argue that we
+are at least sometimes misled into thinking that we make a difference
+because our actions and their results themselves preempt the
+initiation of similar actions with similar results.  There are
+differences that we make and differences that we value, the question
+is whether and to what extent the former are included in the latter.
 ** DONE Metaphysics
 *** Vanessa Seifert, University of Athens, Could AI undermine standard scientific realism?
 Atoms and molecules have constituted a paradigmatic case in defending
@@ -1453,7 +1471,7 @@ performed, as well as how to perform it. To that extent, the question
 ‘Why?’ does reveal the structure of what one thinks insofar as one is
 acting, for Anscombe; so, her focus on the question ‘Why?’ does not
 objectify agency. "
-* Open Session II: Friday 11.00 – 13.00 [16/17]
+* Open Session II: Friday 11.00 – 13.00 [17/17]
 ** DONE Feminist Philosophy
 *** Emily Thomas, Durham, Letters of Women Philosophers 1902-1951: Sexism and Shadow Networks
 This talk explores connections between six philosophers:
@@ -1848,7 +1866,29 @@ By focusing on Ward’s theory of presentation, I reconstruct how his
 account generates a model of the structured organisation of
 consciousness – its field-like unity, internal differentiation, and
 complex composition.
-*** TODO Sean Maroney, King's College London, Edith Stein's Emotion Ontology
+*** Sean Maroney, King's College London, Edith Stein's Emotion Ontology: Emotions as motivational evaluative perceptions.
+Edith Stein has become well-known for her theory of empathy
+(/Einfühlung/) as a /sui generis/ experience of the Other's
+experience, developed in her 1917 doctoral thesis /On the Problem of
+Empathy/. For Stein, a successful act of empathy grasps the content of
+the Other's experience directly and that empathised content strikes
+the empathiser as 'other' or 'foreign' (/fremde/). Affective states
+are a primary category of eligible targets for empathy, and Others'
+emotions are salient eligible targets for empathy. But Stein's
+understanding of emotions, her emotion ontology, is unsettled. While
+there is some emerging consensus that emotions, for Stein, are
+essentially evaluative, the nature of their evaluative aspect is
+unsettled. What's more, evaluative readings exclude the potent role
+that Stein has for motivations in her emotion ontology, which becomes
+central to her 1922 treatise "Sentient Causality" in /Philosophy of
+Psychology and the Humanities/. I offer a new reading: for Stein,
+emotions are /motivational evaluative perceptions./ More precisely, I
+argue that, for Stein, the nature of the emotion's evaluation is
+perceptual and perceptual activity is essentially motivational. The
+motivational aspect of perceptual activity is made intelligible by
+welcoming into the discussion Stein's commitment to what I call a
+‘thick' account of intentionality, which is rooted in Thomistic
+metaphysics.
 *** Jacopo Berneri, University of Oslo, The Copernican Turn of Structured Properties and Propositions
 Some of the most striking objections against structuralist type-free
 theories of properties and propositions are the Russell-Myhill paradox
@@ -2398,7 +2438,7 @@ first-personal uses in a unified way, while avoiding circularity or
 regress. I suggest that our capacity for first-person thought rests
 not merely on agency, but on the deeper constitutive principle of
 self-trust that warrants us to take such thoughts as our own.
-** TODO Metaethics: Reasons and Fit
+** DONE Moral Philosophy: Reasons, Fit, Fairness
 *** Alex Gregory, University of Southampton, When is it fitting to be happy?
 "Happy" has many meanings, but can sometimes be used to refer to a
 certain positive emotion: the one we express with a smile. In general,
@@ -2465,6 +2505,45 @@ accounts of promissory reasons (for example). (2) Other necessary
 conditions for the existence of DRs remain unexplained – which
 conflicts with reasons that result from the exercise of normative
 power (for example).
+*** Benedict Rumbold, University of Nottingham, Comparative Unfairness as Non-Recognition
+According to
+
+The Comparative Fairness Requirement (CFR): All other things being
+equal, claims ought to be satisfied in proportion to their
+strength. (Broome, 1990, 95)
+
+CFR looks true. But its justification is unclear. Why should we think
+that claims ought to be satisfied in proportion to their strength?
+What would be wrong about our disproportionately satisfying claims?
+
+Somewhat surprisingly, philosophers have yet to explore these
+questions in depth. However, to the extent that they have reflected
+upon them, they have generally offered one of two views. First, we can
+read some writers to hold what we can call,
+
+The Primitive View: comparatively unfair acts are wrong just because
+they are unfair.
+
+Second, we can read some writers to hold what we can call,
+
+The Concern and Respect View: Comparatively unfair acts are wrong just
+because they fail to treat people with equal (and sufficient) concern
+and respect.
+
+There are things we can say in favour of each of these views. But I
+think we have good reason to reject both. Instead, in this paper, I
+defend an alternative. According to what I call,
+
+The Non-Recognition View: Comparatively unfair acts are wrong just
+because they fail to recognise claimants standing as claimants, given
+the recognition afforded by allocative agents to others.
+
+As I show, as well as not suffering the same problems as the Primitive
+View and the Concern and Respect View, The Non-Recognition View has
+two further boons: first it provides a plausible account of when and
+why acting comparatively fairly is particularly important, when it is
+particularly important. Second, it explains why, in Broome’s words,
+lotteries offer a ‘surrogate’ satisfaction of fairness requirement.
 ** DONE Moral & Political Philosophy
 *** Abida Malik, Johannes Kepler University Linz, Is Democracy Doomed? On the Importance of Epistemic Virtues
 Democracy can only work with a consensus on the basic facts. However,
@@ -4047,8 +4126,8 @@ views on the nature of well-being.
 *** Frances Darling, Testimonial Injustice, Competence, and Intellectual Disability will cancel
 *** Howard Simmons, No Fact about whether a Being is Conscious
 *** Will Moorfoot, Against Indeterministic Ground Physicalism
-*** TODO Daniel Gregory, What is inner speech? And what does it represent?
-*** TODO Luke Jennings, University of Oxford, How Apt is Aristotle’s Comparison between Craft Production and Reproduction?
+*** Daniel Gregory, What is inner speech? And what does it represent?
+*** Luke Jennings, University of Oxford, How Apt is Aristotle’s Comparison between Craft Production and Reproduction?
 In Book I.21-22 of Generation of Animals, Aristotle develops an
 analogy between craft and the coming-to-be of animals according to
 which nature utilizes male semen in acting on the female menses to
@@ -4069,4 +4148,34 @@ GA. In what follows, I offer one competing reading of the craft
 analogy that ultimately fails but argue that we still have reason to
 take the craft analogy seriously in virtue of several strengths that
 the model gets right that other GA examples miss.
-*** TODO Gonzalo Velasco Arias, Institutional Proleptic Blame and the Limits of Fittingness
+*** Gonzalo Velasco Arias, Institutional Proleptic Blame and the Limits of Fittingness
+*** Ari Deller, University of Cambridge, 'Can AIs do X': The Wrong Question in AI Scholarship
+A widespread project in AI scholarship asks whether AIs can, or do,
+partake in normativised human practices and virtues – whether they can
+testify, be trustworthy, be creative, and so on.
+
+I argue that for a certain subset of such practices, this project is
+misguided. Drawing on Bernard Williams' Truth and Truthfulness, I
+focus on practices that are presented as intrinsically valuable but
+whose normativity is actually grounded in some external end. On
+Williams' account, truth-telling exemplifies this pattern: treating
+sincerity and accuracy as ends in themselves is a culturally evolved
+strategy for motivating reliable participation in practices that serve
+broader epistemic goods. The intrinsic framing is adaptive, not
+metaphysically fundamental.
+
+With this distinction in hand, I offer two related criticisms of
+asking whether AIs can engage in such practices. First, these
+normative frameworks are designed as workarounds for distinctively
+human limitations – our limited cognitive memory, practical resources
+and so on. Asking whether AI can instantiate virtues tailored to human
+psychology misunderstands their function: they are solutions to
+problems AI may not share.
+
+Second, because the normativity of these practices is grounded
+externally, the question of whether AI can perform them is the wrong
+one. What matters is whether AI can effectively serve the ends these
+practices were designed to promote. Rather than asking ""Can AI be
+creative?"", we should ask ""How can AI best produce new and valuable
+ideas?"" – a question that may have answers quite alien to human
+virtue.
