@@ -73,7 +73,7 @@ Or a blunter version of this advice from previous programmes:
 
 Please see the advice at https://sites.google.com/view/2026-joint-session/logistics
 
-* Open Session I: Thursday 17.00 – 19.00 [16/16]
+* Open Session I: Thursday 17.00 – 19.00 [17/17]
 
 ** DONE Society for Women in Philosophy (SWIP) session
 :PROPERTIES:
@@ -200,8 +200,7 @@ also true of /x/ at /t_{1}/. Therefore, if it is the case at /t_{2}/
 that a future person (/x/) that is /F/ (e.g., has flourishing
 conditions) is also essentially N (due to /NP/), then it must be the
 case that /x/ is /N/ at /t_{1}/ (e.g., right now) too.
-** TODO Artificial Intelligence
-
+** DONE Human and Inhuman
 *** Rory Aird, American University of Armenia, ChatGPT isn't safe
 Drawing on resources from the analysis of knowledge, in this paper, I
 argue that ChatGPT is not safe—in the Pritchardian, modal sense. More
@@ -271,6 +270,34 @@ commitment-laden, and inquirers less independently able to assess
 content, AI-generated text becomes epistemically diminished as a
 substitute for human sources. The result is a graded model of strong,
 weak, and non-deference to LLM outputs.
+*** Alice Roberts, University of Cambridge, Can Statues Make Values 'Perceptible'?
+Monumental art is uncontroversially tied to a community’s values. In
+/Art in Three Dimensions/, Noël Carroll suggests a more precise
+connection: that monumental art makes values /perceptible/. In this
+paper, I expand on Carroll’s claim, arguing that statues can evoke a
+‘complicit perception’ in a viewer. A complicit perception involves
+seeing the subject of the statue as having a thick ethical
+property. For instance, the Charlottesville statue of Robert E. Lee
+depicts him on horseback, looking strong and wearing a military
+uniform. I argue that the complicit perception evoked in this case
+represents Lee /as-heroic/. Regardless of a viewer’s beliefs, viewing
+the statue of Robert E Lee involves an involuntary and automatic
+perceptual entertainment of Lee’s heroism.
+
+To support this argument, I draw from research on perceptual
+learning. I demonstrate that thick ethical properties, such as
+‘heroism’, can be visually learned through frequent exposure to
+statues with certain visual properties (e.g., being large, grand, and
+elevated), combined with our cultural practices of veneration. I
+identify two normative consequences that stem from these
+perceptions. First, if perceptual experience can represent thick
+ethical properties, then a tension arises between what one sees and
+what one believes, generating dissonance that is both intrinsically
+and instrumentally harmful. Second, because perception is relatively
+insulated from belief, strategies to mitigate the impact of
+objectionable statues by targeting beliefs—such as adding explanatory
+plaques—will typically fail. Successful interventions must target
+perceptual experience itself.
 ** DONE Normative Ethics
 *** Rebecca Brione, King's College London, Requests for permission: an intriguing normative phenomenon hiding in plain sight
 We perform requests for permission all the time. However, little
@@ -2731,7 +2758,7 @@ justified. I conclude that Kant’s conception of external freedom
 supports a broader account of social welfare than is usually
 acknowledged, extending beyond redistribution to include measures that
 secure the conditions for independent choice.
-* Open Session III: Friday 14.00 – 16.00 [15/17]
+* Open Session III: Friday 14.00 – 16.00 [14/17]
 ** DONE Rationality
 *** Chenwei Nie, University of Warwick, Rational People's Irrational Beliefs
 Why does an otherwise ordinary person sometimes stubbornly retain a
@@ -3848,7 +3875,7 @@ Salmon's view that guises affect the truth conditions of belief
 reports, it remains unclear what those conditions are in Williamson's
 view. Finally, I argue that Williamson's riticism of FINEGRAIN is not
 compelling.
-** DONE Mind and Perception
+** TODO Mind and Perception
 *** Romanos Koutedakis, Birkbeck College, University of London, Meinongian Theories of Perception
 Most assume that the bad cases of illusion and hallucination are not
 perceptions. What I call ‘Meinongian Theories of Perception’ disagree:
@@ -3901,7 +3928,6 @@ the temporal view pointedness of perception, we need to look /beyond/
 perception and its content. I conclude by outlining an account of the
 overall, conscious temporal perspective that we occupy, within which
 perception is embedded.
-*** TODO Alice Roberts, Can Statues Make Values 'Perceptible'?
 ** DONE Metaphysics and Free Will
 *** TODO Robyn Waller, Sourcehood compatibilism requires alternatives: New perspectives on Frankfurt cases and the Garden of Forking Paths
 Free will is often understood as the control an agent exercises over
