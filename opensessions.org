@@ -200,7 +200,7 @@ also true of /x/ at /t_{1}/. Therefore, if it is the case at /t_{2}/
 that a future person (/x/) that is /F/ (e.g., has flourishing
 conditions) is also essentially N (due to /NP/), then it must be the
 case that /x/ is /N/ at /t_{1}/ (e.g., right now) too.
-** DONE Human and Inhuman
+** TODO Artificial Intelligence
 *** Rory Aird, American University of Armenia, ChatGPT isn't safe
 Drawing on resources from the analysis of knowledge, in this paper, I
 argue that ChatGPT is not safe—in the Pritchardian, modal sense. More
@@ -220,7 +220,7 @@ question you ask it.
 The conception of ethics has always been central to philosophical
 deliberations. Philosophy has grown voluminous in response to the
 age-old question, “How should we live?” This question leads to another
-question: what is ‘good’?  The idea of ‘good’ has been dealt with in
+question: what is ‘good’? The idea of ‘good’ has been dealt with in
 religious discourses as the ‘will of the God.’ Though, Plato has
 challenged this idea of ‘good’ and placed the idea of ‘good’ above
 God. Ethics, in traditional philosophy, has been looking for
@@ -270,34 +270,6 @@ commitment-laden, and inquirers less independently able to assess
 content, AI-generated text becomes epistemically diminished as a
 substitute for human sources. The result is a graded model of strong,
 weak, and non-deference to LLM outputs.
-*** Alice Roberts, University of Cambridge, Can Statues Make Values 'Perceptible'?
-Monumental art is uncontroversially tied to a community’s values. In
-/Art in Three Dimensions/, Noël Carroll suggests a more precise
-connection: that monumental art makes values /perceptible/. In this
-paper, I expand on Carroll’s claim, arguing that statues can evoke a
-‘complicit perception’ in a viewer. A complicit perception involves
-seeing the subject of the statue as having a thick ethical
-property. For instance, the Charlottesville statue of Robert E. Lee
-depicts him on horseback, looking strong and wearing a military
-uniform. I argue that the complicit perception evoked in this case
-represents Lee /as-heroic/. Regardless of a viewer’s beliefs, viewing
-the statue of Robert E Lee involves an involuntary and automatic
-perceptual entertainment of Lee’s heroism.
-
-To support this argument, I draw from research on perceptual
-learning. I demonstrate that thick ethical properties, such as
-‘heroism’, can be visually learned through frequent exposure to
-statues with certain visual properties (e.g., being large, grand, and
-elevated), combined with our cultural practices of veneration. I
-identify two normative consequences that stem from these
-perceptions. First, if perceptual experience can represent thick
-ethical properties, then a tension arises between what one sees and
-what one believes, generating dissonance that is both intrinsically
-and instrumentally harmful. Second, because perception is relatively
-insulated from belief, strategies to mitigate the impact of
-objectionable statues by targeting beliefs—such as adding explanatory
-plaques—will typically fail. Successful interventions must target
-perceptual experience itself.
 ** DONE Normative Ethics
 *** Rebecca Brione, King's College London, Requests for permission: an intriguing normative phenomenon hiding in plain sight
 We perform requests for permission all the time. However, little
@@ -326,9 +298,109 @@ also supports a more robust characterisation of requests as a whole,
 and provides a springboard for better understanding their
 socially-significant sequelae of consent and refusal.
 **** Thursday                                                      :noexport:
-*** TODO Dong An, Moral Bitterness Reconsidered
-*** TODO Pilar Lopez-Cantero, Friendship break-ups
-*** TODO Anna Dvorishchina, Compassion Towards the Culpable 
+*** Dong An, Zhejiang University, Moral Bitterness Reconsidered
+While moral anger has been extensively discussed in feminist ethics, a
+closely related emotion, moral bitterness, has received little
+explicit attention. The few extant theories characterize it with the
+disappointment of important hopes, helpless anger, or helplessness. I
+show that each captures part of the phenomenon but none explains its
+unique psychological structure and moral significance.
+
+Contrary to views that treat bitterness as unresolved anger, I argue
+that bitterness differs from anger in its communicative
+orientation. Anger is a second-personal reactive attitude that
+addresses the wrongdoer, demands uptake, and aims at moral repair. By
+contrast, bitterness renounces this second-personal address. It
+expresses blame not by demanding reconciliation or apology but by
+seeking sympathy or recognition, typically from third parties or from
+oneself. Recognizing bitterness as a distinct non-second-personal
+blaming emotion expands our understanding of the reactive attitudes
+and challenges the assumption that all morally significant blame must
+be addressed to wrongdoers.
+
+This distinction is further illuminated through the framework of moral
+repair. Reactive attitudes presuppose hopeful trust in the possibility
+of restoring moral relationships. Bitterness arises precisely when
+such hopeful trust is lost. The bitter person continues to judge the
+wrong as morally significant but no longer aims at resolution. This
+conceptualization allows bitterness to be understood as an
+intelligible and coherent response to injustice rather than a
+psychological defect.
+
+Based on this, I argue that bitterness can be both prudentially and
+morally appropriate. In contexts of systemic interpersonal injustice,
+where repair is impossible or prohibitively costly, continuing to feel
+anger may be psychologically damaging. Bitterness can function as an
+emotional self-protection. While anger can be admirable for its
+commitment to moral repair, individuals are not morally obligated to
+bear its burdens indefinitely. In some cases, withdrawing into
+bitterness is morally justified.
+*** Pilar Lopez-Cantero, University of Antwerp, Friendship break-ups
+Withdrawing from a friendship without explanation has often been
+regarded as a morally unproblematic decision. This is a stark
+difference between the moral expectations in romantic love and
+friendship, which reflects the lower position of friendship in a
+socially shared hierarchy of intimate relationships. I address the
+question of whether it is morally permissible to walk away from a
+friendship without engaging in any meaningful break-up process.
+
+First, I discuss Monika Betzler’s (2024) right and duty to explanation
+that bind individuals during romantic break-ups. Following my
+re-formulation of the view from the ethics of care, caring
+relationships should not end without communication, and without some
+attempt to mitigate harm. My claim is that insofar as friendships are
+caring relationships, they constitute moral contexts that require
+communication at the point of dissolution.
+
+Then, I introduce an important objection. The lack of social scripts
+for friendship dissolution creates space for the development of
+alternative, non-normative scripts, such as those emerging in queer
+communities or in the context of relationship anarchy (Moen & Sørlie
+2022). However, it also introduces a distinctive risk. I articulate
+this risk by drawing on Carme Isern-Mas and Manuel Almagro’s (2025)
+analysis of “therapy-speak”, understood as the everyday use of
+psychotherapeutic language outside clinical contexts. Drawing on a
+widely discussed public case of a friendship break-up articulated
+through therapy-speak, I argue that such language can be harmful to
+the person in the receiving end of the break-up, given that it is not
+conducive to the kind of explanation that is morally required in
+break-ups: one that is honest, particular, and
+meaningful. Therapy-speak can then bring about the very harms and
+wrongs it purports to avoid by contributing to create an oppressive
+master narrative about friendship break-ups.
+*** Anna Dvorishchina, London School of Economics, Compassion Towards the Culpable
+Public discourse often assumes that if an agent is culpable for φing,
+it is unfitting to feel compassion towards that agent about φing (or
+something closely related thereto). This is mirrored in the
+philosophical literature on the topic. Several theorists defend a
+‘No-Fault Condition’ on the fittingness of compassion: compassion
+towards an agent with respect to a setback in her interests is fitting
+only if she is not at fault for that setback (e.g.,
+Nussbaum). Compassion is fitting respecting a migraine, but not a
+hangover. I aim to articulate an improved account of the fittingness
+conditions of compassion that explains why culpability sometimes
+precludes compassion whilst also identifying conditions under which
+compassion toward culpable agents remains fitting.
+
+First, I outline the traditional case in favour of the No-Fault
+Condition and show how it often equivocates between a No-Fault
+Condition and a No-Desert Condition. This is a mistake. The two
+conditions are conceptually and extensionally distinct. Second, I
+argue that these conditions apply respecting specific setbacks and not
+to persons globally. I then use this claim to show that compassion can
+be fitting respecting the culpable in two unexpected ways: (1)
+situations where the wrongdoer’s interests are set back not just by
+the wrongdoing itself, but also by being the kind of person who would
+be culpable under the given circumstances and (2) situations where
+culpability itself is a fitting object of compassion.
+
+I thus defend a nuanced view about the relationship between compassion
+and culpability. Compassion’s fittingness depends not merely on the
+agent’s culpability, but on whether the particular setback is
+faultless and undeserved. Even culpable wrongdoers may be fitting
+objects of compassion in virtue of aspects of their character or
+culpability for which they are not responsible, yielding a more
+precise and attractive theory of compassion toward the culpable.
 ** DONE Political Philosophy
 *** Kieran Oberman, LSE, Nature vs Murder
 Should we prioritize saving people from injustice over saving people
@@ -366,7 +438,42 @@ practical significance. There are, in fact, few cases in which
 rescuers must choose between saving people from injustice or saving
 people from misfortune. Most real-world cases are cases of injustice
 vs injustice.
-*** TODO Gunnar Björnsson, Distributing the State's Agency: A New Framework for Political Justice
+*** Gunnar Björnsson, Stockholm University, Distributing the State's Agency: A New Framework for Political Justice
+Political philosophy has investigated the normative relevance of
+distributive ideals concerning the allocation of such things as
+welfare, rights, opportunities, abilities, resources, and primary
+goods. Much attention has also been given to formal procedural
+equality, requiring that everyone’s preferences, welfare, or values be
+given the same weight in the state’s procedures. In this paper, we
+argue that the relevance of all these is explained by distributive
+ideals of a hitherto undertheorized kind: ideals concerning how agents
+and groups distribute their agency—their attention, deliberation, and
+action—over time in the service of different individuals’ interests
+and points of view.
+
+We first illustrate these ideals and clarify the notion of agency
+distribution through smaller-scale cases: a group of friends
+consistently acting on the same members’ preferences, parents who
+focus disproportionately on one child, faculty who engage more deeply
+with some graduate students than others, and medical research that has
+historically focused on conditions as they manifest in men.
+
+Applied to the state, the framework grounds distributive
+responsibilities in the relation between the state’s significant power
+and its subjects’ dependence on the its operations. Given this
+relation, the state has special responsibilities to distribute its
+agency towards its subjects in balanced proportions. This has two
+central upshots. First, traditional currencies of justice—welfare,
+primary goods, resources, capabilities—are best understood as
+instruments for achieving balanced agency distribution given the
+state’s vast responsibilities, with agency distribution being the more
+fundamental currency. Second, democracy can be justified as an
+important instrument for agency distribution, explaining both the
+intrinsic value of democratic procedures and what is distinctively
+problematic when persistent minorities fail to influence democratic
+decision-making: the state consistently fails to act on their points
+of view.
+
 *** Marta Giunta Martino, University of Groningen, Can Institutions Express Dissent? An Ontological Perspective on Institutional Moral Protest
 "News reports frequently describe institutions as expressing dissent:
 Harvard refuses to implement directives from the Trump administration,
@@ -501,7 +608,35 @@ I use this case study to demonstrate how an aesthetic category can be
 aesthetically magnetic and link empirical conditions to normative
 consequences. While a failed use of kawaii has led to public outrage,
 when wielded effectively it results in a soothing form of silencing.
-*** TODO Colette Olive, Miserable Characters and Unfeeling Artists: Trauma Porn as an Aesthetic Failing
+*** Colette Olive, University of Leeds, Miserable Characters and Unfeeling Artists: Trauma Porn as an Aesthetic Failing
+The term ‘trauma porn’ is increasingly common in the sphere of online
+art criticism. It crops up in countless Letterboxd reviews and Reddit
+posts, and is an aesthetic slight. Whilst definitions vary, the term
+targets an artwork or piece of media that depicts the suffering of a
+person or group for the sake of entertainment. These depictions of
+suffering are often perceived as gratuitous or excessive. Amongst the
+accused stands Hanya Yanagihara’s A Little Life, Darren Aronofsky’s
+Requiem for a Dream, a significant number of Colleen Hoover’s books,
+and Tate Tayler’s The Help. Variously, the problem is that such works
+are dehumanizing, re-traumatizing, objectifying, or exploitative. In
+each case, the term serves as a moral rebuke. And yet, another, much
+older genre seems to answer to the description given above:
+tragedy. Calling a work of art ‘tragic’ does not seem to carry the
+same moral criticism as calling it trauma porn. But what's the
+difference-making feature? Why should A Little Life be trauma porn and
+Wuthering Heights be a tragic masterpiece when both are unrelentingly
+miserable whilst—for many—highly satisfying? Focusing on cases of
+artworks, I argue that although both ‘tragedy’ and ‘trauma porn’
+describe works that depict suffering for the sake of aesthetic
+pleasure, the latter is not a category but a criticism. Using Jenefer
+Robinson’s account of the implied persona, I argue accusations of
+trauma porn are rebukes of the artist’s implied persona, as inferred
+by the audience through the work. Audiences infer from trauma porn an
+attitude they ascribe to the implied persona that is contemptuous,
+unfeeling, or enterprising towards the suffering of characters within
+the narrative. Far from feeling the complex emotions associated with
+tragedy, audiences of trauma porn feel complicit in the exploitation
+of a character’s relentless misery.
 ** DONE Ancient Philosophy
 *** Elena Padoan, Università della Svizzera Italiana, Plato's Forms as Neutrals: Neither Universals Nor Particulars
 Are Plato's Forms universals or particulars? Scholars disagree.
@@ -675,7 +810,7 @@ rather than affective sense. What is required is not radical emotional
 transformation, but disciplined patterns of judgment, response, and
 performance. I then ask what, if anything, is lost when moral emotions
 are merely feigned.
-*** TODO Sofija Anna Kozlova, Celestial Good in Aristotle
+*** Sofija Anna Kozlova, MUSAPH, LMU Munich, Celestial Good in Aristotle
 In recent decades, teleological explanations, particularly
 Aristotelian teleology, have gained prominence in contemporary
 scientific and philosophical discourse. This has pushed Aristotle’s
@@ -706,7 +841,38 @@ first two cases are uncontroversial examples of final causation. I
 maintain that the third case must be read along the same lines. A
 parallel passage in GC II.10 336b26-337a7 supports this reading.
 ** DONE Philosophy of Language
-*** TODO Alex Murphy, A Humanistic Approach to the Two Images
+*** Alex Murphy, UCL, A Humanistic Approach to the Two Images
+Sometimes, scientific advances demonstrate that ordinary ways of
+talking about the world are radically misguided. Other times, however,
+they simply give us more detail as to what makes everyday talk
+true. Unfortunately, it’s not always clear which case we’re in.
+
+I argue that the key to working this out is recognising that
+scientific advances frequently reveal the open texture of ordinary
+language concepts. When this happens, we face a choice regarding how
+to close our concepts (i.e. make them determinate). Some closures will
+involve the claim that ordinary talk is radically misguided. Others
+will not. Since empirical facts will not settle which way to go, we
+must ask what we want from our ordinary language concepts. I’ll argue
+this approach helps us allows avoid both a scientistic rejection of
+our ordinary talk and a conservative neglect to the conceptual
+revolutions produced by science. As a case study, I’ll discuss an
+exchange between Eddington and Stebbing on the significance of the
+Rutherford-Bohr model for our conception of ordinary objects and
+reframe it in terms of open texture.
+
+There is a dual nature to closing the open texture of a concept. It
+involves considering the world through our conceptual lens, whilst
+simultaneously reflecting upon and refining that lens. To do this, we
+must equip ourselves with a reflexive understanding of our point of
+view and how it’s formed by our language use. As such, the approach is
+an exercise in philosophy as a humanistic discipline in Williams’
+sense. The importance of reflecting on how our concepts serve our
+lives, and acknowledging that their authority derives from such
+service, is a well-recognised part of Williams’ moral philosophy. I
+demonstrate that the idea applies to our ordinary language more
+broadly. Consequently, more of our language is ripe for ameliorative
+analysis than we thought.
 *** Maria Forsberg, Department of Philosophy, Stockholm University, Conceptual innovation: what it is and should be
 Many hold that conceptual engineering (CE) aims at conceptual novelty,
 that is, the creation of new concepts (see e.g. Nado 2021; Pollock
@@ -873,7 +1039,51 @@ References:
   cultural contexts. Psychological Review, 96, 506–520.
 - Vetter P. and Newen A., 2014, Varieties of cognitive penetration in
   visual perception. Consciousness Cognition 27: 62–75.
-*** TODO Eugen Fischer, Experimental argument analysis: Empirically examining the argument from hallucination
+*** Eugen Fischer, University of East Anglia, Experimental argument analysis: Empirically examining the argument from hallucination
+Co-authors: Keith Allen, Paul Engelhardt, Dimitra Lazaridou-Chatzigoga, Nina Haket
+
+Plausible principles of charity allow us to attribute fallacies to
+competent thinkers only if we can empirically explain why such
+thinkers should commit them (Thagard & Nisbett, 2013). Accordingly,
+experimental argument analysis supports the exposure of fallacies in
+influential arguments by combining logical reconstruction with
+psychological explanation and experiment.
+
+We present the new research programme through a case study on the
+‘argument from hallucination’ for Indirect Realism that contributes to
+developing the ‘problem of perception’ (Crane & French, 2021). The
+argument first infers that visual hallucination involves direct
+awareness of sense-data, and then generalises from hallucination to
+vision. Fischer and Engelhardt (2020) suggested its opening move
+involves a fallacy of equivocation (namely, factive inferences
+supported by the dominant visual sense of “see”, inappropriately made
+from phenomenal uses); they also provided evidence supporting
+
+H1 This fallacy is due to a comprehension bias.
+
+We motivate the potentially complementary hypothesis
+
+H2 This fallacy is due to belief bias: Proponents believe from the
+start that hallucination involves seeing something in the mind.
+
+The argument’s generalising step relies on the ‘Common Kind
+Assumption’ (CKA) that hallucinations and visual perceptions are
+mental states of the same kind. We argue this assumption is
+problematic and motivate:
+
+H3 The CKA is maintained due to belief bias: Proponents believe from
+the start that ordinary vision involves seeing something in the mind.
+ 
+Two experimental-philosophy studies assessed these hypotheses: An
+experiment implementing the psycholinguistic cancellation paradigm
+assessed whether phenomenal uses of “see” trigger factive inferences
+even when preceded by contexts that clearly indicate the agent is
+hallucinating. Findings speak against H1. Study2 elicited agreement
+ratings for Direct and Indirect Realist beliefs about vision and for
+statements about hallucination, and probed participants’ conception of
+hallucination with open-text questions. Findings support H2 and H3. We
+explain how they facilitate a fresh diagnostic approach to the problem
+of perception.
 **** THURSDAY :noexport:
 *** Niccolò Nanni, University of Turin, When The Senses Don't Match
 Our perceptual system is attuned to detecting mismatches in the
@@ -904,11 +1114,158 @@ introduces two interpretations of the perceptual account, one
 situating the mismatch at the level of the content, the other
 situating it at the level of the mode, and assesses their merits.
 *** TODO Roope Ryymin, What We See in the Shadows
+Many well-known representationalist (Burge 2010, Siegel 2011,
+Schellenberg 2018) and naïve realist (Brewer 2011, Kalderon 2011)
+accounts of perceptual experience maintain that whenever we
+veridically see, we veridically see at least one particular. Our
+experiences in total darkness raise a puzzle for such accounts. For on
+the one hand, we have good reasons to think that sighted people
+veridically see in total darkness. On the other hand, we have good
+reasons to think that sighted people do not see any particulars in
+total darkness.
+
+In this paper, I develop this puzzle, motivate its significance, and
+provide a solution to it. I argue that we do see particulars in total
+darkness, even though we do not see any particular objects in total
+darkness. By arguing that we see instances of darkness, understood as
+particular properties of spatial locations, I provide a solution to
+this puzzle that is consistent with commonly accepted accounts of
+perception while respecting the phenomenological considerations that
+motivate the puzzle. By doing so, I develop a novel and easily
+palatable view of our experiences in total darkness. I also clarify
+the often-mentioned but rarely explicated notion of phenomenological
+particularity: the sense in which an experience may phenomenologically
+seem to present us with particulars.
 ** DONE Interpersonal Relationships
-*** TODO Hannah Barrios, Relationships Without the Reactive Attitudes
-*** TODO Christina Fritz, Automatic Speech, Unintentional Harm, and Moral Accountability
-*** TODO Javier Moreno, Why Is Breaching Trust Morally Wrong?
-*** TODO Leah Henderson, Defining 'societal trust'
+*** Hannah Barrios, University of Cambridge, Relationships Without the Reactive Attitudes
+Strawson (1962)’s participant standpoint, characterized by moralized
+reactive attitudes such as gratitude and resentment, treats
+individuals as morally responsible. His objective standpoint, by
+contrast, views the moralized reactive attitudes as
+inappropriate. Strawson maintained that exclusively adopting the
+objective perspective would impoverish interpersonal relationships—a
+claim I call ""Strawson's assumption."" This assumption grounds
+justification for ordinary moral practices in our commitment to
+interpersonal relationships.
+
+Pereboom (2009) and Sommers (2012) have challenged Strawson’s
+assumption, arguing that robust interpersonal relationships do not
+require the participant attitudes.
+
+I propose a defense of Strawson's assumption. I argue that the
+moralized reactive attitudes uniquely facilitate bonding and trust
+through three mechanisms: (a) shared other-directed attitudes, (b)
+shared practical stakes, and (c) shared phenomenal agency.
+
+First, shared other-directed attitudes provide crucial bonding
+opportunities. The participant attitudes have the right aboutness—they
+focus on the guilty actor’s choice and disregard for their victim, not
+merely on causal chains. The moralized attitudes also communicate
+identification with others' practical reasoning, helping us forge
+alliances and recognize shared perspectives.
+
+Second, shared practical stakes demonstrate commitment to the other’s
+wellbeing. The participant 's anger on behalf of his friend
+communicates not just intellectual but emotional investment in her
+welfare—a motivating stake of the sort that people act on. They
+transform wrongs from mere happenings into choices that demand
+response, thereby strengthening trust.
+
+Third, shared phenomenal agency addresses the human desire to be
+recognized as responsible agents. When Kate cheats on Amber,
+Objectivist Amber's purely causal explanation (e.g. referencing Kate's
+parents' infidelity) fails to recognize Kate's practical reasoning—her
+endorsement, deliberation, action, and retrospective attitude. This
+failure is alienating: it reveals disbelief in Kate's agency. The
+reactive attitudes restore recognition of one’s experience of agency
+to one’s interpersonal relationships.
+
+References
+
+Pereboom, D., 2009. Living Without Free Will. Cambridge: CUP.
+
+Sommers, T., 2007. “The Objective Attitude,” The Philosophical Quarterly, 57: 321-341.
+
+Strawson, P.F., 1962. “Freedom and Resentment,” Proceedings of the
+British Academy, 48: 187- 211.
+*** Christina Fritz, University of Graz, Automatic Speech, Unintentional Harm, and Moral Accountability
+In this contribution, I will explore the moral responsibility of
+individuals for spontaneous acts of speech, focusing on cases where
+speech occurs automatically without conscious intent. Using the
+example of an agent called Paul, who unintentionally makes a sexist
+remark in a moment of frustration, the discussion examines whether
+individuals should be held accountable for such speech despite lacking
+deliberate intent. While contemporary discussions in the philosophy of
+action have tended to focus disproportionately on deliberate actions,
+often presupposing a conscious mental antecedent such as a decision or
+intention, my analysis considers the nature of automatic actions and
+speech, the distinction between mere utterances and genuine speech
+acts, and the moral weight of unintentional harm. Since empirical
+studies suggest that the vast majority of human actions occur
+automatically and inattentively, without deliberate awareness (see,
+e.g., Lumer 2017, Levy & Bayne 2004, Schlosser 2019), I want to
+redirect the focus to this specific kind of action, prompting a
+reassessment of moral responsibility and the validity of excuses in
+such contexts. My thesis is that determining whether someone is
+accountable and to blame depends on the causal history of the
+respective action. Notably, while actions performed automatically are
+not driven by present deliberation, their causal history may include
+past deliberations, actions, and beliefs, which can play a crucial
+role. Regarding the given example, I want to emphasize that agents
+like Paul may still be responsible for their words, even if they do
+not genuinely mean them, depending on the causal history of the act of
+speech. My overall aim is twofold: (i) to broaden the scope of the
+philosophy of action by taking automatic actions seriously, and (ii)
+to investigate scenarios where agents experience their actions as
+coming across wrong, i.e., where they did not intend the action’s
+outcome.
+*** Javier Moreno, Rice University, Why Is Breaching Trust Morally Wrong?
+Philosophers widely agree that breaching trust is morally significant,
+yet standard accounts struggle to explain why, especially in ordinary
+interpersonal cases. This paper argues that the wrongness of breaching
+trust is best understood not through harm or commitment, but through a
+relational obligation of care.
+
+I begin by characterizing trust as a normative expectation that alters
+the ""normative landscape"" between agents. I then critique two
+dominant views. First, Annette Baier’s Goodwill Account fails to
+explain ""harmless breaches""—cases where a trustee is negligent, yet
+sheer luck prevents actual harm. Second, Katherine Hawley’s Commitment
+Account faces a circularity problem: since we often explain the
+binding force of promises by appealing to the trust they invite, we
+cannot explain the binding force of trust by appealing to promissory
+logic.
+
+In their place, I defend a Care-Based Account. I argue that trust
+generates a special relational obligation to be sensitive to the
+trustor’s normative standing. Breaching trust is wrong because it
+manifests a failure of this sensitivity—a lack of care. Unlike rival
+theories, this account offers a unified explanation for the wrongness
+of betrayal across all contexts: whether the breach causes harm, poses
+a risk of harm, or involves no harm at all.
+*** Leah Henderson, University of Groningen, Defining 'societal trust'
+Philosophical definitions for trust have mostly centred on cases of
+trust between two individual people. Yet public discourse is full of
+discussion of trust between groups, companies, governments and other
+institutions. I call these cases of ‘societal trust’. How should we
+define trust in these cases? Interpersonal definitions do not
+naturally extend, since they often invoke features of individual
+people and psychology which do not apply to the societal cases. Some
+have argued that we can dispense with talk of trust in these cases and
+just use concepts of reliability applied to groups. But this move
+seems to have undesirable consequences.
+
+Instead, I argue that by taking a functional approach to defining
+trust, we can define a core notion of the act of trusting which can be
+extended to societal trust cases. The core idea is that to trust is to
+rely in an unquestioning way. This account takes some inspiration from
+Thi Nguyen’s proposal that there is a form of trust which involves
+adopting an unquestioning attitude, but differs from it in several
+ways. I argue that my definition applies well to some key cases of
+societal trust. In societal cases, it connects to a prominent theme in
+the social sciences that there is a tension between trust and
+monitoring or vigilance. The account also makes good sense of cases of
+trust in science.
 ** DONE Rational Choice, Beliefs, Differences
 *** Kangyu Wang, The University of Hong Kong, Making Hard Choices for Changing Selves
 When our choices will transform who we are, whose preferences should
@@ -923,7 +1280,28 @@ indifferent. Pettigrew's own two tentative repairs both fail, and more
 generally no aggregate solution can solve the problem of
 incommensurability. Personal transformation and incommensurability, I
 conclude, are entangled challenges.
-*** TODO Binjie Zou, LSE, Ramsey: Measuring partial belief
+*** Binjie Zou, LSE, Ramsey: Measuring partial belief
+A degree of belief is just like a time interval; it has no precise
+meaning unless we specify how to measure it” (Ramsey, 1926,
+p. 167). Ramsey proposes a way to measure partial beliefs, laying the
+foundation for subjective Bayesianism. I first defend Ramsey’s method
+by revising an objection posed by Jefferey, then I argue that Ramsey’s
+method deviates from his vision.
+
+Ramsey sees his method in a descriptive way that provides a simplified
+system ‘to which those of actual people, especially the speaker, in
+part approximate’ (Ramsey, 1926, pp. 36). This is different from
+theorists like Savage, who require a normative usage of their methods
+(that there are some rules people must follow if they are to be
+rational). Ramsey made it clear that the point is not in identifying
+what an ideal rational person would do, but what an actual person
+would approximately do. Yet Ramsey’s requirement on rationality is too
+strong for many actual people even approximately as experiments by
+Davidson et al. (1957) demonstrated. To this end, Ramsey’s theory
+deviates from his vision, the target audience of his theory can only
+be rational agents. How might Ramsey’s method be like if he develops a
+descriptive account according to his vision? This suggests an area of
+future work.
 *** Nicholas J.J. Smith, University of Sydney, What are Degrees of Belief?
 Within the large literature on degrees of belief, the amount of
 attention devoted to analysis of the very idea of degrees of belief --
@@ -986,9 +1364,61 @@ learning with near quantum chemical accuracy. Chemical science, 11(2),
 Krishnan, A., Valeri, J. A., Jin, W., Donghia, N. M., Sieben, L.,
 Luttens, A., ... & Collins, J. J. (2025). A generative deep learning
 approach to de novo antibiotic design. Cell, 188(21), 5962-5979.
-*** TODO Robert Trueman, The functional individuation of properties
-*** TODO Andrei Ionut Marasoiu, Pragmatics and elusive deflationism about extended minds
-*** TODO James Ross, Analogy and Determination
+*** Robert Trueman, University of York, The functional individuation of properties
+How finely should we individuate properties? One possible answer is
+that they should be individuated functionally: we can think of
+properties as mapping arguments to propositions; property F is then
+identical to property G iff F maps every possible argument to the same
+proposition as G.
+
+My aim in this paper is to present a novel argument for this
+functional individuation of properties. This argument will appeal to
+three principles formulated in higher-order logic. The first two ---
+β-Conversion and η-Conversion --- are standard assumptions of
+higher-order logic. The third --- Involution --- is the plausible
+principle that every proposition is identical to its own
+double-negation (i.e. P=¬¬P).
+
+My argument will be abductive, not deductive. The premises of my
+argument do not logically entail a functional individuation of
+properties. However, I will argue that they cohere better with a
+functional individuation than without one.
+*** Andrei Ionuţ Mărăşoiu, University of Bucharest, Pragmatics and elusive deflationism about extended minds
+Deflationism is often in the background of debates in the metaphysics
+of mind, especially when inspired by Dennett’s work. However, what
+’deflationism’ means in the context of dualism or debates on
+phenomenal consciousness is unclear. I propose one way to explicate
+deflationism, making recourse to the pragmatics of the word ‘mind’.
+
+‘Mind’ has many uses, as Chalmers noted. Evans had added these uses
+are often ranked: some are dominant in a community, then fall out of
+favor, while lesser known uses come into fashion. Just like Evans’
+‘Madagascar’ in the aftermath of Marco Pollo’s expedition, so I
+contend the word ‘mind’ and its cognates have uses which compete and
+change fates as times goes by.
+
+Deflationism might gloss that claiming minds metaphysically extend
+into their environments is always reinterpretable as a lexicographic
+remark about the spread of ‘extended mind’ jargon. Clark has argued
+that we are all now cyborgs based on facts about bionic arms,
+interfaces and ’soft coupling’. Yet sundry technologies affected our
+species, e.g., writing, interaction with which hasn’t made the
+Cartesian use of ’mind’ shift towards making extension claims
+plausible.
+
+Focus on usage unearths a problem. If Clark’s use isn’t made dominant
+by use of the relevant technologies, what promotes it? Movies like
+Robocop or Data, the Star Trek character, might better ingratiate the
+general public. Contrariwise, the cognitive-scientific community seems
+largely sold to the idea minds extend, despite little effort put into
+evaluating how computations distribute over organism and environment
+or what task ’offload’ into the environment means.
+
+Countercurrents, then, dominate in subgroups over what still holds
+sway over the wider public. I end aporetic: no way to tell how words
+like ’mind’ will end by being used; conceptual analysis or scientific
+investigation have little to do with layperson lexicography.
+*** James Ross, University of Southampton, Analogy and Determination
 According to Kris McDaniel, if a property is analogous, there are
 multiple ways of having that property. If, for example, /being/ is
 analogous, it fragments into different modes of /being/. In this essay I
@@ -1185,8 +1615,60 @@ that ectogenesis cannot replace abortion without undermining
 reproductive autonomy, and that any future use of artificial womb
 technologies must prioritise the rights and choices of pregnant
 individuals rather than seek to eliminate abortion.
-*** TODO Katariina Hynninen, Why The Possibility of Meaning in Captivity Doesn't Justify It
-*** TODO Adam Hudson, What (if anything) is wrong with consumer boycotting?
+*** Katariina Hynninen, The London School of Economics and Political Science, Why The Possibility of Meaning in Captivity Doesn't Justify It
+Tilikum, an orca held at SeaWorld for over thirty years, was fed a
+nutritious diet, received veterinary care, and lived in a clean
+environment. Yet he showed signs of chronic distress: swimming in
+circles, floating motionless for hours, gnawing on metal
+bars. Philosophers have argued that animals like Tilikum do poorly in
+captivity because their psychological and cultural needs go unmet,
+leaving them with little meaningful to do (Franks and Higgins 2012;
+Fitzpatrick and Andrews 2022; White 2022). An important aspect of
+fulfilment or happiness in life is having the opportunity to pursue
+the goals one themselves values (Tiberius 2023; Nussbaum 2023).
+
+But meaning is possible under severe constraints–consider the hospice
+patient who finds profound meaning in their final days with loved
+ones. In The Myth of Sisyphus, Albert Camus argues that even under
+absurd, unchosen circumstances, meaning can emerge through engagement
+with one’s fate. If meaning is possible under such constraints, why
+not in captivity? Captive animals form relationships, participate in
+activities, and engage with their environment. Within those limits,
+might they not find meaning through continued engagement with
+existence? Proponents of captivity argue that with proper care and
+enrichment, captive animals can thrive (Browning and Veit 2024). If
+this is the case, is captivity justified?
+
+I argue that two questions are conflated here. That meaning is
+possible under constraints doesn’t make imposing them morally
+permissible. Camus’s point concerns resilience under unjust
+conditions, not a justification of those conditions. When captive
+animals adapt to impoverished circumstances, this reflects what Sen
+(1985) and Nussbaum (2000) call adaptive preferences: the tendency to
+adjust one’s desires to match one’s conditions. But the capacity to
+adapt to constraints is not grounds for imposing those constraints,
+and therefore meaning in captivity does not justify it.
+
+
+References
+
+- Browning, H. and Veit, W. (2024) What Are Zoos For? Bristol: Bristol University Press.
+- Camus, A. (1942) The Myth of Sisyphus. Translated by J. O'Brien. London: Penguin, 2005.
+- Fitzpatrick, S. and Andrews, K. (2022) 'Animal Culture and Animal Welfare', Philosophy of Science, 89(5), pp. 1104–1113.
+- Franks, B. and Higgins, E.T. (2012) 'Effectiveness in Humans and Other Animals: A Common Basis for Well-being and Welfare', in Olson, J.M. and Zanna, M.P. (eds) Advances in Experimental Social Psychology, Volume 46. New York: Elsevier Academic Press, pp. 285–346.
+- Nussbaum, M.C. (2000) Women and Human Development: The Capabilities Approach. Cambridge: Cambridge University Press.
+- Nussbaum, M.C. (2023) Justice for Animals: Our Collective Responsibility. New York: Simon & Schuster.
+- Sen, A. (1985) Commodities and Capabilities. Amsterdam: North-Holland.
+- Tiberius, V. (2023) What Do You Want Out of Life?: A Philosophical Guide to Figuring Out What Matters. Princeton: Princeton University Press.
+- White, T.I. (2022) 'Dolphins, Captivity and Cruelty', in Evans, N.E. (ed.) Animals and Business Ethics. London: Palgrave Macmillan, pp. 271–295.
+*** Adam Hudson, The London School of Economics, What (if anything) is wrong with consumer boycotting?
+In some cases, boycotting seems morally wrong. But why is it wrong? I begin with a challenge: if companies
+lack a right to be traded with, it is difficult to explain the wrongfulness of boycotting in terms of the harmful
+consequences that arise from it. I argue that this precludes common objections raised against boycotts. It also
+invites a positive proposal: if there is a right that is breached by boycotting, its content will not
+straightforwardly concern how the boycott affects the target. I use this to meet the challenge: boycotting is
+wrong (when it is) because its participants engage in what I call deliberative wrongdoing — using their
+resources for reasons upon which they are not permitted to act.
 *** Gerald Lang, University of Leeds, Is There a Defensive Case for Torture?
 One of the most secure exemptions made for violence in our ordinary
 moral thought is defence: it is permissible to employ violence to
@@ -1219,7 +1701,44 @@ purely defensive considerations. And this gives us some much-needed
 flexibility in dealing with other cases that might tempt us into
 thinking that there is a secure defensive moral case for torture.
 ** DONE Philosophy of Mind
-*** TODO Elena-Giorgiana Rosu, Agency after the fact: self deception as retrospective explanation
+*** Elena-Giorgiana Rosu, University of Bucharest, Faculty of Philosophy, Agency after the fact: self deception as retrospective explanation
+The dominant, motivationalist model of self-deception, presumes an
+external observer in determining whether an agent self-deceives. It
+has been argued, however, that it fails to capture the differences
+between self-deception episodes and other kinds of motivated
+reasoning. In contrast, intentionalist accounts postulate a
+prospective intention to self-deceive and try to solve the resulting
+paradoxes through mental partitions.
+
+This paper advances an account of belief reassessment according to
+which beliefs differ in value as a function of their explanatory role
+within a broader belief system. Highly valued beliefs function as
+high-level priors in explanation-generation, while more flexible
+intermediate beliefs mediate their relation to evidence. When
+explanatory demand arises, hypotheses are selectively generated and
+evaluated under motivational and coherence-preserving
+constraints. Candidate explanations are assessed not solely with
+respect to their constituting beliefs’ truth value, but also according
+to certain commitments their acceptance would impose on the agent’s
+broader meaning-making framework.
+
+On this account, self-deception is not a prospective strategy or a
+distinct mechanism of belief formation, but a retrospective
+explanation an agent adopts after a previously protected valued belief
+is ultimately reassessed. When evidence that had been deferred to
+intermediate beliefs is finally taken to count against the valued
+belief, the resulting epistemic error itself calls for explanation. By
+modeling this process on interpersonal deception, agents
+retrospectively ascribe agency to patterns of motivationally
+constrained explanatory reasoning, thereby rendering the episode
+intelligible.
+
+I argue that this view dissolves the need to posit a standing
+intention to self-deceive, while preserving the phenomenological and
+normative features that motivate intentionalist accounts. In doing so,
+it offers a unifying framework that bridges intentionalist and
+motivationalist approaches and clarifies the role of belief value,
+coherence, and explanatory commitments in belief reassessment.
 *** Jonathan Mitchell, Cardiff University, Peripersonal Experience: A Sense of Tactile Possibility
 We traditionally think of there as being a sharp division between
 external space and our bodies. External space is ‘out there’,
@@ -1318,9 +1837,81 @@ conscious. Microphysical properties sometimes ground mental
 content. When mental content is produced, sometimes or always, this
 mental content and a macroability to be conscious ground a conscious
 experience of this mental content.
-*** TODO Anna Giustina, Moods and the Structure of Consciousness
+*** Anna Giustina, University of Valencia, Moods and the Structure of Consciousness
+The philosophical debate about moods has mostly revolved around their
+apparent undirectedness: they do not seem to be intentionally directed
+at any particular object. This feature has attracted attention because
+constitutes a threat for the most widespread theory of consciousness,
+i.e., intentionalism. Intentionalists have attempted to squeeze moods
+into the representational engine by construing them as conscious
+states with a peculiar representational
+structure. Anti-intentionalists have vehemently pointed at the
+phenomenological and theoretical flaws of representationalist
+strategies, arguing that moods are non-intentional states, and
+concluding that intentionalism must be false.
+
+I suggest that both fronts are off-track: both rely on a misguided
+assumption. The issue is not whether moods are intentional or
+non-intentional conscious states, because moods are just not conscious
+states at all: they belong to a different category of conscious
+phenomena, namely, structural features, to which the
+intentional/non-intentional distinction does not apply.
+
+Roughly, the idea is the following. On the one hand there are
+“discrete” conscious states, such as perceptual experiences, thoughts,
+and emotions. On the other hand there are “structural phenomenal
+features,” such as phenomenal unity, phenomenal foreground/background
+structure, and phenomenal temporality. These are phenomenally
+manifest, but they are not discrete conscious states: they have to do
+with the way in which conscious states are structured. The bulk of my
+proposal is that moods belong to the second group: they are structural
+phenomenal features.
+
+This paves the way to a new theory of mood experience, one that is
+both phenomenologically accurate and intentionalism-friendly. The bulk
+of the paper is devoted to motivating it. By examining mood’s
+phenomenological peculiarities and by isolating the main markers of
+structural phenomenal features, I argue that moods are similar to
+structural phenomenal features in some crucial respects and that they
+should be seen as structural features themselves.
 ** DONE Self, Mind, Competence
-*** TODO Giovanni Dusi, LOGOS Research Group in Analytic Philosophy in Barcelona, Against the SkShSi structure of competence
+*** Giovanni Dusi, LOGOS Research Group in Analytic Philosophy in Barcelona, Against the SkShSi structure of competence
+The SkShSi hypothesis (henceforth, H-SkShSi) holds that competence—the
+disposition to succeed reliably—is constituted by an agent’s pertinent
+skill (Sk), the shape (Sh) they are in, and the relevant situation
+(Si). This view, famously advanced by Ernest Sosa, is used by many,
+including Sosa, to argue that knowing requires exercising a skill in
+appropriate conditions. In this article, I shall argue that H-SkShSi
+is incorrect for two primary reasons: it is incomplete and
+insufficiently discriminatory.
+
+First, the hypothesis is incomplete because it excludes knowledge as
+an essential constituent of competence. Using research competence as
+an example, I highlight that while a broad spectrum of skills (such as
+formulating research questions and presenting academic findings) is
+necessary, a competent researcher must also possess knowledge of
+theoretical constructs in their field, research methods, and
+disciplinary standards for presenting research. The required knowledge
+also differs in nature from skills because it is a doxastic state
+rather than an ability. Therefore, by omitting knowledge, H-SkShSi
+does not account for all relevant aspects of competence.
+
+Second, the hypothesis fails to properly differentiate between skill
+and competence. Most competence research in education and psychology
+defines competence as encompassing a wide range of domain-specific
+abilities and knowledge, and skill as an ability related to specific
+tasks within the domain. In contrast, Sosa superficially distinguishes
+between skill and competence and equates skill with innermost Sk
+competence. Hence, H-SkShSi does not adequately distinguish crucial
+facts concerning competence.
+
+The article shows that a skilled but non-knowledgeable agent remains
+incompetent, even when exercising some skills under suitable
+conditions, implying that knowledge is explanatory prior to
+competence. Finally, I highlight that an alternative theory of
+competence must clarify the key defining traits of skill and
+competence, as well as the necessary and sufficient components of
+competence.
 *** Krisztian Kos, University of Cambridge, Exploring Attributions of Affective States: The Affective Picture
 With diverse effects on our environmental and social interactions,
 affective states such as emotions and moods have grown increasingly
@@ -1385,7 +1976,24 @@ within one framework. On this picture, their long-standing dispute
 looks less like a clash of rival metaphysics than a choice of what to
 model — locating “what matters” in a precise, naturalistic theory of
 causation.
-*** TODO Daniel Cristian Stancu, Focusing on Actions to Disperse the Distinction between Minimal Self And Narrative Self
+*** Daniel Cristian Stancu, University of Bucharest, Faculty of Philosophy, Focusing on Actions to Disperse the Distinction between Minimal Self And Narrative Self
+In the last decades, philosophers and cognitive scientists working on
+the self have tried to depart from the Cartesian perspective (self as
+a substantial entity). The minimal and the narrative approach have
+raised a conundrum: The minimal self approach argues that if we give
+up on all superfluous aspects of the self, there remains an immediate
+something which we are inclined to (still) call a self. The narrative
+approach argues that what we call self is a narrative construct,
+linking discrete experiences into a coherent whole. The tension
+between the two arises from competing views when it comes to the
+constitution of selfhood: which one mediates or is mediated by the
+other? Recent work (Brandon, 2016; Køster, 2017; Heersmink, 2018;
+Dings, 2019; Fanti Rovetta, 2024) shifted the discussion, arguing that
+embodiment and narrative entail a twofold process. However, I reckon
+that the attempt mentioned above does not provide a solution. In my
+view the solution is to dissolve the distinction, by moving the focus
+from types of selves and their interaction, onto agents engaged in
+actions within their world.
 ** DONE Technical Philosophy and its History
 *** Janine Gühler, Pembroke & Worcester Colleges, University of Oxford, Frege on the Objectivity of Numbers and Dependence on Reason
 In the Grundlagen der Arithmetik Frege claims that numbers are
@@ -1555,6 +2163,7 @@ non-gestational parents first in line for such duties. If parents do
 not have defeasible duties to donate, then non-gestational parents
 have additional reasons to take on this task.
 *** TODO Bengü Demirtas, Bilkent University, Sexual Consent as a Standing Normative Relation in Enlightenment Philosophy and Marriage Law
+**** swip referral, emailed her :noexport:
 *** Christian Meyer, Freie Universität Berlin, Radical Feminist Conceptions of Sexual Liberation
 "This paper offers a philosophical reconstruction of radical feminist
 debates about sexual liberation during the 1970s and 1980s, debates
@@ -1704,9 +2313,94 @@ acts are signal utterances by single agents. I describe divided speech
 acts in more detail, and show that hinting is an example of speech
 which is best analysed as divided.
 ** DONE Sex and Consent
-*** TODO Andrés (Andy) Garcia, Love Drunk: Asymmetric Infatuation and the Ethics of Sex
-*** TODO Milena Bartholain, Sexual Paternalism
-*** TODO Talita Ferrantelli, Defeating Sexual Consent
+*** Andrés (Andy) Garcia, Lund University, Love Drunk: Asymmetric Infatuation and the Ethics of Sex
+This paper explores how asymmetric passionate infatuation creates
+ethically precarious conditions for sexual encounters. While such
+encounters may involve valid consent, the effects of passionate love
+(including obsessive focus, emotional dependency, altered priorities,
+and diminished cognitive control) create vulnerability and power
+imbalances analogous to those present in intoxicated sexual
+encounters. Drawing on neuroscientific research linking romantic love
+to addiction-like neural patterns and reduced capacity for critical
+reflection, I argue that infatuation can compromise our ability to
+recognise risks, assert boundaries, and make decisions aligned with
+our stable values.
+
+Crucially, my claim is not that passionate infatuation invalidates
+consent. Rather, I distinguish between two questions in sexual ethics:
+whether conditions render someone incapable of consenting, and whether
+conditions make an encounter ethically precarious even when consent
+remains valid. I focus on the latter. Just as we recognise that a
+sober person engaging sexually with an intoxicated partner faces moral
+obligations beyond securing consent, so too does the less-infatuated
+party in an asymmetric romantic context. They are better positioned to
+recognise their partner's vulnerability and should exercise
+corresponding care.
+
+The asymmetry is key. When both parties are equally infatuated, the
+ethical risks diminish: neither is positioned to exploit the other's
+altered state, and the power dynamics are balanced. But when one party
+is deeply infatuated while the other is not, the less-affected party
+holds disproportionate power and bears moral responsibility to
+acknowledge this.
+
+I conclude by considering practical implications. Cultural norms that
+romanticise passionate intensity obscure these risks and discourage
+critical reflection. Consent education could be broadened to address
+how affective states, not only external substances, can create ethical
+precarity, helping individuals recognise and communicate the impact of
+emotional context on intimate decisions.
+*** Milena Bartholain, Goethe-Universität Frankfurt, Sexual Paternalism or the Right to Be Wronged Sexually
+Sometimes we refuse a sexual invitation or request on the grounds that
+accepting it would not be good for the inviter. Such refusals are
+plausibly paternalistic. Yet many such refusals also seem morally
+appropriate. I call these cases permissible private sexual paternalism
+and argue that they generate two questions. First, are these refusals
+genuinely paternalistic, given that it is always appropriate to refuse
+a sexual invitation? Second, if they are paternalistic, why are they
+permissible, when they are?
+
+I address the first question by situating sexual negotiation within
+the framework of open-call speech acts, such as invitations, offers,
+requests, and permissions (Caponetto 2023; Kukla 2023). A defining
+feature of open-call speech acts is that refusal is always
+appropriate. At the same time, standard autonomy-based accounts of
+paternalism hold that paternalistic behaviour necessarily involves
+some infringement of the subject’s autonomy. But, if no one has a
+right that their sexual invitation be accepted, how could a refusal
+wrong their autonomy? I argue that paternalistic refusals of open-call
+speech acts wrong the subject’s autonomy because the paternalistic
+agent aims to control via their refusal a subject matter that properly
+falls within the subject’s domain of authority, such as their sex
+lives.
+
+I address the permissibility puzzle by defending a non-standard
+framework according to which paternalistic permissions are determined
+by how conflicts between rights and their corresponding duties are
+resolved. On this view, paternalistic refusals in sexual contexts are
+permissible when, and because, the agent’s negative duty not to harm
+the other outweighs the other’s right to waive their non-interference
+rights. In sum, permissible paternalistic refusals of sexual
+invitations disrespect the person’s right to place an invitation that
+the paternalistic agent is not allowed to accept.
+*** Talita Ferrantelli, LSE, Defeating Sexual Consent
+Consent plays a valuable role in our lives. The possibility of
+consent allows us to shape the normative significance of our
+relationships and, where consent is given, it enables us to engage in
+activities that would otherwise be impermissible. But what if we are
+systematically not in a position to know whether consent is
+functioning in the proper way when exercising its power? In this
+paper, I show that in the special case of sexual consent, there is a
+fundamental epistemic fragility concerning the possibility of consent
+serving our normative and practical interests. I argue that the
+morally transformative power of consent in sexual contexts is
+especially vulnerable to epistemic defeaters – i.e. conditions that
+block consenters from knowing whether consent is shaping the normative
+status of what is done to them and guiding the deliberation of their
+sexual partners. The result is that sexual consent often does not
+realise its full potential in the sexual sphere. The moral power of
+sexual consent is systematically defeated in ways that often make it
+irrelevant to regulate the sexual sphere.
 *** Peter Schaber, University of Zurich, Legitimate Threats
 Various authors argue that illegitimate threats invalidate consent,
 whereas legitimate threats do not. I will not question this
@@ -1801,7 +2495,49 @@ observation. However, it would avoid Grandfather paradoxes,
 (Adlam, 2024) by dropping the assumption of a fixed past. We will use
 this model to shed light on some famous riddles in Quantum mechanics,
 such as quantum uncertainty and action at a distance.
-*** TODO Arlene Lo, Fengshui and the Spectre of Scientific Demarcation
+*** Arlene Lo, London School of Economics and Political Science, Fengshui and the Spectre of Scientific Demarcation
+People often believe, and philosophers of science sometimes argue,
+that fengshui is an epistemically corrupt pseudoscience. That is, they
+evaluate fengshui by comparing it to criteria of scientificity, argue
+it would not fall within the bounds of science so demarcated, and
+conclude that it is epistemically corrupt (e.g. Matthews 2019,
+Bhakthavatsalam and Sun 2021, Fernandez-Beanato 2025).
+
+As past philosophical evaluations of fengshui often depend on an
+Orientalist assumption that fengshui is static, unchanging, I
+concretise my discussion using Tristan Brown's (2023) study of Qing
+historical practices of fengshui. I contend that fengshui, as an
+epistemic tradition, aims at ‘auspiciousness’ of socio-technical
+interventions with the land (e.g. contributions to commoner's
+wellbeing and imperial political rule). Although there are
+naturalistic components to fengshui (e.g. economy, environmental
+conservation, health), the ends are often social in nature
+(e.g. social security, political stability). The epistemic practices,
+in turn, concern the creation and application of practical knowledge
+re designing and building structures given local environmental and
+social conditions.
+
+After examining the actual history of fengshui as a socio-legal
+practice and mode of reasoning, I argue that analysing fengshui – by
+implication many other non-Western epistemic traditions – with respect
+to their (pseudo)scientificity yields these inadequacies:
+
+(1) Category error: demarcation is misguided as the aims of fengshui
+are not scientific in nature.
+
+(2) Epistemic distortions: demarcation distorts the epistemic products
+and structures of fengshui.
+
+(3) Value of transdisciplinarity: demarcation is incapable of
+accounting for the (social) epistemic and instrumental value derived
+from transdisciplinarity.
+
+Since its first Western encounter, discourse is always centred on
+fengshui’s scientificity as a reproach of the Oriental Other. However,
+scientific demarcation only misleads, distorts, and obscures our
+epistemic evaluation of these non-Western traditions. If our interest
+is to understand their epistemic value, we must treat them as
+epistemic traditions in their own right.
 *** George Webster, University of Oxford, From Phenomenology to Quantum Reconstruction: an Argument from Merleau-Ponty
 There has been a surge of recent interest in phenomenological
 approaches to quantum mechanics. But despite this interest, a striking
@@ -2246,7 +2982,7 @@ themselves determinable properties. I show that this account avoids
 Vetter’s (2013) objection to treating multi-track powers as
 determinables, while also securing further advantages that strengthen
 the overall dispositionalist project.
-*** TODO Emils Zavelis, A New Perspective on Impossible Worlds
+*** Emils Zavelis, University of Vienna, A New Perspective on Impossible Worlds
 Many philosophers believe that some non-classical logic is
 correct. Nevertheless, they often rely on classical logic when arguing
 for their position and defining their (supposedly correct) logic. This
@@ -2264,11 +3000,84 @@ recapture proofs as defeasible and embrace logical
 anti-exceptionalism, or (2) reject classical recapture
 altogether. This dilemma, to the best of my knowledge, has not been
 noted in the literature before.
-*** TODO Ziad Eldanaf, When Parthood Breaks: Hylomorphism and the Limits of Classical Mereology
+*** Ziad Eldanaf, Bilkent University, When Parthood Breaks: Hylomorphism and the Limits of Classical Mereology
+This paper argues that Aristotelian hylomorphism requires a plurality
+of parthood relations and exposes a fundamental limitation in
+Classical Extensional Mereology (CEM). CEM treats parthood as a
+single, univocal relation governed by reflexivity, transitivity,
+antisymmetry, weak supplementation, and unrestricted composition. By
+contrast, Aristotle’s discussion of meros in Metaphysics Δ.25 reveals
+that “part” is said in many ways, spanning quantitative parts, logical
+and definitional parts, and, most importantly for hylomorphism,
+material and formal constituents. I begin by reconstructing this
+Aristotelian pluralism and contrasting it with the axiomatic
+simplicity of CEM.
+
+The core of the paper shows that when CEM’s axioms are applied to
+hylomorphic compounds, they describe the parthood of matter adequately
+but fail to capture the ontological role of form. Reflexivity implies
+that form is an object in its own right; transitivity incorrectly
+propagates subordinate forms into higher-level wholes; and weak
+supplementation trivializes when applied to mereologically simple
+forms. These tensions reveal that form cannot be governed by the same
+parthood relation as matter. I therefore propose a distinct
+axiomatization of formal parthood (Pf), characterized by
+irreflexivity, intransitivity, non-overlap, and the collapse of proper
+parthood, alongside a uniqueness principle for form. Material parthood
+may still be modeled by a qualified version of CEM, but unrestricted
+composition must be rejected.
+
+This framework has consequences for recent attempts to reconcile
+hylomorphism with CEM, particularly Koslicki’s mereological
+hylomorphism. I argue that her use of the Weak Supplementation
+Principle to infer the existence of formal parts either misfires when
+read materially or becomes circular when read formally, presupposing
+the very notion it aims to establish. The upshot is not merely that
+CEM is incompatible with hylomorphism, but that hylomorphism offers an
+alternative ontology in which unity, structure, and objecthood cannot
+be reduced to a single extensional parthood relation.
 ** DONE Subjectivity, Normativity, and Attention
-*** TODO Joseph Neisser, Familiarity and self-consciousness
+*** Joseph Neisser, Grinnell College Philosophy, Familiarity and self-consciousness
+The mystery of the familiar
+
+The I cannot have begun. From this we see that we are in the realm of
+art.
+
+- Novalis, Notes For A Romantic Encyclopedia p.12. (Wood, 2007).
+
+Epistemically, what is familiar is just what is “known,” “well known,”
+or even “intimately known.” Yet the feeling of familiarity can become
+an unresolved mystery when its source cannot be placed or recalled. In
+memory science, familiarity is operationalized either as a primacy
+variable or as recognition without identification. In these contexts,
+the contrast to familiarity is novelty. There is also a philosophical
+literature in which familiarity is treated more expansively,
+encompassing what is “ordinary” or “everyday.” Here the contrast to
+familiarity is not mere novelty but oddity or uncanniness. This
+emphasizes the additional phenomenological dimension.
+
+I approach familiarity as a constituent of the first-person
+perspective, as an element in “subjectivity.” Certainly, subjective
+consciousness is necessary for familiarity (cf. Montemayor, 2024). A
+robot or zombie will re-identify patterns of information without
+finding them familiar, much as it discriminates frequencies of light
+without experiencing color. I characterize familiarity as minimal
+autonoesis, comparable to “chronesthesis,” which is a component of the
+Feeling of Pastness (Neisser, et al, 2023; Perrin, et al,
+2020). Familiarity is a call to memory. In cognitive psychology, this
+can be approached via the “familiarity-flip-of-attention” hypothesis
+(Cleary, et al, 2025), which holds that familiarity flips attention
+inward, toward recall. I argue that this model also helps explain the
+relation between consciousness and self-consciousness. In familiarity
+without recall, the mystery of the familiar prompts us to look more
+deeply into ourselves.
+
+In the phenomenological tradition, subjectivity is sometimes defined
+in terms of familiarity (Frank, 2012). This definition is subtly
+mistaken, but something can be learned from it about the relation
+between conscious memory and the self.
 **** FRIDAY MORNING :noexport:
-*** TODO Alon Isac, University of York, Pain's Normative Constraints
+*** Alon Isac, University of York, Pain's Normative Constraints
 Despite pain’s phenomenal, neuronal and functional idiosyncrasy, there
 have been recent attempts to identify a property or set of properties
 shared by all pains, in virtue of which they are considered pains. In
@@ -2315,7 +3124,35 @@ to specific norms of attention, which in turn, offers a line of
 criticism against those who present true – but distorting –
 information to non-experts, unavailable with the current conceptual
 apparatus in social epistemology.
-*** TODO Paul Healey, An Indemonstrable Grief
+*** Paul Healey, Independent Scholar, An Indemonstrable Grief
+It will be proposed that the oppressors’ grief loses the power to
+influence others if claiming to be the victim. Impossible grief is an
+indemonstrable grief i.e. the grief of the few is greater than that of
+the many. Taking Aristotle’s principle of impossibility in his
+Metaphysics and Michael Frede’s 1987, Categories in Aristotle, in
+`Essays in Ancient Philosophy’ with some references to Aristotle’s
+Prior, Robin Smith trans. A1, B14 and Posterior Analytics G.R.G. Mure
+trans. Part 2, Part 8, Part 18 it will be proposed that the
+indemonstrable grief depends on excluding the dimensions of properties
+states and or the dispositions of their forms. The cost of the
+probative demonstration is to the abstract classification and
+reductionist divisions of the logicians’ postulates. From Heyting’s
+1930, `The Formal Rules of Intuitionistic Logic’, to Priest’s 2023
+`Logical Structure of Dialectic’ interpretation of the language where
+things maybe both true and false, the contradictories of a
+demonstrable and indemonstrable grief will only be solved by
+developing Hegel’s `Science of Logic’, Trans. Gorge de Giovanni, 2010,
+201 solution to Kant’s antinomies; to get the terms for the formulae
+that ground the language of inference. Combining the reasons for the
+grounds of grief to get the premises of inferences, any credence in
+the indemonstrable idea of grief can be otherwise. Unlike the
+algorithmic verification of its values, the exceptions to the limits
+of the formulae within the domain cannot be otherwise. They it is
+supposed supersede the significance of any credence given the
+foundation of the categories transcends any confidence in opposition
+to its idea. As such any thesis or antithesis on inference cannot be
+severed from the values of the categories attributed to grief that
+constitute the unfolding manifold of its principle.
 ** DONE Justice and Injustice
 *** TODO Karl Landström, The Wrongs and Harms of Epistemic Exploitation
 *** TODO Dominik Jarczewski, On Epistemic Respect
@@ -3834,7 +4671,40 @@ subpluralities. The reason (1) can be true while (2) is false is not
 that ‘the players’ and ‘the teams’ denote different things, but that
 those terms induce different carvings, thus generating different
 truth-conditions for our sentences.
-*** TODO Andrea Raimondi, University of Vienna, Reference, Conflicting Intentions, and the Madagascar Problem
+*** Andrea Raimondi, University of Vienna, Reference, Conflicting Intentions, and the Madagascar Problem
+On Kripke's causal-historical view of reference, the reference of a
+proper name is fixed in a baptism and transmitted through a
+communication chain, provided each speaker intends to use the name as
+prior speakers did. A challenge arises from cases – such as the
+Madagascar case – in which this condition is met, yet the name
+nonetheless undergoes a reference shift.
+
+We defend a solution that appeals to the independently plausible ideas
+that speakers can have conflicting intentions, that one intention may
+be dominant, and that the relative strengths of intentions can change
+over time. When a speaker unknowingly harbors conflicting name-using
+intentions, a reference shift in their idiolect occurs once a
+previously non-dominant intention becomes dominant. Deferential
+relations among speakers may then help propagate this shift within a
+linguistic community. This account explains the reference shift of
+"Madagascar" while remaining faithful to the core commitments of the
+causal-historical view. We also show how name-using intentions as well
+as the relative strength between conflicting name-using intentions can
+be explicated in terms of a speaker's dispositions to react to certain
+kinds of information.
+
+Our account has several theoretical virtues. First, it is
+economical. Rather than significantly complicating the
+causal-historical view, we enrich it with an independently motivated
+account of how conflicting intentions interact. Second, unlike some
+rivals, our account captures the intuitive distinction between
+reference shift and the introduction of new names, and it applies
+equally to intra-generational and inter-generational shifts. Moreover,
+the appeal to dominant intentions, central to our account of semantic
+reference, also yields an attractive account of speakers'
+reference. In light of this, our proposal makes significant progress
+on several of the most pressing challenges that have confronted the
+causal-historical view since its inception.
 *** TODO Adam Wingårdh, Why Many Conditionals are Ambiguous
 *** Paolo Bonardi, Slovak Academy of Sciences, Williamson and Salmon on Propositions and Guises
 According to Salmon (Frege's Puzzle, 1986), a rational subject can
@@ -3875,7 +4745,7 @@ Salmon's view that guises affect the truth conditions of belief
 reports, it remains unclear what those conditions are in Williamson's
 view. Finally, I argue that Williamson's riticism of FINEGRAIN is not
 compelling.
-** TODO Mind and Perception
+** DONE Mind and Perception
 *** Romanos Koutedakis, Birkbeck College, University of London, Meinongian Theories of Perception
 Most assume that the bad cases of illusion and hallucination are not
 perceptions. What I call ‘Meinongian Theories of Perception’ disagree:
@@ -3928,6 +4798,35 @@ the temporal view pointedness of perception, we need to look /beyond/
 perception and its content. I conclude by outlining an account of the
 overall, conscious temporal perspective that we occupy, within which
 perception is embedded.
+*** Alice Roberts, University of Cambridge, Can Statues Make Values 'Perceptible'?
+Monumental art is uncontroversially tied to a community’s values. In
+/Art in Three Dimensions/, Noël Carroll suggests a more precise
+connection: that monumental art makes values /perceptible/. In this
+paper, I expand on Carroll’s claim, arguing that statues can evoke a
+‘complicit perception’ in a viewer. A complicit perception involves
+seeing the subject of the statue as having a thick ethical
+property. For instance, the Charlottesville statue of Robert E. Lee
+depicts him on horseback, looking strong and wearing a military
+uniform. I argue that the complicit perception evoked in this case
+represents Lee /as-heroic/. Regardless of a viewer’s beliefs, viewing
+the statue of Robert E Lee involves an involuntary and automatic
+perceptual entertainment of Lee’s heroism.
+
+To support this argument, I draw from research on perceptual
+learning. I demonstrate that thick ethical properties, such as
+‘heroism’, can be visually learned through frequent exposure to
+statues with certain visual properties (e.g., being large, grand, and
+elevated), combined with our cultural practices of veneration. I
+identify two normative consequences that stem from these
+perceptions. First, if perceptual experience can represent thick
+ethical properties, then a tension arises between what one sees and
+what one believes, generating dissonance that is both intrinsically
+and instrumentally harmful. Second, because perception is relatively
+insulated from belief, strategies to mitigate the impact of
+objectionable statues by targeting beliefs—such as adding explanatory
+plaques—will typically fail. Successful interventions must target
+perceptual experience itself.
+
 ** DONE Metaphysics and Free Will
 *** TODO Robyn Waller, Sourcehood compatibilism requires alternatives: New perspectives on Frankfurt cases and the Garden of Forking Paths
 Free will is often understood as the control an agent exercises over

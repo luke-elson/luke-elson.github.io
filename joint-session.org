@@ -31,7 +31,10 @@ Store link for BPA table is https://www.store.reading.ac.uk/product-catalogue/sc
 *** DONE omplete refund GONZALO VELASCO ARIAS (no dinner), remove from open session
 *** DONE add that michael baldwin guy (replacing arias)
 *** DONE add benedict rumbold complete (replacing ari deller registration)
-** TODO add sponsorships to programme
+** TODO add sponsorships and exhibitors to programme
+** TODO Whatsapp groups
+** TODO Printed programme 
+DEADLINE: <2026-07-07 Tue>
 * Accommodation
 ** Accommodation link is at https://registration.venuereading.com/AristotelianSocietyandtheMindAssociation2026
 ** Cheaper rooms (without bedding!) at https://www.reading.ac.uk/ready-to-study/accommodation/stay
@@ -98,21 +101,20 @@ during Q&A for symposia.
 * Advertising/publishers/printing
 ** Reading store set up link sent to Abbie
 https://www.store.reading.ac.uk/product-catalogue/school-of-philosophy-politics-and-economics/philosophy/printed-advertising-in-the-joint-session-programme
-** TODO send link to other publishers
-   DEADLINE: <2026-05-26 Tue>
 ** DONE set up store for £50 association table, get back to BPA
    DEADLINE: <2026-04-28 Tue>
 ** Publishers and BPA
 *** OUP: Katie Frobisher (katie.frobisher@oup.com)
 Wants to be kept in the loop. Clarke will be attendee but she wants in on info too.
 Adam Blow has emailed about journals, I've advised him to book as regular delegate unless
-wants table. Also sent secret link for dinner.
+wants table. Also sent secret link for dinner. Katie Frobisher. GAB exhibitions.
 *** Routledge: Anthony Bruce tony.bruce@tandf.co.uk
 Has booked.
 *** Palgrave: Brendan George (brendan.george@palgrave.com)
 Registered as regular delegate, said he would just come with some
 things in his bag, no table no advertising.
-
+*** DONE send publishers all setup data etc
+[2026-06-30 Tue]
 ** Advertising
 *** DONE thank Abbie and pass on to CPS
     DEADLINE: <2026-05-26 Tue>
