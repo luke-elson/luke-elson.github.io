@@ -1876,39 +1876,34 @@ structural phenomenal features in some crucial respects and that they
 should be seen as structural features themselves.
 **  Self, Mind, Competence
 *** Giovanni Dusi, LOGOS Research Group in Analytic Philosophy in Barcelona, Against the SkShSi structure of competence
-The SkShSi hypothesis (henceforth, H-SkShSi) holds that competence—the
-disposition to succeed reliably—is constituted by an agent’s pertinent
-skill (Sk), the shape (Sh) they are in, and the relevant situation
-(Si). This view, famously advanced by Ernest Sosa, is used by many,
-including Sosa, to argue that knowing requires exercising a skill in
-appropriate conditions. In this article, I shall argue that H-SkShSi
-is incorrect for two primary reasons: it is incomplete and
-insufficiently discriminatory.
+The SkShSi hypothesis (/H_{SkShSi}/) holds that competence---the
+disposition to succeed reliably---is constituted by an agent's
+pertinent skill (Sk), the shape (Sh) they are in, and the relevant
+situation (Si).  This view, advanced by Ernest Sosa, is used by many
+to argue that knowing requires exercising a skill in appropriate
+conditions. In this article, I shall argue that /H_{SkShSi}/ is
+incorrect for two primary reasons.
 
-First, the hypothesis is incomplete because it excludes knowledge as
-an essential constituent of competence. Using research competence as
-an example, I highlight that while a broad spectrum of skills (such as
-formulating research questions and presenting academic findings) is
-necessary, a competent researcher must also possess knowledge of
-theoretical constructs in their field, research methods, and
-disciplinary standards for presenting research. The required knowledge
-also differs in nature from skills because it is a doxastic state
-rather than an ability. Therefore, by omitting knowledge, H-SkShSi
-does not account for all relevant aspects of competence.
+First, the hypothesis is incomplete because it excludes knowledge as a
+constituent of competence. Using research competence as an example, I
+highlight that while a broad spectrum of skills (such as formulating
+research questions and presenting academic findings) is necessary, a
+competent researcher must also possess knowledge of theoretical
+constructs in their field, research methods and disciplinary
+standards.  Therefore, by omitting knowledge, /H_{SkShSi}/ does not
+account for all relevant aspects of competence.
 
 Second, the hypothesis fails to properly differentiate between skill
 and competence. Most competence research in education and psychology
 defines competence as encompassing a wide range of domain-specific
-abilities and knowledge, and skill as an ability related to specific
-tasks within the domain. In contrast, Sosa superficially distinguishes
-between skill and competence and equates skill with innermost Sk
-competence. Hence, H-SkShSi does not adequately distinguish crucial
-facts concerning competence.
+skills and knowledge, and skill as the ability to perform specific
+tasks within the domain. In contrast, Sosa equates skill with
+innermost Sk competence.  Hence, /H_{SkShSi}/ does not adequately
+distinguish crucial facts concerning competence.
 
 The article shows that a skilled but non-knowledgeable agent remains
-incompetent, even when exercising some skills under suitable
-conditions, implying that knowledge is explanatory prior to
-competence. Finally, I highlight that an alternative theory of
+incompetent, implying that knowledge is explanatory prior to
+competence.  Finally, I highlight that an alternative theory of
 competence must clarify the key defining traits of skill and
 competence, as well as the necessary and sufficient components of
 competence.
