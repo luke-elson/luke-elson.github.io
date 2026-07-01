@@ -1,4 +1,7 @@
 * Master todo list
+** TODO dinner cancellations
+*** Kieran Oberman
+*** Chelsea Guo
 ** DONE Get info from Laura about costings.
 ** DONE Cake for dinner.
 ** DONE Approach suggested people for funding.
