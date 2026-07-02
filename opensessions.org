@@ -1,17 +1,7 @@
 #+TITLE: 2026 Open Sessions Timetable
-#+SUBTITLE: Periodically updated as I work through emails and add affiliations and abstracts. Please email me if you see any obvious mistakes!
+#+SUBTITLE: Please email me if you see any obvious mistakes!
 #+AUTHOR: Luke Elson, luke.elson@reading.ac.uk
 #+OPTIONS: toc:2
-
-* How to use this document
-:PROPERTIES:
-:UNNUMBERED: t
-:END:
-
-Please check the timetable and that your title (and abstract, if
-present) are correct. My apologies if you submitted a change and I've
-missed it -- please email me. I'm adding affilitations and abstracts
-as the line-up is finalised.
 
 * Open Sessions Rules and Advice
 :PROPERTIES:
@@ -810,7 +800,7 @@ rather than affective sense. What is required is not radical emotional
 transformation, but disciplined patterns of judgment, response, and
 performance. I then ask what, if anything, is lost when moral emotions
 are merely feigned.
-*** Sofija Anna Kozlova, MUSAPH, LMU Munich, Celestial Good in Aristotle
+*** Sofija Anna Kozlova, MUSAPH, LMU Munich, Aristotle’s Cosmic Teleology: The Priority of Eternal Substances
 In recent decades, teleological explanations, particularly
 Aristotelian teleology, have gained prominence in contemporary
 scientific and philosophical discourse. This has pushed Aristotle’s
@@ -3064,13 +3054,6 @@ alternative ontology in which unity, structure, and objecthood cannot
 be reduced to a single extensional parthood relation.
 **  Subjectivity, Normativity, and Attention
 *** Joseph Neisser, Grinnell College Philosophy, Familiarity and self-consciousness
-The mystery of the familiar
-
-The I cannot have begun. From this we see that we are in the realm of
-art.
-
-- Novalis, Notes For A Romantic Encyclopedia p.12. (Wood, 2007).
-
 Epistemically, what is familiar is just what is “known,” “well known,”
 or even “intimately known.” Yet the feeling of familiarity can become
 an unresolved mystery when its source cannot be placed or recalled. In
@@ -3346,6 +3329,14 @@ solution is to endorse a relational picture of self-trust, where
 self-trust consists of an individual’s perception of their relation
 with their salient community of audience.
 *** James Ralph, University of Waterloo, How Could I Have Known? Undiagnosed ADHD as Hermeneutical Injustice
+I argue that some people with undiagnosed ADHD face hermeneutical
+injustice due to their missed diagnoses. Diagnostic trends over the
+past several years indicate that marginalized groups, most notably
+women and people of colour, remain disproportionately undiagnosed with
+ADHD. Drawing upon Miranda Fricker’s account of hermeneutical
+injustice and a variety of empirical sources, I explore the particular
+kinds of harm these undiagnosed ADHDers often face and explain why
+their marginalization is also wrongful, not just harmful.
 *** Sandra Branzaru, University of Bucharest, To ToM or not ToM: the LLMs question
 Recent debates have emerged in relation to Theory of Mind (ToM) in the
 context of Large Language Models (LLMs), since these have successfully
@@ -5019,8 +5010,8 @@ reality; therefore, since we argue that temporal order, internality,
 and difference-making are derivative, then there is no good reason to
 regard causation and grounding as different relations (fundamentally).
 *** Ruodan Que, University of Cambridge, Interventionism, Agency Theory of Causation, and Impossible Interventions
-Interventionism is the view that for X to cause Y is for changing X to
-be a way of changing Y.  Interventionism is therefore a form of agency
+Interventionism is the view that for /X/ to cause /Y/ is for changing /X/ to
+be a way of changing /Y/. Interventionism is therefore a form of agency
 theory of causation, which regards causes as means or devices for
 manipulating effects. Agency theory of causation is frequently
 criticized for being unacceptably anthropocentric, for it ties the
@@ -5035,8 +5026,8 @@ argue that the interventionist response overlooks the deeper problem
 underlying the anthropocentricity objection. The problem does not lie
 in whether interventions are possible to be carried out by us or
 otherwise, but rather in that interventionism—and more broadly, agency
-theory of causation—takes causal facts between X and Y to concern
-facts irrelevant to X and Y.
+theory of causation—takes causal facts between /X/ and /Y/ to concern
+facts irrelevant to /X/ and /Y/.
 ** TODO Agency and Action
 *** Andrés Luco, Auburn University, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required
 I argue that agency does not require genuine alternative
