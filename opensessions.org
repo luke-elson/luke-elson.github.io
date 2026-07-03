@@ -3,66 +3,6 @@
 #+AUTHOR: Luke Elson, luke.elson@reading.ac.uk
 #+OPTIONS: toc:2
 
-* Open Sessions Rules and Advice
-:PROPERTIES:
-:UNNUMBERED: t
-:END:
-Each open session takes two hours, split (in nearly every case)
-between four speakers.
-
-Grouping such a large number of papers into sessions of four means for
-some slightly odd or arbitrary groupings; sorry about that. Sometimes
-this is due to speaker scheduling constraints, but it may often simply
-be strange choices on my part!
-
-** Finding your room
-
-Because of the large number of parallel sessions, some of the sessions
-will be in the two large lecture theatres. I know this is a bit odd,
-but I thought it better than going for buildings outside Palmer and
-Edith Morley (which are very close together). And the lecture theatres
-are air-conditioned!
-
-Many people find the Edith Morley building confusing, which I've never
-understood. It's a masterpiece of logical planned architecture.
-
-The first part of a room number (G/1/2/3/4) is the floor. The second
-part is the room. For the latter, use the numbering signs along the
-corridors, rather than the maps. The maps are genuinely confusing.
-
-** Within the session
-
-Traditionally, one of the speakers chairs the session.
-
-The order of speakers below is the default (which allows people to
-move between papers), but by agreement you may wish to depart from it
-for one reason or another.
-
-I'd advise keeping paper plus question and answer to 25 minutes, to
-allow for changeover.
-
-Chairs should only tolerate follow-up questions if all other askers
-have had a go and there is time left.
-
-Or a blunter version of this advice from previous programmes:
-
-#+BEGIN_QUOTE
-
-*Rules for Open Sessions and the Chairing thereof*
-
-1. Each half-hour slot in the open sessions starts at its allotted time whether or not anyone has started speaking and lasts for precisely 29 minutes 
-2. Experience shows that the 29 minutes is exhausted entirely by 20 minutes speaking and 5 minutes questions. 
-3. Previous chairs have observed that it doesn’t matter if speakers start speaking late; if they want any questions they stop by the 23rd minute. 
-4. There are no follow-up (or ‘finger’) questions.
-5. There is never time for just one more question.
-6. Chairs are instructed to interrupt speakers at the 28th minute.
-
-#+END_QUOTE
-
-** Screens? Handouts?
-
-Please see the advice at https://sites.google.com/view/2026-joint-session/logistics
-
 * Open Session I: Thursday 17.00 – 19.00 [17/17]
 
 ** Society for Women in Philosophy (SWIP) session
@@ -3616,18 +3556,36 @@ irrelevant. In other words, we have to decide whether to be ‘debaters’
 or ‘dividers’ about justification. But debaters must have something to
 say about the various positive reasons we have for thinking that the
 rules of justification differ depending on the indicated contexts.
-*** Moritz Schnorpfeil, LSE, Collective Traps: When State-Provided Goods Are Bad For Recipients
-This paper introduces a puzzle. When the state provides or subsidises
-a good, this can be bad for recipients of that good. This is possible
-because some goods are collective traps: People don’t like the good,
-but they like it even less to be one of the few people not consuming
-it. If enough others consume the good, it becomes rational for these
-people to do so too. They are now consume a good that they wish didn’t
-exist. When the state increases the availability of a good that is a
-collective trap, it traps some of its citizens. It makes them worse
-off compared to the status quo of reduced availability. This provides
-a novel and weighty reason, albeit a defeasible one, against the state
-providing certain goods or increasing their availability.
+*** Moritz Schnorpfeil, LSE, Collective Traps, Fair Play, and Political Obligations
+Sometimes, we want to take part in an activity conditional on others
+doing the activity too, but we would prefer if neither others nor we
+did the activity. Call this a collective trap. Possible examples
+include social media, joining your friends at the pub, and various
+forms of positional competition. I argue that those for whom a
+cooperative scheme constitutes a collective trap do not have
+obligations of fair play to contribute to that scheme. When such
+individuals refuse to contribute to such a scheme, they are not
+granting themselves an unfair self-exception. After all, they would
+prefer if the scheme as a whole did not exist, and so would be willing
+to generalise their own noncontribution.
+
+I then apply this conclusion––that those in a collective trap don't
+have obligations of fair play––to the question of political
+obligations. Many fair play theorists have argued that the principle
+of fair play generates political obligations. I argue that the very
+same state services in virtue of which citizens are said to have
+fair-play-based political obligations constitute collective traps for
+many citizens. Many citizens dislike key state policies. Conditional
+on their fellow citizens taking part in the delivery of those
+policies, such citizens want to take part in them too. But they would
+prefer if neither others nor they took part in them because then,
+presumably, a different set of policies would be implemented. While
+this does not free such citizens entirely of their obligation to
+contribute, I argue it does mean that they have reduced obligations to
+contribute. Thus, anyone who thinks political obligations are based in
+fair play, is committed to an idiosyncratic account of political
+obligations in which citizens' political obligations vary with how
+much citizens like or dislike key state policies.
 *** Xinyue Hu, University of Texas at Austin, Contributing beyond Duty: Identity-Based Membership in Collective Action
 In ordinary social life, collectives sustain and flourish by relying
 on members who contribute beyond their bare duties. While loyalty,
