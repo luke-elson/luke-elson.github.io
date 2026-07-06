@@ -1,7 +1,6 @@
+* Finances
+** The SV special issue money goes direct to the AS, not into the pot.
 * Master todo list
-** TODO dinner cancellations
-*** Kieran Oberman
-*** Chelsea Guo
 ** DONE Get info from Laura about costings.
 ** DONE Cake for dinner.
 ** DONE Approach suggested people for funding.
@@ -9,7 +8,6 @@
 ** DONE Agree sponsorship for REAPP and Mind&Language.
 ** DONE Printing info.
 ** DONE Registration site.
-** TODO Check about roundtable.
 ** DONE Change room bookings with new timetable.
 ** DONE BPA move to 2pm-3pm, get confirmation from Kirchin that this is OK.
 ** TODO Liberto symposium content warning sexual violence
@@ -20,9 +18,9 @@ No event form needed because we just doing classroom activities.
 Parking will be included in delegate pack.
 ** DONE Refund those people email 13 April
    DEADLINE: <2026-04-28 Tue>
-** TODO Respond to Laura and print the paperwork she sent
+** DONE Respond to Laura and print the paperwork she sent
    DEADLINE: <2026-04-29 Wed>
-** DONE Pass BPA store link
+** Pass BPA store link
    DEADLINE: <2026-05-27 Wed>
 Store link for BPA table is https://www.store.reading.ac.uk/product-catalogue/school-of-philosophy-politics-and-economics/philosophy/display-table-at-the-joint-session
 ** people to cancel or move [8/8]
@@ -35,8 +33,11 @@ Store link for BPA table is https://www.store.reading.ac.uk/product-catalogue/sc
 *** DONE add that michael baldwin guy (replacing arias)
 *** DONE add benedict rumbold complete (replacing ari deller registration)
 ** TODO add sponsorships and exhibitors to programme
-** TODO Whatsapp groups
-** TODO Printed programme 
+** DONE Whatsapp groups
+** TODO Finalise and print programme 
+DEADLINE: <2026-07-07 Tue>
+** TODO Print Allais handout<2026-07-07 Tue>
+** TODO check on fan provision
 DEADLINE: <2026-07-07 Tue>
 * Accommodation
 ** Accommodation link is at https://registration.venuereading.com/AristotelianSocietyandtheMindAssociation2026

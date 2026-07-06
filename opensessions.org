@@ -3431,29 +3431,55 @@ the store. We might say: ‘the reason she should go to the store is to
 buy groceries.’ The upshot is that the dominant views about the
 ontology of motivating and normative reasons are false because they
 are too restrictive.
-*** Marie Wegener, Bielefeld University, Special Reasons, Two Strategies, One Problem: The Limits of Value-Based Theories of Practical Reasons
+*** Marie Wegener, Bielefeld University, The content (in)dependence of promissory reasons
 Proponents of value-based theories of practical reasons can explain
 different kinds of practical reasons in terms of values in various
-ways. Some practical reasons seem to be perfectly explained by
-appealing to the value of their favoured action. However, some reasons
-(DR) originate from a different source and are not (solely) dependent
-on the value of the favoured action (e.g. promissory reasons, reasons
-to obey legitimate authority and commitment-based
-reasons). Nevertheless, these reasons can be captured by value-based
-theories that provide a value-based explanation for their origin
-(e.g. value-based views of normative powers or a value-based
-explanation of legitimacy of authority). In my paper, I assess whether
-these two approaches to explaining reasons can be incorporated into
-one theory. To do so, I will evaluate two recent attempts (Heuer 2025;
-Lovett & Riedener 2024). My hypothesis is that both accounts suffer
-from extensional inadequacy, as they fail to capture all aspects of
-the unique nature of DRs by appealing to value: (1) On both accounts,
-the value of the favoured action is taken to be a necessary condition
-for the existence of an SR – this stands in conflict with plausible
-accounts of promissory reasons (for example). (2) Other necessary
-conditions for the existence of DRs remain unexplained – which
-conflicts with reasons that result from the exercise of normative
-power (for example).
+ways.  Some reasons seem to be perfectly explained by appealing to the
+value of their favoured action. However, it seems that for other
+reasons, this explanation is either insufficient or plainly false, as
+they are not, or at least not solely, dependent on the value of the
+favoured action because they at least partially depend on a
+choice. This appears to be the case, for example, with promissory
+reasons, reasons to obey legitimate authority, and commitment-based
+reasons. One strategy to incorporate promissory reasons into the
+framework of a value-based theory is to provide a value-based
+explanation for their choice-dependence, by explaining the ability to
+make a promise in terms of its value. However, this explanatory
+strategy comes with several difficulties.
+
+The one I focus on in this paper is the following: While it might be
+possible to explain the /existence/ of the promissory reason in this
+way, a value-based explanation of normative powers cannot account for
+the different /strengths/ of promissory reasons. One way of addressing
+this issue is to reject the idea that there are purely
+promissory-dependent reasons altogether. However, this clashes with
+the intuitively plausible idea that the reason to perform a promised
+action is simply the fact that it was promised. Another approach would
+be to bite the bullet and to deny that promissory reasons differ in
+their strength. Without a convincing explanation for why this is not
+the case, this seems false, as it leads to implausible implications
+concerning how promissory reasons behave in practical deliberation
+with other reasons.  In this paper, I explore whether there is a third
+approach that preserves the idea that the reason to keep a particular
+promise is the fact that one promised, while also accounting for the
+different strengths of promissory reasons. I am working out the
+specific way in which promissory reasons are content-independent and
+thereby the sense in which they are perhaps not. Therefore, I am
+analyzing the validity conditions for promises to be binding. I argue
+that the content of the action matters in (at least) two respects:
+First, its promise-independent deontic status matters in a
+constraining sense: The action needs to be morally permissible at
+least. Second, it matters in the sense that the promisee's choice to
+make the promise and the promisor's choice to accept it must be
+intelligible -- the promise needs to have a point. There are several
+ways in which a promise can have a point. One aim of my paper is to
+work out whether this purpose can always be spelled out in terms of
+the value of the action. If so, this would provide a means by which
+the value-based view could offer a comprehensive explanation of
+promissory reasons.
+
+My work engages critically with: Heuer (2025), Raz (2019 and 2022),
+Riedener and Schwind (2022), and Lovett and Riedener (2024).
 *** Benedict Rumbold, University of Nottingham, Comparative Unfairness as Non-Recognition
 According to
 
