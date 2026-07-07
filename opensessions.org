@@ -4790,7 +4790,7 @@ ethically considered as having episodic memory. Instead, I argue that
 a more precautionary conlusion is justified when considering animals
 that show various features of human episodic memory and are said to be
 conscious.
-** TODO Metaphysics [Palmer 107]
+** Metaphysics [Palmer 107]
 *** Harry Cleeveley, Independent Scholar, The A Priori Truth of Modal Rationalism
 Modal rationalism is the claim that for all p, if it is ideally
 conceivable that p, then there is a metaphysically possible world, W,
@@ -4872,6 +4872,28 @@ alternatives; (ii) can explain the sweep of our common-sense
 judgements about causation by omission; but (iii) can justify
 revisions to common-sense, without motivating an error theory about
 causation by omission.
+*** Julian Lee-Sursin, École Normale Supérieure, A Semantic Argument Against Radical Cognitivism
+Radical cognitivism (RC) is the thesis that practical reasons reduce
+to theoretical reasons—specifically, that a reason to F is evidence
+that you will intentionally F. While RC promises an elegant
+unification of practical and theoretical rationality under a single
+standard of evidential responsiveness, I show that this reduction
+generates a false semantic prediction. The argument proceeds by modus
+tollens: RC entails that the questions "Why should I F?: and "Why will
+I F?" must have equivalent semantic content, since both would be
+asking for the same thing (evidence that you will F). However, these
+questions demonstrably differ in their presuppositions and felicity
+conditions. Using the framework of inquisitive semantics and the
+factivity of the reason relation, I demonstrate that these
+why-questions presuppose different prejacents—"I should F" (normative)
+versus "I will F" (predictive)—which have logically independent truth
+conditions. Cases of akrasia, where agents should act but won’t, and
+coerced action, where agents will act but shouldn’t, reveal that one
+question can be felicitous while the other suffers presupposition
+failure at the same possible world. This asymmetry in semantic
+behavior refutes the claimed identity between practical and
+theoretical reasons.
+
 **  Philosophy of Science [Palmer 108]
 *** Mariona Miyata-Sturm, University of Glasgow, Aesthetic qualities will not help you gain nonfactive understanding
 Some scientific representations – theories, diagrams, pictures – aid
@@ -5011,7 +5033,7 @@ in whether interventions are possible to be carried out by us or
 otherwise, but rather in that interventionism—and more broadly, agency
 theory of causation—takes causal facts between /X/ and /Y/ to concern
 facts irrelevant to /X/ and /Y/.
-** TODO Agency and Action [Palmer 111]
+** Agency and Action [Palmer 111]
 *** Andrés Luco, Auburn University, Agency for Biological Machines: Ultimate Control and Alternative Possibilities Not Required
 I argue that agency does not require genuine alternative
 possibilities or ultimate control over action. While many philosophers

@@ -39,6 +39,14 @@ DEADLINE: <2026-07-07 Tue>
 ** TODO Print Allais handout<2026-07-07 Tue>
 ** TODO check on fan provision
 DEADLINE: <2026-07-07 Tue>
+** TODO Welcome email <2026-07-07 Tue>
+- heat
+- PDF and web programme
+- whatsapp group
+- suggestions for tonight
+** TODO easel
+** TODO print login details
+** TODO print SV listing
 * Accommodation
 ** Accommodation link is at https://registration.venuereading.com/AristotelianSocietyandtheMindAssociation2026
 ** Cheaper rooms (without bedding!) at https://www.reading.ac.uk/ready-to-study/accommodation/stay
