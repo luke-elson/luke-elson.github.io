@@ -12,16 +12,17 @@ mainfont: Libertinus Serif
 # Wednesday 8 July 
 
 * 12.30 – 12.45 **Mind AGM** *Palmer 106*
-* 14.00 – 15.00 Event begins:
-   - **Registration & Refreshments**
-   - **BPA Public Meeting on State of the Profession** *Palmer G10*
+* 14.00 – 15.00 **Event begins: Registration & Refreshments** *Palmer foyer*  
+  After this point, you can register in the conference office (Palmer G06).
+* 14.00 – 15.00 **BPA Public Meeting on State of the Profession** *Palmer G10*
 * 15.00 – 16.30 **Inaugural Address: Vague Beliefs and Reasoning** *Palmer G10*  
   Rosanna Keefe (Sheffield)  
   Chair: Helen Beebee (Leeds)
 * 17.00 – 18.00 **100th Supplementary Volume Historical Roundtable** *Palmer G10*  
   Dorothy Edgington, Jane Heal, Jessica Leech, and Emily Thomas.
-* 18.00 – 19.00 **Wine Reception**
-* 19.00 – 21:00 **Conference Dinner** *Meadow Suite, Park House* (be
+* 18.00 – 19.00 **Wine Reception** Sponsored by Reading Prosperity &
+  Resilience Research Theme
+* 19.00 – 21:00 **Conference Dinner** *Meadow Suite, Park House* (please be
   seated by 7pm)
 * 19.00 – 23.00 **Pub open** *Park House*
 
@@ -29,16 +30,16 @@ mainfont: Libertinus Serif
 
 * 07.30 – 09.00 Breakfast for those in university accommodation *Park
   Eat*
-* 09.00 – 12.00 **Registration** *Palmer foyer or conference office*
-* 09.00 – 10.30 Symposia:
+* 09.00 – 10.30 Symposia (sponsored by Reading Ethics & Political Philosophy and Mind &
+  Language research clusters):
   - **Symposium I: Hylemorphism as a Generalised Research Programme**
     *Palmer G10*  
-	David Oderberg (Reading) / Tuomas Tahko (Bristol).  
+	David Oderberg (Reading) / Tuomas Tahko (Bristol)  
 	Chair: Ofra Magidor (Oxford)
   - **Symposium II: Kantian Climate Justice** *Palmer 109*  
     Angela Breitenbach (Cambridge) / Lucy Allais (University of
     Witwatersrand/Johns Hopkins)  
-	Chair: John Callanan (King's College London)
+	Chair: John Callanan (King's College London)  
 * 10.30 – 11.00 **Refreshments**
 * 10:45 – 11.00 **Aristotelian Society AGM** *Palmer 109*
 * 11.00 – 12.30 Symposia:

@@ -5661,22 +5661,6 @@ purported counterexamples to DARC, including the cases of future
 choices, group agents, and the predictions of onlookers.
 
 **  Discourse, Assertion, Memory [Edith Morley 257]
-*** Ross Patrizio, University of Glasgow, Assertion without sanctions
-Assertion requires accountability. But what exactly does such
-accountability amount to? Recent debates surrounding AI assertion have
-brought this question into sharp focus. A prominent view ties
-accountability to sanctions – in order to assert, one must be the
-appropriate target of norm-related sanctions. In this article I argue
-that the sanctions view is too strong, ruling out not only AI
-assertion but plausible human instances as well. In its place, I
-propose a weaker view, which centres responsiveness, not
-sanctions. This view, I argue, captures assertion's norm-governed and
-social character without overgeneralising. The AI assertion pessimist
-faces a dilemma: maintain the sanctions view and risk ruling out
-plausible instances of human assertion; or adopt the responsiveness
-view and lose their grounds for excluding AI assertion. The result is
-a clearer picture of what norm-governance and accountability does and
-does not require of asserters.
 *** Johan Chung, King's College London, How to Stop Talking Past Each Other
 Radical disagreements about consciousness are often dismissed as cases
 in which theorists are merely talking past one another. I argue that
@@ -5850,6 +5834,22 @@ views on the nature of well-being.
 ** TODO to fit [0/0]
 *** 
 ** Cancellations
+*** Ross Patrizio, University of Glasgow, Assertion without sanctions
+Assertion requires accountability. But what exactly does such
+accountability amount to? Recent debates surrounding AI assertion have
+brought this question into sharp focus. A prominent view ties
+accountability to sanctions – in order to assert, one must be the
+appropriate target of norm-related sanctions. In this article I argue
+that the sanctions view is too strong, ruling out not only AI
+assertion but plausible human instances as well. In its place, I
+propose a weaker view, which centres responsiveness, not
+sanctions. This view, I argue, captures assertion's norm-governed and
+social character without overgeneralising. The AI assertion pessimist
+faces a dilemma: maintain the sanctions view and risk ruling out
+plausible instances of human assertion; or adopt the responsiveness
+view and lose their grounds for excluding AI assertion. The result is
+a clearer picture of what norm-governance and accountability does and
+does not require of asserters.
 *** Frances Darling, Testimonial Injustice, Competence, and Intellectual Disability will cancel
 *** Howard Simmons, No Fact about whether a Being is Conscious
 *** Will Moorfoot, Against Indeterministic Ground Physicalism

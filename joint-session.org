@@ -36,10 +36,10 @@ Store link for BPA table is https://www.store.reading.ac.uk/product-catalogue/sc
 ** DONE Whatsapp groups
 ** TODO Finalise and print programme 
 DEADLINE: <2026-07-07 Tue>
-** TODO Print Allais handout<2026-07-07 Tue>
-** TODO check on fan provision
+** DONE Print Allais handout<2026-07-07 Tue>
+** DONE check on fan provision
 DEADLINE: <2026-07-07 Tue>
-** TODO Welcome email <2026-07-07 Tue>
+** DONE Welcome email <2026-07-07 Tue>
 - heat
 - PDF and web programme
 - whatsapp group
@@ -92,10 +92,6 @@ Lukas Lewerentz
 *** DONE Daniel Morgan not Friday afternoon.
 *** DONE Joe Neisser not Friday afternoon.
 *** DONE Elena Padoan Thursday
-* SWIP speakers
-** TODO choose room
-** DONE email them advising registration
-** TODO double-check mollie gerver on open or not
 * Student helpers
 Info from Chris Kelp: sent an email around to ask if anyone wanted to
 help (giving priority to students who were scheduled to present at the
@@ -104,11 +100,10 @@ desk, carrying out AV checks before open sessions, and Mic duties
 during Q&A for symposia.
 * Registration/reading store
 ** DONE update end time on Reading store
-** TODO double-check dates of categories:
+** DONE double-check dates of categories:
 - Open session bookings end on June 5
-** TODO Update Venue Reading with numbers, and especially if open sessions goes above 150
-<2026-04-10 Fri +1w>
-** TODO Final open session numbers and rooms to Venue Reading
+** DONE Update Venue Reading with numbers, and especially if open sessions goes above 150
+** DONE Final open session numbers and rooms to Venue Reading
 <2026-06-06 Sat>
 * Advertising/publishers/printing
 ** Reading store set up link sent to Abbie
@@ -131,19 +126,19 @@ things in his bag, no table no advertising.
 *** DONE thank Abbie and pass on to CPS
     DEADLINE: <2026-05-26 Tue>
 * Creative/print studio deadlines
-** TODO <2026-06-02 Tue> send tote bag deadlines to CPS
+** DONE <2026-06-02 Tue> send tote bag deadlines to CPS
 ** Tote Bags
-*** TODO Copy date <2026-05-25 Mon>
-*** TODO Production date <2026-06-05 Fri>
-** Name Tags, Programme, Adverts, Poster/Banner
-*** TODO Copy date <2026-06-17 Wed>
-*** TODO Production date <2026-07-01 Wed>
+*** DONE Copy date <2026-05-25 Mon>
+*** DONE Production date <2026-06-05 Fri>
+** TODO Name Tags, Programme, Adverts, Poster/Banner
+*** DONE Copy date <2026-06-17 Wed>
+*** DONE Production date <2026-07-01 Wed>
 
 * Invited speakers
 ** DONE send registration info and reminders
 * Postgrad speakers
 ** Final point. Luke, in case you're not aware, I chair the theoretical session and Michael chairs the practical session.
-** TODO get abstracts
+** DONE get abstracts
 *** Title: The Global Collective Agent
 Realists hold that global justice is permanently unreachable
 because a global sovereign is impossible to establish. In this paper,
