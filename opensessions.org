@@ -129,7 +129,7 @@ also true of /x/ at /t_{1}/. Therefore, if it is the case at /t_{2}/
 that a future person (/x/) that is /F/ (e.g., has flourishing
 conditions) is also essentially N (due to /NP/), then it must be the
 case that /x/ is /N/ at /t_{1}/ (e.g., right now) too.
-** TODO Artificial Intelligence [Palmer 102]
+** Artificial Intelligence [Palmer 102]
 *** Rory Aird, American University of Armenia, ChatGPT isn't safe
 Drawing on resources from the analysis of knowledge, in this paper, I
 argue that ChatGPT is not safe—in the Pritchardian, modal sense. More
@@ -880,42 +880,6 @@ output “I promise...” ? Could we maintain different expectations for
 human agents and technologies, even as they produce words increasingly
 indistinguishably? If not, how might institutions like promising be
 preserved?
-*** Uri Brun, Oxford, Beyond the Implementation Problem: A Cavellian Perspective on Conceptual Engineering
-Contemporary debates on conceptual engineering treat as central the
-"implementation problem": the challenge of bringing about conceptual
-change. Responses vary: some argue that conceptual engineering is
-infeasible due to our lack of control over meaning (Cappelen
-2018). Others claim we possess sufficient control (Nimtz 2021; Löhr
-2021), meanwhile a different strand urges focusing on modest goals
-over which we exercise firmer control (Jorem 2021; Belleri
-2025). Nonetheless, it is striking how much these responses share: all
-accept a common framing of the implementation problem as a matter of
-control over the uptake of engineered concepts.
-
-This paper challenges this dominant framing and offers an alternative
-perspective on conceptual innovation. Rather than directly addressing
-the implementation problem, I argue that it is framed against a
-background picture that generates two gaps: between conceptual
-innovation and ordinary practice, and between the authority to
-prescribe meanings and the power to secure compliance. In this
-picture, conceptual engineers evaluate, design, and prescribe meanings
-independently of everyday practice, and only subsequently confront the
-task of implementation.
-
-To challenge this picture, I turn to Stanley Cavell’s alternative
-vision of language, centred on his notions of projection—our ordinary
-capacity to carry words into new contexts—and attunement—the fragile,
-ongoing agreement in forms of life that makes such extensions
-intelligible. By situating conceptual change within everyday
-conceptual life, Cavell’s perspective dissolves the gaps that give the
-implementation problem its apparent urgency. Projection reveals
-innovation as continuous with our ordinary ways of going on together
-with concepts, while attunement reframes the lack of control over
-uptake as the inherent ethical condition of sharing language. From
-this perspective, implementation is not a technical problem of
-enforcing compliance with fixed meanings, but the collaborative,
-ethical work of finding ways of going on with concepts within shared
-forms of life.
 **  Perception [Palmer 108]
 *** Pietro Chiericoni, University of Pavia, Cross-Cultural Variations in Emotionally Charged Perception
 While culture has long been recognized as shaping emotional states, its influence on emotional processing has received far less attention. This paper argues that cultural background influences not only emotional experience but also emotionally charged perception itself.
@@ -1267,32 +1231,7 @@ initiation of similar actions with similar results.  There are
 differences that we make and differences that we value, the question
 is whether and to what extent the former are included in the latter.
 **  Metaphysics [Edith Morley G57]
-*** Vanessa Seifert, University of Athens, Could AI undermine standard scientific realism?
-Atoms and molecules have constituted a paradigmatic case in defending
-the reality of unobservable entities. However, the way AI models are
-developed to predict novel chemical substances and compounds
-undermines the idea that the predictive success of science empirically
-supports the truth of its theories. This is because there are at least
-some AI models whose predictive success is not based on incorporating
-or following an underlying theory. To spell this out, I present two AI
-models that are developed in order to predict chemical substances and
-identify two ways by which AI models are trained to make
-predictions. These two ways of training AI models illustrate that the
-predictive success of our models cannot always be accounted for by the
-truth of an underlying theory. This is particularly problematic for
-the defence of scientific realism in terms of the No Miracles Argument
-which takes novel predictions in science to be best explained by the
-truth of our underlying theories.
 
-Gerrard, W., Bratholm, L. A., Packer, M. J., Mulholland, A. J.,
-Glowacki, D. R., & Butts, C. P. (2020). IMPRESSION–prediction of NMR
-parameters for 3-dimensional chemical structures using machine
-learning with near quantum chemical accuracy. Chemical science, 11(2),
-508-515.
-
-Krishnan, A., Valeri, J. A., Jin, W., Donghia, N. M., Sieben, L.,
-Luttens, A., ... & Collins, J. J. (2025). A generative deep learning
-approach to de novo antibiotic design. Cell, 188(21), 5962-5979.
 *** Robert Trueman, University of York, The functional individuation of properties
 How finely should we individuate properties? One possible answer is
 that they should be individuated functionally: we can think of
@@ -4957,63 +4896,7 @@ reasoning could provide a better foundation for our decisions/views.
 As one of the group members is always an expert, the practice could
 provide avenues for social engagement of science, and science
 communication.
-*** Hong Joo Ryoo, Johns Hopkins University, Grounding and Causation are the Same (Fundamentally)
-Co-authored with Julian Lee-Sursin.
 
-Many philosophers have pointed out analogies between causation and
-grounding (Wilson forthcoming, Schaffer 2016, Baron-Schmitt and Vogt
-forthcoming, inter alia). Still, philosophical orthodoxy takes them to
-be distinct relations, and for good reason. The most commonly cited
-distinguishing features seem to be temporal order (Bernstein 2016;
-Baron-Schmitt and Vogt forthcoming), internality (Bernstein 2016;
-Schaffer 2016; ), and difference-making (Schaffer 2016 (as
-similarity/genus); Bernstein 2016 (for disanalogies in how
-difference-making works).
-
-Intuitively, grounding is synchronic while causation is diachronic.
-Grounding is thought to be an internal, unlike causation.  Regarding
-difference-making, it is often thought that non-causes can be
-difference-makers in causal systems (e.g., trumping, preemption);
-grounding, on the other hand, prima facie, non-grounds cannot be
-difference-makers.
-
-However, we think that there is reason to doubt that these
-distinguishing features are fundamental, since they rely on notions
-which are derivative according to cutting edge theories of fundamental
-physics. Indeed, quantum gravity presents us with various problems
-that point towards an emergent time parameter that governs the
-Schrodinger equation. For instance, works such as loop quantum gravity
-and spacetime holography regularly assert this notion. On the other
-hand, the interpretations of quantum mechanics have historically been
-faced with the emergence of time as a result of the so-called the
-problem of time, which involves a stationary wavefunction of the
-universe that has no temporal evolution. The familiar interpretations
-of ordinary quantum mechanics have, since then, attempted various
-solutions by treating time as emergent (for a Bohmian treatment, see
-https://arxiv.org/abs/quant-ph/9902018. for an algebraic treatment,
-see https://arxiv.org/abs/gr-qc/9406019. Finally, for a Hilbert space
-treatment, see https://arxiv.org/abs/0708.2743). Mereological
-programs, in general, have also been developed to accommodate views of
-spacetime emergence (c.f. Pohlmann 2024).
-
-Moreover, Baron-Schmitt & Vogt (forthcoming) argue against internality
-and difference-making for grounding. Their putative counterexamples
-seem to present cases of grounding that are analogous to trumping and
-preemption. If these cases work, then internality and
-difference-making cannot be cited as fundamental differences between
-grounding and causation.
-
-Thus, this paper will defend a modest (conditional) thesis and a
-radical thesis. The modest thesis: if spacetime is an emergent feature
-of fundamental physics, and if there are preemption-like cases of
-grounding, then the features commonly used to distinguish causation
-and grounding are not fundamental; this lends some support to the view
-that causation and grounding are not fundamentally different. A more
-radical version of our thesis accepts the antecedent of the
-aforementioned conditional: spacetime is not a fundamental feature of
-reality; therefore, since we argue that temporal order, internality,
-and difference-making are derivative, then there is no good reason to
-regard causation and grounding as different relations (fundamentally).
 *** Ruodan Que, University of Cambridge, Interventionism, Agency Theory of Causation, and Impossible Interventions
 Interventionism is the view that for /X/ to cause /Y/ is for changing /X/ to
 be a way of changing /Y/. Interventionism is therefore a form of agency
@@ -5906,3 +5789,122 @@ practices were designed to promote. Rather than asking ""Can AI be
 creative?"", we should ask ""How can AI best produce new and valuable
 ideas?"" – a question that may have answers quite alien to human
 virtue.
+*** Uri Brun, Oxford, Beyond the Implementation Problem: A Cavellian Perspective on Conceptual Engineering
+Contemporary debates on conceptual engineering treat as central the
+"implementation problem": the challenge of bringing about conceptual
+change. Responses vary: some argue that conceptual engineering is
+infeasible due to our lack of control over meaning (Cappelen
+2018). Others claim we possess sufficient control (Nimtz 2021; Löhr
+2021), meanwhile a different strand urges focusing on modest goals
+over which we exercise firmer control (Jorem 2021; Belleri
+2025). Nonetheless, it is striking how much these responses share: all
+accept a common framing of the implementation problem as a matter of
+control over the uptake of engineered concepts.
+
+This paper challenges this dominant framing and offers an alternative
+perspective on conceptual innovation. Rather than directly addressing
+the implementation problem, I argue that it is framed against a
+background picture that generates two gaps: between conceptual
+innovation and ordinary practice, and between the authority to
+prescribe meanings and the power to secure compliance. In this
+picture, conceptual engineers evaluate, design, and prescribe meanings
+independently of everyday practice, and only subsequently confront the
+task of implementation.
+
+To challenge this picture, I turn to Stanley Cavell’s alternative
+vision of language, centred on his notions of projection—our ordinary
+capacity to carry words into new contexts—and attunement—the fragile,
+ongoing agreement in forms of life that makes such extensions
+intelligible. By situating conceptual change within everyday
+conceptual life, Cavell’s perspective dissolves the gaps that give the
+implementation problem its apparent urgency. Projection reveals
+innovation as continuous with our ordinary ways of going on together
+with concepts, while attunement reframes the lack of control over
+uptake as the inherent ethical condition of sharing language. From
+this perspective, implementation is not a technical problem of
+enforcing compliance with fixed meanings, but the collaborative,
+ethical work of finding ways of going on with concepts within shared
+forms of life.
+*** Hong Joo Ryoo, Johns Hopkins University, Grounding and Causation are the Same (Fundamentally)
+Co-authored with Julian Lee-Sursin.
+
+Many philosophers have pointed out analogies between causation and
+grounding (Wilson forthcoming, Schaffer 2016, Baron-Schmitt and Vogt
+forthcoming, inter alia). Still, philosophical orthodoxy takes them to
+be distinct relations, and for good reason. The most commonly cited
+distinguishing features seem to be temporal order (Bernstein 2016;
+Baron-Schmitt and Vogt forthcoming), internality (Bernstein 2016;
+Schaffer 2016; ), and difference-making (Schaffer 2016 (as
+similarity/genus); Bernstein 2016 (for disanalogies in how
+difference-making works).
+
+Intuitively, grounding is synchronic while causation is diachronic.
+Grounding is thought to be an internal, unlike causation.  Regarding
+difference-making, it is often thought that non-causes can be
+difference-makers in causal systems (e.g., trumping, preemption);
+grounding, on the other hand, prima facie, non-grounds cannot be
+difference-makers.
+
+However, we think that there is reason to doubt that these
+distinguishing features are fundamental, since they rely on notions
+which are derivative according to cutting edge theories of fundamental
+physics. Indeed, quantum gravity presents us with various problems
+that point towards an emergent time parameter that governs the
+Schrodinger equation. For instance, works such as loop quantum gravity
+and spacetime holography regularly assert this notion. On the other
+hand, the interpretations of quantum mechanics have historically been
+faced with the emergence of time as a result of the so-called the
+problem of time, which involves a stationary wavefunction of the
+universe that has no temporal evolution. The familiar interpretations
+of ordinary quantum mechanics have, since then, attempted various
+solutions by treating time as emergent (for a Bohmian treatment, see
+https://arxiv.org/abs/quant-ph/9902018. for an algebraic treatment,
+see https://arxiv.org/abs/gr-qc/9406019. Finally, for a Hilbert space
+treatment, see https://arxiv.org/abs/0708.2743). Mereological
+programs, in general, have also been developed to accommodate views of
+spacetime emergence (c.f. Pohlmann 2024).
+
+Moreover, Baron-Schmitt & Vogt (forthcoming) argue against internality
+and difference-making for grounding. Their putative counterexamples
+seem to present cases of grounding that are analogous to trumping and
+preemption. If these cases work, then internality and
+difference-making cannot be cited as fundamental differences between
+grounding and causation.
+
+Thus, this paper will defend a modest (conditional) thesis and a
+radical thesis. The modest thesis: if spacetime is an emergent feature
+of fundamental physics, and if there are preemption-like cases of
+grounding, then the features commonly used to distinguish causation
+and grounding are not fundamental; this lends some support to the view
+that causation and grounding are not fundamentally different. A more
+radical version of our thesis accepts the antecedent of the
+aforementioned conditional: spacetime is not a fundamental feature of
+reality; therefore, since we argue that temporal order, internality,
+and difference-making are derivative, then there is no good reason to
+regard causation and grounding as different relations (fundamentally).
+*** Vanessa Seifert, University of Athens, Could AI undermine standard scientific realism?
+Atoms and molecules have constituted a paradigmatic case in defending
+the reality of unobservable entities. However, the way AI models are
+developed to predict novel chemical substances and compounds
+undermines the idea that the predictive success of science empirically
+supports the truth of its theories. This is because there are at least
+some AI models whose predictive success is not based on incorporating
+or following an underlying theory. To spell this out, I present two AI
+models that are developed in order to predict chemical substances and
+identify two ways by which AI models are trained to make
+predictions. These two ways of training AI models illustrate that the
+predictive success of our models cannot always be accounted for by the
+truth of an underlying theory. This is particularly problematic for
+the defence of scientific realism in terms of the No Miracles Argument
+which takes novel predictions in science to be best explained by the
+truth of our underlying theories.
+
+Gerrard, W., Bratholm, L. A., Packer, M. J., Mulholland, A. J.,
+Glowacki, D. R., & Butts, C. P. (2020). IMPRESSION–prediction of NMR
+parameters for 3-dimensional chemical structures using machine
+learning with near quantum chemical accuracy. Chemical science, 11(2),
+508-515.
+
+Krishnan, A., Valeri, J. A., Jin, W., Donghia, N. M., Sieben, L.,
+Luttens, A., ... & Collins, J. J. (2025). A generative deep learning
+approach to de novo antibiotic design. Cell, 188(21), 5962-5979.
