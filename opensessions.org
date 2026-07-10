@@ -3650,7 +3650,7 @@ importantly, no such predicate can underpin an account of modal
 potentialism. Thus, there is a tension between the intended
 interpretation of the primitive modality and the formal framework of
 the interpretational approach.
-**  Reason, Mind, Action [Edith Morley 257]
+**  Reason, Mind, Action [Moved to EM308 from Edith Morley 257]
 *** Tiago Carneiro da Silva, University of Leeds, Experimental Ethics and Self-evidence
 If self-evident principles exist, they are such that they can be known
 to be true solely on the basis of an adequate understanding of them
@@ -5522,7 +5522,7 @@ free will is exposed to the Luck objections. I conclude by addressing
 purported counterexamples to DARC, including the cases of future
 choices, group agents, and the predictions of onlookers.
 
-** TODO Discourse, Assertion, Memory [Edith Morley 257]
+** TODO Discourse, Assertion, Memory [Probably moving to EM308 from Edith Morley 257]
 *** Johan Chung, King's College London, How to Stop Talking Past Each Other
 Radical disagreements about consciousness are often dismissed as cases
 in which theorists are merely talking past one another. I argue that
