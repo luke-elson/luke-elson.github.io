@@ -2464,28 +2464,7 @@ quantum reconstruction appears not merely as a technical project,
 limited to clarifying formal structure and inter-theoretic relations,
 but as one that resonates with a deeper phenomenological reorientation
 of our understanding of nature.
-**  History of Philosophy and Propositions [Palmer 104]
-*** Fridolin Neumann, University of Warwick, What is idle talk? Heidegger, untruth, and ontological disguise
-This paper proposes a novel reading of Heidegger’s conception of /idle
-talk/ (/Gerede/) as a form of misguided ontological discourse. Against
-pragmatist readings of Heidegger that construe idle talk in terms of a
-lack of skilful familiarity with entities, I argue that idle talk is
-instead situated at the level of the ontological commitments that
-underlie and structure our experience. Idle talk arises when these
-commitments /disguise/ (/verstellen/) entities in inappropriate
-ontological terms – for instance, by treating human beings as mental
-substances, or organisms as mere physical entities. The paper proceeds
-in three steps. First, I reconstruct the pragmatist interpretation of
-idle talk and stress its inability to account for Heidegger’s claim
-that idle talk covers-over (/verdeckt/) entities. Second, I develop a
-conception of ontological disguise based on Heidegger’s account of
-semblance and untruth. Idle talk, I suggest, circulates ontological
-prejudices that have not been grounded in the entities they concern,
-and thereby contributes to a distorted understanding of them. Third, I
-foreground the systematic upshot that Heidegger both stresses the
-inevitability of ontological prejudices and expects epistemically
-responsible agents to continuously ground them in the entities to
-which they pertain.
+** TODO History of Philosophy and Propositions [Palmer 104]
 *** Quentin Hosch, University of Liège, James Ward's Theory of Presentation
 James Ward was a major figure in English philosophy and psychology in
 the late 19th centuries. He is often credited with bringing about a
@@ -3583,7 +3562,7 @@ people who act with a spirit of contribution, better captures social
 groups with an open process of exploring what they should become, and
 offers a conceptual toolkit for recognizing and meriting voluntary
 contributory actions.
-**  Philosophy of Maths and Logic [Edith Morley 150]
+** TODO Philosophy of Maths and Logic [Edith Morley 150]
 *** Karol Wapniarski, Faculty of Philosophy, University of Cambridge, Reconsidering Leibniz's influence on Russell through the Russell-Couturat Correspondence
 Although Bertrand Russell’s interpretation of Leibniz philosophy is as
 well known as lasting are his contributions to Leibniz scholarship in
@@ -4729,7 +4708,7 @@ ethically considered as having episodic memory. Instead, I argue that
 a more precautionary conlusion is justified when considering animals
 that show various features of human episodic memory and are said to be
 conscious.
-** Metaphysics [Palmer 107]
+**  Metaphysics [Palmer 107]
 *** Harry Cleeveley, Independent Scholar, The A Priori Truth of Modal Rationalism
 Modal rationalism is the claim that for all p, if it is ideally
 conceivable that p, then there is a metaphysically possible world, W,
@@ -4833,7 +4812,7 @@ failure at the same possible world. This asymmetry in semantic
 behavior refutes the claimed identity between practical and
 theoretical reasons.
 
-**  Philosophy of Science [Palmer 108]
+** TODO Philosophy of Science [Palmer 108]
 *** Mariona Miyata-Sturm, University of Glasgow, Aesthetic qualities will not help you gain nonfactive understanding
 Some scientific representations – theories, diagrams, pictures – aid
 understanding better than others. I argue that a representation’s
@@ -5469,7 +5448,7 @@ objectionable statues by targeting beliefs—such as adding explanatory
 plaques—will typically fail. Successful interventions must target
 perceptual experience itself.
 
-**  Metaphysics and Free Will [Edith Morley 150]
+** TODO Metaphysics and Free Will [Edith Morley 150]
 *** Robyn Waller, University of Sussex, Sourcehood compatibilism requires alternatives: New perspectives on Frankfurt cases and the Garden of Forking Paths
 Free will is often understood as the control an agent exercises over
 her actions that is required for the agent to be held morally
@@ -5543,7 +5522,7 @@ free will is exposed to the Luck objections. I conclude by addressing
 purported counterexamples to DARC, including the cases of future
 choices, group agents, and the predictions of onlookers.
 
-**  Discourse, Assertion, Memory [Edith Morley 257]
+** TODO Discourse, Assertion, Memory [Edith Morley 257]
 *** Johan Chung, King's College London, How to Stop Talking Past Each Other
 Radical disagreements about consciousness are often dismissed as cases
 in which theorists are merely talking past one another. I argue that
@@ -5908,3 +5887,24 @@ learning with near quantum chemical accuracy. Chemical science, 11(2),
 Krishnan, A., Valeri, J. A., Jin, W., Donghia, N. M., Sieben, L.,
 Luttens, A., ... & Collins, J. J. (2025). A generative deep learning
 approach to de novo antibiotic design. Cell, 188(21), 5962-5979.
+*** Fridolin Neumann, University of Warwick, What is idle talk? Heidegger, untruth, and ontological disguise
+This paper proposes a novel reading of Heidegger’s conception of /idle
+talk/ (/Gerede/) as a form of misguided ontological discourse. Against
+pragmatist readings of Heidegger that construe idle talk in terms of a
+lack of skilful familiarity with entities, I argue that idle talk is
+instead situated at the level of the ontological commitments that
+underlie and structure our experience. Idle talk arises when these
+commitments /disguise/ (/verstellen/) entities in inappropriate
+ontological terms – for instance, by treating human beings as mental
+substances, or organisms as mere physical entities. The paper proceeds
+in three steps. First, I reconstruct the pragmatist interpretation of
+idle talk and stress its inability to account for Heidegger’s claim
+that idle talk covers-over (/verdeckt/) entities. Second, I develop a
+conception of ontological disguise based on Heidegger’s account of
+semblance and untruth. Idle talk, I suggest, circulates ontological
+prejudices that have not been grounded in the entities they concern,
+and thereby contributes to a distorted understanding of them. Third, I
+foreground the systematic upshot that Heidegger both stresses the
+inevitability of ontological prejudices and expects epistemically
+responsible agents to continuously ground them in the entities to
+which they pertain.
